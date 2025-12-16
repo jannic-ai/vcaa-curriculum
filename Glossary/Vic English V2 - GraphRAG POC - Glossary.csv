@@ -1,0 +1,1636 @@
+Term,Definition,CrossReferences,ImageFiles,Subject
+Acute angle,[See: angle],angle,,Mathematics
+Addition (sum),"Addition is one of the basic operations of arithmetic and algebra and involves the combination of 2 or more quantities using the [FORMULA] operator. Simple examples could include [FORMULA] or . The inverse operation of addition is subtraction.
+
+Addition may be defined more formally depending on the context. For example:
+
+  • for natural numbers, addition may be defined in terms of counting
+
+addition of real numbers may be modelled using lengths of joined, distinct line segments on a number line
+
+for sets, if [FORMULA] represents the number of elements of a set , and sets [FORMULA] and [FORMULA] are disjoint sets (that is, they have no elements in common), then: 
+.
+
+the addition of 2 fractions is defined by using a common denominator, for example: .
+
+See also: fraction, inverse operations, number line, subtraction",fraction; inverse operations; number line; subtraction,,Mathematics
+Addition facts,Addition facts are the results associated with the sums of pairs of natural numbers from 0 to 9. They are foundational to arithmetic.,,,Mathematics
+Additive,"An additive is a situation or relationship that involves addition, subtraction or both: for example, giving change from a simple money transaction.",,,Mathematics
+Adjacent,"The term adjacent has several meanings depending on the mathematical context. For example, in a graph (network), 2 vertices (nodes) are adjacent if they are joined by an edge. In geometry, 2 lines are adjacent if they meet at a common vertex and 2 faces in a shape are said to be adjacent if they meet at a common edge. Two fractions are adjacent if the difference between these 2 fractions is a fraction with a unit numerator (a numerator of one): for example, and [FORMULA] are adjacent since [FORMULA] .
+
+See also: adjacent angle, edge, unit fraction",adjacent angle; edge; unit fraction,,Mathematics
+Adjacent angle,"Two angles at a point are called adjacent if they share a common ray and a common vertex and lie on opposite sides of the common ray. In the diagram, the angles ∠AOC and ∠BOC are adjacent.",,"adjacent_angle_1.png,adjacent_angle_2.png",Mathematics
+Algebra,"Algebra may be considered as the process of manipulating variables and constants in a mathematical expression according to fixed laws, properties or rules (for example, simplifying an expression or solving an equation). Alternatively, algebra may refer more broadly to a mathematical structure whose elements and operations satisfy a given collection of laws, and the abstract study of this structure.
+
+See also: algebraic expression, algebraic term, variable",algebraic expression; algebraic term; variable,,Mathematics
+Algebraically,"Carrying out a process symbolically using variables, constants, operations and rules is carrying it out algebraically.",,,Mathematics
+Algebraic expression,"An algebraic expression is formed by combining numbers and algebraic symbols using arithmetic operations. The expression is constructed unambiguously according to the conventions and rules of algebra. For example, [FORMULA] is an algebraic expression, while [FORMULA] is not a properly formed expression.",,,Mathematics
+Algebraic fraction,"An algebraic fraction is a fraction in which both the numerator and denominator are algebraic expressions. For example, [FORMULA]  and [FORMULA] are algebraic fractions.",,,Mathematics
+Algebraic term,"An algebraic term is a simple algebraic expression that is often combined with other terms using operations, to form a more complicated algebraic expression. For example, [FORMULA] and [FORMULA] are terms of the quadratic expression , while [FORMULA] and [FORMULA]  [FORMULA] are terms of the expression [FORMULA] .
+
+See also: algebraic expression, quadratic expression",algebraic expression; quadratic expression,,Mathematics
+Algorithm,"An algorithm is a process that can be carried out systematically, using a well-defined set of instructions, to perform a particular task or solve a type of problem. Examples of mathematical algorithms include processes for tasks such as ordering a set of numbers from smallest to largest, multiplying many-digit decimal numbers, factorising linear expressions, determining which of 2 fractions is larger, bisecting an angle, or calculating the mean of a set of numbers.",,,Mathematics
+Algorithmic thinking,"Algorithmic thinking is the type of thinking required to design, test and evaluate problem-solving processes in a systematic way, using algorithms.
+
+See also: algorithm",algorithm,,Mathematics
+Allied angle,[See: co-interior angle],co-interior angle,,Mathematics
+Alternate angle,"Consider a transversal (line) intersecting a pair of lines (which may or may not be parallel). Angles that are formed at the intersection of these lines with the transversal, within the two lines, and on opposite sides of the transversal, are called alternate angles.
+
+An example of 2 alternate angles are the angles [FORMULA] and [FORMULA] in the following diagram.
+
+If the pair of lines intersected by the transversal are parallel, then the pair of alternate angles will both be the same size. Conversely, if the 2 alternate angles are the same size, then the 2 lines that are intersected by the transversal are parallel. The angles [FORMULA] and [FORMULA] (where [FORMULA] ) in the diagram below, demonstrate this property.
+
+See also: angle, transversal, parallel",angle; transversal; parallel,,Mathematics
+Angle,"An angle is the figure formed by 2 rays sharing a common endpoint, called the vertex of the angle. An angle is typically indicated using an arc and labelled with a letter. Letters used are commonly either Roman, such as [FORMULA] or Greek, such as [FORMULA] (alpha), [FORMULA] (beta), (gamma) and [FORMULA] (theta).
+
+If the vertex point is labelled as well as a point on each of the rays, these can also be used to indicate an angle. For example, the angle AOB, with vertex O, is written ∠AOB and is shown in the diagram below:
+
+Imagine that the ray OB is rotated about the point O until it lies along OA. The amount of turning is called a measure of the angle AOB.
+
+There are 3 common measures of angle:
+
+fraction of a full turn (where one full turn or revolution is 360 degrees or 2π radian)
+
+degree
+
+radian.
+
+Angles are also classified according to their angle measure. An angle with size α is:
+
+acute if 0° < α < 90°
+
+a right angle if α = 90°
+
+obtuse if 90° < α < 180°
+
+a straight angle if α = 180°
+
+reflex if 180° < α < 360°
+
+a revolution (full rotation) if α = 360°.
+
+Possible diagrammatic representations of each type are in the table below.
+
+See also: alternate angle, complementary angles, co-interior angle, corresponding angles, degree, radian, ray, revolution, right angle, straight angle, supplementary angles, vertex",alternate angle; complementary angles; co-interior angle; corresponding angles; degree; radian; ray; revolution; right angle; straight angle; supplementary angles; vertex,"angle_1.png,angle_2.png",Mathematics
+Angle of elevation and angle of depression,"When an observer looks at an object that is higher than the horizontal, the angle between the line of sight and the horizontal is called the angle of elevation.
+
+When an observer looks at an object that is lower than the horizontal, the angle between the line of sight and the horizontal is called the angle of depression.
+
+See also: angle",angle,"angle_of_elevation_and_angle_of_depression_1.png,angle_of_elevation_and_angle_of_depression_2.png,angle_of_elevation_and_angle_of_depression_3.png,angle_of_elevation_and_angle_of_depression_4.png,angle_of_elevation_and_angle_of_depression_5.png,angle_of_elevation_and_angle_of_depression_6.png",Mathematics
+Angles at a point,The sum of the angles with vertices at a common point in the plane is equivalent to 4 right angles or 360 degrees. This spatial fact can be applied to determine the size of missing angles.,,angles_at_a_point_1.png,Mathematics
+Angles on a straight line,The sum of the angles that form a straight line is equivalent to 2 right angles or 180 degrees. This spatial fact can be applied to determine the size of missing angles.,,angles_on_a_straight_line_1.png,Mathematics
+Approximate/approximation,"To approximate, or make/use an approximation, is to obtain or state a value to a particular accuracy. For example, the fraction   provides an approximate value for the irrational real number . Rounded correct to 4 decimal places,  has the value 3.1429, while [FORMULA] has the value 3.1416. These values are themselves decimal approximations to  and [FORMULA] respectively because they have been rounded.
+
+Approximation may be used in a range of mathematical contexts. For example, in geometry, while it is not possible to trisect any angle exactly using only a compass and ruler, it is possible to approximate such a trisection with reasonable accuracy.
+
+See also: estimation",estimation,,Mathematics
+Arc,"A part of a circle’s circumference is called an arc.
+
+See also: circle",circle,,Mathematics
+Area,"The amount of interior space bounded by the perimeter of a shape. In the plane, area is the measure of ‘material’ needed to completely cover a given two-dimensional figure, shape or region. This region may be contained within a shape (such as a polygon or circle) or bound by graphs of relations in the plane.
+
+Some useful formulas for area, defined in terms of linear variables associated with a shape, include the following.",,,Mathematics
+Array,"An array is an ordered collection of objects or numbers. For example, the following is a triangular array of dots:
+
+A rectangular array of numbers is also called a matrix (plural: matrices). For example, the following matrix represents the fitness ratings on a scale of 0–100 for 3 students measured in each of 4 school terms (students would be represented by the row, their fitness score for each term would be recorded in the columns):",,array_1.png,Mathematics
+Associative,"An operation is associative if the result of applying the operation to any 3 elements of an expression is the same regardless of which pair of elements (without changing their order) is combined first.
+
+Addition and multiplication are associative on the set of natural numbers, for example:
+
+4 + (7 + 5) = 4 + 12 = 16 and (4 + 7) + 5 = 11 + 5 = 16
+
+2 × (3 × 4) = 2 × 12 = 24 and (2 × 3) × 4 = 6 × 4 = 24
+
+Subtraction and division are not associative on the set of natural numbers. For example:
+
+10 − (4 − 2) = 10 − 2 = 8 but (10 − 4) − 2 = 6 − 2 = 4
+
+24 ÷ (12 ÷ 2) = 24 ÷ 6 = 4 but (24 ÷ 12) ÷ 2 = 2 ÷ 2 = 1
+
+See also: associative laws",associative laws,,Mathematics
+Associative laws,"In general, the associative laws (properties) for addition and multiplication of real numbers state respectively that for all real numbers ,  and :
+
+and",,,Mathematics
+Assumption,"An assumption is a proposition (a statement or assertion) that is taken as being true with respect to a given context. For example, in a modelling problem to design a seating arrangement in a theatre, it may be assumed that the height of the people watching the movie is no greater than 200 cm. This is reasonable given the context.",,,Mathematics
+Asymptote,"An asymptote is a line or curve that closely approaches a given curve but does not meet it. For example, the graph below shows the 2 asymptotes [FORMULA] and [FORMULA] (in red) for the function .",,"asymptote_1.emf,asymptote_2.emf",Mathematics
+Average,[See: mean],mean,,Mathematics
+Axis (plural: axes),"An axis is a line that a curve, figure or function is drawn relative to. The plural of axis is axes. A commonly used set of axes are the 2 perpendicular Cartesian axes (normally labelled as [FORMULA] and ) that allow points and curves to be defined on the Cartesian plane.
+
+See also: Cartesian plane",Cartesian plane,,Mathematics
+Back-to-back stem-and-leaf plot,[See: stem-and-leaf plot (stemplot)],stem-and-leaf plot (stemplot),,Mathematics
+Bar chart,[See: column graph],column graph,,Mathematics
+Base,"A base is a number that is the ‘building block’ for a given number system. The choice of base determines the representation of numbers in that system. The most common bases used are binary and hexadecimal (base 2 and base 16, used for computing), octal (base 8) and decimal (base 10). An example of a decimal number is:
+
+An example of a binary number is . Converted to decimal, this would be:",,,Mathematics
+Base-10,"Base-10 is a number system that uses the digits 0–9 and the value of the digit is determined by its face value and its place value: for example, [FORMULA] and .",,,Mathematics
+Bernoulli trial,"A Bernoulli trial is a trial where there is a probability [FORMULA] of success and [FORMULA] of failure (sometimes also referred to as ) in any given trial.
+
+An example could be the probability of an even number when rolling a dice. For every trial, the probability of success . The probability of failure (.
+
+Note that the probabilities for success and failure add to 1 since .
+
+See also: probability, trial",probability; trial,,Mathematics
+Bias (statistics),"In statistics, bias is a measure being systematically moved away from the true value, leading to overestimating or underestimating that value.",,,Mathematics
+Bimodal data,"A data set is said to have a bimodal distribution if it has 2 modes. The term bimodal is also used if the graph of the distribution has 2 distinct ‘peak’ values, as shown in the histogram below:
+
+See also: mode",mode,bimodal_data_1.jpg,Mathematics
+Bivariate data,[See: data],data,,Mathematics
+Box-and-whisker plot,"A box-and-whisker plot is a graphical display of a five-number summary (the minimum value, the lower quartile Q1, the median, the upper quartile Q3 and the maximum value).
+
+In a box-and-whisker plot, the ‘box’ covers the interquartile range (IQR = Q3 – Q1), with ‘whiskers’ reaching out from each end of the box to indicate maximum and minimum values in the data set (formally, any data values a distance greater than 1.5 × IQR from the median are represented as individual data points). A vertical line in the box is used to indicate the location of the median.
+
+The box-and-whisker plot below has been constructed from the five-number summary of the resting pulse rates of 17 students.
+
+The term ‘box-and-whisker plot’ is commonly abbreviated to ‘box plot’.
+
+See also: five-number summary",five-number summary,"box_and_whisker_plot_1.png,box_and_whisker_plot_2.png,box_and_whisker_plot_3.png",Mathematics
+Box plot,[See: box-and-whisker plot],box-and-whisker plot,,Mathematics
+Branch (programming),"A branch occurs in a computer program, which leads to different instructions being followed depending on a state at that branch point (for example, true or false, a variable reaching a certain magnitude): that is, a decision is made. Examples of branching and decisions may be visualised more easily in a flow chart.
+
+See also: flow chart",flow chart,,Mathematics
+Capacity,"Capacity is a term used to describe how much a container will hold. It is often used in relation to the volume of fluids. Units of capacity (volume of fluids or gases) include litres (L) and millilitres (mL). For example, the boot capacity of a typical hatchback car would be around 390 litres.",,,Mathematics
+Cartesian coordinate system,"The position of any point in the Cartesian plane can be represented by an ordered pair of numbers . These ordered pairs are called the coordinates of the point. This is called the Cartesian coordinate system.
+
+The point with coordinates (4, 2) has been plotted on the Cartesian plane shown. The coordinates of the origin are (0, 0).
+
+The Cartesian plane is divided into 4 regions, called quadrants, by the axes and origin of the coordinate system:
+
+the point (4, 2) is in the first quadrant (top right)
+
+the point (–4, 2) is in the second quadrant (top left)
+
+the point (–4, –2) is in the third quadrant (bottom left)
+
+the point (4, –2) is in the fourth quadrant (bottom right)
+
+See also: Cartesian plane",Cartesian plane,cartesian_coordinate_system_1.png,Mathematics
+Cartesian plane,"Two intersecting number lines are taken intersecting at right angles at their origins to form the axes of the coordinate system. The plane is then divided into 4 quadrants by these perpendicular axes called the -axis (horizontal line) and the -axis (vertical line). This plane is called the Cartesian plane.
+
+See also: Cartesian coordinate system",Cartesian coordinate system,,Mathematics
+Categorical variable,"A categorical variable takes values from sets that are not numerical.
+
+For example, blood group is a categorical variable; its values are A, B, AB or O. So too is construction type of a house; its values might be brick, concrete, timber or steel.
+
+Categories may have numerical labels too: for example, for the variable postcode the category labels would be numbers such as 3787, 5623, 2016, etc., but these labels have no numerical significance. It makes no sense, for example, to use these numerical labels to calculate the average postcode in Australia.
+
+See also: numerical data",numerical data,,Mathematics
+Census,"A census collects information about the whole of a population.
+
+See also: population",population,,Mathematics
+Chance and likelihood,"The relative frequency of an event is the chance or likelihood of the event occurring. This may be expressed qualitatively using terms such as: impossible, no chance, not likely, an even chance, odds-on, likely, a certainty.
+
+Relative frequencies may also be expressed quantitatively using numbers on a scale from 0 (impossible) to 1 (certain). These numerical values are often expressed as fractions such as , ratios such as 2:3, decimals such as 0.87 or percentages such as 40%.
+
+See also: probability",probability,,Mathematics
+Chance experiment (trial),A chance experiment is an investigation process that involves planning and conducting a repeatable experiment involving chance where more than one possible outcome may occur. Experiments can be single or multi-step and results can vary across trials.,,,Mathematics
+Chord,"A chord is a line segment (interval) joining 2 points on the circumference of a circle. In the diagram below, the line segment QP is a chord.
+
+A chord is also a line segment joining 2 points on a curve:
+
+See also: circumference, diameter, line segment",circumference; diameter; line segment,"chord_1.png,chord_2.gif",Mathematics
+Circle,"A circle is the set of all points in the plane that are a fixed distance (the radius) from a given point (the centre of the circle).  Sometimes ‘circle’ is used to refer to the closed curve, as in the circumference of a circle. At other times, it is used to refer to the entire shape: that is, the region including both the boundary and its interior.
+
+A circle with centre O and radius OA of length r is shown in the following diagram.
+
+A circle can be constructed with a compass or dynamic geometry software, given the centre and radius of the circle, or 3 points that the circle passes through.
+
+See also: chord, diameter, radius",chord; diameter; radius,circle_1.png,Mathematics
+Circumference,"The circumference of a circle is also used to refer to the measure of its perimeter. If the diameter or the radius of a circle is known, then its circumference is calculated as:
+
+circumference =   diameter = 2    radius
+
+For example, using   3.14, the circumference of a backyard swimming pool with a 4-metre diameter is approximately 12.56 metres.
+
+For a rough underestimate, the value of  can be taken to be approximately 3. In this case the corresponding rough estimate for the circumference of the pool would be 3  4 = 12 metres.
+
+The circumference of a circle with unit radius is 2  6.28 units.
+
+See also: circle, perimeter",circle; perimeter,,Mathematics
+Closure,"The result of carrying out an operation on an element of a set, or elements of a set, is also an element of that set. This is called closure.
+
+For example, multiplication is closed on the set of natural numbers, because the result of multiplying any pair of natural numbers is also a natural number. Division is not closed on natural numbers, since 9 and 2 are both natural numbers but the result of dividing 9 by 2 is not a natural number. This is because , and [FORMULA] is a decimal fraction, not a natural number.",,,Mathematics
+Coding,"Coding is a process by which algorithms are represented for implementation. For computers, this is done using a coding language such as block coding, C++, JavaScript, Python or Wolfram Language.
+
+See also: implementation",implementation,,Mathematics
+Co-domain,[See: domain],domain,,Mathematics
+Coefficient,"A coefficient is a constant that multiplies variables raised to positive integer powers. For example, in the expression [FORMULA] , the variables are [FORMULA] and [FORMULA] and the coefficient is .
+
+See also: constant",constant,,Mathematics
+Co-interior angle,"Consider a transversal (line) intersecting a pair of lines (which may or may not be parallel). Angles that are formed at the intersection of these lines with the transversal, within the 2 lines, and on the same side of the transversal, are called co-interior (allied) angles.
+
+An example of 2 co-interior angles are the angles [FORMULA] and [FORMULA] shown in the following diagram:
+
+Note that the angles [FORMULA] and [FORMULA] would also be co-interior angles, but not the angles [FORMULA] and [FORMULA] because they are on different sides of the transversal. The angles [FORMULA] and [FORMULA] would, however, be alternate angles.
+
+If the pair of lines intersected by the transversal are parallel, then the sum of the angle measures of the 2 co-interior angles is 180. Conversely, if the sum of the angle measures of the two co-interior angles is 180, then the 2 lines intersected by the transversal are parallel. For example, in the diagram below, angle .
+
+See also: angle, alternate angle, parallel, transversal",angle; alternate angle; parallel; transversal,,Mathematics
+Column graph,"A column graph is a graph used in statistics for organising and displaying categorical data.
+
+To construct a column graph, equal-width rectangular bars are constructed for each category with height equal to the observed frequency of the category as shown in the example below, which displays the hair colours of 27 students.
+
+Column graphs are frequently called bar graphs or bar charts. In a bar graph or chart, the bars can be either vertical or horizontal, but are never joined (there is always a gap left between them).
+
+See also: categorical variable",categorical variable,"column_graph_1.png,column_graph_2.png",Mathematics
+Common factor,"A common factor (or common divisor) of a set of numbers or algebraic expressions is a factor of each element of that set. For example, is a common factor of {24, 54, 66} as 6 divides evenly into each of these numbers, and 3 is a common factor of [FORMULA] for the same reason.
+
+Note that [FORMULA] is a common factor of [FORMULA] because 
+ and
+
+See also: algebraic expression",algebraic expression,,Mathematics
+Commutative,"An operation is commutative if the result of applying the operation to any 2 elements of a set is the same, regardless of the order of the elements. Addition and multiplication are commutative on the set of natural numbers. For example:
+
+6 + 12 = 12 + 6 = 18 and 6 × 12 = 12 × 6 = 72
+
+However, subtraction and division are not commutative. For example:
+
+6 − 12 = − 6 but 12 − 6 = 6 and 6 ÷ 12 = [FORMULA]  but 12 ÷ 6 = 2.
+
+See also: commutative laws",commutative laws,,Mathematics
+Commutative laws,"In general, the commutative laws (properties) for addition and multiplication of real numbers state that for all real numbers [FORMULA] and , [FORMULA] and , respectively.
+
+See also: commutative",commutative,,Mathematics
+Complement (set),"The set of all elements not in a given set with respect to the universal set for a particular context or situation is the complement set.
+
+For example, if the universal set in a particular situation is taken to be the letters of the alphabet, the complement to the set of vowels is the rest of the alphabet. If the universal set in a particular situation is taken to be the set of numbers {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, then the complement to [FORMULA] = {4, 5, 6} is the set {1, 2, 3, 7, 8, 9, 10}. The complement of [FORMULA] is written as , or . So here we could write{1, 2, 3, 7, 8, 9, 10}.
+
+See also: element, set",element; set,,Mathematics
+Complementary angles,"Two adjacent angles that form a right angle are said to be complementary angles: that is, the sum of the angle measures in degrees of complementary angles is 90. An example of 2 complementary angles is shown below:
+
+See also: adjacent, angle",adjacent; angle,"complementary_angles_1.png,complementary_angles_2.png",Mathematics
+Complementary events,"Events [FORMULA] and [FORMULA] are complementary events, if [FORMULA] and [FORMULA] are mutually exclusive and 
+ where [FORMULA] is the probability of event [FORMULA] and [FORMULA] the probability of event . For example, [FORMULA] and [FORMULA] are complementary events if [FORMULA] is the probability of rolling a 3 on a dice and [FORMULA] the probability of not rolling a 3. This is because .",,,Mathematics
+Complex shapes and objects,A complex shape is a closed shape comprising a number of plane shapes. Complex objects are composed of simpler objects.,,complex_shapes_and_objects_1.png,Mathematics
+Composite number,"A non-zero natural number that has a factor other than 1 and itself is a composite number. Using sets, a non-zero natural number that has more than 2 distinct elements in its factor set is a composite number.
+
+For example, 8 is a composite number as it has 4 distinct elements in its factor set: {1, 2, 4, 8}. The number 2 is not a composite number since it has only 2 distinct elements in its factor set: {1, 2}. With the exception of 1, which has only one distinct element in its factor set: {1}, all non-zero natural numbers are either composite or prime.
+
+See also: factor, natural number, prime number",factor; natural number; prime number,,Mathematics
+Composite shape,A shape that is formed by combining other plane shapes. Composite shapes are often described as ‘complex’ when they are made up of many and different shapes.,,composite_shape_1.png,Mathematics
+Compound event,"In probability, a compound event is an event that consists of more than one event occurring at the same time: for example, tossing a coin and selecting a card.",,,Mathematics
+Compound interest,"The interest earned by investing a sum of money (the principal) is compound interest if each successive interest payment is added to the principal for the purpose of calculating the next interest payment. If the principal [FORMULA] earns compound interest at the rate of [FORMULA] per period, then after [FORMULA] periods the principal plus interest is .
+
+For example, if $2000 is deposited into a savings account () at an annual interest rate of 2% (), compounded monthly (period is months), the value of the investment after 5 years (months ) would be .
+
+See also: simple interest",simple interest,,Mathematics
+Computation,Computation is the action of a mathematical calculation. Computation may also be used in the context of computer science.,,,Mathematics
+Computational thinking,"Computational thinking is a way of thinking that helps to organise data logically by breaking down problems into parts; defining abstract concepts; and designing and using algorithms, patterns and models. This type of thinking may be considered specific to computers and involves solving problems, designing systems and implementation.
+
+See also: algorithmic thinking, implementation",algorithmic thinking; implementation,,Mathematics
+Concave (shape),[See: See polygon],See polygon,,Mathematics
+Cone,"A cone is a solid that is formed by taking a circular base and a point not in the plane of this circle (either above or below the circle) called the vertex and joining the vertex to each point on the circumference of the circular base.
+
+A right-cone, or vertical cone, is a cone with its vertex directly above the centre of the circular base. The term ‘cone’ is often used to mean a right-cone.
+
+The height of the cone is the distance from the vertex to the centre of the circular base.
+
+The slant height of a cone is the distance from any point on the circumference of the circle to the vertex.
+
+An example of a right-cone is below:
+
+A slant cone is a cone with a vertex not directly above the centre of the circular base, as shown below:
+
+A cone may be said to be open or closed depending on whether the circular end is included. For example, an ice-cream cone would be an example of an open cone.
+
+If a closed cone has radius r units, and height [FORMULA] units, then its surface area, [FORMULA] units2 is given by , and its volume [FORMULA] units3 is given by
+
+For example, if a cone has a radius of 3 cm and a height of 4 cm then the surface area , and its volume [FORMULA] units3 would be",,"cone_1.png,cone_2.png",Mathematics
+Conditional probability,"Consideration of whether the knowledge of the occurrence of one event, A, affects the probability of occurrence of another event, B.",,,Mathematics
+Conditional statement,"A conditional statement is part of an algorithm that will engage different processes depending on a specific state of inputs at that point, and is of the form ‘if a then b’ for a condition a and a process b.
+
+For example, in a function machine that outputs only even numbers, if the input number [FORMULA] is odd, then the output could be . If the input number is even, then the output could be . All input numbers will then result in an even number being output.",,,Mathematics
+Congruence,"Two-plane figures are called congruent if one can be moved by a sequence of translations, rotations and reflections so that it fits exactly on top of the other figure.
+
+Two figures are congruent when we can match every part of one figure with the corresponding part of the other figure. For example, the 2 figures below are congruent.
+
+Matching intervals have the same length, and matching angles have the same size.
+
+See also: reflection, rotation, transformation",reflection; rotation; transformation,congruence_1.png,Mathematics
+Congruent triangles,"The following are sets of conditions for a pair of triangles to be congruent:
+
+Side-Side-Side (SSS) – corresponding sides are equal in length
+
+Side-Angle-Side (SAS) – 2 corresponding sides are of equal length and their included angles are of equal measure
+
+Angle-Side-Angle (ASA) – 2 corresponding angles are of equal measure and their included sides are of equal length
+
+Angle-Angle- Side (AAS) – 2 pairs of angles are of equal measure, and a pair of corresponding non-included sides are equal in length
+
+Right angle-Hypotenuse-Side (RHS) – 2 right-angled triangles are congruent if their hypotenuses are of equal length and one of the other sides is of equal length.
+
+See also: congruence, transformation",congruence; transformation,,Mathematics
+Conjecture,"A conjecture is a statement whose truth or otherwise is not yet determined but is open to further investigation: for example, Goldbach's Conjecture: ‘every even natural number greater than 2 can be expressed as a sum of 2 prime numbers’. First stated in 1742, the Goldbach conjecture has not yet been either proven to be true or shown to be false, although many mathematicians believe that it is true.",,,Mathematics
+Connected,"Two points in the plane are said to be connected if there is a line or curve (edge) that joins them. A set of points in the plane, such as a network, is said to be connected if there are no 2 points in the set that are not connected: that is, every point can be reached from another point. A set of points that is not connected is called disconnected.
+
+Examples of a connected graph (network) and a disconnected graph respectively are shown below:
+
+See also: network",network,"connected_1.png,connected_2.png",Mathematics
+Connective,"A logical term that connects or qualifies other expressions, such as ‘and’, ‘or’, ‘not’, ‘if ... then ...’ and ‘is equivalent to’ is a connective. For example, given a set of attribute blocks, specifying the blocks that are red and square involves 2 attributes ‘red’, ‘square’ that apply to some blocks but not to others. The use of the connective and to specify ‘red’ and ‘square’ required both attributes to apply.",,,Mathematics
+Constant,"A constant is a number that has a fixed value in a given context. For example, in the calculation of  for different natural numbers , the number 11 is a constant. In formulas such as , 4 is a constant while  and  are variables.
+
+Undetermined constants are constants without known values. For example, the general linear equation [FORMULA] has 2 such constants: [FORMULA] and . Two or more points that lie on a line could be used to find the values of [FORMULA] and [FORMULA] for the equation that describes the line.
+
+See also: variables",variables,,Mathematics
+Constraint,"A condition that is applied in a given context is a constraint. For example, in solving the equation , a constraint may be that only natural number solutions are required (there are an infinite number of integer solutions).",,,Mathematics
+Continuous,"Continuous data can, in principle, assume all possible values in a given interval. For example, height is a continuous data measurement. While the actual height of a person can only be physically measured to a given accuracy, it is possible in principle for a person’s height to be any value within a typical range of heights for a human being.
+
+See also: numerical variable, variable",numerical variable; variable,,Mathematics
+Continuous numerical variable,"A continuous variable is a variable that can take any value over an interval subset of the real numbers.  Examples of continuous variables for measurement data are height, reaction time to a stimulus and systolic blood pressure.
+
+See also: numerical variable, variable",numerical variable; variable,,Mathematics
+Convex (shape),[See: See polygon],See polygon,,Mathematics
+Coordinate,"The position of any point on a plane can be represented by an ordered pair of numbers, given a specified set of axes. For example, the ordered pair () in the Cartesian plane (where the 2 axes are labelled [FORMULA] and ) is found at the point where both [FORMULA] and . This ordered pair is called the coordinates of the point. The [FORMULA] coordinate (or abscisse) is the first number [FORMULA] in this ordered pair, the [FORMULA] coordinate (or ordinate) the second number, .",,,Mathematics
+Coordinate system,"There exist many coordinate systems, depending on the coordinate axes chosen. An example of a coordinate system is the Cartesian coordinate system.
+
+See also: Cartesian coordinate system",Cartesian coordinate system,,Mathematics
+Co-prime,"Two positive integers that have no common factors other than 1 are said to be co-prime. For example, 27 and 32 are co-prime because their factor sets are {1, 3, 9, 27} and {1, 2, 4, 8, 16, 32} respectively, with the only common factor being 1.
+
+See also: factor",factor,,Mathematics
+Correspondence,"Four classes of correspondence may be considered:
+
+One-to-one correspondence: A function between 2 sets where each element in one set (domain) corresponds to exactly one element in the other set (range) and vice versa. Thus, in a ballroom dancing class, there will be a one-to-one correspondence between male and female partners during a given dance.
+
+Many-to-one correspondence: A function between 2 sets where each element in one set (domain) corresponds to exactly one element in the other set (range); however, an element in the range may be mapped onto by more than one element in the domain. For example, each student in a class has exactly one height measure (to the nearest centimetre) at a given instant (so the relation 'the height of' is a function) but it may be the case that 2 students are the same height.
+
+One-to-many correspondence: A relation between 2 sets where each element in one set (domain) corresponds to many elements in the other set (range). An example of such a correspondence could be in retail, where a shopper would have a unique customer ID but could have many purchases (given an order number). There would be many different order numbers that correspond to the same customer ID, and only one customer ID linked to each of these specific purchases. A one-to-many correspondence does not define a function. For example, a one-to-many function with 2 different -values for one -value (such as a circle) will fail the vertical line test to check if a relation is a function.
+
+Many-to-many correspondence: A relation between 2 sets where each element in one set (domain) corresponds to many elements in the other set (range), and each element in the range correspond to many elements in the domain. Examples of this type of correspondence are seen in databases. For example, business A might have many suppliers of goods, and each supplier could have many other clients (including, in this case, business A).
+
+See also: function, range, relation",function; range; relation,,Mathematics
+Corresponding angles,"Angles that are adjacent to a transversal intersecting a pair of lines, as indicated in the diagram below are said to be corresponding angles. Corresponding angles are on the same side of the traversal and both above or both below the line the transversal intersects:
+
+If the pair of lines are parallel, then corresponding angles have equal measure.
+
+Conversely, if a pair of corresponding angles have equal measure then the 2 lines the transversal intersects are parallel.
+
+See also: angle, parallel, transversal",angle; parallel; transversal,,Mathematics
+Cosine (ratio),"In any right-angled triangle, [FORMULA]  where
+
+See also: trigonometry",trigonometry,cosine_ratio_1.png,Mathematics
+Cosine rule,"In any triangle ABC as below, the cosine rule is given by: [FORMULA] .",,cosine_rule_1.png,Mathematics
+Counter-example,"A counter-example is an instance where a proposition or conjecture is false. For example, the number 6 is a counter-example to the proposition that every even number is also a multiple of 4.",,,Mathematics
+Counting,"Counting is the process of listing (enumerating) a subset of the natural numbers N = {0, 1, 2, 3 ...} in consecutive order; for example, {0, 1, 2 ...} or {11, 12, 13 ...}. The natural numbers are sometimes referred to as the counting numbers. Counting on is the process of counting from one natural number m to another natural number n where m < n, for example, counting on from 7 to 12.",,,Mathematics
+Counting number,"The counting numbers are the non-negative integers; that is, one of the numbers . Sometimes it is taken to mean only a positive integer.
+
+See also: integer",integer,,Mathematics
+Counting on,"Counting on is a strategy for addition problems with 2 numbers that involves counting on from the larger number by the second number. For example, if adding 6 and 3, a student would begin at 6 and count on 3 numbers by saying ‘7, 8, 9’, so 6 + 3 = 9. This is considered a more efficient strategy than counting the whole collection from 1.
+
+See also: counting",counting,,Mathematics
+Cross-section,"A cross-section of a solid is the intersection of the solid with a plane. The cross-section may differ for a given solid depending on the orientation in space of the slicing plane. For example, the cross-section of a sphere will be a circle (of different radius depending on the slicing plane), while the cross-section of a cube could be a square or other polygon (for example, triangle, hexagon) depending on the orientation of the slicing plane, as shown below:",,"cross_section_1.png,cross_section_2.png,cross_section_3.png",Mathematics
+Cylinder,"A cylinder is a three-dimensional object that has parallel circular discs of equal radius at the ends. Each cross-section parallel to the ends is a circle with the same radius, and the centres of these circular cross-sections lie on a straight line, called the axis of the cylinder.
+
+A cylinder may be said to be open or closed depending on whether the circular ends are included. For example, an open tube may be referred to as a cylinder, or a solid rod may also be referred to as a closed cylinder.
+
+If a closed cylinder has radius [FORMULA] units, and height [FORMULA] units, then its surface area, [FORMULA] units2 is given by [FORMULA] and its volume [FORMULA] units3 is given by
+
+See also: radius, circle",radius; circle,cylinder_1.png,Mathematics
+Data,"Data is a general term for a set of observations and measurements collected during any type of systematic investigation. More specifically:
+
+Primary data is data collected by the user.
+
+Secondary data is data collected by others. Sources of secondary data include web-based data sets, the media, books, scientific papers, etc.
+
+Univariate data is data relating to a single variable: for example, hair colour or the number of errors in a test.
+
+Bivariate data is data relating to 2 variables: for example, gender and favourite football team (bivariate categorical data), capital city and average maximum temperature by month (bivariate categorical and numerical data), or the arm span and height of a group of students (bivariate numerical data).
+
+See also: categorical data, numerical data, population, sample",categorical data; numerical data; population; sample,,Mathematics
+Data display,"A data display is a visual format for organising and summarising data. Examples include box plots, column graphs, frequency tables and stem plots.",,,Mathematics
+Data distributions,Data distributions are patterns in the values of a set of data. The representation used to show the distribution depends on the type of data and how it is measured.,,,Mathematics
+Decay,Decay is the decrease in the value of the dependent variable of a function as the value of the independent variable increases.,,,Mathematics
+Decimal,"A decimal is a number expressed using the base 10 place value system. For example, the decimal expansion of [FORMULA] is . The integer part is [FORMULA] and the fractional part is .
+
+A decimal is terminating if the fractional part has only finitely many decimal digits. It is non-terminating if it has infinitely many digits. For example, [FORMULA] is a terminating decimal, whereas , where the pattern 16 repeats indefinitely, is non-terminating.
+
+Non-terminating decimals may be recurring; that is, contain a pattern of digits that repeats indefinitely after a certain number of places. For example, , is a recurring decimal, whereas , where the number of 0’s between the 1’s increases indefinitely, is not recurring. It is common practice to indicate the repeating part of a recurring decimal by using dots or lines as superscripts. For example, , could be written as [FORMULA] or .",,,Mathematics
+Decimal number system,"The decimal number system is the base 10, place-value system most commonly used for representing real numbers. In this system, positive numbers are expressed as sequences of Arabic numerals 0 to 9, in which each successive digit to the left or right of the decimal point indicates a multiple of successive powers (respectively positive or negative) of 10.
+
+For example, the number represented by the decimal [FORMULA] is the sum:
+
+.",,,Mathematics
+Decision,"A decision is a process by which a selection or choice is made from a set of alternatives, such as halving a selected number if it is even, or doubling a selected number if it is odd.",,,Mathematics
+Degree,"A degree is the unit of measurement for measuring an angle. Angles are measured as a proportion of a full turn that is equivalent to 360 degrees, so that one degree is equal to of a full-turn. The measure of an angle α in degrees is written as α.
+
+See also: angle, right angle, straight angle",angle; right angle; straight angle,,Mathematics
+Denominator,"In the fraction , [FORMULA] is the denominator. It is the number of equal parts into which the whole is divided in order to obtain fractional parts. For example, if a line segment is divided into [FORMULA] equal parts, each of those parts is one-fifth of the whole and corresponds to the unit fraction .
+
+See also: fraction, unit fraction",fraction; unit fraction,,Mathematics
+Diagonal,A diagonal is a line segment joining 2 vertices of a polygon that do not share an edge.,,,Mathematics
+Dependent variable,[See: variable],variable,,Mathematics
+Diameter,A diameter is a chord passing through the centre of a circle. The word diameter is also used for the length of the diameter.,,,Mathematics
+Difference,"The term difference is sometimes used as a synonym for the result of the subtraction of one number or algebraic quantity from another. For example, the difference between 23 and 9 would be , and shows the difference between 2 algebraic quantities.",,,Mathematics
+Digit,"A digit is a single symbol that is used to represent a number as a numeral. In the base-10 number system there are 10 digits: 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9.",,,Mathematics
+Digital tools,"Digital tools are electronic devices, programs, websites or online resources that can be used to support the learning and doing of mathematics.",,,Mathematics
+Dilation,[See: enlargement (dilation)],enlargement (dilation),,Mathematics
+Direct comparison,"Direct comparison is comparing objects and events using a particular attribute: for example, measuring the length of 2 pencils by placing them side by side or starting 2 events at the same time to compare duration.",,,Mathematics
+Direct proportion,"Direct proportion is the relationship between corresponding values of 2 variables in a fixed ratio relative to each other; that is, for variables [FORMULA] and , ; and , where .",,,Mathematics
+Directional language,"Directional language is words that communicate position, location and movement within a space.",,,Mathematics
+Discrete data (statistics),"Discrete data is information (data) that can only take certain values. For example, the number of different coloured cars in a carpark is discrete data (there will be natural numbers of cars in each colour), but the weight of these cars would be continuous data.
+
+See also: continuous data",continuous data,,Mathematics
+Discrete numerical variable,[See: numerical variable],numerical variable,,Mathematics
+Distribution (statistics),Distribution is a method or graphical representation for organising and displaying the spread of data.,,,Mathematics
+Distributive,"An operation is said to be distributive over another operation if it can take priority over the operation used for combination within brackets (that is, its application can be distributed over the brackets). Multiplication is distributive over addition for real numbers: for example:
+
+The distributive property underpins algorithms for multiplication and division that involve natural numbers of several digits. In general, the distributive law (property) for (multiplication over addition) for real numbers states that for all real numbers , [FORMULA] and :
+
+Addition is not distributive over multiplication. For example:
+
+but",,,Mathematics
+Distributive law,[See: Distributive],Distributive,,Mathematics
+Divisible,"In general, a number or algebraic expression [FORMULA] is divisible by another [FORMULA] if there exists a number or algebraic expression [FORMULA] of a specified type for which .
+
+A non-zero natural number [FORMULA] is divisible by a natural number [FORMULA] if there is a non-zero natural number [FORMULA] such that . For example, [FORMULA] is divisible by 4 because .",,,Mathematics
+Division,"For a finite set, this is the process of partitioning the set into subsets of equal size. For natural numbers, division re-expresses a given natural number in terms of a multiple of a smaller natural number and a remainder.
+
+For example, 68 = 7 × 9 + 5, so 68 divided by 9 is equal to 7 with 5 remainder. Using rational numbers in fraction form, this is expressed exactly as:
+
+In general, for non-zero real numbers, if [FORMULA] then [FORMULA] Division of real numbers can also be modelled using lengths of line segments on a number line and similar triangles.
+
+The division of 2 fractions is defined by
+
+See also: divisible",divisible,,Mathematics
+Division facts,"Division facts are facts that draw on the inverse relationship between division and multiplication and are directly related to the multiplication facts, for example, , so [FORMULA] and .",,,Mathematics
+Domain,"A relation or function is a map between the elements of 2 sets. The set from which the mapping occurs is called the domain of the function or relation.
+
+The set onto which the elements of the domain are mapped is called the co-domain. For example, the domain of a relation (the favourite colour of) could be the students in a class, while the co-domain is a set of colours. Not all the colours may be selected as a favourite for some student in the class.
+
+The range of the relation is a subset of the co-domain, which corresponds to the set of favourite colours for that class.
+
+See also: function",function,,Mathematics
+Dot plot,"A dot plot is a graph used in statistics for organising and displaying numerical data.
+
+Using a number line, a dot plot displays a dot for each observation. Where there is more than one observation, or observations are close in value, the dots are stacked vertically. If there are a large number of observations, dots can represent more than one observation.
+
+Dot plots are ideally suited for organising and displaying discrete numerical data.
+
+The dot plot below displays the number of passengers observed in 32 cars stopped at a traffic light:
+
+Dot plots can also be used to display categorical data, with the numbers on the number line replaced by category labels.",,"dot_plot_1.png,dot_plot_2.png,dot_plot_3.png",Mathematics
+Dynamic geometric software,"Dynamic geometric software is software that supports the representation, construction and manipulation of geometric shapes and objects, and related measures and other functions in an interactive and dynamic digital environment.",,,Mathematics
+Edge,"An edge is a straight line or curve that forms the boundary of a region in the plane (such as the side of a triangle, or an edge in a network) or a boundary between 2 surfaces (such as the rim of a can or the edge of a box).",,,Mathematics
+Element,"Element is an undefined term that informally corresponds to the notion of belonging or membership of a set. For example, 3 is a member of the set of natural numbers . This relation can be written more concisely as . The symbol ‘∈’ is shorthand for ‘is an element of’. The number 1/2 is not a natural number, and this can be written as , where is shorthand for ‘is not an element of’. We write [FORMULA] to indicate that [FORMULA] is a member of the set , and [FORMULA] to indicate that [FORMULA] is not a member of the set , for example, 17
+
+See also: set, undefined term",set; undefined term,,Mathematics
+Empirical data,"Data derived from observation, measurement or experiment is called empirical data.",,,Mathematics
+Empty set,"The empty set { } is the set containing no elements and is sometimes represented by the special symbol Ø.
+
+See also: set, universal set",set; universal set,,Mathematics
+Enlargement (dilation),"An enlargement is a transformation that scales up (or down) a figure in which the corresponding lengths in the transformed figure are in proportion to the original figure. The relative positions of points are unchanged and the 2 figures are similar.
+
+In the diagram below, triangle A′B′C′ is the image of triangle ABC under the enlargement with enlargement factor 2 and centre of enlargement O.
+
+See also: similar",similar,enlargement_dilation_1.png,Mathematics
+Equal sharing,"Equal sharing means dividing a collection, shape or object into equal parts.",,,Mathematics
+Equally likely outcomes,"Equally likely outcomes occur with the same probability. For example, in tossing a fair coin, the outcome ‘head’ and the outcome ‘tail’ are equally likely. In this situation, we would express this as .",,,Mathematics
+Equation,"An equation is a mathematical expression that includes the ‘=’ symbol. Equations are used to assign a value to a pro-numeral: for example, . They may also be used to define the rule of a function: for example, , where whatever value  takes,  is 2 times  plus 3. Third, an equation may be used to specify conditions that must be satisfied by the value of a variable; for example, if , then  for this statement to be true.
+
+See also: expression",expression,,Mathematics
+Equivalence,"Two statements or propositions are understood to be equivalent if they are both true or both false. That is, the conditions that make one true make the other true as well, and the conditions that make one false make the other false as well.",,,Mathematics
+Equivalent fractions,"Two fractions [FORMULA] and [FORMULA] are equivalent if they have the same simplest (reduced) form. For example, [FORMULA] and [FORMULA] are equivalent fractions because the reduced form for both fractions is [FORMULA] : that is, [FORMULA] .
+
+Conversely, for any fraction in simplest form, an equivalent fraction is one whose numerator and denominator are both a common integer multiple of that fraction. For example, an equivalent fraction of    is  , which has a common integer multiple of 3.
+
+For each fraction expressed in simplest form, an equivalence class (or family of equivalent fractions) can be generated by successively multiplying its numerator and denominator by the natural numbers (excluding zero). For example, for the fraction , the corresponding family is: .",,,Mathematics
+Error,Error is the difference between an actual value and its measured or estimated value and is defined as:,,,Mathematics
+Estimate,"To estimate is to form an approximate value for a quantity. For example, a painter could estimate how many litres of paint would be required to paint a given room.",,,Mathematics
+Estimate (statistics),"In statistical terms, an estimate is information about a population extrapolated from a sample of the population.
+
+For example, the mean number of decayed teeth in a randomly selected group of eight-year-old children is an estimate of the mean number of decayed teeth in eight-year-old children in Australia.",,,Mathematics
+Estimation,Estimation is the skill of conceptualising and mentally manipulating numbers or measurements to find an approximate answer. The capacity to make reasonable adjustments to estimates is essential in estimating.,,,Mathematics
+Euler’s formula,"Euler’s formula is a relation between the number of faces, vertices and edges of any polyhedron. It is written , where [FORMULA] is the number of faces, [FORMULA] the number of vertices and [FORMULA] the number of edges.",,,Mathematics
+Evaluate,"To evaluate is to calculate or find a value: for example, when substituting values into a formula. Evaluating the expression when [FORMULA] gives .",,,Mathematics
+Even number,"An integer is even if it is divisible by 2. The even natural numbers are
+
+See also: integer, natural number",integer; natural number,,Mathematics
+Event,"An event is a subset of the sample space for a random experiment.
+
+For example, the set of outcomes from tossing 2 coins is { HH, HT, TH, TT }, where H represents a ‘head’ and T a ‘tail’. For example, if A is the event ‘at least one head is obtained’, then A = { HT, TH, HH }.
+
+Two events A and B are mutually exclusive if one is incompatible with the other: that is, if they cannot be simultaneous outcomes in the same chance experiment. For example, when a fair coin is tossed twice, the events ‘HH’ and ‘TT’ cannot occur at the same time and are, therefore, mutually exclusive.
+
+In a Venn diagram, as shown below, mutually exclusive events do not overlap.
+
+See also: Venn diagram, probability, sample space",Venn diagram; probability; sample space,,Mathematics
+Example,"An instance where a proposition or conjecture is true. For example, the number 6 provides an example of a number that is both even and a multiple of 3.
+
+See also: proposition, conjecture",proposition; conjecture,,Mathematics
+Expanded notation,"Expanded notation is a way of representing a number, separating each digit and representing it in an additive number sentence to show each digit’s place value, for example, .",,,Mathematics
+Expected frequencies,Expected frequencies is the number of times that a particular event or outcome is predicted to occur using theoretical probability.,,,Mathematics
+Explanatory variable (stats),[See: variable],variable,,Mathematics
+Exponent,"The exponent (index or power) of a number or algebraic expression is the power to which the latter is be raised. For example, for [FORMULA]  the index is 3. For [FORMULA]  the index is .
+
+In general, if [FORMULA] is a positive real number and [FORMULA] and [FORMULA] are positive integers then 
+.
+
+See also: exponent laws, logarithm",exponent laws; logarithm,,Mathematics
+Exponent laws,"Exponent laws are rules for manipulating exponents (indices). They include:
+
+See also: exponent",exponent,,Mathematics
+Exponential function,"An exponential function is a function comprising a constant raised to the power of the variable; that is, [FORMULA] where [FORMULA] is a constant and [FORMULA] the variable, for example, .",,,Mathematics
+Expression,"An expression is two or more numbers or variables connected by operations. For example, , , [FORMULA] are all expressions. Expressions do not include an equal sign.",,,Mathematics
+Extrapolation,"Extrapolation is working beyond known data to make predictions: for example, working past the last known point on a graph to predict a value beyond this point.",,,Mathematics
+Face/s,"A face is a bounded surface: a bounded region in a network, or on a three-dimensional shape or object.
+
+See also: adjacent, polyhedron",adjacent; polyhedron,,Mathematics
+Factor,"A factor (number) is a natural number that divides exactly into another given natural number. For example, 2 is a factor of 12, since . More generally, a factor (algebraic) of a given algebraic expression is a number or algebraic term that divides exactly into the given expression. For example, the factors of the linear expression [FORMULA] are 3 and [FORMULA] since . Similarly, [FORMULA]  and [FORMULA] are factors of [FORMULA] since .
+
+The set of all factors of a given number is called its factor set. The factor set of 12 is {1, 2, 3, 4, 6, 12}. The elements of a factor set are often grouped in pairs. Thus, the set of factor pairs of 12 is {{1, 12}, {2, 6}, {3, 4}, {4, 3}, {6, 2}, {12, 1}}.
+
+A prime factor of a natural number [FORMULA] is a factor of [FORMULA] that is a prime number, for example, the prime factors of [FORMULA] are {2, 3, 5, 11}. Prime factors can be found using a factor tree.
+
+See also: divisible, factor tree",divisible; factor tree,,Mathematics
+Factor tree,"A factor tree breaks down a number into its prime factors. An example of a possible factor tree for the number 18 is shown below (prime factors occur at the end of each branch):
+
+It can be seen from the factor tree that the prime factorisation of .
+
+See also: factor",factor,,Mathematics
+Factor set,[See: factor],factor,,Mathematics
+Factorial,"factorial (written [FORMULA] is the number formed by the product of a given natural number with all the natural numbers less than it. For example, to find the value for 4 factorial we have 
+4! = 4 × 3 × 2 × 1 = 24. In general, for [FORMULA] factorial:",,,Mathematics
+Factorise,"To factorise a number or algebraic expression is to express it as a product of simpler terms.
+
+For example, , [FORMULA] and .",,,Mathematics
+Finite,"The set {a , b , c , d , e} is an example of a finite set. The set of all people alive on a given day is a very large but finite set. The cardinal number of a finite set is a natural number; that is, the elements of any finite set can be put in a one-to-one correspondence with the elements of a set of the form {0, 1, 2, 3, ... , n } where n is a natural number.",,,Mathematics
+Five-number summary,"A five-number-summary is a method for summarising a data set using 5 statistics: the minimum value, the lower quartile , the median , the upper quartile [FORMULA] and the maximum value.
+
+For example, for the set of data {2, 3, 4, 5, 6, 10, 12}, we have: median = 5, , , maximum = 12 and minimum = 2.
+
+See also: box-and-whisker plot, interquartile range, range",box-and-whisker plot; interquartile range; range,,Mathematics
+Flow chart,A flow chart is a diagram that shows a sequence of steps (may be used to represent an algorithm). The flow chart below shows a process of classifying numbers as even or odd:,,,Mathematics
+Formal unit,"A unit whose value is fixed by agreement is a formal unit. For example, the litre is a formal unit of capacity for fluids, and the hour is a formal unit of time.",,,Mathematics
+Fraction,"A fraction is a number of the form [FORMULA]  where [FORMULA] is an integer and [FORMULA] is a non-zero integer. [FORMULA] If [FORMULA] and [FORMULA] are both positive integers, a fraction can be modelled by dividing a unit length into [FORMULA] equal parts and collecting [FORMULA] multiples of these parts. For example, [FORMULA]  refers to 3 of 5 equal parts of the whole, taken together.
+
+For the fraction [FORMULA]  is called the numerator and [FORMULA] is called the denominator. The horizontal line separating the numerator from the denominator is called the vinculum. [FORMULA] Sometimes a fraction is written on a single line as / in which case the diagonal line is referred to as a solidus.
+
+A fraction [FORMULA] is said to be a proper fraction if [FORMULA] and an improper fraction otherwise. For example, [FORMULA] is a proper fraction while [FORMULA] is an improper fraction.
+
+A fraction is said to be expressed in simplest form if its numerator and denominator have no common factor other than 1. For example, [FORMULA] is expressed in simplest form (because the highest common factor of 3 and 5 is 1), but [FORMULA]  is not in simplest form, since 3 is a common factor of both 6 and 12, as is 6 (the hcf). [FORMULA]  would be expressed in simplest form as [FORMULA] .
+
+The rules for the algebraic combination of fractions are given by
+
+See also: highest common factor (hcf), rational number",highest common factor (hcf); rational number,,Mathematics
+Frequency,"Frequency, or observed frequency, is the number of times that a particular value occurs in a data set. For grouped data, it is the number of observations that lie in that group or class interval.
+
+Relative frequency is given by the ratio [FORMULA] , where [FORMULA] is the frequency of occurrence of a particular data value or group of data values in a data set and [FORMULA] is the number of data values in the data set.
+
+An expected frequency is the number of times that a particular event is expected to occur when a chance experiment is repeated a number of times. If the experiment is repeated [FORMULA] times, and on each of those times the probability that the event occurs is , then the expected frequency of the event is . For example, suppose that a fair coin is tossed 5 times and the number of heads showing recorded. Then the expected frequency of ‘heads’ is 5/2 since . This example shows that the expected frequency is not necessarily an observed frequency, which in this case is one of the numbers 0, 1, 2, 3, 4 or 5.
+
+See also: frequency distribution, frequency table",frequency distribution; frequency table,,Mathematics
+Frequency distribution,"A frequency distribution is the division of a set of observations into a number of classes, together with a listing of the number of observations (the frequency) in that class.
+
+Frequency distributions can be displayed in tabular or graphical form.",,,Mathematics
+Frequency table,"A frequency table lists the frequency (number of occurrences) of observations in different ranges, called class intervals. The frequency distribution of the heights (in cm) of a sample of 42 people is displayed in the frequency table below:
+
+Notice that the class intervals do not overlap (so the number 160, for example, is only counted in one class, not 2). The data in this frequency table could be represented by a histogram.
+
+A two-way frequency table is commonly used for displaying the two-way frequency distribution that arises when a group of individuals or things are categorised according to 2 criteria.
+
+For example, the two-way table below displays the two-way frequency distribution that arises when 27 children are categorised according to hair type (straight or curly) and hair colour (red, brown, blonde, black) could be below (also recording gender):
+
+We can see, for example, that there are 2 students with red hair (1 straight and 1 curly) and 12 students with brown hair (8 straight and 4 curly).
+
+The information in a two-way frequency table can also be displayed graphically using a side-by-side column graph.
+
+See also: histogram, side-by-side column graph",histogram; side-by-side column graph,,Mathematics
+Function,"A function is a correspondence (map or relation) between the elements of 2 sets where each element in the first set is mapped to exactly one corresponding element in the second set. A function is either a one-to-one correspondence or a many-to-one correspondence.
+
+The functions most commonly encountered in elementary mathematics are real functions of real variables. For such functions, the domain and co-domain are sets of real numbers.
+
+Functions are usually defined by a formula for [FORMULA] in terms of . For example, the formula , defines the ‘squaring function’ that maps each real number [FORMULA] to its square .
+
+Functions, broadly speaking, have 2 types of variables:
+
+dependent variable: The variable associated with the range of a relation. For a function  with rule ,  is the dependent variable.
+
+independent variable: The variable associated with the domain of a relation. For a function  with rule ,  is the independent variable.
+
+See also: correspondence, domain, range, variable",correspondence; domain; range; variable,,Mathematics
+Function machine,"A function machine is an algorithmic process that takes an input, applies an operation (or operations) and results in an output. A simple diagrammatical representation is below:
+
+For example, a function machine and an accompanying table of values could be:
+
+This could be represented by the rule [FORMULA] where [FORMULA] is the input and [FORMULA] the output.
+
+See also: function, inverse machine",function; inverse machine,function_machine_1.png,Mathematics
+Geometric patterns,Geometric patterns are patterns formed by a series of shapes. They may be repeating or growing patterns that change in predicted ways that can be generalised. Tessellations are geometric patterns formed by transforming shapes.,,,Mathematics
+"Golden ratio (phi, )","Consider 2 quantities [FORMULA] and , where . The golden ratio (represented by the Greek letter phi [FORMULA] ) is the irrational number whose value is given by the proportion when the ratio of the 2 quantities [FORMULA] is the same as the ratio of their sum to the larger of the 2 quantities: 
+that is,
+
+This can be shown geometrically in the figure below. The golden ratio is given by the proportion
+AC : AB = AB : BC where A and C are the endpoints of a line segment and B is the point on the line segment between A and C such that AC : AB = AB : BC.
+
+It is called the golden ratio as it is believed to represent a proportion of lengths that is aesthetically attractive to the human eye in art and design contexts. It also appears in some patterns in nature. The exact value of [FORMULA] is   [FORMULA] = [FORMULA]  and its approximate value is 1.618 correct to 3 decimal places.
+
+The decimal expansion for   to 100 significant figures is:
+
+1.618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137.
+
+The digits in this decimal expansion do not display any recurring pattern, a property that distinguishes irrational numbers from rational numbers.
+
+See also: irrational number",irrational number,,Mathematics
+Gradient,"If [FORMULA] and points [FORMULA] are points in the plane where [FORMULA] – [FORMULA] ≠ 0, the gradient of the line segment (interval) AB is given by
+
+AB = [FORMULA] =
+
+This is illustrated in the diagram below:
+
+The gradient of a line is the gradient of any line segment that the line contains.
+
+See also: line, line segment",line; line segment,gradient_1.png,Mathematics
+Graph,"A graph is a visual representation of data or functions. Cartesian graphs of functions and relations are plots of ordered pairs of values () that represent the function, or relation, relative to the [FORMULA] and coordinate axes and the fixed origin (0, 0). Statistical graphs include dot plots, box and whisker plots, bar graphs and histograms.
+
+See also: Cartesian coordinate system",Cartesian coordinate system,,Mathematics
+Greatest common divisor (gcd),[See: highest common factor (hcf)],highest common factor (hcf),,Mathematics
+Greatest common factor (gcf),[See: highest common factor (hcf)],highest common factor (hcf),,Mathematics
+Grid coordinate system,The grid coordinate system is a system for referencing location within a space using labelled horizontal and vertical grid lines. Locations are defined using a set of coordinates that indicate points in the plane where 2 grid lines meet.,,grid_coordinate_system_1.png,Mathematics
+Grid reference,"Most commonly used to refer to the alpha-numeric coordinates used to locate a position on a grid or map. In the grid below, Tarneit is found at grid reference B4.",,grid_reference_1.png,Mathematics
+Grouping,"Grouping is a process of partitioning a set into subsets according to a given criterion: for example, a class of students according to eye colour. Equal grouping means each subset has the same number of elements.",,,Mathematics
+Growing pattern,"A growing pattern is a pattern where each term is either an increase or a decrease on the previous term. Change from term to term is predictable if the pattern is growing additively, multiplicatively or exponentially.",,,Mathematics
+Growth,"Growth is a measure of the increase in value of the dependent variable of a function as the value of the independent variable increases: for example, the length of a spring when weights are added.",,,Mathematics
+Guided statistical investigation,"A guided statistical investigation is a teacher-led, scaffolded approach to the statistical investigation process including collecting, representing and analysing data, interpreting and communicating results.",,,Mathematics
+Heuristic,"The word heuristic comes from the Greek verb meaning ‘to discover’. In mathematics, a heuristic technique (often shorted to heuristic) refers to any of a number of different ways to go about solving a problem, learning and discovering. Heuristics can refer to the study or practice of these methods.",,,Mathematics
+Highest common factor (hcf),"Also called the greatest common divisor (gcd) or greatest common factor (gcf), the highest common factor (hcf) of a given set of natural numbers is the common divisor of the set that is greater than each of the other common divisors. For example, since [FORMULA] and [FORMULA] are the common factors of 24, 54 and 66, this means that 6 is the highest common factor.
+
+Any fraction can be expressed in simplest terms by dividing its numerator and denominator by their highest common factor.
+
+See also: fraction",fraction,,Mathematics
+Histogram,"A histogram is a statistical graph for displaying the frequency distribution of continuous data. It is also a graphical representation of the information contained in a frequency table.
+
+In a histogram, class frequencies are represented by the areas of rectangles centred on each class interval. The class frequency is proportional to the rectangle’s height when the class intervals are all of equal width.
+
+The histogram below displays the frequency distribution of the heights (in cm) of a sample of 42 people with class intervals of width 5 cm.
+
+See also: frequency",frequency,"histogram_1.png,histogram_2.png,histogram_3.png",Mathematics
+Hyperbola (rectangular hyperbola),"A hyperbola is the non-connected intersection of a double cone and a plane. The rectangular hyperbola has perpendicular axes (or asymptotes).
+
+The function [FORMULA]  is an example of a rectangular hyperbola, as shown below:
+
+See also: asymptote",asymptote,"hyperbola_rectangular_hyperbola_1.emf,hyperbola_rectangular_hyperbola_2.emf",Mathematics
+Hypotenuse,"The hypotenuse is the longest side of a triangle in a right-angled triangle (opposite the right angle as shown).
+
+See also: trigonometry",trigonometry,hypotenuse_1.png,Mathematics
+Identity,"An identity is an equation that is true for all values of the variables involved over their natural domain: for example, [FORMULA] for all real numbers [FORMULA] and .",,,Mathematics
+Identity (element),"An element of a set that, when combined (using a given operation) with any other element of the set, leaves that element unchanged is an identity.
+
+For example, 0 is the identity element for addition of natural numbers, since for any natural number  it is the case that   and .
+
+Similarly, 1 is the identity element for multiplication of natural numbers, since for any natural number  it is the case that  and .
+
+See also: addition, multiplication, zero",addition; multiplication; zero,,Mathematics
+Image (geometry),"In geometry, the image is a result of a transformation.
+
+See also: transformation",transformation,,Mathematics
+Implication,An implication is a statement of the form if ... then ... An implication is understood to be true unless the first part of the statement is true but the second part of the statement is false.,,,Mathematics
+Implementation,Implementation is the process of translating an algorithm into a coding language.,,,Mathematics
+Improper fraction,"An improper fraction is a fraction where the numerator is greater than or equal to the denominator: for example, [FORMULA] is an improper fraction, where as [FORMULA] is a proper fraction.",,,Mathematics
+Inclusion (subset),"A set A is a subset of another set B if all the elements of A are also elements of B. For example, if A = {vowels} and B = {letters of the alphabet} then A is a (proper) subset of B, written symbolically as A ⊂ B. In the case where A is required to be a subset of B, but may include all  the elements of B then this is represented symbolically by A ⊆ B.",,,Mathematics
+Independent event,"Two events are independent if knowing the outcome of one event tells us nothing about the outcome of the other event. We can express this, for example, as . This means that the probability of A given B is equal to the probability of A, that is, event B has no bearing on the probability of event A occurring.
+
+See also: probability",probability,,Mathematics
+Index,"[See: exponent, exponent laws, logarithm]",exponent; exponent laws; logarithm,,Mathematics
+Index laws,[See: exponent],exponent,,Mathematics
+Indices,[See: Plural. See: exponent],Plural. See: exponent,,Mathematics
+Inequality,"An inequality is a mathematical expression containing the terms ‘less than’, ‘less than or equal to’, ‘greater than’, or ‘greater than or equal to’ their respective symbolic representations ‘<’, ‘≤’, ‘>’ and ‘≥’. For example, ‘the set of prime numbers less than or equal to 29’, is an inequality, as is the expression  where  and  are real numbers.
+
+Inequalities can also be represented on a number line where closed dots represent numbers included in an interval and open dots numbers not included. For example, the inequality 
+ could be represented on a number line as:
+
+See also: number line",number line,"inequality_1.png,inequality_2.png",Mathematics
+Inference,"An inference is an assertion made on the basis of analysis from given data or propositions; for example, on the basis of the weather patterns observed over several years, a farmer might infer that it is likely to be a hot summer.
+
+See also: data, proposition",data; proposition,,Mathematics
+Infinite,"The set of natural numbers N = {0, 1, 2, 3 ...} is an example of an infinite set. There are many examples of infinite sets, the set of all prime numbers is an infinite set (there is no largest prime number).
+
+The set of natural numbers, N, is an example of an infinite set that has a smallest element, 0, but no largest element. The set of integers Z = {... −3, −2, −1, 0, 1, 2, 3 ...} is an example of an infinite set that has no smallest or largest element.
+
+The set {0.9, 0.99, 0.999, 0.9999, ... , 1} is an example of an infinite set that has both a smallest element, 0.9, and a largest element, 1.
+
+It is not possible for the elements of any infinite set to be put in a one-to-one correspondence with the elements of a set of the form {0, 1, 2, 3, ... ,  } where  is a natural number.
+
+See also: correspondence, natural numbers",correspondence; natural numbers,,Mathematics
+Informal unit,"An informal unit is one where the value is decided on in a given context: for example, the use of a pace to measure distance or the use of a cupped hand to measure capacity of rice for a meal (irregular informal units). An informal unit may also be regular, such as the use of paperclips to measure length or a drinking glass to measure a small amount of a substance (capacity). Informal units are not part of a standardised system of units for measurement.",,,Mathematics
+Integer,An integer is an element of the infinite set of numbers .,,,Mathematics
+Intercept (graphs),"The point at which a curve or function crosses an axis or other curve in the plane is an intercept. Specifically,
+
+the [FORMULA] -intercept is the point at which a curve crosses the -axis (), and
+
+the [FORMULA] -intercept is the point at which a curve crosses the -axis ().
+
+See also: x-axis, y-axis",x-axis; y-axis,,Mathematics
+Interior angle,"For polygons, angles formed by 2 adjacent side within the polygon are interior angles.
+
+Interior angles are also the 4 angles formed when a transversal cuts through 2 straight lines. The angles formed at the intersection of the transversal and the 2 lines, and located between the 2 lines, are the interior angles.
+
+See also: polygon, transversal",polygon; transversal,,Mathematics
+Interpolation,"Interpolation is working within known data to make predictions between these data values: for example, working between 2 known points on a graph to predict a value in between these points.",,,Mathematics
+Interquartile range (IQR),"The interquartile range (IQR) is a measure of the spread within a numerical data set. It is equal to the upper quartile (Q3) minus the lower quartile (Q1): that is, IQR = Q3 – Q1.
+
+The IQR is the width of an interval that contains the middle 50% (approximately) of the data values. To be exactly 50%, the sample size must be a multiple of 4.
+
+See also: five-number summary, numerical data",five-number summary; numerical data,,Mathematics
+Intersection (set),"Given 2 sets A and B, their intersection, written A ∩ B, is the set of all elements common to both sets. If A and B have no elements in common, their intersection is the empty set { }. For example, if A = { a , b , d , z } and B = { a , c , x , y , z } then A ∩ B = { a , z }; however, if C = { m , n } then A ∩ C = { }.",,,Mathematics
+Interval (in R),"An interval is a continuous subset of the real number line: for example ‘the set of all real numbers greater than or equal to 10’ that can also be written as [FORMULA] or simply as [FORMULA] when it is assumed that [FORMULA] is a real number. Alternatively, the interval notation [10, ) can be used.
+
+Similarly, the interval between –1.5 and 2.3 not inclusive of these 2 values can be specified as [FORMULA] or simply as [FORMULA] when it is assumed that [FORMULA] is a real number. The corresponding interval notation is (–1.5, 2.3).",,,Mathematics
+Invariance,"Invariance is the property of not changing under a process such as transformation: for example, the points on a mirror line are invariant under the transformation of reflection in that mirror line. If a person touches a mirror with their finger, then the point of contact will be invariant under reflection in the mirror; all other points on their image will have left- and right-hand senses reversed.
+
+See also: transformation",transformation,,Mathematics
+Inverse,"For each element of a set, its inverse with respect to a given operation defined on the set is the element in the set that, when they are combined using the operation, results in the identity element. For example, the inverse of the integer + 4 with respect to the operation of addition is the integer −4 since + 4 + (−4) = 0 and −4 + (+ 4) = 0 (with zero being the additive identity). The inverse of the rational number   with respect to the operation of multiplication is the rational number   since  (where 1 is the multiplicative identity).
+
+See also: identity, inverse machine",identity; inverse machine,,Mathematics
+Inverse machine,"An inverse machine is a function machine that applies inverse operations to an input when compared to the original function machine.
+
+For example, for a function machine that takes an input and multiplies it by 2 for the output, the inverse machine would take an input and divide by 2 for the output. This could be represented by the diagram below:
+
+See also: function machine, inverse",function machine; inverse,,Mathematics
+Inverse operation,"An inverse operation is an operation in arithmetic that undoes the effect of another operation. Multiplication and division are inverse operations, as are addition and subtraction.",,,Mathematics
+Investigation,An investigation is an exploration of a situation or context.,,,Mathematics
+Irrational number,"A number that cannot be expressed as a fraction in the form , where  and  are integers and  is non-zero, is an irrational number. The decimal form of such numbers does not terminate, and is non-recurring, that is, there is no finite sequence of digits that repeats itself.
+
+For example,  is part of the decimal expansion of an irrational real number. Numbers such as [FORMULA] , the golden ratio , and  are examples of irrational numbers.
+
+See also: decimal",decimal,,Mathematics
+Irregular polygon,"A polygon with not all sides or angles equal is an irregular polygon.
+
+See also: angle, polygon",angle; polygon,,Mathematics
+Irregular object,An object that has faces of varying shapes is an irregular object. Contrast with a regular object such as a cube.,,irregular_object_1.png,Mathematics
+Irregular shape,A shape with sides of varying lengths is an irregular shape. Contrast with a regular shape such as a rhombus or equilateral triangle.,,irregular_shape_1.png,Mathematics
+Isometry,[See: transformation],transformation,,Mathematics
+Iteration,"The repetition of a process a specified number of times, or until a condition is satisfied, is the process of iteration. This may be achieved by using loops, for example. An example of iteration could be subtracting 4 from 27 6 times, or subtracting 4 from 27 until the result is less than 4. For the second example, a flow chart could illustrate this:
+
+See also: flow chart",flow chart,iteration_1.png,Mathematics
+Karnaugh map,"A Karnaugh map is a diagram consisting of a small number of non-overlapping (mutually exclusive) rectangles used to indicate the relationship between elements of a set and given properties or attributes. When 2 properties or attributes are involved, the corresponding Karnaugh map is also called a two-way table.
+
+Suppose a set of attribute blocks has several shapes (squares, circles, triangles and hexagons) of various colours (red, blue, yellow), size (small, large) and thickness (thin, thick).  If we consider the properties red (colour) and square (shape), then any of the blocks from the set will satisfy exactly one of the following 4 combinations of these 2 properties: it is red and square; it is red and not square; it is not red and square; it is not red and not square. This can be represented diagrammatically using a Karnaugh map, where each attribute block is place in exactly one of the 4 regions as shown below:
+
+Note that the properties of size and thickness are not represented in this diagram. Each of the shapes shown could be small or large, thick or thin. If, for example, a third property such as thickness (thin, thick) were to be considered then the previous Karnaugh map could be modified to have 8 regions as follows:",,"karnaugh_map_1.gif,karnaugh_map_2.gif",Mathematics
+Kite,"A kite is a quadrilateral with 2 pairs of adjacent sides equal.
+
+A kite may be convex (as shown in the diagram above left) or non-convex (as shown above right). The axis of each kite is shown.
+
+See also: adjacent, axis, polygon, reflection",adjacent; axis; polygon; reflection,kite_1.png,Mathematics
+Line,"A line is a basic or undefined geometric object that is taken as a given. Intuitively, lines model what is perceived visually as straight. Lines have one dimension and extend indefinitely in the plane. They have the relation to points that any 2 distinct points lie on a unique line that is said to pass through and contain the 2 points. A ruler or straight edge is used to draw part of a line.
+
+See also: line segment, undefined term",line segment; undefined term,,Mathematics
+Line graphs,Line graphs are graphs that represent the changing relationship between 2 variables. They use lines to connect individual data points and are generally used to show how something changes over time.,,line_graphs_1.png,Mathematics
+Line segment,"If A and B are 2 points on a line, the part of the line between and including A and B is called a line segment or interval. The distance AB is a measure of the size or length of AB.
+
+Any point A on a line divides the line into 2 pieces called rays. The ray AP is that ray that contains the point P (and the point A). The point A is called the vertex of the ray and it lies on the ray.
+
+See also: line, ray",line; ray,"line_segment_1.png,line_segment_2.png",Mathematics
+Line symmetry,"Line symmetry is a type of symmetry where if you were to fold the shape about this line it would map onto itself exactly, forming a mirror image.",,line_symmetry_1.png,Mathematics
+Linear equation,"A linear equation is an equation involving just linear terms, that is, polynomials of degree 1. The general form of a linear equation in one variable is : for example,
+
+See also: equation, variable",equation; variable,,Mathematics
+Linear expression,"A linear expression is an expression involving only variables to the power 1, and constants: for example, , [FORMULA] .",,,Mathematics
+Linear inequalities,Linear inequalities are inequalities that involve linear expressions and contain one of the inequality signs: either [FORMULA] or .,,,Mathematics
+Location,Location is a description of position with respect to some fixed reference.,,,Mathematics
+Location (statistics),"In statistics, a measure of location is a single number that can be used to indicate a central or ‘typical value’ within a set of data. The most commonly used measures of location are the mean and the median, although the mode is also sometimes used for this purpose.",,,Mathematics
+Logarithm,"The logarithm of a positive number [FORMULA] is the power to which a given number , called the base, must be raised in order to produce the number . The logarithm of , to the base [FORMULA] is denoted by . Algebraically: .
+
+For example, [FORMULA] because , and [FORMULA] because .",,,Mathematics
+Logarithmic scales,Logarithmic scales are scales where successive endpoint values of intervals increase by a constant factor (multiplicatively). Contrast with linear scales in which the increase is a constant amount.,,logarithmic_scales_1.png,Mathematics
+Logic,Logic is reasoning where one proposition is deduced from other propositions according to the given rules of inference.,,,Mathematics
+Lowest common multiple (lcm),"Given any 2 natural numbers, their lowest common multiple is the smallest natural number that they both divide exactly. This is not necessarily their product. For example, the lcm of 6 and 9 is 18, since 3 × 6 = 18 and 2 × 9 = 18, but 6 × 9 = 54. The lcm of 2 numbers may be found by listing the multiples of both numbers and finding the first common multiple. For example, the first 4 multiples of 6 are: 6, 12, 18 and 24, while the first 4 multiples of 9 are: 9, 18, 27 and 36. The first (lowest) multiple in common is 18.
+
+The lcm is used, for example, in the operation of addition and subtraction of fractions and to identify equivalent fractions with the same denominator.
+
+See also: natural number",natural number,,Mathematics
+Magnitude,"Magnitude is the size or absolute value of a number: for example, both +5 and –5 have magnitude 5. The magnitude of certain numbers can only be approximated to a given accuracy, for example the magnitude of the number π, correct to 2 decimal places, is 3.14.",,,Mathematics
+Many-to-one correspondence,[See: correspondence],correspondence,,Mathematics
+Mass,"The mass of an object measures how much matter the object contains. The SI unit for mass is the kilogram (kg). Mass does not change with a change in gravitational acceleration, as weight does. An object will have the same mass on Earth as on the Moon where the gravitational acceleration is much less.
+
+See also: weight",weight,,Mathematics
+Mathematical modelling,"Mathematical modelling is a mathematical process involving the identification of a real-world problem, formulating and finding a solution to the problem mathematically using knowledge and understanding of mathematical concepts, structures and relationships, interpreting and communicating the mathematical solution(s) in terms of the situation. As students mathematical modelling skills become more sophisticated, they begin to consider assumptions, choose variables, justify decisions and evaluate the effectiveness of the model.",,,Mathematics
+Mean,"Also called the average. The sum of values in a data set divided by the total number of values in the data set. For example, if a data set consists of the values [FORMULA] then the mean [FORMULA] is defined as:
+
+For example, for the following list of 5 numbers { 2, 3, 3, 6, 8 } the mean equals .
+
+See also: median",median,,Mathematics
+Measure,"A measure is a record of the magnitude of an attribute (such as weight, length, time, and likelihood) associated with an object or event.
+
+See also: magnitude",magnitude,,Mathematics
+Measure of centre (central tendency),"Measure of centre is a statistic that is used to represent a data set. There are 3 common measure of centre for a data set: mode (the most common value), median (the middle value) and the mean (the sum of all the values divided by the number of values).
+
+See also: mean, median, mode",mean; median; mode,,Mathematics
+Measure of turn,Measure of turn is measurement of rotation from an initial starting position. A turn can be a fraction of a circle (quarter turn) or complete rotation (revolution). It can be directional (clockwise or anti-clockwise).,,,Mathematics
+Median,"The median is the value in a set of ordered data that divides the data into 2 equal parts. It is frequently called the ‘middle value’. Where the number of observations is odd, the median is simply the middle value. For an even set of elements, the mode is taken to be the average of the 2 middle values. For example, the median of the numbers 1, 3, 4, 5, 7 is 4, while the median for 1, 3, 4, 5 is the average of the 2 middle values, that is (3 + 4) ÷ 2 = 3.5.
+
+The median provides a measure of location of a data set that is suitable for both symmetric and skewed distributions and is also less sensitive to outliers than the mean.
+
+See also: mean, outlier, skewness",mean; outlier; skewness,,Mathematics
+Mensuration formulas,"Mensuration formulas define the measure of one quantity as a function of other quantities using an algebraic formula. For example, the area, , of a circle radius, , is defined by the mensuration formula  and the average speed, , of a moving object that travels a distance  in time  is defined by the formula  .
+
+See also: For selected specific formulas, see: volume, area",For selected specific formulas; see: volume; area,,Mathematics
+Midpoint,"The midpoint M of a line segment (interval) AB is the point that divides the segment into 2 equal parts.
+
+Let A(x1, y1) be points in the Cartesian plane. Then the midpoint M of line segment AB has coordinates . This can be seen from the congruent triangles below.",,midpoint_1.png,Mathematics
+Mixed numeral,"A mixed numeral is a form of representation of a rational number (also called a mixed fraction or mixed number) composed of an integer and a proper fraction, i.e. a fraction with a smaller numerator than denominator: for example, .",,,Mathematics
+Mode,"The mode is the most frequently occurring value in a set of data. There can be more than one mode. When there are 2 modes, the data set is said to be bimodal. The mode is sometimes used as a measure of location.
+
+See also: bimodal, multimodal",bimodal; multimodal,,Mathematics
+Modelling,"Modelling is using mathematical concepts, structures and relationships to describe and characterise, or model, a situation in a way that captures its essential features.",,,Mathematics
+Multimodal data,"Multimodal data is data with a distribution that has more than one mode.
+
+See also: mode",mode,,Mathematics
+Multiple,"A multiple of a number is the product of that number and an integer. A multiple of a real number [FORMULA] is any number that is a product of [FORMULA] and an integer. For example, [FORMULA] and -10.5 are multiples of [FORMULA] because [FORMULA] and .",,,Mathematics
+Multiplication,"For positive natural numbers, the multiplication of [FORMULA] and [FORMULA] may be considered adding a number [FORMULA] to itself [FORMULA] times, or the number [FORMULA] to itself [FORMULA] times (since multiplication is a commutative operation).
+
+The multiplicative operator in algebra is the symbol , called the multiplication sign. The multiplication [FORMULA] may also be represented [FORMULA] or . The result of the multiplication [FORMULA] is called the product, while the numbers [FORMULA] and [FORMULA] are factors of this product. Multiplication is also both an associative and distributive operation.
+
+Multiplication can also be defined in other mathematical contexts: for example with matrices, but the precise definition for the action of the multiplication operator will vary.
+
+See also: associative, commutative, distributive, multiples, multiplicative situations",associative; commutative; distributive; multiples; multiplicative situations,,Mathematics
+Multiplication facts,"Multiplication facts are the results associated with the products of pairs of natural numbers from 0 to 9, associated with reasons. They are foundational to arithmetic.",,,Mathematics
+Multiplicative situations,"Multiplicative situations are problems or contexts that involve multiplication (or division). Calculating the number of seats in a theatre that has 30 rows of 24 seats, finding equivalent fractions, and working with ratios and percentages, are all multiplicative situations.",,,Mathematics
+Natural number,"A natural number is an element of the infinite set of numbers N = {0, 1, 2, 3 ...}. Natural numbers are sometimes also referred to as counting numbers. An even natural number is an element of the set {0, 2, 4, 6 ...}. An odd natural number is an element of the set {1, 3, 5, 7 ...}.
+
+In some references, the number 0 is not included in the set of natural numbers; however, it is useful to include 0 to correspond to the number of elements in an empty set, or a count of none.
+
+See also: even number, number, odd number",even number; number; odd number,,Mathematics
+Negative number,"A real number [FORMULA] is a negative number if . The set of negative integers, and is sometimes referred to as ‘the negative counting numbers’.
+
+Negative numbers may be rational or irrational. For example, the number [FORMULA] is a negative real number that is also a rational number. [FORMULA] The solutions of the equation [FORMULA] are [FORMULA]  and [FORMULA] . The solution is a negative real number that is also irrational.
+
+See also: irrational number, rational number",irrational number; rational number,,Mathematics
+Net,"A net is a plane figure that can be folded to form a polyhedron. More specifically, it is a two-dimensional representation of a three-dimensional object, comprising joined shapes that can be folded to form the object.
+
+There are nets for polyhedra, cylinders and cones, and net for approximations of a sphere. One possible net for a cube is shown below:",,"net_1.png,net_2.png,net_3.png",Mathematics
+Network,"A network is a set of points (vertices or nodes), some of which are joined by lines or curves (edges) that sometimes enclose regions (faces) is a network. Networks are used to represent relationships involving connectedness: for example, road networks, a family tree or the edges lining a tennis court.
+
+See also: vertex",vertex,,Mathematics
+Node,"A node is a vertex in a network.
+
+See also: network",network,,Mathematics
+Non-negative integer,"Also called the positive integer, the non-negative integer is an element of the infinite set of numbers [FORMULA] = {1, 2, 3 ...}.
+
+See also: integer",integer,,Mathematics
+Normal distribution,"Normal distribution is the distribution for a random variable that has a characteristic bell-shaped curve. Variables such as height and IQ typically have a normal type distribution.
+
+See also: distribution, variable",distribution; variable,,Mathematics
+Number,"[See: integer, irrational number, natural number, rational number]",integer; irrational number; natural number; rational number,,Mathematics
+Number line,A number line gives a pictorial representation of real numbers. Part of a number line showing the integers is given below:,,number_line_1.png,Mathematics
+Number sentence,"A number sentence is an equation or inequality, using numbers, common symbols and operations. A number sentence may be used to represent a situation. For example, the total number of pets I own if I have 3 cats and one dog could be shown using 3 + 1 = 4, . [FORMULA] and
+
+See also: equation, inequality, operation",equation; inequality; operation,,Mathematics
+Numeral,"A numeral is the designation of a number in a given language; for example, the number ‘three’ is designated by the Hindu-Arabic numeral 3, the Roman numeral III, and the Chinese numeral 三.",,,Mathematics
+Numerator,"The numerator is the term [FORMULA] in a fraction [FORMULA] , where [FORMULA] and [FORMULA] are integers and . For example, the numerator of [FORMULA]  is . If an object is divided into [FORMULA] equal parts, then the fraction [FORMULA] represents [FORMULA] of these parts taken together. For example, if a line segment is divided into [FORMULA] equal parts, each of those parts is one-fifth of the whole and 3 of these parts taken together corresponds to the fraction​ .
+
+See also: fraction",fraction,,Mathematics
+Numerical data,"Numerical data is data associated with a numerical variable.
+
+See also: numerical variable",numerical variable,,Mathematics
+Numerical variable,"Numerical variables are variables whose values are numbers, and for which arithmetic processes such as adding and subtracting, or calculating an average, make sense.
+
+A discrete numerical variable is a numerical variable, each of whose possible values is separated from the next by a definite ‘gap’. Common numerical variables often have the numbers {0, 1, 2, 3…} as possible values. Other examples could include prices measured in dollars and cents, the number of children in a family or the number of days in a month.
+
+See also: numerical data",numerical data,,Mathematics
+Object,"An object is a solid or three-dimensional skeletal representation composed of a number of faces, edges, vertices or closed surfaces, such as a prism, pyramid, cylinder or sphere. The term three-dimensional shape is also used.",,,Mathematics
+Observed frequency,[See: frequency],frequency,,Mathematics
+Obtuse angle,[See: angle],angle,,Mathematics
+Odd number,"An odd number is an integer that is not divisible by 2. The odd numbers are
+ .
+
+See also: natural number",natural number,,Mathematics
+One-to-one correspondence,[See: correspondence],correspondence,,Mathematics
+Online tools,"Online tools are digital hardware, software, platforms and resources that are connected and support communications between users. Examples of online tools include websites for online shopping and fitness apps.",,,Mathematics
+Operation,"An operation is the process of combining numbers or expressions. In the primary years, operations include addition, subtraction, multiplication and division. In later years, operations include substitution and composition.",,,Mathematics
+Opposite angle,[See: vertically opposite angle],vertically opposite angle,,Mathematics
+Order,"Order is a relation that describes the location of elements in a set with respect to each other. These elements may be totally ordered or partially ordered.
+
+For example, the set of natural numbers is totally ordered by the relation ‘less than or equal to’ since, for any 2 natural numbers [FORMULA] and , exactly one of the following is true: 
+, [FORMULA] or . Similarly, the set of students in a class can be totally ordered with respect to their height using the relation ‘less than or equal to’.
+
+However, the set of people at a school fair is only partially ordered by the relation ‘is a parent of’ since there will likely be many pairs of people who are not each other’s parent, such as siblings.",,,Mathematics
+Order of operations,"The order of operations is a set of conventions for evaluating arithmetic expressions that involve several operations. In general brackets (parentheses) can be used to provide priority, otherwise the order of operations from left to right is exponents (powers, indices), then multiplication/division then addition/subtraction. For example, in , the division is performed first and the expression becomes . If the convention is ignored and the operations are performed in order, a different result of 6.5 is obtained.
+
+See also: addition, division, index, multiplication, subtraction",addition; division; index; multiplication; subtraction,,Mathematics
+Ordinal categorical data,"Ordinal categorical data is categorical data that has a ranking or order, such as Likert scales, clothing sizes, or placegetters in a race.
+
+See also: data",data,,Mathematics
+Ordered pair,"An ordered pair is a special type of set of 2 elements for which order is significant. For example, the co-ordinates in the Cartesian plane (3,4) represent the point where [FORMULA] and . Grid references used on a map are also examples of an ordered pair.
+
+See also: Cartesian co-ordinate system, grid reference",Cartesian co-ordinate system; grid reference,,Mathematics
+Outlier,"An outlier is a data value that appears to stand out from the other members of the data set by being unusually high or low. The most effective way of identifying outliers in a data set is to graph the data.
+
+For example, in the following list of ages of a group of 10 people, 
+{ 12, 12, 13, 13, 13, 13, 13, 14, 14, 14, 24 }, 24 would be considered to be a possible outlier.
+
+As a rule of thumb, a value that is more than 1.5 interquartile ranges less than the lower quartile, or greater than the upper quartile, is a possible outlier.
+
+See also: data, interquartile range (IQR)",data; interquartile range (IQR),"outlier_1.png,outlier_2.png,outlier_3.png",Mathematics
+Parabola,"The graph of [FORMULA] is called a parabola. The point [FORMULA] is called the vertex of the parabola and the -axis () is the axis of symmetry of the parabola called simply the axis.
+
+Some other parabolas are the graphs of [FORMULA] where . More generally, every parabola is similar to the graph of .",,parabola_1.png,Mathematics
+Parallel,"Two lines are parallel if they have no points of intersection in the plane, and the same gradient (slope) in the coordinate plane. The symbol || is often used to mean one ray or line segment is parallel to another. For example, the 2 lines below are parallel:
+
+For a geometric figure such as the parallelogram shown below, different numbers of arrow heads may be used to denote sets of lines that are parallel. For example, the pair of lines BA and CD are a parallel pair (2 arrowheads on each) while AD and BC are another parallel pair (one arrowhead on each). Note that BA is not parallel to AD, for example.",,parallel_1.png,Mathematics
+Parallel box-and-whisker plots,"Parallel box-and-whisker plots are used to visually compare the five-number summaries of 2 or more data sets. The term ‘parallel box-and-whisker plot’ is commonly abbreviated to ‘parallel boxplot’.
+
+For example, a parallel box-and-whisker plot below can be used to compare the five-number summaries for the pulse rates of 19 students before and after gentle exercise.
+
+Note that the box plot for pulse rates after exercise shows the pulse rate of 146 as a possible outlier. This is because the distance of this data point above the upper is more than 1.5 times the interquartile range.
+
+See also: interquartile range (IQR), outlier",interquartile range (IQR); outlier,"parallel_box_and_whisker_plots_1.png,parallel_box_and_whisker_plots_2.png,parallel_box_and_whisker_plots_3.png,parallel_box_and_whisker_plots_4.png",Mathematics
+Parallelogram,"A parallelogram is a quadrilateral whose opposite sides are parallel. The quadrilateral ABCD shown below is a parallelogram because BA || CD and AD || BC.
+
+Properties of a parallelogram
+
+The opposite angles of a parallelogram are equal.
+
+The opposite sides of a parallelogram are equal.
+
+The diagonals of a parallelogram bisect each other.
+
+See also: parallel",parallel,parallelogram_1.png,Mathematics
+Parameters,Parameters are a factor for which a specific value defines a condition or constraint for a function or relation.,,,Mathematics
+Partition,"To partition is to divide into separate parts that together constitute the whole. For example, the letters of the alphabet can be partitioned into vowels and consonants, the set of natural numbers can be partitioned into those with remainder 0, 1 or 2 on division by 3.
+
+In the early years it commonly refers to the ability to think about numbers as made up of 2 parts, for example, 10 is 8 and 2. In later years it refers to dividing both continuous and discrete quantities into equal parts.",,,Mathematics
+Part-part-whole reasoning,"Part-part-whole reasoning is a model used to recognise relationships between a whole number and its parts: for example, [FORMULA] or .",,,Mathematics
+Percentage,"A percentage is a ratio to 100 or a fraction whose denominator is 100. For example, [FORMULA] percent (written as ) is the percentage whose value is .
+
+Similarly, 40 as a percentage of 250 is .",,,Mathematics
+Percentile,"The percentile is the value that corresponds to a cumulative frequency of [FORMULA]  for a sample size.
+
+The first quartile () is the 25th percentile, the second quartile (the median or ) is the 50th percentile, and the third quartile () is the 75th percentile. The maximum value of a data set is the 100th percentile (all other values are less than this).
+
+For example, for a sample of 4 students (), the students heights in cm are found to be 150, 152, 156 and 167. The median value of 154 is the 50th percentile as 50% of the data values (2 values) are smaller than this since [FORMULA]  (.
+
+See also: interquartile range",interquartile range,,Mathematics
+Perfect square,"A number is a perfect square if it is the square of an integer or rational number. For example, 169 is a perfect square as 132 = 169. Similarly, 0.81 is a perfect square since (9/10)2 = 0.81. Perfect squares can also be represented pictorially; for example, the perfect squares 1, 4, 9 and 16 could be shown using the arrays:
+
+See also: array, square number",array; square number,,Mathematics
+Perimeter,The perimeter of a plane figure is the length of its boundary.,,,Mathematics
+Periodic,‘Periodic’ means appearing or occurring at regular intervals. The function [FORMULA] is periodic because it has-intercepts that occur periodically at each integer multiple of .,,,Mathematics
+Perpendicular,"Two lines, rays, line segments, vectors, planes or other quantities are considered perpendicular if they intersect at a 90° angle (a right angle).
+
+In the diagram below, the line segments BD and BC are perpendicular, while the line segments AB and BC are parallel.
+
+See also: angle, parallel",angle; parallel,,Mathematics
+Pi,"Pi is the name of the Greek letter , that is used to denote the ratio of the circumference of any circle to its diameter.
+
+The number [FORMULA] is irrational as the digits in the continued decimal expansion of π do not have any recurring pattern. The approximate value of , correct to 2 decimal places is 3.14, and 22/7 is a reasonably accurate fraction approximation to π. The decimal expansion for [FORMULA] to 100 significant figures is:
+
+3.141592653589793238462643383279502884197169399375105820974944592307816406286208998628034825342117068…
+
+There is a very long history of attempts to estimate [FORMULA] accurately. One of the early successes was due to Archimedes (287–212 BC) who showed that . The decimal expansion of [FORMULA] has now been calculated to at least the first [FORMULA] places.
+
+See also: circle, circumference, diameter, irrational number",circle; circumference; diameter; irrational number,,Mathematics
+Picture graph,"A picture graph is a statistical graph for organising and displaying categorical data.
+
+See also: categorical data, data display",categorical data; data display,picture_graph_1.png,Mathematics
+Place value,"Place value is the value of a digit as determined by its position in a number relative to the ones (or units) place. For integers, the ones place is occupied by the rightmost digit in the number.
+
+For example, in the number 2 594.6 the 4 denotes 4 ones, the 9 denotes 90 ones or 9 tens, the 5 denotes 500 ones or 5 hundreds, the 2 denotes 2000 ones or 2 thousands, and the 6 denotes [FORMULA] of a one or 6 tenths.",,,Mathematics
+Planar graph,A planar graph is a connected graph that is drawn within a plane whose edges do not cross.,,planar_graph_1.png,Mathematics
+Platform,"The platform is the means by which an algorithm is implemented. This may be a mechanical device, a program running on a computer using a particular programming language, or an activity carried out by a person or robot.
+
+See also: implementation",implementation,,Mathematics
+Platonic solid,"The 5 platonic solids (shown below) are: the tetrahedron (4 equilateral triangles as faces), the cube (6 squares as faces), the octahedron (8 equilateral triangles as faces), the dodecahedron (12 regular pentagons as faces), and the icosahedron (20 equilateral triangles as faces). They are solid shapes with faces that are made of regular polygons that tessellate with an equal number of faces at each vertex. Images of each platonic solid are shown below.
+
+See also: face, net, polygon",face; net; polygon,"platonic_solid_1.emf,platonic_solid_2.emf,platonic_solid_3.emf,platonic_solid_4.emf,platonic_solid_5.emf",Mathematics
+Point,"Point is a representation of a location in space that has zero dimensions. Lines, curves, shapes, surfaces and objects are constructed from sets of points. Points in the Cartesian plane are specified by coordinates. Point is an undefined term in geometry.
+
+See also: undefined term",undefined term,,Mathematics
+Polygon,"The word ‘polygon’ literally means ‘many sides’. A polygon is a simple (no lines crossing) closed (all lines need to join to enclose a region) plane figure with sides formed by straight lines. For example, triangles, quadrilateral, pentagons and hexagons are polygons.
+
+Polygons with all sides of equal length, and all angles between adjacent sides equal, are said to be regular polygons. Examples of regular polygons are shown below.
+
+If all sides are not of equal length, and all angles not of equal measure, the polygon is an irregular polygon. Polygons may also be described as concave if they have any interior angles greater than 180° and convex if all interior angles are less than 180°.
+
+The triangle below could be described as an irregular convex polygon. The second shape is an example of an irregular concave polygon (hexagon).
+
+See also: angle",angle,,Mathematics
+Polyhedron,"A polyhedron is a three-dimensional shape whose faces are adjacent polygons. For example, a pyramid is a polyhedron but a cone is not a polyhedron (part of a cone is a curved surface that is not a polygon).
+
+A convex polyhedron is a finite region bounded by planes, in the sense that the region lies entirely on one side of the plane. The polyhedron shown below is a pyramid with a square base. It has 5 vertices, 8 edges and 5 faces. It is a convex polyhedron.
+
+The figure below is an example of a non-convex polyhedron.
+
+See also: adjacent, polygon",adjacent; polygon,"polyhedron_1.png,polyhedron_2.png",Mathematics
+Population,"A population is the complete or universal set for a given context or situation. For example, we could consider the Australian population with respect to an election, or the population of wombats in Victoria.
+
+A census collects information about the whole population.",,,Mathematics
+Positive integer,[See: non-negative integer],non-negative integer,,Mathematics
+Power (exponent or index),[See: See index],See index,,Mathematics
+Power set,[See: set],set,,Mathematics
+Primary data,[See: data],data,,Mathematics
+Prime factor,[See: factor],factor,,Mathematics
+Prime factorisation,"Prime factorisation is the decomposition of a composite number into the product of the prime numbers that divide evenly into it (factors). The prime factorisation for 18 could be [FORMULA] or, in index form, . The process of this factorisation can be represented using a factor tree.
+
+See also: composite number, factor, factor tree, prime number",composite number; factor; factor tree; prime number,,Mathematics
+Prime number,"A prime number is a natural number greater than 1 that has exactly 2 distinct factors, 1 and itself.
+
+The number 1 is not a prime number (it has only one distinct factor), nor is the number 8, as it has 4 distinct factors {1, 2, 4, 8}. The number 2 is the only even prime number.
+
+The set of the first 100 prime numbers is:
+
+{2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53,  59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109,  113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173,  179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293, 307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397, 401, 409, 419, 421, 431, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, 499, 503, 509, 521, 523, 541}
+
+There is no known function for generating the sequence of prime numbers, although there are algorithms for identifying whether a number is prime or not, such as the Sieve of Eratosthenes.
+
+See also: natural numbers",natural numbers,,Mathematics
+Prism,"A prism is a convex polyhedron that has 2 congruent and parallel polygonal faces and all its remaining faces are parallelograms. A prism is named according to these two congruent faces: for example, a triangular prism (2 triangular faces) or a rectangular prism.
+
+A right prism is a convex polyhedron that has 2 congruent and parallel faces and all its remaining faces are rectangles. A prism that is not a right prism is often called an oblique prism. Some examples of prisms are shown below.
+
+Note that a cylinder is not a prism because the circular ends are not polygonal (a circle is not a polygon).
+
+See also: polygon",polygon,prism_1.png,Mathematics
+Probability,"The probability of an event is a number between 0 and 1 (inclusive) that indicates the chance of something happening. For example, the probability that the sun will come up tomorrow is 1, the probability that a fair coin will come up ‘heads’ when tossed is 0.5, while the probability of someone being physically present in Adelaide and Brisbane at exactly the same time is zero.",,,Mathematics
+Problem posing and solving,"Problem posing and solving is a two-part process. First, formulating a problem in such a way that it is amenable to mathematical analysis. Second, the application of mathematical reasoning to the development of a solution (or solutions) to a given problem.",,,Mathematics
+Procedure,[See: algorithm],algorithm,,Mathematics
+Product,"A product is the result of multiplying together 2 or more numbers or algebraic expressions. For example, [FORMULA] is the product of [FORMULA] and [FORMULA] since , and [FORMULA] is the product of [FORMULA] and 
+ because .
+
+See also: factor, multiplication",factor; multiplication,,Mathematics
+Programming language,"A programming language is any language used to provide instructions for a computer to follow. Programming languages can be used to create computer programs that automate a given algorithm. Many programming languages exist, including python, C++ and Fortran. Using a programming language to create a program is called coding.
+
+See also: implementation",implementation,,Mathematics
+Proof,"A proof is a mathematical argument that demonstrates whether or not a proposition is true. A mathematical statement that has been proved is called a theorem.
+
+See also: proposition, theorem",proposition; theorem,,Mathematics
+Proportion,"A proportion is an equivalent ratio. Corresponding elements of 2 sets are in proportion if there is a constant ratio. For example, the circumference and diameter of a circle are in proportion because for any circle, the ratio of their lengths is the constant .
+
+See also: ratio",ratio,,Mathematics
+Proposition,"A proposition is a mathematical statement: for example, ‘2 is a prime number’ or ‘8 is greater than 3’.",,,Mathematics
+Pyramid,"A pyramid is a convex polyhedron with a polygonal base and triangular sides that meet at a point called the vertex. The pyramid is named according to the shape of its base.
+
+See also: polygon, polyhedron",polygon; polyhedron,pyramid_1.png,Mathematics
+Pythagoras’ theorem,"Consider a right-angled triangle where , [FORMULA] and [FORMULA] are the lengths of the sides of the triangle, such that [FORMULA] is the length of the side opposite the right angle (the hypotenuse) as shown below.
+
+For any such right-angled triangle, Pythagoras’ theorem states:
+
+The square of the hypotenuse of a right-angled triangle equals the sum of the squares of the lengths of the other 2 sides, that is, c2 = a2 + b2.
+
+For example, in a right-angled triangle with sides of length 3, 4 and 5, Pythagoras’ theorem is demonstrated because .
+
+The converse is also true. That is, if c2 = a2 + b2 in a triangle ABC, then ∠C is a right angle.
+
+See also: angle, hypotenuse",angle; hypotenuse,"pythagoras_theorem_1.png,pythagoras_theorem_2.png",Mathematics
+Quadrant,[See: Cartesian coordinate system],Cartesian coordinate system,,Mathematics
+Quadratic equation,"The general quadratic equation in one variable is , for constants [FORMULA] and where .
+
+The solutions to this equation (roots) are given by the quadratic formula:
+
+or the equivalent alternative form:
+
+See also: coefficient, constant, monomial, polynomial, term, zero",coefficient; constant; monomial; polynomial; term; zero,,Mathematics
+Quadratic expression,"A quadratic expression or function contains one or more of the terms in which the variable is raised to the second power, but no variable is raised to a higher power. Examples of quadratic expressions include [FORMULA] and .",,,Mathematics
+Quadratic formula,[See: quadratic equation],quadratic equation,,Mathematics
+Quadrilateral,"A quadrilateral is a four-sided polygon. The square is a regular quadrilateral (all sides and angles equal). Other well-known examples of a quadrilateral include the rectangle, the kite and the trapezium.
+
+See also: polygon",polygon,,Mathematics
+Quantile (statistics),Quantiles are values that divide a frequency distribution into equal groups. Common quantiles include quartiles (4 groups) and percentiles (100 groups).,,,Mathematics
+Quantile (probability),Quantiles are partitioning values that divide the range of the probability distribution into continuous intervals with equal probabilities.,,,Mathematics
+Quartile,"Quartiles are the values that divide an ordered data set into 4 (approximately) equal parts. It is only possible to divide a data set into exactly 4 equal parts when the number of data of values is a multiple of 4.
+
+There are 3 quartiles. The first, the lower quartile (Q1) divides off (approximately) the lower 25% of data values. The second quartile (Q2) is the median. The third quartile, the upper quartile (Q3), divides off (approximately) the upper 25% of data values.
+
+Percentiles are the values that divide an ordered data set into 100 (approximately) equal parts. It is only possible to divide a data set into exactly 100 equal parts when the number of data values is a multiple of one hundred.
+
+There are 99 percentiles. Within the above limitations, the first percentile divides off the lower 1% of data values. The second, the lower 2% and so on. In particular, the lower quartile (Q1) is the 25th percentile, the median is the 50th percentile and the upper quartile is the 75th percentile.
+
+See also: interquartile range (IQR)",interquartile range (IQR),,Mathematics
+Quotient,"A quotient is the result of dividing one number or algebraic expression by another.
+
+See also: division, remainder",division; remainder,,Mathematics
+Quotition,"Quotition division is to identify how many parts are present when the whole is divided. For example, 15 people need to cross a river in boats that hold 3 people. How many boats are needed?
+
+Quotition division and partition division provide complementary perspectives when developing ideas around grouping. For example, quotition identifies how many parts are generated by grouping, whereas partitioning identifies groups by magnitude.
+
+For example, 12 = 2 + 3 + 7.
+
+Quotition – 12 can be split into 3 groups.
+
+Partition – The 3 groups are of magnitudes 2, 3 and 7.",,,Mathematics
+Radian,"A radian is a measure of angle where one revolution of a unit circle from a fixed point corresponds to [FORMULA] radians. Thus, as a measure of angle, 180 degrees is equivalent to π radian, hence 1 radian is exactly [FORMULA] degrees or approximately 57.3 degrees.
+
+See also: degree, pi",degree; pi,,Mathematics
+Radius,"In the circle below, the line segment OA (interval OA) is called a radius of the circle.
+
+See also: circle",circle,radius_1.png,Mathematics
+Random event,A random (chance) event is an event that is not predictable.,,,Mathematics
+Random number,"A random number is one whose value is governed by chance; for example, the number of dots showing when a fair die is tossed. The value of a random number cannot be predicted in advance.",,,Mathematics
+Random number generator,"A true random number generator will produce random numbers based on some natural random physical process (for example, radioactive decay).
+
+The [FORMULA] digit of the decimal expansion of a rational number is not random since these numbers can be predicted in advance. Selecting an arbitrary sequence of digits in the decimal expansion of an irrational real number can be used as a random number generator since the decimal expansion have no repetition. For example, the decimal expansion of pi, , could be used for this purpose.
+
+Pseudo-random numbers are computer-generated random numbers found using an algorithm.
+
+See also: random number",random number,,Mathematics
+Random sample,"A subset of the population chosen such that every element of the population has an equal chance of being selected (that is, their selection is governed by chance). A random number generator, for example, could be used to select this random sample.
+
+See also: random, random number generator",random; random number generator,,Mathematics
+Random variable,"A random variable [FORMULA] is a function that assigns real numbers to events.
+
+See also: event, random, real number, sample space, variable",event; random; real number; sample space; variable,,Mathematics
+Range (relation),"A relation is a correspondence between 2 sets. When one of the sets is specified as the set of elements to which the correspondence is made, this set is called the co-domain of the relation. The subset of the co-domain to which elements of the domain are actually matched up, is called the range of the relation.
+
+For example, if a correspondence is formed between the students in a class and their favourite colour, the students would be a natural choice for the domain of relation. The range corresponds to the actual set of favourite colours of the students. The co-domain is the set of all possible colours, not just the favourites of the class of students.
+
+The range of a relation is, in general, a subset of its co-domain.
+
+See also: domain",domain,,Mathematics
+Range (statistics),"The range is the difference between the largest and smallest observations in a data set.
+
+The range can be used as a measure of spread in a data set. It is sensitive to outliers and should be interpreted with care.
+
+For example, for the set of data {2, 3, 4, 5, 6, 10, 12}, the range is",,,Mathematics
+Rate,"A rate compares 2 quantities measured in different units. For example, the ratio of distance to time, known as speed, is a rate because distance and time are measured in different units (such as kilometres and hours). The value of the rate depends on the units in which the quantities are expressed.",,,Mathematics
+Ratio,"A ratio compares magnitudes of sets, quantities of the same kind or algebraic expressions. It is often used as a comparison [FORMULA] of the size of 2 (or more) quantities relative to each other. For example, the ratio of the length of a side of a square to the length of a diagonal is [FORMULA] that is, ..
+
+See also: fraction",fraction,,Mathematics
+Rational number,"An element of the infinite set of numbers Q = { , where [FORMULA] and [FORMULA] are integers and [FORMULA] is not equal to zero}.
+
+Rational numbers may be expressed in fraction form, either with a corresponding terminating decimal expansion, or with an infinite recurring decimal expansion. For example, both [FORMULA] and [FORMULA] = 0.444… are rational numbers.
+
+Rational numbers may be positive or negative. For example, −17/5 is also a rational number.
+
+See also: fraction, positive integer",fraction; positive integer,,Mathematics
+Ray,"A ray comprises a half-line extending in one direction from a point, which is called the endpoint or vertex of the ray, as shown below. Intuitively, the notion of a ray corresponds to the visual image of rays of light emanating from a source represented as a point.
+
+A point on a straight line divides it into 2 half-lines, each of which corresponds to a ray.
+
+A ray may include an arrow to indicate direction.
+
+See also: line segment, ray, vertex",line segment; ray; vertex,"ray_1.png,ray_2.png,ray_3.png,ray_4.png,ray_5.png,ray_6.png",Mathematics
+Real numbers,"The numbers generally used in mathematics, in scientific work and in everyday life are the real numbers. Real numbers are any of the elements of the infinite set R, which comprises the union of the set of rational numbers with the set of irrational numbers. A rational real number has either a terminating (finite) decimal expansion, such as , or an infinite recurring decimal expansion: for example, 
+Some well-known irrational real numbers are the square root of 2 (), pi (), and the golden ratio, phi (). These can be used in exact calculations: for example, [FORMULA]  or [FORMULA]  .
+
+Often rational approximations to irrational real numbers are used in arithmetic calculations, with a suitable accuracy for the purpose of computation: for example, [FORMULA] and [FORMULA] , correct to 3 decimal places.
+
+All real numbers can be expressed using an infinite decimal expansion: for example, the natural number 2 can be written as either: 2 = 1.9999999999… or  2 = 2.0000000000…
+
+The set of real numbers, R, includes the natural numbers, N, integers, Z, rational numbers, Q and irrational numbers, Q′ as proper subsets, illustrated in the Venn diagram below.
+
+The real numbers are often represented using the infinite set of points on a continuous geometric line. This representation is referred to as the real number line. A one-to-one correspondence between the set of real numbers and the infinite set of points on the line is taken as given, with a specific point, O (the origin) selected to correspond to zero. A point X to the right of O is taken to correspond to the positive real number x, where the magnitude of x measures the length of the line segment OX. The point X′ to the left of O located by the endpoint of the line segment OX after a half-turn rotation about O, corresponds to the real number -x.
+
+Compass and unmarked straight-edge constructions can be used to determine the exact location of any rational number and some irrational numbers. For example, on the real number line.
+
+See also: irrational number, number line, rational number",irrational number; number line; rational number,"real_numbers_1.gif,real_numbers_2.gif",Mathematics
+Reciprocal,"The reciprocal of a real number [FORMULA] is the multiplicative inverse, that is [FORMULA] or [FORMULA]  , provided [FORMULA] is non-zero. For example, the reciprocal of 3 is . Note that the reciprocal of zero is undefined since is undefined.
+
+See also: inverse",inverse,,Mathematics
+Rectangle,"A rectangle is a quadrilateral in which all angles are right angles.
+
+See also: angle, polygon",angle; polygon,rectangle_1.png,Mathematics
+Rectangular hyperbola,[See: hyperbola],hyperbola,,Mathematics
+Recurring decimal,"A recurring decimal is a decimal that contains a pattern of digits that repeats indefinitely after a certain number of places. For example, , which is the decimal expansion of the rational number:
+
+Every recurring decimal is the decimal expansion of a rational number.
+
+See also: rational number",rational number,,Mathematics
+Recursion,"Recursion is the process of carrying out the current step of a process using the results of the previous step (or steps) of the same process. For example, the sequence of numbers
+
+{3, 6, 12, 24, … } can be described using recursion as ‘start at 3 and make the next term in the sequence twice the previous term in the sequence’.
+
+Students often intuitively define sequences using recursion. Skip-counting by ‘counting by fives starting from 12’ is an example of a recursive process.
+
+See also: sequence, skip counting",sequence; skip counting,,Mathematics
+Reflection,"A reflection is a transformation of the plane where each point in the plane is reflected in a given mirror line. To reflect the point A in an axis of reflection, a line has been drawn at right angles to the axis of reflection and the point A′ is marked at the same distance from the axis of reflection as A, but on the other side.
+
+The point A′ is called the reflection image of A. A reflection, then, is a transformation that moves each point to its reflection image. The points on the mirror line are invariant (unchanged) under this transformation.
+
+See also: image",image,reflection_1.png,Mathematics
+Reflex angle,[See: angle],angle,,Mathematics
+Regular polygon (shape),[See: polygon],polygon,,Mathematics
+Related denominators,"Denominators are related when one is a multiple of the other. For example, the fractions [FORMULA]  and [FORMULA]  have related denominators because 9 is a multiple of 3.
+
+Fractions with related denominators are often more easily added and subtracted than fractions with unrelated denominators. For example, to add [FORMULA]  and [FORMULA] , we know the equivalent fraction of [FORMULA]  is [FORMULA]  , so we can then compute .
+
+See also: equivalent fractions, fraction",equivalent fractions; fraction,,Mathematics
+Relation,"A relation is a correspondence (map) between the elements of 2 sets. For example, the relation ‘has the favourite colour’ between the set of students in a class (the domain of the relation) and the set of colours (the co-domain of the relation).
+
+A relation can be represented as a set of ordered pairs, a map (arrow diagram) or a graph.
+
+See also: correspondence, domain, graph",correspondence; domain; graph,,Mathematics
+Remainder,"If [FORMULA] and [FORMULA] are 2 natural numbers with [FORMULA] greater than , such that [FORMULA] where [FORMULA] and are also natural numbers, then [FORMULA] is said to be the remainder of [FORMULA] on division by . For example, if [FORMULA] = 29 and [FORMULA] = 6, then [FORMULA] = 4 × [FORMULA] + 5, so the remainder of 29 on division by 6 is 5.
+
+More simply, a remainder is the amount left over when one number or algebraic quantity [FORMULA] is divided by another . If [FORMULA] is divisible by [FORMULA] then the remainder is 0. For example, 66 is divisible by 11 because the remainder is 0 (since ). However, when 68 is divided by 11, the remainder is 2, because 68 can be expressed as​ . So, 68 is not divisible by 11.
+
+See also: divisible, factor",divisible; factor,,Mathematics
+Response variable,[See: variable],variable,,Mathematics
+Revolution (angles),"A full-turn, or one revolution, is the amount of turn required to rotate a ray about its endpoint until the image ray first coincides with the original ray. The measure of 1 revolution is 360 degrees, written 360, or 2π radians.
+
+See also: degree, radian",degree; radian,,Mathematics
+Rhombus,"A rhombus is a quadrilateral with all sides being equal.
+
+See also: polygon, quadrilateral",polygon; quadrilateral,rhombus_1.png,Mathematics
+Right angle,"A right angle has an angle measure of 90, or one-quarter turn of a full revolution (360). If 2 lines are at a right angle, they may also be referred to as being perpendicular. Examples of some right angles are shown below.
+
+See also: angle, perpendicular, revolution (angles)",angle; perpendicular; revolution (angles),,Mathematics
+Right prism,A right prism is a convex polyhedron that has 2 congruent and parallel faces and all remaining faces are congruent rectangles.,,,Mathematics
+Rotation,"A rotation is a transformation where each point in the plane is rotated through a given angle about a fixed point (the point of rotation). A rotation turns a figure about a fixed point, called the centre of rotation.
+
+A rotation is specified by:
+
+the centre of rotation O
+
+the angle of rotation
+
+the direction of rotation (clockwise or anticlockwise).
+
+In the first diagram below, the point A is rotated through 120o clockwise about O. In the second diagram, it is rotated through 60° anticlockwise about O.
+
+A rotation is a transformation of the plane that moves each point to its rotation image. The centre of rotation is invariant under this transformation.
+
+See also: transformation",transformation,rotation_1.png,Mathematics
+Rotational symmetry,"Rotational symmetry is a quality of some shapes and objects that appear the same when turned around their centre for less than a full turn. For example, a square has quarter-turn rotational symmetry.",,rotational_symmetry_1.png,Mathematics
+Rounding,"Rounding is the process for approximating a value that lies between 2 known values by one of these values. In particular, when a measure lies between 2 of the smallest marks on a scale, it is rounded to the nearest value represented by either one of these marks.
+
+Rounding is used to specify a number correct to a given accuracy. With measurements this often means rounding a decimal number.
+
+The decimal expansion of a real number is rounded when it is approximated by a terminating decimal that has a given number of decimal digits to the right of the decimal point.
+
+Rounding to [FORMULA] decimal places is achieved by removing all decimal digits beyond (to the right of) the [FORMULA] digit to the right of the decimal place and adjusting the remaining digits where necessary.
+
+If the first digit removed (the [FORMULA] digit) is less than 5 the preceding digit is not changed. For example, [FORMULA] becomes [FORMULA] when rounded to 3 decimal places.
+
+If the first digit removed is greater than 5, or 5 and some succeeding digit is non-zero, the preceding digit is increased by 1. For example, [FORMULA] becomes [FORMULA] when rounded to 5 decimal places.
+
+Rounding of decimals may also be achieved by rounding to the place value (for example, tenths, hundredths). 16.29 rounded to the nearest tenth of a unit is 16.3, rounded to the nearest unit is 16, rounded to the nearest 5 is 15, and rounded to the nearest ten is 20. The decimal number 57.139 rounded to the nearest hundredth is 57.14 and rounded to the nearest tenth is 57.1. However, 57.199 rounded to the nearest hundredth is 57.200.
+
+Some general principles for rounding are:
+
+if the last digit is a 1, 2, 3 or 4 then the previous digit is left unchanged and the number is said to be rounded down; for example, 296.2 rounded to the nearest integer is rounded down to 296
+
+if the last digit is a 6, 7, 8 or 9 then the previous digit is increased by 1 and the number is said to be rounded up; for example, 296.8 rounded to the nearest integer is rounded up to 297
+
+if the last digit is a 5 then the previous digit can be randomly rounded up or down, especially where several measurements are taken. This avoids cumulative error that would arise from either always rounding up or always rounding down; for example, 296.5 would be randomly rounded to either 296 or 297
+
+if rounding to a given accuracy has a cumulative effect, zeroes should be used to indicate the accuracy; for example, 299.97 rounded to the nearest tenth is 300.0.
+
+It should be noted that several different conventions for rounding a last digit of 5 can be found in the literature, and these relate to different contexts for number computation. In school mathematics, last digits 1, 2, 3 and 4 ‘round down’, and last digits 5, 6, 7, 8 and 9 ‘round up’.",,,Mathematics
+Rational fraction,[See: algebraic fraction],algebraic fraction,,Mathematics
+Sample,"A sample is a subset of a population. For example, a set of people used for a newspaper survey is a sample of the population.
+
+A random sample is one that is obtained by using a random process for selecting a sample. Samples are used to estimate characteristics of the population. For example, a randomly selected group of eight-year-old children (the sample) might be selected to estimate the incidence of tooth decay in eight-year-old children in Australia (the population).
+
+See also: population",population,,Mathematics
+Sampling,"Sampling is the process by which a subset of a population is selected for the purposes of data analysis. This subset is called a sample.
+
+See also: sample",sample,,Mathematics
+Sample space,"A sample space is the set of all possible outcomes of a chance experiment. For example, the set of outcomes (also called sample points) from tossing 2 heads is { HH, HT, TH, TT }, where H represents a ‘head’ and T a ‘tail’.
+
+See also: probability",probability,,Mathematics
+Scale,"Scale specifies proportion between 2 measures. For example, a model of a house may be made on a 1: 10 scale of length.",,,Mathematics
+Scale (measuring scale),"A measuring scale for weight could be based on the extension of a spring in proportion to the mass of an object (each 500 grams could cause an extension 5 cm). The tick marks on the axes of a graph are specified according to some scale. For example, each mark along the horizontal axis might correspond to 5 units, while each mark along the vertical axis might correspond to 2 units. These are then referred to as axes scales.",,,Mathematics
+Scatterplot,"A scatterplot is a visual representation of bivariate numerical data. One numerical variable (the independent variable) is measured along the -axis, the other (the dependent variable) along the -axis. Each data point is represented as a coordinate in the plane corresponding to the value it takes for each of the independent and dependent variables.
+
+For example, selected biometric data recording the circumference of a number of Douglas fir trees in the US, and their heights, is recorded below:
+
+The scatterplot of these data, with circumference chosen as the independent variable, is shown below.
+
+See also: bivariate data, numerical data",bivariate data; numerical data,,Mathematics
+Scientific notation,"Scientific notation, or standard form, is the notation used in particular to express very small or very large numbers in the form of the product of a decimal number between 1 and 10 (not inclusive) with an integer power of 10 expressed in exponential form.
+
+For example, in scientific notation:
+
+and .
+
+Some technology displays will show these as [FORMULA] and –5 .",,,Mathematics
+Secondary data,[See: data],data,,Mathematics
+Sector,"A sector is the interior part of a circle formed by 2 radiuses.
+
+See also: angle, circle",angle; circle,,Mathematics
+Segment,"A segment is the interior part of a circle formed by a chord.
+
+See also: angle, chord, circle,",angle; chord; circle;,,Mathematics
+Sequence (number),"A sequence is an ordered set of elements such as numbers, instructions or objects. From an algorithmic point of view, a sequence is an ordered set of instructions or actions.",,,Mathematics
+Set,"‘Set’ is an undefined term that informally corresponds to the notion of a collection of objects or elements.
+
+Sets are usually specified by listing their elements – for example, ; by describing them in words – for example, ‘the set of Australian citizens’; or by using a mathematical rule such as [FORMULA] = {(0, 1), (1, 3), (2, 5), (3, 7) … }.
+
+The power set of a given set is the set of all possible subsets of the given set, including the empty set and the given set itself. For example, if [FORMULA] then the power set, written , is the set .
+
+If there are [FORMULA] elements in the set [FORMULA] then there are [FORMULA] elements in its power set. In this example, [FORMULA] has 3 element and its power set has 23 = 8 elements.
+
+See also: element, empty set, subset, undefined term, universal set",element; empty set; subset; undefined term; universal set,,Mathematics
+Set (data set),[See: data],data,,Mathematics
+Shadow projection,"A shadow projection is a two-dimensional image formed on a plane surface by the shadow of a three-dimensional object illuminated by a light source: for example, a person’s shadow on the ground on a sunny day. In geometry this usually corresponds to the projections of a shape onto a three-plane surface at right angles to each other, such as front view, side view, top view.
+
+See also: shape, two-dimensional, three-dimensional",shape; two-dimensional; three-dimensional,,Mathematics
+Shape (geometry),"A shape is a geometric object or representation of a common real-life object, in two-dimensional space, such as a free-hand closed curve, a triangle, circle, square; or in three-dimensional space (also called solids) such as a blob of playdough, a cube, sphere or pyramid.
+
+See also: polygon, polyhedron",polygon; polyhedron,,Mathematics
+Shape (statistics),"The shape of a numerical data distribution refers to its visual representation and is described as symmetric if it is roughly evenly spread around some central point or skewed if it is not. If a distribution is skewed, it can be further described as positively skewed (‘tailing-off’ to the upper end of the distribution) or negatively skewed (‘tailing-off’ to the lower end of the distribution).
+
+These 3 distribution shapes are illustrated in the parallel dot plot display below.
+
+Values
+
+Dot plots, histograms and stem plots can all be used to investigate the shape of a data distribution.
+
+See also: distribution, dot plot, histogram",distribution; dot plot; histogram,shape_statistics_1.png,Mathematics
+Side-by-side column graph,"A side-by-side column graph can be used to organise and display the data that arises when a group of individuals or things are categorised according to 2 or more criteria.
+
+For example, the side-by-side column graph below displays the data obtained when 27 children are categorised according to hair type (straight or curly) and hair colour (red, brown, blonde, black). The legend indicates that blue columns represent children with straight hair and red columns children with curly hair.
+
+Side-by-side column graphs are frequently called side-by-side bar graphs or bar charts. In a bar graph or chart, the bars can be either vertical or horizontal.
+
+See also: column graph",column graph,side_by_side_column_graph_1.png,Mathematics
+Significant figure,"If a numerical value is expressed in scientific notation (standard form) , where [FORMULA] and  is an integer, then all the digits in  are significant. For example,  has 4 significant figures and has 2 significant figures.
+
+See also: integer, scientific notation",integer; scientific notation,,Mathematics
+Similar triangles,"Four sets of conditions for 2 triangles to be similar are as follows:
+
+If 2 angles of one triangle are respectively equal to 2 angles of another triangle, then the 2 triangles are similar.
+
+If the ratio of the lengths of 2 sides of one triangle is equal to the ratio of the lengths of two sides of another triangle, and the included angles are equal, then the 2 triangles are similar.
+
+If we can match up the sides of one triangle with the sides of another so that the ratios of matching sides are equal, then the 2 triangles are similar.
+
+If the ratio of the hypotenuse and one side of a right-angled triangle is equal to the ratio of the hypotenuse and one side of another right-angled triangle, then the 2 triangles are similar.
+
+See also: similarity",similarity,,Mathematics
+Similarity,"Two plane figures are called similar if an enlargement of one figure is congruent to the other. That is, if one can be mapped to the other by a sequence of translations, rotations, reflections and enlargements. Similar figures thus have the same shape, but not necessarily the same size.
+
+See also: congruent, enlargement (dilation), rotation, shape, translation",congruent; enlargement (dilation); rotation; shape; translation,,Mathematics
+Simple interest,"Simple interest is the interest accumulated when the interest payment in each period is a fixed fraction of the principal. For example, if the principle [FORMULA] earns simple interest at the rate of [FORMULA] per period, then after [FORMULA] periods the accumulated simple interest is .
+
+See also: compound interest",compound interest,,Mathematics
+Simulation,"Simulation is the process of modelling an event using various devices or technology. For example, if 2 players are equally likely to win a game of tennis on past performance, then a sequence of games between the 2 players could be simulated by successive tossing of a fair coin (heads player A wins, tails player B wins) or randomly selecting numbers from the list of natural numbers and noting whether the result is even (player A wins) or odd (player B wins). This could be represented using a tree diagram.
+
+See also: tree diagram",tree diagram,,Mathematics
+Sine (ratio),"In any right-angled triangle, sin(θ) = [FORMULA] where 0° < θ < 90°
+
+See also: trigonometry",trigonometry,sine_ratio_1.png,Mathematics
+Sine rule,"In any triangle ABC,
+
+See also: sine",sine,sine_rule_1.png,Mathematics
+Skewness,[See: shape (statistics)],shape (statistics),,Mathematics
+Skip counting,"Skip counting is counting from a given starting value using multiples of a fixed natural number. For example, {2, 4, 6, ...} or {7, 12, 17...}.
+
+See also: natural number",natural number,,Mathematics
+Solid,"A solid is a geometric object that possesses the three-dimensions of width, height and depth. Examples of solids include a cube, sphere and pyramid.
+
+See also: three-dimensional, polyhedron",three-dimensional; polyhedron,,Mathematics
+Spread,"Spread is a statistic that indicates how widely the values of a data set are distributed. Common measures of spread include range, interquartile range, quantiles and percentiles and mean (average).
+
+See also: mean, interquartile range (IQR), percentile, quantile (statistics), range",mean; interquartile range (IQR); percentile; quantile (statistics); range,,Mathematics
+Square,"A square is a quadrilateral that is both a rectangle and a rhombus.
+
+A square thus has all the properties of a rectangle, and all the properties of a rhombus.
+
+See also: polygon, quadrilateral",polygon; quadrilateral,square_1.png,Mathematics
+Square number,"An element of the set {1, 4, 9, 16, 25 ...}. A square number has an odd number of distinct elements in its factor set. For example, the factor set of 16 has 5 distinct elements: {1, 2, 4, 8, 16}. The first 4 of these numbers can be represented as dots that form a square array as shown:
+
+See also: odd number, perfect square",odd number; perfect square,,Mathematics
+Square root,"The positive square root of a given real number [FORMULA] is the positive real number [FORMULA] such that . For example, the positive square root of 9 is 3. This is written symbolically as .
+
+Originally, the square root was taken to refer to the side length (root) of a square whose area was a given positive number. Thus, a square of area 9 square units has a side length (square root) of 3 units.
+
+Most square roots are not rational numbers but irrational real numbers. For example, a square of area 2 has an exact side length of the square root of , or . This is approximately 1.4 units in length.
+
+Every positive real number has 2 square roots, one positive and one negative: for example, the square roots of 9 are 3 and −3. The negative square root is written as . as. In general, for a non-negative real number ,.
+
+See also: irrational number, non-negative integer",irrational number; non-negative integer,,Mathematics
+Square root of 2,"The square root of 2 is the irrational number, , whose value corresponds to the length of the diagonal of a unit square.
+
+Its approximate value is 1.414 correct to 3 decimal places.
+
+The decimal expansion for the square root of 2 correct to 200 significant figures is:
+
+1.4142135623730950488016887242096980785696718753769480731766797379907324784621070388503875343276415727350138462309122970249248360558507372126441214970999358314132226659275055927557999505011527820605715
+
+The digits in this decimal expansion do not display any recurring pattern, a property that distinguishes irrational numbers from rational numbers.
+
+See also: irrational number, square root",irrational number; square root,square_root_of_2_1.gif,Mathematics
+Standard deviation,"Standard deviation is a measure of the variability or spread of a data set. It gives an indication of the degree to which the individual data values are spread around their mean (average).
+
+See also: mean",mean,,Mathematics
+Standard unit,"A standard unit is a formal unit from a system of units that is comprehensive and is used to define other units or combinations of units. For example, in the metric system, the standard units for length, mass and time are respectively, metre, kilogram and second. The standard units are described in the International System of Units (SI). Related formal units are:
+
+centimetre = metre × 1/100 
+tonne = kilogram × 1 000 
+minute = second × 60.
+
+Other non-standard formal units are, for example, carat, gallon, hour and knot.",,,Mathematics
+Statistical investigation,"A statistical investigation is an investigation process involving a chosen context, area of interest or an identified problem scenario, identifying the subjects and variables to be investigated, planning the approach, collecting data, representing, interpreting and analysing the data, making inferences and communicating the results of the investigation in terms of the context.",,,Mathematics
+Stem-and-leaf plot (stemplot),"A stem-and-leaf plot is a method of organising and displaying numerical data in which each data value is split in to 2 parts, a ‘stem’ and a ‘leaf’. Stem plots provide a visual indication of spread. For example, the stem-and-leaf plot below displays the resting pulse rates (in beats per minute) of 19 students.
+
+Key : 11|0 = 110 beats per minute
+
+In this plot, the stem unit is ‘10’ and the leaf unit is ‘1’. The top row in the plot, 6 | 8 8 8 9, displays pulse rates of 68, 68, 68 and 69.
+
+A back-to-back stem-and-leaf plot is a method for comparing 2 data distributions by attaching 2 sets of ‘leaves’ to the same ‘stem’ in a stem-and-leaf plot. For example, the stem-and-leaf plot below displays the distribution of pulse rates of 19 students before and after gentle exercise.",,"stem_and_leaf_plot_stemplot_1.png,stem_and_leaf_plot_stemplot_2.png",Mathematics
+Straight angle,"A straight angle is the angle formed by taking a ray and its opposite ray. A straight angle is half of a revolution, and so has size equal to 180° or π radians.
+
+See also: degree, radian",degree; radian,straight_angle_1.png,Mathematics
+Subitising,Subitising is the capacity to visually recognise the size of a small set of objects without counting.,,,Mathematics
+Subset,"A subset is a set of elements A all contained within some larger set B. A is a subset of B if and only if every element of A is also an element of B, expressed . The subset A in this situation may also coincide with the set B itself, that is, .
+
+A is a proper subset of B (written ) if all elements of A are contained within B but A excludes at least one element of B, so that it cannot coincide with B itself. If A is not a subset of B, it is expressed . For example, for the sets , [FORMULA] and , [FORMULA] 
+while .
+
+See also: inclusion (subset), set",inclusion (subset); set,,Mathematics
+Subtraction,"Subtraction is one of the basic operations of arithmetic and algebra and involves the combination of 2 or more quantities using the [FORMULA] operator.
+
+For example, , [FORMULA] , , .
+
+Subtraction is the inverse operation to addition and can be defined in terms of addition, such that if [FORMULA] then [FORMULA] and . [FORMULA] For example, if 13 = 9 + 4 then 13 – 9 = 4 and 13 – 4 = 9.
+
+Subtraction may be defined more formally depending on the context. For example:
+
+Subtraction of real numbers may be modelled using lengths of joined line segments on a number line.
+
+The addition of 2 fractions is defined by introducing a common denominator, that is:
+
+.
+
+See also: addition, inverse operation",addition; inverse operation,,Mathematics
+Sum,"A sum is the result of adding several numbers or algebraic expressions. For example,
+ [FORMULA] are sums.
+
+The symbol [FORMULA] can be used to indicate a sum where each term can be described by an algebraic expression. For example, the mean (average) [FORMULA] defined as:
+
+can also be written using sum notation as:
+
+See also: addition",addition,,Mathematics
+Supplementary angles,"Two adjacent angles that form a straight angle are said to be supplementary angles. The sum of the angle measures in degrees of supplementary angles is 180 (a straight angle). An example of 2 supplementary angles is shown below.
+
+See also: complementary angles",complementary angles,supplementary_angles_1.png,Mathematics
+Surd,"A surd is a numerical expression involving one or more irrational roots of numbers. Examples of surds include , [FORMULA] and .
+
+See also: irrational number",irrational number,,Mathematics
+Surface area,"Surface area is the measure of the total area of the surface(s) of a three-dimensional shape or object. For example, the surface area of a cube with side length units is [FORMULA] square units. The surface area of a sphere with radius [FORMULA] units is [FORMULA] square units.",,,Mathematics
+Survey,"A survey is a tool for collecting data that comprises a series of questions, which can be constructed to collect quantitative or qualitative data, numerical or categorical responses.",,,Mathematics
+Symbolic,"Symbolic means using marks or symbols that have a meaning particular to mathematical language. For example, the written statement ‘2 is less than 3’ can be written symbolically as 
+‘’.",,,Mathematics
+Symmetry (and asymmetry),"Symmetry is a visual property of regularity in shape by, for example, reflection or rotation. The letter T is symmetrical by reflection, the letter Z is symmetrical by rotation, the letter H is symmetrical by both reflection and rotation, but the letter R is not symmetrical.
+
+A plane figure F has line symmetry in a line [FORMULA] if the image of F under the reflection in [FORMULA] is F itself. The line [FORMULA] is called the axis of symmetry.
+
+A plane figure F has rotational symmetry about a point O if there is a non-trivial rotation such that the image of F under the rotation is F itself.
+
+A rotation of 120o around O maps the equilateral triangle onto itself.
+
+Shapes that are not symmetrical are said to be asymmetrical.  The human body is asymmetrical with respect to an imaginary line down the middle.
+
+See also: reflection, rotation",reflection; rotation,"symmetry_and_asymmetry_1.png,symmetry_and_asymmetry_2.png",Mathematics
+Tangent (geometry),"A tangent to a curve at a point is a line that touches but does not cut a curve at that point. Two tangents are shown in the following diagram:
+
+In the special case of a circle, a tangent is a line that intersects a circle at just one point. It touches the circle at that point of contact but does not pass inside it. A tangent to a circle is perpendicular to the diameter that contains the point, as show below:
+
+See also: circle, diameter",circle; diameter,,Mathematics
+Tangent (ratio),"In any right-angled triangle, [FORMULA]  where
+
+See also: trigonometry",trigonometry,tangent_ratio_1.png,Mathematics
+Tangram,A tangram is Chinese puzzle formed by a square cut into several pieces that are then rearranged to create other shapes. An example of an uncut tangram is shown below.,,tangram_1.png,Mathematics
+Term,"A term is a product of a constant (coefficient) and variables raised to positive integer powers. For example, [FORMULA] is a term (variables [FORMULA] and , coefficient ).
+
+See also: coefficient",coefficient,,Mathematics
+Terminating decimal,"A terminating decimal is a decimal that contains only finitely many non-zero decimal digits.
+
+Every terminating decimal represents a rational number where the denominator is a power of . For example, [FORMULA] is the decimal representation of
+
+See also: rational number",rational number,,Mathematics
+Tessellation (tiling),"A tessellation is a repeated pattern in the plane or on a surface where shapes completely fill all the space around a given point where their boundaries meet. For example, a honeycomb is a tessellation using hexagons. Tiling patterns are tessellations using rectangular tiles or brick pavers in paths, mosaics in buildings, quilts and art.
+
+A regular tessellation is created by tessellating regular polygons. If more than one regular polygon is used, it is a semi-regular tessellation. Examples of a regular tessellation of hexagons, and a semi-regular tessellation of triangles, hexagons and squares, are shown below.
+
+See also: polygon",polygon,"tessellation_tiling_1.png,tessellation_tiling_2.png",Mathematics
+Theorem,"A mathematical statement that has been shown to be true by proof is called a theorem.
+
+See also: proof",proof,,Mathematics
+Three-dimensional,"An object with width, height and depth is three-dimensional. A solid is any three-dimensional geometric object (such as the platonic solids).
+
+See also: two-dimensional",two-dimensional,,Mathematics
+Three-dimensional coordinate system,"A three-dimensional coordinate system is a coordinate system where any point in the space is defined using 3 different dimensions: for example, longitude, latitude and altitude for locating the position of a drone in the sky.",,three_dimensional_coordinate_system_1.png,Mathematics
+Time zones,"The 24 divisions of the globe, where each change of 15 degrees longitude corresponds to one hour, are referred to as time zones. As time zones often align with national or regional boundaries, this is an approximate relationship.",,,Mathematics
+Transformation,"A transformation is a map of the plane onto itself. The transformations included in this glossary are enlargements or scaling (dilations), reflections, rotations and translations. These are one-to-one transformations of the plane onto itself.
+
+A transformation is said to be an isometry if it leaves lengths, area and angles unchanged. Reflections, rotations and translations are isometries, dilations are not isometries.
+
+See also: correspondence, enlargement (dilation), reflection, rotation, scale, translation",correspondence; enlargement (dilation); reflection; rotation; scale; translation,,Mathematics
+Translation,"Shifting a figure in the plane without turning it is called translation. Translations can be specified as a combination of a horizontal shift and a vertical shift.
+
+See also: transformation",transformation,,Mathematics
+Transversal,"A transversal is a line that intersects 2 other lines obliquely.
+
+See also: alternate angle, corresponding angles, co-interior angle",alternate angle; corresponding angles; co-interior angle,transversal_1.png,Mathematics
+Trapezium,"A trapezium is a quadrilateral with one pair of opposite sides parallel.
+
+A right-trapezium has 2 right angles. The following are examples of a right-trapezium:
+
+See also: parallel, quadrilateral",parallel; quadrilateral,"trapezium_1.png,trapezium_2.png,trapezium_3.png,trapezium_4.png",Mathematics
+Tree diagram,"A diagram consisting of line segments (edges) connected to points (vertices) like the branches and twigs of a tree, a tree diagram is used to indicate the relationship between sets or events: for example, a family tree.
+
+Tree diagrams can also be used to represent the set of outcomes of a multi-step random experiment: for example, listing the possible outcomes when a coin is tossed twice as shown below.
+
+See also: edge, vertex",edge; vertex,tree_diagram_1.png,Mathematics
+Trial,"A trial is any repeatable procedure with a well-defined set of possible outcomes, known as the sample space. An example of a trial would be the flipping of a coin; the sample space would be
+ {H, T}.
+
+See also: probability, sample space",probability; sample space,,Mathematics
+Triangular number,"A triangular number is an element of the set {1, 3, 6, 10, 15 …}. These numbers can be represented as dots that form a triangular array as shown below.
+
+See also: square number",square number,triangular_number_1.png,Mathematics
+Trigonometry,"Trigonometry is the study of measures related to triangles. Consider the following right-angled triangle, with hypotenuse , right angle, angle [FORMULA]  and sides [FORMULA] (opposite the angle [FORMULA] ) and [FORMULA] (adjacent to the angle [FORMULA] ) as shown:
+
+The relation between the angle   and the lengths of the 3 sides are defined by the trigonometric ratios:
+
+or equivalently:
+
+Similarly, in the following right-angled triangle, with long side length 1 unit, and angle , the vertical side length is  and the horizontal side length is :
+
+If the triangle is dilated by a factor  from the point at which the angle  is formed, then, by similarity:
+
+with altitude (height) , base , and angle [FORMULA] as shown:
+
+See also: sine (ratio), cosine (ratio), tangent (trigonometry)",sine (ratio); cosine (ratio); tangent (trigonometry),"trigonometry_1.png,trigonometry_2.gif,trigonometry_3.gif",Mathematics
+Two-dimensional,"An object with width and length is two-dimensional. A polygon is an example of a two-dimensional geometric object.
+
+See also: three-dimensional",three-dimensional,,Mathematics
+Two-way table,[See: Karnaugh map],Karnaugh map,,Mathematics
+Undefined term,"An undefined term is a term or expression taken as accepted without definition. These are the basic building blocks of mathematics. For example, element and set are undefined terms in algebra and logic, while point and line are undefined terms in geometry. Undefined terms may be characterised by informal description or illustrated by examples. Other mathematical terms and expressions are defined using undefined terms and relations on them.",,,Mathematics
+Union (set),"Given 2 sets A and B, their union, written A ∪ B is the set of all elements that occur in either set, listed without repetition. For example, if A = { a , b , d , z } and B = { a , c , x , y , z } then A ∪ B = { a , b , c , d , x , y , z }.
+
+See also: set",set,,Mathematics
+Unit,"A unit is a basic or fundamental construct for counting and/or measurement. For example, the number 1 is the unit for counting (from the Latin unus for one). The metre is the standard unit for measurement of length in the metric system.",,,Mathematics
+Unit fraction,"A unit fraction is a simple fraction whose numerator is 1, that is, a fraction of the form [FORMULA] , where [FORMULA] is a natural number. For example, [FORMULA]  [FORMULA] is a unit fraction but [FORMULA]  [FORMULA] is not a unit fraction.
+
+See also: fraction",fraction,,Mathematics
+Unit of repeat,"In a repeating pattern, the pattern sequence that is repeated within the pattern is called the unit of repeat: for example, 1234 in the pattern 1234123412341234...",,,Mathematics
+Univariate data,"Univariate data is data relating to measurement of a single variable: for example, shoe size.
+
+See also: data",data,,Mathematics
+Universal set,"The set containing all objects or elements, including itself, within a given context is the universal set. The complement of the universal set is the empty set.
+
+See also: complement (set), empty set, set",complement (set); empty set; set,,Mathematics
+Unplugged,"A commonly used term for computational thinking activities carried out without digital technology, ‘unplugged’ representations of algorithms may include structured mathematical processes, English representations (steps) or flow charts.",,,Mathematics
+Validate,"To validate is to check that data to be analysed is reasonable and fit for purpose. This can involve checking for accuracy, clarity, detail, consistency, correctness and completeness.",,,Mathematics
+Variable,"A variable is a term used to designate an arbitrary element of a set. For example, if [FORMULA] is any natural number, then [FORMULA] is an odd natural number. The terms [FORMULA] and [FORMULA] are called variables. The rules of functions are often specified using variables for example, the function that takes a number, squares it then subtracts 3, can be specified in terms of the variables [FORMULA] and [FORMULA] as .
+
+When investigating relationships in bivariate data, the explanatory variable is the variable that may explain or cause a difference in the response variable. For example, when investigating the relationship between the temperature of a loaf of bread and the time it has spent in a hot oven, temperature is the response variable and time is the explanatory variable.
+
+With numerical bivariate data, it is common to attempt to model such relationships with a mathematic equation and to call the response variable the dependent variable and the explanatory variable the independent variable. When graphing numerical data, the convention is to display the response (dependent) variable on the vertical axis and the explanatory (independent) variable on the horizontal axis. When there is no clear causal link between the events, the classification of the variables as either the dependent or independent variable is quite arbitrary.
+
+An arbitrary (free) variable is variable whose scope is not limited by a logical quantifier. Free variables frequently are used in proofs to represent an arbitrary element of a set.
+
+See also: categorical variable, data, function, numerical data, numerical variable",categorical variable; data; function; numerical data; numerical variable,,Mathematics
+Variable (algebra),"A variable is typically designated by a symbol, such as [FORMULA] or , to represent an unspecified member of some set. For example, the variable [FORMULA] could represent an unspecified real number.
+
+See also: variable",variable,,Mathematics
+Variable (statistics),"A variable is something measurable or observable that is expected to either change over time or between individual observations. Examples of variables in statistics include the age of students, hair colour or a playing field’s length or shape.​
+
+See also: variable",variable,,Mathematics
+Variation in data,"Variation in data is the characteristic that elements of a data set differ, for example, the differences in maximum temperature recorded at different suburbs of a town on a given day.",,,Mathematics
+Venn diagram,"A Venn diagram is a graphical representation, using several typically overlapping closed curves, such as circles, of the relationship between elements of sets in relation to properties or attributes. They are drawn with respect to some specified universal set.
+
+For example, consider the universal set of all students at a school, the set of girl students, and the set of students with brown hair. All students can be represented on a Venn diagram as shown below.
+
+Venn diagrams are normally used where 2 or 3 sets are involved. In probability problems, Venn diagrams are used to represents subsets of a sample space for events.
+
+See also: probability",probability,,Mathematics
+"Vertex (angle, graph, shape)","A vertex (plural: vertices) is a point in the plane or in space where several edges meet, but do not extend beyond. For example, the corners of a triangle or the point of a cone are the vertices, as shown below.
+
+See also: line segment",line segment,,Mathematics
+Vertically opposite angle,"When 2 lines intersect, 4 angles are formed at the point of intersection. In the diagram, the angles marked ∠AOX and ∠BOY are called vertically opposite. Vertically opposite angles are equal.
+
+See also: angle, vertex",angle; vertex,"vertically_opposite_angle_1.png,vertically_opposite_angle_2.png",Mathematics
+Virtual materials,Dynamic digital representations of physical materials (sometimes called virtual manipulatives).,,,Mathematics
+Visualisations,"Visualisations are visual formats for organising, representing and summarising data. They are also called data displays.",,,Mathematics
+Volume,"Informally, volume is a measure of the extent of an object in three-dimensions, or the amount of space it encloses. Volume is usually measured with respect to a specified cube unit. Finding the volume of a regular object is usually based on measure of linear dimensions and then calculated using a formula based on those dimensions.
+
+Some useful formulas for volume may be found in the following table.",,,Mathematics
+Walk,"A walk is any sequential set of edges, connecting successive vertices, that connects any 2 vertices in a graph.",,walk_1.png,Mathematics
+Weight,"Weight is the force experienced by an object and is found by multiplying the mass of an object [FORMULA] by the gravitational acceleration . The SI unit for weight is newtons (N). On Earth, [FORMULA] 9.8m/s2, while on the Moon, [FORMULA]  1.62 m/s2. An object with a mass of 1 kg would weigh 9.8 N on Earth, and 1.62 N on the Moon (around one-sixth as much).
+
+See also: mass",mass,,Mathematics
+x-axis,[See: Cartesian coordinate system],Cartesian coordinate system,,Mathematics
+x,"The letter [FORMULA] is commonly used to designate a variable, often the independent variable, in an algebraic expression or equation, such as the rule of a function. For example, [FORMULA] is the variable in the function , or in the equation . When [FORMULA] is the independent variable of a relation, the horizontal coordinate axis in the Cartesian plane for a graph of the relation is commonly labelled the -axis.",,,Mathematics
+y-axis,[See: Cartesian coordinate system],Cartesian coordinate system,,Mathematics
+y,"The letter [FORMULA] is commonly used to designate a variable, often the dependent variable, in an algebraic expression or equation, such as the rule of a function. For example, [FORMULA] is a variable in the equations , or . Where [FORMULA] is the dependent variable of a relation, then the vertical coordinate axis in the Cartesian plane for a graph of the relation is commonly labelled the -axis.",,,Mathematics
+z-axis,"The z-axis is commonly used as the third axis when considering the Cartesian plane in 3 dimensions: for example, in the study of curves in space.",,,Mathematics
+Z,"The letter [FORMULA] is commonly used as the third variable (with [FORMULA] and ) to locate points in three-dimensional space. For example, the point located at coordinates (1, 2, 1) would be found at , [FORMULA] and",,,Mathematics
+Zero,"The word zero comes from the Arabic word sifr, or cipher in English, which means a secret or disguised writing, or a symbol for a vacant place. The numeral 0 is used to denote the number zero.
+
+As a result, zero plays 2 important roles in mathematics: as a number and as an empty place holder digit in the decimal expansion of numbers. For example, the digit 0 in the number 2057 indicates ‘no hundreds’ in the place value expansion of the number two thousand and fifty-seven or equivalently .
+
+For sets, zero specifies the number of elements in an empty set (none). Although closely related, the number zero, 0, is not the same as the empty set, { }, which is sometimes represented by the special symbol, Ø to distinguish the set from the number. The empty set is a collection that has no elements. Zero indicates the number of elements in this set which is none.
+
+Zero also corresponds to the origin on the real number line:
+
+The point of intersection of the vertical and horizontal axes of the Cartesian coordinate system is also called the origin and designated by the letter O. This origin is specified by the coordinates (0, 0) and plays an important role in work on graphs of functions and other relations.
+
+Zero has several important number properties.
+
+For any real number , it is the case that [FORMULA] (zero is the identity element for addition) and that .
+
+Zero is not a factor of any real number other than itself, and any real number is a factor of zero.
+
+The arithmetic operation of division by zero is not well defined, and results in an error statement when this computation is attempted using technology.
+
+The expression [FORMULA] is a fraction representation of the integer zero, as are the equivalent fractions [FORMULA]  The expression [FORMULA]  is said to be indeterminate, since an assumption that , where [FORMULA] is some real number, would imply 
+, which is true for any real number. The expression [FORMULA]  is said to be inconsistent or undefined, since an assumption that [FORMULA] where [FORMULA] is some real number, would imply , which is false for all real numbers.
+
+See also: Cartesian coordinate system, fraction, identity, real numbers",Cartesian coordinate system; fraction; identity; real numbers,"zero_1.png,zero_2.png",Mathematics
+Zeroes of a function,"The zero/es of a function [FORMULA] sometimes referred to as the root/s, are the solution/s for that function such that . For a function in the Cartesian plane, these zeroes will correspond to the intercepts of the function with the -axis (when ).
+
+For example, the function over [FORMULA] will have 3 zeroes at [FORMULA] and , corresponding to the solutions for [FORMULA] when .
+
+See also: function, intercept (graphs)",function; intercept (graphs),,Mathematics
