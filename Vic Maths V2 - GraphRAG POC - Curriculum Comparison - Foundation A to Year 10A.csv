@@ -1,0 +1,426 @@
+Band,ContentCode_V2,ContentCode_V1,ContentDescription_V1,ChangeType,Comment
+F,VC2MFN01,VCMNA070,"Connect number names, numerals and quantities, including zero, initially up to 10 and then beyond",Refined,Refined for clarity
+F,VC2MFN02,VCMNA071,Subitise small collections of objects,Updated,Split and refined
+F,VC2MFN03,VCMNA069,"Establish understanding of the language and processes of counting by naming numbers in sequences, initially to and from 20, moving from any starting point",Updated,Combined and refined
+F,VC2MFN03,VCMNA072,"Compare, order and make correspondences between collections, initially to 20, and explain reasoning",Updated,Combined and refined
+F,VC2MFN04,VCMNA071,Subitise small collections of objects,Refined,Refined for clarity
+F,VC2MFN05,VCMNA074,Represent practical situations to model sharing,Updated,Refined and combined
+F,VC2MFN05,VCMNA075,"Represent simple, everyday financial situations involving money",Updated,Refined and combined
+F,VC2MFN05,VCMNA073,Represent practical situations to model addition and subtraction,Updated,Refined and combined
+F,VC2MFN06,VCMNA074,Represent practical situations to model sharing,Refined,Refined
+F,VC2MFA01,VCMNA076,"Sort and classify familiar objects and explain the basis for these classifications, and copy, continue and create patterns with objects and drawings",Updated,Content descriptions consolidated to facilitate connections in sequencing
+F,VC2MFA01,VCMNA077,Follow a short sequence of instructions,Updated,Content descriptions consolidated to facilitate connections in sequencing
+F,VC2MFM01,VCMMG078,"Use direct and indirect comparisons to decide which is longer, heavier or holds more, and explain reasoning in everyday language",Updated,"Split, combined and refined"
+F,VC2MFM01,VCMMG079,Compare and order the duration of events using the everyday language of time,Updated,"Split, combined and refined"
+F,VC2MFM02,VCMMG079,Compare and order the duration of events using the everyday language of time,Updated,"Split, combined and refined"
+F,VC2MFM02,VCMMG080,Connect days of the week to familiar events and actions,Updated,"Split, combined and refined"
+F,VC2MFSP01,VCMNA076,"Sort and classify familiar objects and explain the basis for these classifications, and copy, continue and create patterns with objects and drawings",Updated,Split and combined
+F,VC2MFSP01,VCMMG081,"Sort, describe and name familiar two-dimensional shapes and three-dimensional objects in the environment",Updated,Split and combined
+F,VC2MFSP02,VCMMG082,Describe position and movement,Refined,Refined
+F,VC2MFST01,VCMSP084,Organise answers to yes/no questions into simple data displays using objects and drawings,Updated,Content descriptions consolidated into VC2MFST01 to facilitate connections in sequencing
+F,VC2MFST01,VCMSP085,Interpret simple data displays about yes/no questions,Updated,Content descriptions consolidated into VC2MFST01 to facilitate connections in sequencing
+F,VC2MFST01,VCMSP083,Answer yes/no questions to collect information,Updated,Content descriptions consolidated into VC2MFST01 to facilitate connections in sequencing
+F,VC2MFST01,VCMNA076,"Sort and classify familiar objects and explain the basis for these classifications, and copy, continue and create patterns with objects and drawings",Updated,Content descriptions consolidated into VC2MFST01 to facilitate connections in sequencing
+1,VC2M1N01,VCMNA086,"Develop confidence with number sequences to and from 100 by ones from any starting point. Skip count by twos, fives and tens starting from zero",Updated,"Split, combined and refined"
+1,VC2M1N01,VCMNA087,"Recognise, model, read, write and order numbers to at least 100.  Locate these numbers on a number line",Updated,"Split, combined and refined"
+1,VC2M1N02,,,New,New content description
+1,VC2M1N03,VCMNA088,Count collections to 100 by partitioning numbers using place value,Updated,Combined and realigned from Level 2 Number and Algebra
+1,VC2M1N03,VCMNA103,"Investigate number sequences, initially those increasing and decreasing by twos, threes, fives and ten from any starting point, then moving to other sequences",Updated,Combined and realigned from Level 2 Number and Algebra
+1,VC2M1N04,VCMNA089,"Represent and solve simple addition and subtraction problems using a range of strategies including counting on, partitioning and rearranging parts",Refined,Refined for clarity
+1,VC2M1N05,,,New,New content description
+1,VC2M1N06,,,New,New content description
+1,,VCMNA092,"Recognise, describe and order Australian coins according to their value",Removed,Removed to reduce duplication
+1,,VCMNA090,Represent practical situations that model sharing,Removed,Removed to reduce duplication
+1,VC2M1A01,VCMNA086,"Develop confidence with number sequences to and from 100 by ones from any starting point. Skip count by twos, fives and tens starting from zero",Updated,"Split, combined and realigned from Level 2 Number and Algebra"
+1,VC2M1A01,VCMNA093,Investigate and describe number patterns formed by skip counting and patterns with objects,Updated,"Split, combined and realigned from Level 2 Number and Algebra"
+1,VC2M1A01,VCMNA103,"Investigate number sequences, initially those increasing and decreasing by twos, threes, fives and ten from any starting point, then moving to other sequences",Updated,"Split, combined and realigned from Level 2 Number and Algebra"
+1,VC2M1A02,VCMNA093,Investigate and describe number patterns formed by skip counting and patterns with objects,Updated,Split and refined
+1,VC2M1A02,VCMNA094,Recognise the importance of repetition of a process in solving problems,Updated,Split and refined
+1,VC2M1M01,VCMMG095,"Measure and compare the lengths, masses and capacities of pairs of objects using uniform informal units",Refined,Refined
+1,VC2M1M02,VCMMG095,"Measure and compare the lengths, masses and capacities of pairs of objects using uniform informal units",Refined,Refined
+1,VC2M1M03,VCMMG097,"Describe duration using months, weeks, days and hours",Refined,Refined for clarity
+1,VC2M1SP01,VCMMG098,Recognise and classify familiar two-dimensional shapes and three-dimensional objects using obvious features,Refined,Refined for clarity
+1,VC2M1SP02,VCMMG099,Give and follow directions to familiar locations,Refined,Refined for clarity
+1,VC2M1ST01,VCMSP101,Choose simple questions and gather responses,Refined,Refined for clarity
+1,VC2M1ST02,VCMSP102,Represent data with objects and drawings where one object or drawing represents one data value. Describe the displays,Refined,Refined for clarity
+1,,VCMSP100,"Identify outcomes of familiar events involving chance and describe them using everyday language such as ‘will happen’, ‘won’t happen’ or ‘might happen’",Removed,Removed – realigned to Level 3 Probability
+2,VC2M2N01,VCMNA104,"Recognise, model, represent and order numbers to at least 1000",Refined,Refined for clarity
+2,VC2M2N02,VCMNA105,"Group, partition and rearrange collections up to 1000 in hundreds, tens and ones to facilitate more efficient counting",Refined,Refined for clarity
+2,VC2M2N03,VCMNA091,Recognise and describe one-half as one of two equal parts of a whole,Refined,Refined and realigned from Level 1 Number and Algebra
+2,VC2M2N04,VCMNA107,Solve simple addition and subtraction problems using a range of efficient mental and written strategies,Updated,"Split, combined and realigned from Level 2 Number and Algebra"
+2,VC2M2N04,VCMNA113,Solve problems by using number sentences for addition or subtraction,Updated,"Split, combined and realigned from Level 2 Number and Algebra"
+2,VC2M2N05,VCMNA108,"Recognise and represent multiplication as repeated addition, groups and arrays",Updated,"Split, combined"
+2,VC2M2N05,VCMNA109,Recognise and represent division as grouping into equal sets and solve simple problems using these representations,Updated,"Split, combined"
+2,VC2M2N06,VCMNA107,Solve simple addition and subtraction problems using a range of efficient mental and written strategies,Updated,Combined and split
+2,VC2M2N06,VCMNA108,"Recognise and represent multiplication as repeated addition, groups and arrays",Updated,Combined and split
+2,VC2M2N06,VCMNA109,Recognise and represent division as grouping into equal sets and solve simple problems using these representations,Updated,Combined and split
+2,VC2M2N06,VCMNA111,Count and order small collections of Australian coins and notes according to their value,Updated,Combined and split
+2,VC2M2A01,VCMNA112,Describe patterns with numbers and identify missing elements,Updated,Combined and realigned from Level 3 Number and Algebra
+2,VC2M2A01,VCMNA138,"Describe, continue, and create number patterns resulting from performing addition or subtraction",Updated,Combined and realigned from Level 3 Number and Algebra
+2,VC2M2A02,,,New,Realigned from Level 3 Number and Algebra
+2,VC2M2A03,,,New,New content description
+2,VC2M2A04,VCMNA114,"Apply repetition in arithmetic operations, including multiplication as repeated addition and  division as repeated subtraction",Refined,No change
+2,VC2M2M01,VCMMG115,"Compare and order several shapes and objects based on length, area, volume and capacity using appropriate uniform informal units",Updated,Combined and refined
+2,VC2M2M01,VCMMG116,Compare masses of objects using balance scales,Updated,Combined and refined
+2,VC2M2M02,VCMNA110,"Recognise and interpret common uses of halves, quarters and eighths of shapes and collections",Refined,Refined and realigned from Level 2 Number and Algebra
+2,VC2M2M03,VCMMG119,Use a calendar to identify the date and determine the number of days in each month,Refined,Refined for clarity
+2,VC2M2M04,VCMMG096,Tell time to the half-hour,Updated,Combined and realigned from Level 1 Measurement and Geometry
+2,VC2M2M04,VCMMG117,"Tell time to the quarter-hour, using the language of 'past' and 'to'",Updated,Combined and realigned from Level 1 Measurement and Geometry
+2,VC2M2M05,VCMMG124,Identify and describe half and quarter turns,Refined,Refined for clarity
+2,,VCMMG118,Name and order months and seasons,Removed,Removed to reduce duplication
+2,VC2M2SP01,VCMMG120,"Describe and draw  two-dimensional shapes, with and without digital technologies",Refined,Refined for clarity
+2,VC2M2SP02,VCMMG122,Interpret simple maps of familiar locations and identify the relative positions of key features,Refined,Refined for clarity
+2,,VCMMG123,Investigate the effect of one-step slides and flips with and without digital technologies,Removed,Removed to reduce duplication
+2,VC2M2ST01,VCMSP126,Identify a question of interest based on one categorical variable. Gather data relevant to the question,Updated,Combined and refined
+2,VC2M2ST01,VCMSP127,"Collect, check and classify data",Updated,Combined and refined
+2,VC2M2ST02,VCMSP128,"Create displays of data using lists, table and picture graphs and interpret them",Refined,Refined for clarity
+2,,VCMSP125,Identify practical activities and everyday events that involve chance. Describe outcomes as ‘likely’ or ‘unlikely’ and identify some events as ‘certain’ or ‘impossible’,Removed,Realigned to Level 3 Probability
+3,VC2M3N01,VCMNA129,Investigate the conditions required for a number to be odd or even and identify odd and even numbers,Refined,Command terms adjusted to provide clarity and improve teachability
+3,VC2M3N02,VCMNA130,"Recognise, model, represent and order numbers to at least 10 000",Updated,Combined and realigned from Levels 4 and 5 Number and Algebra
+3,VC2M3N02,VCMNA152,"Recognise, represent  and order numbers to at least tens of thousands",Updated,Combined and realigned from Levels 4 and 5 Number and Algebra
+3,VC2M3N02,VCMNA186,"Recognise, represent and order numbers to at least hundreds of thousands",Updated,Combined and realigned from Levels 4 and 5 Number and Algebra
+3,VC2M3N03,VCMNA136,"Model and represent unit fractions including 1/2, 1/4, 1/3, 1/5 and their multiples to a complete whole",Refined,Refined for clarity
+3,VC2M3N04,VCMNA131,"Apply place value to partition, rearrange and regroup numbers to at least 10 000 to assist calculations and solve problems",Refined,Refined for clarity
+3,VC2M3N05,VCMNA135,Represent and solve problems involving multiplication using efficient mental and written strategies and appropriate digital technologies,Updated,Split and refined
+3,VC2M3N06,,,New,New content description
+3,VC2M3N07,VCMNA137,Represent money values in multiple ways and count the change required for simple transactions to the nearest five cents,Refined,Refined for clarity
+3,VC2M3N08,VCMNA135,Represent and solve problems involving multiplication using efficient mental and written strategies and appropriate digital technologies,Updated,Split and refined
+3,VC2M3N09,,,New,New content description
+3,,VCMNA139,Use a function machine and the inverse machine as a model to apply mathematical rules to numbers or shapes,Removed,Removed to reduce duplication
+3,,VCMMG145,Identify and describe slides and turns found in the natural and built environment,Removed,Removed to reduce duplication
+3,VC2M3A01,VCMNA106,Explore the connection between addition and subtraction,Updated,Combined and realigned from Level 2 Number and Algebra
+3,VC2M3A01,VCMNA132,Recognise and explain the connection between addition and subtraction,Updated,Combined and realigned from Level 2 Number and Algebra
+3,VC2M3A02,VCMNA133,Recall addition facts for single-digit numbers and related subtraction facts to develop increasingly efficient mental strategies for computation,Refined,Refined for clarity
+3,VC2M3A03,VCMNA134,"Recall multiplication facts of two, three, five and ten and related division facts",Refined,Refined for clarity
+3,VC2M3M01,VCMMG140,"Measure, order and compare objects using familiar metric units of length, area, mass and capacity",Updated,Split and refined
+3,VC2M3M02,VCMMG140,"Measure, order and compare objects using familiar metric units of length, area, mass and capacity",Updated,Split and refined
+3,VC2M3M03,VCMMG141,Tell time to the minute and investigate the relationship between units of time,Updated,Split and refined
+3,VC2M3M04,VCMMG141,Tell time to the minute and investigate the relationship between units of time,Updated,Split and refined
+3,VC2M3M05,VCMMG146,Identify angles as measures of turn and compare angle sizes in everyday situations,Refined,Refined for clarity
+3,VC2M3SP01,VCMMG142,Make models of three-dimensional objects and describe key features,Updated,Combined and realigned from Level 2 Measurement and geometry
+3,VC2M3SP01,VCMMG121,Describe the features of three-dimensional objects,Updated,Combined and realigned from Level 2 Measurement and geometry
+3,VC2M3SP02,VCMMG143,Create and interpret simple grid maps to show position and pathways,Updated,Refined and combined for clarity
+3,,VCMMG144,Identify symmetry in the environment,Removed,Removed to reduce duplication
+3,VC2M3ST01,VCMSP149,"Collect data, organise into categories and create displays using lists, tables, picture graphs and simple column graphs, with and without the use of digital technologies",Refined,Refined for clarity
+3,VC2M3ST02,VCMSP150,Interpret and compare data displays,Refined,Refined for clarity
+3,VC2M3ST03,VCMSP148,Identify questions or issues for categorical variables. Identify data sources and plan methods of data collection and recording,Refined,Refined for clarity
+3,VC2M3P01,VCMSP125,Identify practical activities and everyday events that involve chance. Describe outcomes as ‘likely’ or ‘unlikely’ and identify some events as ‘certain’ or ‘impossible’,Refined,Refined and realigned from Levels 1 and 2 Probability and Statistics
+3,VC2M3P02,VCMSP147,"Conduct chance experiments, identify and describe possible outcomes and recognise variation in results",Refined,Refined for clarity
+4,VC2M4N01,VCMNA159,Recognise that the place value system can be extended to tenths and hundredths. Make connections between fractions and decimal notation,Refined,Refined for clarity
+4,,VCMNA151,Investigate and use the properties of odd and even numbers,Removed,Removed to reduce duplication
+4,VC2M4N02,VCMNA154,"Investigate number sequences involving multiples of 3, 4, 6, 7, 8, and 9",Refined,No change
+4,VC2M4N03,VCMNA157,Investigate equivalent fractions used in contexts,Refined,Refined for clarity
+4,VC2M4N04,VCMNA158,"Count by quarters, halves and thirds, including with mixed numerals. Locate and represent these fractions on a number line",Refined,Refined
+4,VC2M4N05,,,New,New content description
+4,VC2M4N06,VCMNA153,"Apply place value to partition, rearrange and regroup numbers to at least tens of thousands to assist calculations and solve problems",Updated,Combined and refined
+4,VC2M4N06,VCMNA156,Develop efficient mental and written strategies and use appropriate digital technologies for multiplication and for division where there is no remainder,Updated,Combined and refined
+4,VC2M4N07,VCMNA160,Solve problems involving purchases and the calculation of change to the nearest five cents with and without digital technologies,Refined,Refined for clarity
+4,VC2M4N08,VCMNA160,Solve problems involving purchases and the calculation of change to the nearest five cents with and without digital technologies,Refined,No change
+4,VC2M4N09,VCMNA162,Solve word problems by using number sentences involving multiplication or division where there is no remainder,Updated,Combined and refined
+4,VC2M4N10,VCMNA138,"Describe, continue, and create number patterns resulting from performing addition or subtraction",Updated,"Combined, refined and realigned from Level 3 Number and Algebra"
+4,VC2M4N10,VCMNA154,"Investigate number sequences involving multiples of 3, 4, 6, 7, 8, and 9",Updated,"Combined, refined and realigned from Level 3 Number and Algebra"
+4,VC2M4N10,VCMNA161,Explore and describe number patterns resulting from performing multiplication,Updated,"Combined, refined and realigned from Level 3 Number and Algebra"
+4,VC2M4N10,VCMNA164,Define a simple class of problems and solve them using an effective algorithm that involves a short sequence of steps and decisions,Updated,"Combined, refined and realigned from Level 3 Number and Algebra"
+4,VC2M4A01,VCMNA163,Use equivalent number sentences involving addition and subtraction to find unknown quantities,Refined,Refined for clarity
+4,VC2M4A02,VCMNA155,Recall multiplication facts up to 10 × 10 and related division facts,Updated,Combined and split
+4,VC2M4A02,VCMNA154,"Investigate number sequences involving multiples of 3, 4, 6, 7, 8, and 9",Updated,Combined and split
+4,VC2M4M01,VCMMG165,"Use scaled instruments  to measure and compare lengths, masses, capacities and temperatures",Refined,Refined for clarity
+4,VC2M4M02,VCMMG169,Compare the areas of regular and irregular shapes  by informal means,Refined,Refined for clarity
+4,VC2M4M03,VCMMG167,Convert between units of time,Updated,Combined and refined
+4,VC2M4M03,VCMMG168,Use am and pm notation and solve simple time problems,Updated,Combined and refined
+4,VC2M4M04,VCMMG174,"Compare angles and classify them as equal to, greater than or less than a right angle",Refined,Refined for clarity
+4,VC2M4SP01,VCMMG171,Explain and compare the geometric properties of two-dimensional shapes and three-dimensional objects,Refined,No change
+4,VC2M4SP02,VCMMG170,"Compare and describe two dimensional shapes that result from combining and splitting common shapes, with and without the use of digital technologies",Refined,Refined for clarity
+4,VC2M4SP03,VCMMG172,"Use simple scales, legends and directions to interpret information contained in basic maps",Refined,Refined for clarity
+4,VC2M4SP04,VCMMG173,"Create symmetrical patterns, pictures and shapes with and without digital technologies",Refined,Refined for clarity
+4,,VCMMG166,Compare objects using familiar metric units of area and volume,Removed,Removed to reduce duplication.
+4,VC2M4ST01,VCMSP179,"Construct suitable data displays, with and without the use of digital technologies, from given or collected data. Include tables, column graphs and picture graphs where one picture can represent many data values",Refined,Refined for clarity
+4,VC2M4ST02,VCMSP180,Evaluate the effectiveness of different displays in illustrating data features including variability,Refined,Refined for clarity
+4,VC2M4ST03,VCMSP178,"Select and trial methods for data collection, including survey questions and recording sheets",Refined,Refined for clarity
+4,VC2M4P01,VCMSP175,Describe possible everyday events and order their chances of occurring,Updated,Combined and refined
+4,VC2M4P01,VCMSP176,Identify everyday events where one cannot happen if the other happens,Updated,Combined and refined
+4,VC2M4P01,VCMSP177,Identify events where the chance of one will not be affected by the occurrence of the other,Updated,Combined and refined
+4,VC2M4P02,,,New,New content description
+5,VC2M5N01,VCMNA189,Recognise that the place value system can be extended beyond hundredths,Updated,Combined and refined
+5,VC2M5N01,VCMNA190,"Compare, order and represent decimals",Updated,Combined and refined
+5,VC2M5N02,VCMNA181,Identify and describe factors and multiples of whole numbers and use them to solve problems,Refined,Refined for clarity
+5,VC2M5N03,VCMNA187,Compare and order common unit fractions and locate and represent them on a number line,Refined,Refined
+5,VC2M5N04,VCMNA217,"Make connections between equivalent fractions, decimals and percentages",Updated,Split and realigned from Level 6 Number and Algebra
+5,VC2M5N05,VCMNA188,Investigate strategies to solve problems involving addition and subtraction of fractions with the same denominator,Refined,Refined for clarity
+5,VC2M5N06,VCMNA183,"Solve problems involving multiplication of large numbers by one- or two-digit numbers using efficient mental, written strategies and appropriate digital technologies",Updated,Combined and split
+5,VC2M5N06,VCMNA185,Use efficient mental and written strategies and apply appropriate digital technologies to solve problems,Updated,Combined and split
+5,VC2M5N07,VCMNA184,"Solve problems involving division by a one digit number, including those that result in a remainder",Updated,Combined and split
+5,VC2M5N07,VCMNA185,Use efficient mental and written strategies and apply appropriate digital technologies to solve problems,Updated,Combined and split
+5,VC2M5N08,VCMNA182,Use estimation and rounding to check the reasonableness of answers to calculations,Refined,Refined for clarity
+5,VC2M5N09,VCMNA191,Create simple financial plans,Updated,Combined and split
+5,VC2M5N09,VCMNA185,Use efficient mental and written strategies and apply appropriate digital technologies to solve problems,Updated,Combined and split
+5,VC2M5N10,VCMNA194,Follow a mathematical algorithm involving branching and repetition (iteration),New,Content description and new content consolidated to facilitate connections in sequencing
+5,VC2M5N10,,,New,Content description and new content consolidated to facilitate connections in sequencing
+5,VC2M5A01,,,New,New content description
+5,VC2M5A02,VCMNA193,Use equivalent number sentences involving multiplication and division to find unknown quantities,Refined,Refined for clarity
+5,,VCMNA192,"Describe, continue and create patterns with fractions, decimals and whole numbers resulting from addition and subtraction",Removed,Removed to reduce duplication
+5,VC2M5M01,VCMMG195,"Choose appropriate units of measurement for length, area, volume, capacity and mass",Refined,Refined and realigned from Level 4 Measurement and Geometry
+5,VC2M5M02,VCMMG196,Calculate the perimeter and area of rectangles and the volume and capacity of prisms using familiar metric units,Refined,Refined for clarity
+5,VC2M5M03,VCMMG197,Compare 12- and 24-hour time systems and convert between  them,Refined,Refined for clarity
+5,VC2M5M04,VCMMG202,"Estimate, measure and compare angles using degrees. Construct angles using a protractor",Refined,Refined for clarity
+5,VC2M5SP01,VCMMG198,Connect three-dimensional objects with their nets and other two-dimensional representations,Refined,Refined for clarity
+5,VC2M5SP02,VCMMG199,Use a grid reference system to describe locations. Describe routes using landmarks and directional language,Refined,Refined for clarity
+5,VC2M5SP03,VCMMG200,"Describe translations, reflections and rotations of two-dimensional shapes. Identify line and rotational symmetries",Refined,Refined for clarity
+5,,VCMMG201,Apply the enlargement transformation to familiar two dimensional shapes and explore the properties of the resulting image compared with the original,Removed,Removed to reduce duplication
+5,VC2M5ST01,VCMSP206,"Construct displays, including column graphs, dot plots and tables,  appropriate for data type, with and without the use of digital technologies",Updated,Combined and refined
+5,VC2M5ST01,VCMSP207,Describe and interpret different data sets in context,Updated,Combined and refined
+5,VC2M5ST02,,,New,New content description
+5,VC2M5ST03,VCMSP205,Pose questions and collect categorical or numerical data by observation or survey,Updated,Split and refined
+5,VC2M5ST03,VCMSP207,Describe and interpret different data sets in context,Updated,Split and refined
+5,VC2M5P01,VCMSP203,List outcomes of chance experiments involving equally likely outcomes and represent probabilities of those outcomes using fractions,Refined,Refined for clarity
+5,VC2M5P02,,,New,New content description
+6,VC2M6N01,VCMNA210,Investigate everyday situations that use integers. Locate and represent these numbers on a number line,Refined,Refined for clarity
+6,VC2M6N02,VCMNA208,"Identify and describe properties of prime, composite, square and triangular numbers",Refined,Refined
+6,VC2M6N03,VCMNA211,Compare fractions with related denominators and locate and represent them on a number line,Refined,Refined for clarity
+6,VC2M6N04,VCMNA214,"Add and subtract decimals, with and without digital technologies, and use estimation and rounding to check the reasonableness of answers",Refined,Refined for clarity
+6,VC2M6N05,VCMNA212,Solve problems involving addition and subtraction of fractions with the same or related denominators,Updated,Split and combined
+6,VC2M6N05,VCMNA217,"Make connections between equivalent fractions, decimals and percentages",Updated,Split and combined
+6,VC2M6N06,VCMNA215,"Multiply decimals by whole numbers and perform divisions by non-zero whole numbers where the results are terminating decimals, with and without digital technologies",Updated,Combined and refined
+6,VC2M6N06,VCMNA216,Multiply and divide decimals by powers of 10,Updated,Combined and refined
+6,VC2M6N07,VCMNA213,"Find a simple fraction of a quantity where the result is a whole number, with and without digital technologies",Refined,Refined to improve clarity and to remove ambiguity around the key emphasis on computation both with and without digital tools
+6,,VCMNA218,"Investigate and calculate percentage discounts of 10%, 25% and 50% on sale items, with and without digital technologies",Removed,Content consolidated into VC2M6N07 to facilitate connections in sequencing and reduce duplication
+6,VC2M6N08,VCMNA217,"Make connections between equivalent fractions, decimals and percentages",Refined,Refined for clarity
+6,VC2M6N09,VCMNA209,Select and apply efficient mental and written strategies and appropriate digital technologies to solve problems involving all four operations with whole numbers and make estimates for these computations,Updated,Combined and refined
+6,VC2M6N09,VCMNA213,"Find a simple fraction of a quantity where the result is a whole number, with and without digital technologies",Updated,Combined and refined
+6,VC2M6N09,VCMNA218,"Investigate and calculate percentage discounts of 10%, 25% and 50% on sale items, with and without digital technologies",Updated,Combined and refined
+6,,VCMMG225,Connect volume and capacity and their units of measurement,Removed,"Realigned to Level 8 Measurement. The concept involves a high cognitive load due to counterintuitive relationship between volume and capacity. On balance students at Level 6 will not be ready for the concept, whereas students at Level 8 will be."
+6,VC2M6A01,VCMNA219,"Continue and create sequences involving whole numbers, fractions and decimals.  Describe the rule used to create the sequence",Refined,Refined for clarity
+6,VC2M6A02,VCMNA220,Explore the use of brackets and order of operations to write number sentences,Updated,"Combined, refined and realigned from Level 7 Number and Algebra"
+6,VC2M6A02,VCMNA240,"Apply the associative, commutative and distributive laws to aid mental and written computation and make estimates for these computations",Updated,"Combined, refined and realigned from Level 7 Number and Algebra"
+6,VC2M6A03,VCMNA221,Design algorithms involving branching and iteration to solve specific classes of mathematical problems,Refined,Refined content description
+6,VC2M6M01,VCMMG222,Connect decimal representations to the metric system,Updated,Combined and refined
+6,VC2M6M01,VCMMG223,"Convert between common metric units of length, mass and capacity",Updated,Combined and refined
+6,VC2M6M02,VCMMG224,Solve problems involving the comparison of lengths and areas using appropriate units,Refined,Refined for clarity
+6,VC2M6M03,VCMMG226,Interpret and use timetables,Updated,Refined
+6,VC2M6M03,VCMMG227,"Measure, calculate and compare elapsed time",Updated,Refined
+6,VC2M6M04,VCMMG231,"Investigate, with and without digital technologies, angles on a straight line, angles at a point and vertically opposite angles. Use results to find unknown angles",Refined,Refined for clarity
+6,VC2M6SP01,VCMMG228,Construct simple prisms and pyramids,Refined,Refined for clarity
+6,VC2M6SP02,VCMMG230,Introduce the Cartesian coordinate system using all four quadrants,Updated,Combined and realigned from Level 7 Number and Algebra
+6,VC2M6SP02,VCMNA255,"Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point",Updated,Combined and realigned from Level 7 Number and Algebra
+6,VC2M6SP03,VCMMG229,"Investigate the effect of combinations of transformations on simple and composite shapes, including creating tessellations, with and without the use of digital technologies",Refined,Refined for clarity
+6,VC2M6ST01,VCMSP235,"Construct, interpret and compare a range of data displays, including side-by-side column graphs for two categorical variables",Refined,Refined for clarity
+6,VC2M6ST02,VCMSP236,Interpret secondary data presented in digital media and elsewhere,Refined,Refined for clarity
+6,VC2M6ST03,VCMSP237,Pose and refine questions to collect categorical or numerical data by observation or survey,Updated,Combined and refined
+6,VC2M6P01,VCMSP204,Recognise that probabilities range from 0 to 1,Updated,Combined and realigned from Level 5 Statistics and Probability
+6,VC2M6P01,VCMSP232,"Describe probabilities using fractions, decimals and percentages",Updated,Combined and realigned from Level 5 Statistics and Probability
+6,VC2M6P02,VCMSP233,Conduct chance experiments with both small and large numbers of trials using appropriate digital technologies,Updated,Combined and refined
+6,VC2M6P02,VCMSP234,Compare observed frequencies across experiments with expected frequencies,Updated,Combined and refined
+7,VC2M7N01,VCMNA239,Investigate and use square roots of perfect square numbers,Refined,Refined for clarity
+7,VC2M7N02,VCMNA238,Investigate index notation and represent whole numbers as products of powers of prime numbers,New,Content description consolidated with new content to facilitate connections in sequencing
+7,VC2M7N02,,,New,Content description consolidated with new content to facilitate connections in sequencing
+7,VC2M7N03,VCMNA242,Compare fractions using equivalence. Locate and represent positive and negative fractions and mixed numbers on a number line,Updated,Combined and refined
+7,VC2M7N03,VCMNA247,"Connect fractions, decimals and percentages and carry out simple conversions",Updated,Combined and refined
+7,VC2M7N04,VCMNA246,Round decimals to a specified number of decimal places,Refined,Refined for clarity
+7,VC2M7N05,VCMNA243,"Solve problems involving addition and subtraction of fractions, including those with unrelated denominators",Updated,No change
+7,VC2M7N05,VCMNA244,Multiply and divide fractions and decimals using efficient written strategies and digital technologies,Updated,No change
+7,VC2M7N05,VCMNA248,"Find percentages of quantities and express one quantity as a percentage of another, with and without digital technologies.",Updated,No change
+7,VC2M7N06,VCMNA243,"Solve problems involving addition and subtraction of fractions, including those with unrelated denominators",Updated,Combined and refined
+7,VC2M7N06,VCMNA244,Multiply and divide fractions and decimals using efficient written strategies and digital technologies,Updated,Combined and refined
+7,VC2M7N06,VCMNA248,"Find percentages of quantities and express one quantity as a percentage of another, with and without digital technologies.",Updated,Combined and refined
+7,VC2M7N07,VCMNA243,"Solve problems involving addition and subtraction of fractions, including those with unrelated denominators",Updated,No change
+7,VC2M7N07,VCMNA244,Multiply and divide fractions and decimals using efficient written strategies and digital technologies,Updated,No change
+7,VC2M7N07,VCMNA248,"Find percentages of quantities and express one quantity as a percentage of another, with and without digital technologies.",Updated,No change
+7,VC2M7N08,VCMNA241,"Compare, order, add and subtract integers",Refined,Refined for clarity
+7,VC2M7N09,VCMNA245,"Express one quantity as a fraction of another, with and without the use of digital technologies",Updated,Combined and refined
+7,VC2M7N09,VCMNA249,Recognise and solve problems involving simple ratios,Updated,Combined and refined
+7,VC2M7N10,VCMNA243,"Solve problems involving addition and subtraction of fractions, including those with unrelated denominators",Updated,Combined and split
+7,VC2M7N10,VCMNA248,"Find percentages of quantities and express one quantity as a percentage of another, with and without digital technologies.",Updated,Combined and split
+7,VC2M7N10,VCMNA250,"Investigate and calculate 'best buys', with and without digital technologies",Updated,Combined and split
+7,,VCMNA254,Design and implement mathematical algorithms using a simple general purpose programming language,Removed,Removed to reduce duplication.
+7,VC2M7A01,VCMNA251,Introduce the concept of variables as a way of representing numbers using letters,Updated,Combined and refined
+7,VC2M7A02,VCMNA240,"Apply the associative, commutative and distributive laws to aid mental and written computation and make estimates for these computations",Updated,Content descriptions consolidated to facilitate connections in sequencing
+7,VC2M7A02,VCMNA252,Create algebraic expressions and evaluate them by substituting a given value for each variable,Updated,Content descriptions consolidated to facilitate connections in sequencing
+7,VC2M7A02,VCMNA253,Extend and apply the laws and properties of arithmetic to algebraic terms and expressions,Updated,Content descriptions consolidated to facilitate connections in sequencing
+7,VC2M7A03,VCMNA256,Solve simple linear equations,Refined,Refined
+7,VC2M7A04,VCMNA257,"Investigate, interpret and analyse graphs from real life data, including consideration of domain and range",Refined,Refined
+7,VC2M7A05,VCMNA252,Create algebraic expressions and evaluate them by substituting a given value for each variable,Updated,Combined and split
+7,VC2M7A05,VCMNA253,Extend and apply the laws and properties of arithmetic to algebraic terms and expressions,Updated,Combined and split
+7,VC2M7A05,VCMNA255,"Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point",Updated,Combined and split
+7,VC2M7A06,,,New,New content description
+7,VC2M7M01,VCMMG258,"Establish the formulas for areas of rectangles, triangles and parallelograms and use these in problem solving",Refined,Refined
+7,VC2M7M02,VCMMG259,Calculate volumes of rectangular prisms,Updated,Combined and realigned from Level 8 Measurement and Geometry
+7,VC2M7M02,VCMMG289,Develop the formulas for volumes of rectangular and triangular prisms and prisms in general. Use formulas to solve problems involving volume,Updated,Combined and realigned from Level 8 Measurement and Geometry
+7,VC2M7M03,VCMMG288,"Investigate the relationship between features of circles such as circumference, area, radius and diameter. Use formulas to solve problems involving determining  radius, diameter, circumference and area from each other",Updated,Split and realigned from Level 8 Measurement and Geometry
+7,VC2M7M04,VCMMG264,"Identify corresponding, alternate and co-interior angles when two straight lines are crossed by a transversal",Updated,Combined and refined
+7,VC2M7M04,VCMMG265,Investigate conditions for two lines to be parallel and solve simple numerical problems using reasoning,Updated,Combined and refined
+7,VC2M7M05,VCMMG263,Demonstrate that the angle sum of a triangle is 180° and use this to find the angle sum of a quadrilateral,Refined,Refined for clarity
+7,VC2M7M06,VCMNA249,Recognise and solve problems involving simple ratios,Updated,Split and refined
+7,VC2M7SP01,VCMMG260,Draw different views of prisms and solids formed from combinations of prisms,Refined,Refined
+7,VC2M7SP02,VCMMG262,Classify triangles according to their side and angle properties and describe quadrilaterals,Refined,Refined for clarity
+7,VC2M7SP03,VCMMG261,"Describe translations, reflections in an axis, and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries",Refined,Refined
+7,VC2M7SP04,,,New,New content description
+7,VC2M7ST01,VCMSP270,"Calculate mean, median, mode and range for sets of data. Interpret these statistics in the context of data",Updated,Combined and refined
+7,VC2M7ST01,VCMSP271,"Describe and interpret data displays using median, mean and range",Updated,Combined and refined
+7,VC2M7ST02,VCMSP269,Construct and compare a range of data displays including stem-and-leaf plots and dot plots,Updated,"Combined, refined and realigned from Level 8 Number and Algebra"
+7,VC2M7ST02,VCMSP271,"Describe and interpret data displays using median, mean and range",Updated,"Combined, refined and realigned from Level 8 Number and Algebra"
+7,VC2M7ST02,VCMSP270,"Calculate mean, median, mode and range for sets of data. Interpret these statistics in the context of data",Updated,"Combined, refined and realigned from Level 8 Number and Algebra"
+7,VC2M7ST02,VCMSP300,"Investigate the effect of individual data values including outliers, on the range, mean and median",Updated,"Combined, refined and realigned from Level 8 Number and Algebra"
+7,VC2M7ST03,VCMSP268,Identify and investigate issues involving numerical data collected from primary and secondary sources,New,Content description consolidated with new content into VC2M7ST03 to facilitate connections in sequencing
+7,VC2M7ST03,,,New,Content description consolidated with new content into VC2M7ST03 to facilitate connections in sequencing
+7,VC2M7P01,VCMSP266,Construct sample spaces for single-step experiments with equally likely outcomes,Updated,Combined and refined
+7,VC2M7P01,VCMSP267,Assign probabilities to the outcomes of events and determine probabilities for events,Updated,Combined and refined
+7,VC2M7P02,,,New,New content description
+8,VC2M8N01,VCMNA275,"Investigate the concept of irrational numbers, including π",Refined,Refined
+8,VC2M8N02,VCMNA272,Use index notation with numbers to establish the index laws with positive integral indices and the zero index,Refined,Refined for clarity
+8,VC2M8N03,VCMNA274,Investigate terminating and recurring decimals,Refined,Refined
+8,VC2M8N04,VCMNA273,"Carry out the four operations with rational numbers and integers, using efficient mental and written strategies and appropriate digital technologies and make estimates for these computations",Refined,Refined
+8,VC2M8N05,VCMNA276,"Solve problems involving the use of percentages, including percentage increases and decreases and percentage error, with and without digital technologies",Refined,No change
+8,,VCMNA277,"Solve a range of problems involving rates and ratios, including distance-time problems for travel at a constant speed, with and without digital technologies",Removed,Removed and content consolidated into VC2M8M07 to facilitate connections in sequencing
+8,VC2M8N06,VCMNA276,"Solve problems involving the use of percentages, including percentage increases and decreases and percentage error, with and without digital technologies",Updated,"Combined, refined and realigned from Level 9 Number and Algebra"
+8,VC2M8N06,VCMNA278,"Solve problems involving profit and loss, with and without digital technologies",Updated,"Combined, refined and realigned from Level 9 Number and Algebra"
+8,VC2M8N06,VCMNA304,Solve problems involving simple interest,Updated,"Combined, refined and realigned from Level 9 Number and Algebra"
+8,VC2M8A01,VCMNA279,Extend and apply the distributive law to the expansion of algebraic expressions,Updated,Combined and refined
+8,VC2M8A01,VCMNA280,Factorise algebraic expressions  by identifying numerical factors,Updated,Combined and refined
+8,VC2M8A01,VCMNA281,Simplify algebraic expressions involving the four operations,Updated,Combined and refined
+8,VC2M8A02,VCMNA283,Plot linear relationships on the Cartesian plane with and without the use of digital technologies,Updated,"Split, combined and realigned from Level 9 and Level 10 Number and Algebra"
+8,VC2M8A02,VCMNA284,Solve linear equations using algebraic and graphical techniques. Verify solutions by substitution,Updated,"Split, combined and realigned from Level 9 and Level 10 Number and Algebra"
+8,VC2M8A02,VCMNA310,Sketch linear graphs using the coordinates of two points and solve linear equations,Updated,"Split, combined and realigned from Level 9 and Level 10 Number and Algebra"
+8,VC2M8A02,VCMNA335,"Solve problems involving linear equations, including those derived from formulas",Updated,"Split, combined and realigned from Level 9 and Level 10 Number and Algebra"
+8,,VCMNA285,"Plot graphs of non-linear real life data with and without the use of digital technologies, and interpret and analyse these graphs",Removed,Removed. Content outside the scope of the strand for this level
+8,VC2M8A03,,,New,New content description
+8,VC2M8A04,VCMNA282,Use algorithms and related testing procedures to identify and correct errors,Refined,No change
+8,VC2M8A05,,,New,New content description
+8,VC2M8M01,VCMMG287,"Find perimeters and areas of parallelograms, trapeziums, rhombuses and kites",Updated,"Split, combined and realigned from Level 9 Measurement and Geometry"
+8,VC2M8M01,VCMMG286,Choose appropriate units of measurement for area and volume and convert from one unit to another,Updated,"Split, combined and realigned from Level 9 Measurement and Geometry"
+8,VC2M8M01,VCMMG312,Calculate the areas of composite shapes,Updated,"Split, combined and realigned from Level 9 Measurement and Geometry"
+8,VC2M8M02,VCMMG289,Develop the formulas for volumes of rectangular and triangular prisms and prisms in general. Use formulas to solve problems involving volume,Updated,"Split, combined and realigned from Level 6 Measurement and Geometry"
+8,VC2M8M02,VCMMG225,Connect volume and capacity and their units of measurement,Updated,"Split, combined and realigned from Level 6 Measurement and Geometry"
+8,VC2M8M02,VCMMG286,Choose appropriate units of measurement for area and volume and convert from one unit to another,Updated,"Split, combined and realigned from Level 6 Measurement and Geometry"
+8,VC2M8M03,VCMMG288,"Investigate the relationship between features of circles such as circumference, area, radius and diameter. Use formulas to solve problems involving determining  radius, diameter, circumference and area from each other",Updated,Split and refined
+8,VC2M8M04,VCMMG290,"Solve problems involving duration, including using 12- and 24-hour time within a single time zone",Refined,Refined
+8,VC2M8M05,VCMNA277,"Solve a range of problems involving rates and ratios, including distance-time problems for travel at a constant speed, with and without digital technologies",Updated,Split and refined
+8,VC2M8M06,VCMMG318,Investigate Pythagoras’ Theorem and its application to solving simple problems involving right angled triangles,Updated,Split and realigned from Level 9 Measurement and Geometry
+8,VC2M8M07,VCMNA277,"Solve a range of problems involving rates and ratios, including distance-time problems for travel at a constant speed, with and without digital technologies",New,Content description and new content consolidated to facilitate connections in sequencing
+8,VC2M8SP01,VCMMG291,Define congruence of plane shapes using transformations and use transformations of congruent shapes to produce regular patterns in the plane including tessellations with and without the use of digital technology,Updated,Combined and refined
+8,VC2M8SP01,VCMMG292,Develop the conditions for congruence of triangles,Updated,Combined and refined
+8,VC2M8SP02,VCMMG293,"Establish properties of quadrilaterals using congruent triangles and angle properties, and solve related numerical problems using reasoning",Refined,Refined for clarity
+8,VC2M8SP03,,,New,New content description
+8,VC2M8SP04,,,New,New content description
+8,VC2M8ST01,VCMSP297,"Distinguish between a population and a sample and investigate  techniques for collecting data, including census, sampling and observation",Updated,Split and combined
+8,VC2M8ST01,VCMSP298,Explore the practicalities and implications of obtaining data through sampling using a variety of investigative processes,Updated,Split and combined
+8,VC2M8ST02,VCMSP298,Explore the practicalities and implications of obtaining data through sampling using a variety of investigative processes,Refined,Refined
+8,VC2M8ST03,VCMSP299,Explore the variation of means and proportions of random samples drawn from the same population,Refined,Refined for clarity
+8,VC2M8ST04,,,New,New content description
+8,VC2M8P01,VCMSP294,Identify complementary events and use the sum of probabilities to solve problems,Refined,Refined for clarity
+8,VC2M8P02,VCMSP295,"Describe events using language of ‘at least’, exclusive ‘or’ (A or B but not both), inclusive ‘or’ (A or B or both) and ‘and’",Updated,Combined and refined
+8,VC2M8P02,VCMSP296,Represent events in two-way tables and Venn diagrams and solve related problems,Updated,Combined and refined
+8,VC2M8P03,,,New,New content description
+9,VC2M9N01,,,New,New content description
+9,,VCMNA307,Apply set structures to solve real-world problems,Removed,Removed to reduce duplication
+9,VC2M9A01,VCMNA302,Apply index laws to numerical expressions with integer indices,Updated,Combined and refined
+9,VC2M9A01,VCMNA305,"Extend and apply the index laws to variables, using positive integer indices and the zero index",Updated,Combined and refined
+9,VC2M9A02,VCMNA306,"Apply the distributive law to the expansion of algebraic expressions, including binomials, and collect like terms where appropriate",Updated,"Split, combined, refined and realigned from Level 2 Number and Algebra"
+9,VC2M9A02,VCMNA332,Expand binomial products and factorise monic quadratic expressions using a variety of strategies,Updated,"Split, combined, refined and realigned from Level 2 Number and Algebra"
+9,VC2M9A03,VCMNA310,Sketch linear graphs using the coordinates of two points and solve linear equations,Refined,No change
+9,VC2M9A04,VCMNA308,"Find the distance between two points located on a Cartesian plane using a range of strategies, including graphing software",Updated,Combined and refined
+9,VC2M9A04,VCMNA309,"Find the midpoint and gradient of a line segment (interval) on the Cartesian plane using a range of strategies, including graphing software",Updated,Combined and refined
+9,VC2M9A05,VCMNA311,Graph simple non-linear relations with and without the use of digital technologies and solve simple related equations,Updated,Combined and realigned from Level 10 Number and Algebra
+9,VC2M9A05,VCMNA341,Solve simple quadratic equations using a range of strategies,Updated,Combined and realigned from Level 10 Number and Algebra
+9,VC2M9A06,,,New,New content description
+9,VC2M9A07,,,New,New content description
+9,VC2M9M01,VCMMG313,Calculate the surface area and volume of cylinders and solve related problems,Updated,Combined and refined
+9,VC2M9M01,VCMMG314,Solve problems involving the surface area and volume of right prisms,Updated,Combined and refined
+9,VC2M9M02,VCMMG315,Investigate very small and very large time scales and intervals,Updated,Combined and refined
+9,VC2M9M02,VCMNA303,Express numbers in scientific notation,Updated,Combined and refined
+9,VC2M9M03,VCMMG318,Investigate Pythagoras’ Theorem and its application to solving simple problems involving right angled triangles,Updated,Combined and split
+9,VC2M9M03,VCMMG320,Apply trigonometry to solve right-angled triangle problems,Updated,Combined and split
+9,VC2M9M03,VCMMG316,Use the enlargement transformation to  explain similarity and develop the conditions for triangles to be similar,Updated,Combined and split
+9,VC2M9M03,VCMMG317,Solve problems using ratio and scale factors in similar figures,Updated,Combined and split
+9,VC2M9M04,,,New,New content description
+9,VC2M9M05,VCMNA301,Solve problems involving direct proportion. Explore the relationship between graphs and equations corresponding to simple rate problems,Updated,Split and refined
+9,VC2M9M05,VCMMG317,Solve problems using ratio and scale factors in similar figures,Updated,Split and refined
+9,VC2M9SP01,VCMMG319,"Use similarity to investigate the constancy of the sine, cosine and tangent ratios for a given angle in right-angled triangles",Refined,Refined for clarity
+9,VC2M9SP02,VCMMG316,Use the enlargement transformation to  explain similarity and develop the conditions for triangles to be similar,Updated,Split and refined
+9,VC2M9SP03,,,New,New content description
+9,VC2M9ST01,VCMSP323,Investigate reports of surveys in digital media and elsewhere for information on how data were obtained to estimate population means and medians,Refined,Refined
+9,VC2M9ST02,,,New,New content description
+9,VC2M9ST03,VCMSP325,"Construct back-to-back stem-and-leaf plots and histograms and describe data, using terms including ‘skewed’, ‘symmetric’ and ‘bi modal’",Updated,Combined and refined
+9,VC2M9ST03,VCMSP326,"Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of location (centre) and spread",Updated,Combined and refined
+9,VC2M9ST04,,,New,New content description
+9,VC2M9ST05,VCMSP324,"Identify everyday questions and issues involving at least one numerical and at least one categorical variable, and collect data directly from secondary sources",Refined,Refined for clarity
+9,VC2M9P01,VCMSP321,"List all outcomes for two-step chance experiments, both with and without replacement using tree diagrams or arrays. Assign probabilities to outcomes and determine probabilities for events",Refined,Refined
+9,VC2M9P02,VCMSP322,Calculate relative frequencies from given or collected data to estimate probabilities of events involving ‘and’ or ‘or’,Refined,Refined for clarity
+9,VC2M9P03,,,New,New content description
+10,,VCMNA327,Solve simple problems involving inverse proportion,Removed,Removed to reduce duplication and consolidated into VC2M10A15 to facilitate connections in sequencing
+10,VC2M10N01,,,New,New content description
+10,VC2M10A01,VCMNA329,Factorise algebraic expressions by taking out a common algebraic factor,Updated,No change
+10,VC2M10A01,VCMNA330,Simplify algebraic products and quotients using index laws,Updated,No change
+10,VC2M10A01,VCMNA331,Apply the four operations to simple algebraic fractions with numerical denominators,Updated,No change
+10,VC2M10A01,VCMNA332,Expand binomial products and factorise monic quadratic expressions using a variety of strategies,Updated,No change
+10,VC2M10A02,VCMNA329,Factorise algebraic expressions by taking out a common algebraic factor,Updated,No change
+10,VC2M10A02,VCMNA330,Simplify algebraic products and quotients using index laws,Updated,No change
+10,VC2M10A02,VCMNA331,Apply the four operations to simple algebraic fractions with numerical denominators,Updated,No change
+10,VC2M10A02,VCMNA332,Expand binomial products and factorise monic quadratic expressions using a variety of strategies,Updated,No change
+10,VC2M10A03,VCMNA329,Factorise algebraic expressions by taking out a common algebraic factor,Updated,No change
+10,VC2M10A03,VCMNA330,Simplify algebraic products and quotients using index laws,Updated,No change
+10,VC2M10A03,VCMNA331,Apply the four operations to simple algebraic fractions with numerical denominators,Updated,No change
+10,VC2M10A03,VCMNA332,Expand binomial products and factorise monic quadratic expressions using a variety of strategies,Updated,No change
+10,VC2M10A04,VCMNA329,Factorise algebraic expressions by taking out a common algebraic factor,Updated,No change
+10,VC2M10A04,VCMNA330,Simplify algebraic products and quotients using index laws,Updated,No change
+10,VC2M10A04,VCMNA331,Apply the four operations to simple algebraic fractions with numerical denominators,Updated,No change
+10,VC2M10A04,VCMNA332,Expand binomial products and factorise monic quadratic expressions using a variety of strategies,Updated,No change
+10,VC2M10A05,VCMNA333,Substitute values into formulas to determine an unknown and re-arrange formulas to solve for a particular term,Refined,No change
+10,VC2M10A06,VCMNA334,Implement algorithms using data structures in a general-purpose programming language,Refined,Inclusion of pseudocode as an option for computational thinking contexts
+10,VC2M10A07,VCMNA335,"Solve problems involving linear equations, including those derived from formulas",Refined,No change
+10,VC2M10A08,VCMNA336,Solve linear inequalities and graph their solutions on a number line,Updated,No change
+10,VC2M10A08,VCMNA337,"Solve simultaneous linear equations, using algebraic and graphical techniques including using digital technology",Updated,No change
+10,VC2M10A09,VCMNA336,Solve linear inequalities and graph their solutions on a number line,Updated,No change
+10,VC2M10A09,VCMNA337,"Solve simultaneous linear equations, using algebraic and graphical techniques including using digital technology",Updated,No change
+10,VC2M10A10,VCMNA338,Solve problems involving gradients of parallel and perpendicular lines,Refined,No change
+10,VC2M10A11,VCMNA339,"Explore the connection between algebraic and graphical representations of relations such as simple quadratic, reciprocal, circle and exponential, using digital technology as appropriate",Updated,Combined and realigned from Level 10A Number and Algebra
+10,VC2M10A11,VCMNA360,Solve simple exponential equations,Updated,Combined and realigned from Level 10A Number and Algebra
+10,VC2M10A12,VCMNA340,Solve linear equations involving simple algebraic fractions,Refined,No change
+10,VC2M10A13,VCMNA341,Solve simple quadratic equations using a range of strategies,Refined,No change
+10,VC2M10A14,VCMNA360,Solve simple exponential equations,Refined,No change
+10,VC2M10A15,VCMNA328,Connect the compound interest formula to repeated applications of simple interest using appropriate digital technologies,Updated,Content descriptions consolidated to facilitate connections in sequencing
+10,VC2M10A15,VCMNA335,"Solve problems involving linear equations, including those derived from formulas",Updated,Content descriptions consolidated to facilitate connections in sequencing
+10,VC2M10A16,VCMNA342,Solve equations using systematic guess-check-and-refine with digital technology,Refined,No change
+10,VC2M10M01,VCMMG343,"Solve problems involving surface area and volume for a range of prisms, cylinders and composite solids",Refined,Refined for clarity
+10,VC2M10M02,,,New,New content description
+10,VC2M10M03,VCMMG346,Solve right-angled triangle problems including those involving direction and angles of elevation and depression,Refined,Refined for clarity
+10,VC2M10M04,,,New,Content description VCMNA327 incorporated here to facilitate connections in sequencing
+10,VC2M10M04,,,New,Content description VCMNA327 incorporated here to facilitate connections in sequencing
+10,VC2M10SP01,VCMMG344,Formulate proofs involving congruent triangles and angle properties,Updated,Combined and refined
+10,VC2M10SP01,VCMMG345,"Apply logical reasoning, including the use of congruence and similarity, to proofs and numerical exercises involving plane shapes",Updated,Combined and refined
+10,VC2M10SP02,,,New,New content description
+10,VC2M10ST01,VCMSP349,"Determine quartiles and interquartile range and investigate the effect of individual data values, including outliers on the interquartile range",Updated,Content descriptions consolidated to facilitate connections in sequencing
+10,VC2M10ST01,VCMSP350,Construct and interpret box plots and use them to compare data sets,Updated,Content descriptions consolidated to facilitate connections in sequencing
+10,VC2M10ST01,VCMSP351,Compare shapes of box plots to corresponding histograms and dot plots and discuss the distribution of data,Updated,Content descriptions consolidated to facilitate connections in sequencing
+10,VC2M10ST02,VCMSP352,Use scatter plots to investigate and comment on relationships between two numerical variables,Refined,Refined for clarity
+10,VC2M10ST03,VCMSP353,"Investigate and describe bivariate numerical data, including where the independent variable is time",Removed,Removed – combined with VC2M10ST05
+10,VC2M10ST04,VCMSP354,"Evaluate statistical reports in the media and other places by linking claims to displays, statistics and representative data",Refined,Refined
+10,VC2M10ST05,,,New,New content description
+10,VC2M10P01,VCMSP348,"Use the language of ‘if ....then, ‘given’, ‘of’, ‘knowing that’ to investigate conditional statements and identify common mistakes in interpreting such language",New,Content description and new content consolidated to facilitate connections in sequencing
+10,VC2M10P02,VCMSP347,"Describe the results of two- and three-step chance experiments, both with and without replacements, assign probabilities to outcomes and determine probabilities of events. Investigate the concept of independence",Refined,No difference
+10A,VC2M10AN01,VCMNA355,Define rational and irrational numbers and perform operations with surds and fractional indices,Refined,No change
+10A,VC2M10AN02,,,New,New content description
+10A,VC2M10AN03,VCMNA356,Use the definition of a logarithm to establish and apply the laws of logarithms and investigate logarithmic scales in measurement,Refined,No change
+10A,VC2M10AA01,VCMNA357,Investigate the concept of a polynomial and apply the factor and remainder theorems to solve problems,Refined,No change
+10A,VC2M10AA02,VCMNA358,Devise and use algorithms and simulations to solve mathematical problems,Refined,No change
+10A,VC2M10AA03,,,New,New content description
+10A,VC2M10AA04,,,New,New content description
+10A,VC2M10AA05,VCMNA359,"Describe, interpret and sketch parabolas, hyperbolas, circles and exponential functions and their transformations",Refined,No change
+10A,VC2M10AA06,VCMNA361,Apply understanding of polynomials to sketch a range of curves and describe the features of these curves from their equation,Refined,No change
+10A,VC2M10AA07,VCMNA362,Factorise monic and non-monic quadratic expressions and solve a wide range of quadratic equations derived from a variety of contexts,Refined,No change
+10A,VC2M10AA08,VCMNA363,Use function notation to describe the relationship between dependent and independent variables in modelling contexts,Refined,No change
+10A,VC2M10AA09,VCMNA364,Solve simultaneous equations using systematic guess-check-and-refine with digital technology,Refined,No change
+10A,VC2M10AA10,,,New,New content description
+10A,VC2M10AM01,VCMMG365,"Solve problems involving surface area and volume of right pyramids, right cones, spheres and related composite solids",Refined,No change
+10A,,VCMMG366,Prove and apply angle and chord properties of circles,Removed,Combined into VC2M10ASP01
+10A,VC2M10AM02,,,New,New content description
+10A,VC2M10ASP01,,,New,New content description
+10A,VC2M10ASP02,VCMMG367,"Establish the sine, cosine and area rules for any triangle and solve related problems",Refined,No change
+10A,VC2M10ASP03,VCMMG368,"Use the unit circle to define trigonometric functions as functions of a real variable, and graph them with and without the use of digital technologies",Refined,No change
+10A,VC2M10ASP04,VCMMG369,Solve simple trigonometric equations,Refined,No change
+10A,VC2M10ASP05,VCMMG370,Apply Pythagoras’ theorem and trigonometry to solving three-dimensional problems in right-angled triangles,Refined,No change
+10A,VC2M10ASP06,,,New,New content description
+10A,VC2M10AST01,VCMSP372,"Calculate and interpret the mean and standard deviation of data and use these to compare data sets. Investigate the effect of individual data values including outliers, on the standard deviation",Refined,No change
+10A,VC2M10AST02,,,New,New content description
+10A,VC2M10AST03,VCMSP373,"Use digital technology to investigate bivariate numerical data sets. Where appropriate use a straight line to describe the relationship allowing for variation, make predictions based on this straight line and discuss limitations",Refined,No change
+10A,VC2M10AP01,,,New,New content description
+10A,VC2M10AP02,VCMSP371,Investigate reports of studies in digital media and elsewhere for information on their planning and implementation,Refined,No change
