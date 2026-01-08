@@ -1,32 +1,32 @@
-Term,Definition,Subject
-Aboriginal English,"The name given to the complex, rule-governed varieties of English that are spoken by over 80 per cent of First Nations Peoples across Australia.",English
-Academic text,A specialised text from a given field using formal language.,English
-Accents,"Distinctive ways of pronouncing a language, usually associated with a particular country or region (e.g. the American accents).",English
-Adjective,"A word class that describes, identifies or quantifies a noun or a pronoun, for example ‘two’ (number or quantity), ‘my’ (possessive), ‘ancient’ (descriptive), ‘shorter’ (comparative) and ‘wooden’ (classifying).",English
-Adverb,"A word class that may modify a verb (e.g. ‘beautifully’ in ‘She sings beautifully’), an adjective (e.g. ‘really’ in ‘He is really interesting’) or another adverb (e.g. ‘very’ in ‘She walks very slowly’). In English, many adverbs have an -ly ending.",English
-Adverbial,"A word or group of words that contributes additional but non-essential information to the larger structure of a clause.
+SubjectArea,Subject,Term,Definition
+English,English,Aboriginal English,"The name given to the complex, rule-governed varieties of English that are spoken by over 80 per cent of First Nations Peoples across Australia."
+English,English,Academic text,A specialised text from a given field using formal language.
+English,English,Accents,"Distinctive ways of pronouncing a language, usually associated with a particular country or region (e.g. the American accents)."
+English,English,Adjective,"A word class that describes, identifies or quantifies a noun or a pronoun, for example ‘two’ (number or quantity), ‘my’ (possessive), ‘ancient’ (descriptive), ‘shorter’ (comparative) and ‘wooden’ (classifying)."
+English,English,Adverb,"A word class that may modify a verb (e.g. ‘beautifully’ in ‘She sings beautifully’), an adjective (e.g. ‘really’ in ‘He is really interesting’) or another adverb (e.g. ‘very’ in ‘She walks very slowly’). In English, many adverbs have an -ly ending."
+English,English,Adverbial,"A word or group of words that contributes additional but non-essential information to the larger structure of a clause.
 
 An adverbial can contribute circumstantial information to a clause (e.g. about place, such as ‘outside’ in ‘I spoke with him outside’ or when or how, such as ‘quickly’ in ‘She responded quickly’). It can also contribute evaluative interpersonal meaning to a clause (e.g. ‘frankly’ in ‘Frankly, I don’t care’).
 
 Adverbs, adverb groups, prepositional phrases, nouns and noun groups can function as an adverbial in a clause (e.g. ‘tentatively’ in ‘They opened the letter tentatively’ or ‘on the beach’ in ‘The dog was running on the beach’).
 
-An alternative term for ‘adverbial’ is ‘adjunct’.",English
-Aesthetic,Relates to a sense of beauty or an appreciation of artistic expression. The selection of texts that are recognised as having aesthetic or artistic value is an important focus of the Literature strand.,English
-Alliteration,"The recurrence of the same consonant sounds at the beginning of words in close succession, for example ‘ripe, red raspberry’.",English
-Allusion,"An indirect reference to a person or character, event, idea or work of art, which contributes to the meaning of the text (e.g. ‘chocolate was her Achilles heel’).",English
-Antonym,"A word opposite in meaning to another (e.g. ‘empty’ is an antonym for ‘full’, and ‘cold’ is an antonym for ‘hot’).",English
-Apostrophe,A punctuation mark used mainly to indicate either possession (e.g. ‘David’s phone’) or omission of letters and numbers (e.g. ‘isn’t’ or ‘the ’90s’).,English
-Appreciation,The act of discerning the quality and value of literary texts.,English
-Article,"A word that indicates which, how many or how much the noun is associated with. The 3 English articles are ‘the’, ‘a’ and ‘an’.",English
-Audience,"The intended or assumed group of readers, listeners or viewers that the writer, designer, filmmaker or speaker is addressing.",English
-Authentic texts,"Real, living or natural language texts that may entertain, inform and/or persuade.",English
-Author,"The composer or originator of a work (e.g. a novel, film, website, speech, essay or autobiography).",English
-Author’s style,The distinctive qualities that characterise an author’s work.,English
-Base word,"A form of a word that conveys the essential meaning. It is not derived from or made up of other words and has no prefixes or suffixes (e.g. ‘action’, ‘activate’ and ‘react’ are all from the base word ‘act’).",English
-Bias,"Presentation by an author of one point of view favouring one side in an argument or discussion, sometimes accompanied by a refusal to consider possible merits of alternative points of view.",English
-Blend,Running the individual sounds in a word together to make a word (e.g. sounding out /b/-/i/-/g/ to make ‘big’).,English
-Camera angle,"The angle at which the camera is pointed at the subject. Vertical angles can be low, level or high. Horizontal angles can be oblique (side on) or frontal.",English
-Clause,"A grammatical unit referring to a happening or state. A clause creates a message through the combination of a subject (the element being identified for comment) and its predicate (the comment about the subject, which contains a verb), for example ‘I (subject) shall eat my dinner (predicate).’
+An alternative term for ‘adverbial’ is ‘adjunct’."
+English,English,Aesthetic,Relates to a sense of beauty or an appreciation of artistic expression. The selection of texts that are recognised as having aesthetic or artistic value is an important focus of the Literature strand.
+English,English,Alliteration,"The recurrence of the same consonant sounds at the beginning of words in close succession, for example ‘ripe, red raspberry’."
+English,English,Allusion,"An indirect reference to a person or character, event, idea or work of art, which contributes to the meaning of the text (e.g. ‘chocolate was her Achilles heel’)."
+English,English,Antonym,"A word opposite in meaning to another (e.g. ‘empty’ is an antonym for ‘full’, and ‘cold’ is an antonym for ‘hot’)."
+English,English,Apostrophe,A punctuation mark used mainly to indicate either possession (e.g. ‘David’s phone’) or omission of letters and numbers (e.g. ‘isn’t’ or ‘the ’90s’).
+English,English,Appreciation,The act of discerning the quality and value of literary texts.
+English,English,Article,"A word that indicates which, how many or how much the noun is associated with. The 3 English articles are ‘the’, ‘a’ and ‘an’."
+English,English,Audience,"The intended or assumed group of readers, listeners or viewers that the writer, designer, filmmaker or speaker is addressing."
+English,English,Authentic texts,"Real, living or natural language texts that may entertain, inform and/or persuade."
+English,English,Author,"The composer or originator of a work (e.g. a novel, film, website, speech, essay or autobiography)."
+English,English,Author’s style,The distinctive qualities that characterise an author’s work.
+English,English,Base word,"A form of a word that conveys the essential meaning. It is not derived from or made up of other words and has no prefixes or suffixes (e.g. ‘action’, ‘activate’ and ‘react’ are all from the base word ‘act’)."
+English,English,Bias,"Presentation by an author of one point of view favouring one side in an argument or discussion, sometimes accompanied by a refusal to consider possible merits of alternative points of view."
+English,English,Blend,Running the individual sounds in a word together to make a word (e.g. sounding out /b/-/i/-/g/ to make ‘big’).
+English,English,Camera angle,"The angle at which the camera is pointed at the subject. Vertical angles can be low, level or high. Horizontal angles can be oblique (side on) or frontal."
+English,English,Clause,"A grammatical unit referring to a happening or state. A clause creates a message through the combination of a subject (the element being identified for comment) and its predicate (the comment about the subject, which contains a verb), for example ‘I (subject) shall eat my dinner (predicate).’
 
 There are different kinds of clauses. The clause that is essential to any sentence is an independent (or main) clause.
 
@@ -40,14 +40,14 @@ A clause that provides additional information to the independent clause but cann
 
 An embedded clause occurs within the structure of another clause, often as a qualifier to a noun group. For example:
 
-• ‘The man who came to dinner (embedded) is my brother.’",English
-Cohesion,"Grammatical or lexical relationships that bind different parts of a text together and give it unity. Cohesion is achieved through various devices such as connectives, ellipses and word associations (sometimes called lexical cohesion). These associations include synonyms (words similar in meaning, for example ‘big’/‘large’ and ‘easy’/‘simple’), antonyms (words opposite in meaning, for example ‘study’/’laze about’ and ‘ugly’/’beautiful’), repetition (‘Work, work, work – that’s all we do!’), word sets (e.g. class-sub-class or part-whole sets) and collocation (using words that go with each other, e.g. ‘friend’ and ‘pal’ in ‘My friend did me a big favour last week. She’s been a real pal.’).",English
-Colon,"A punctuation mark (:) that separates a general statement from one or more statements that provide additional information, explanation or illustration. The statements that follow the colon do not have to be complete sentences.",English
-Complex sentence,"A sentence containing an independent (or main) clause and one or more dependent (or subordinate) clauses. The dependent clause is joined to the independent clause through subordinating conjunctions like ‘when’, ‘while’ and ‘before’.
+• ‘The man who came to dinner (embedded) is my brother.’"
+English,English,Cohesion,"Grammatical or lexical relationships that bind different parts of a text together and give it unity. Cohesion is achieved through various devices such as connectives, ellipses and word associations (sometimes called lexical cohesion). These associations include synonyms (words similar in meaning, for example ‘big’/‘large’ and ‘easy’/‘simple’), antonyms (words opposite in meaning, for example ‘study’/’laze about’ and ‘ugly’/’beautiful’), repetition (‘Work, work, work – that’s all we do!’), word sets (e.g. class-sub-class or part-whole sets) and collocation (using words that go with each other, e.g. ‘friend’ and ‘pal’ in ‘My friend did me a big favour last week. She’s been a real pal.’)."
+English,English,Colon,"A punctuation mark (:) that separates a general statement from one or more statements that provide additional information, explanation or illustration. The statements that follow the colon do not have to be complete sentences."
+English,English,Complex sentence,"A sentence containing an independent (or main) clause and one or more dependent (or subordinate) clauses. The dependent clause is joined to the independent clause through subordinating conjunctions like ‘when’, ‘while’ and ‘before’.
 
-A complex sentence will not make sense without an independent clause. In the following example, the dependent clause is underlined and the conjunction is in bold: ‘When the sun came out, we all went outside.’",English
-Compound sentence,"A sentence consisting of 2 or more independent (main) clauses joined by coordinating conjunctions like ‘and’, ‘or’, ‘but’ and ‘so’. Each clause is coordinated or linked so as to give each one equal status as a message. In the following example, the coordinating conjunction is underlined and verbs are highlighted: ‘The sun emerged and we all went outside.’",English
-Comprehension strategies,"Strategies and processes used by readers to make meaning from texts. Key comprehension strategies used by readers include:
+A complex sentence will not make sense without an independent clause. In the following example, the dependent clause is underlined and the conjunction is in bold: ‘When the sun came out, we all went outside.’"
+English,English,Compound sentence,"A sentence consisting of 2 or more independent (main) clauses joined by coordinating conjunctions like ‘and’, ‘or’, ‘but’ and ‘so’. Each clause is coordinated or linked so as to give each one equal status as a message. In the following example, the coordinating conjunction is underlined and verbs are highlighted: ‘The sun emerged and we all went outside.’"
+English,English,Comprehension strategies,"Strategies and processes used by readers to make meaning from texts. Key comprehension strategies used by readers include:
 
 • activating and using prior knowledge
 
@@ -63,10 +63,10 @@ Comprehension strategies,"Strategies and processes used by readers to make meani
 
 • integrating ideas and information in texts
 
-• critically reflecting on content, structure, language and images used to construct meaning in a text.",English
-Concept,An abstract or theoretical idea or notion.,English
-Concepts about print,"Concepts about how English print works, which include information about where to start reading and how the print travels from left to right across the page. Concepts about print are essential for beginning reading.",English
-Conjunction,"A word that joins other words, phrases or clauses together in logical relationships such as addition, time, cause or comparison. There are 2 major types of conjunctions for linking messages: coordinating conjunctions and subordinating conjunctions.
+• critically reflecting on content, structure, language and images used to construct meaning in a text."
+English,English,Concept,An abstract or theoretical idea or notion.
+English,English,Concepts about print,"Concepts about how English print works, which include information about where to start reading and how the print travels from left to right across the page. Concepts about print are essential for beginning reading."
+English,English,Conjunction,"A word that joins other words, phrases or clauses together in logical relationships such as addition, time, cause or comparison. There are 2 major types of conjunctions for linking messages: coordinating conjunctions and subordinating conjunctions.
 
 • Coordinating conjunctions are words that link words, phrases and clauses in such a way that the elements have equal status in meaning. They include conjunctions like ‘and’, ‘or’ and ‘but’, as in the following examples:
 
@@ -82,8 +82,8 @@ Conjunction,"A word that joins other words, phrases or clauses together in logic
 
   - ‘whether’ (or ‘if’ when it is used in the same way as ‘whether’) marks interrogatives: ‘I wonder whether/if she’s right’
 
-  - ‘while’, ‘after’, ‘when’, ‘because’ and ‘if’ (in the conditional sense) mark the kind of dependent clause the word introduces, for example one of time, reason or condition: ‘We went home after/when the meeting ended’, ‘They stayed in because it was raining’ or ‘I'll do it if you pay me’",English
-Connective,"Words that link paragraphs and sentences in logical relationships of time, cause and effect, comparison or addition. Connectives relate ideas to one another and help to show the logic of the information. They are important resources for creating cohesion in texts. The logical relationships can be grouped as follows:
+  - ‘while’, ‘after’, ‘when’, ‘because’ and ‘if’ (in the conditional sense) mark the kind of dependent clause the word introduces, for example one of time, reason or condition: ‘We went home after/when the meeting ended’, ‘They stayed in because it was raining’ or ‘I'll do it if you pay me’"
+English,English,Connective,"Words that link paragraphs and sentences in logical relationships of time, cause and effect, comparison or addition. Connectives relate ideas to one another and help to show the logic of the information. They are important resources for creating cohesion in texts. The logical relationships can be grouped as follows:
 
 • temporal – to indicate time or to sequence ideas (e.g. ‘first’, ‘second’ or ‘next’)
 
@@ -95,89 +95,89 @@ Connective,"Words that link paragraphs and sentences in logical relationships of
 
 • conditional/concessive – to make conditions or concession (e.g. ‘yet’ or ‘although’)
 
-• clarifying – to make clear (e.g. ‘in fact’ or ‘for example’)",English
-Consonant,"All letters of the alphabet that are not vowels. The 21 consonants are b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y and z.",English
-Consonant blend,"A group of 2 or 3 consonants that are all pronounced individually (e.g. /b/ and /l/ in the word ‘black’, or /s/, /p/ and /r/ in the word ‘spring’).",English
-Context,"The environment in which a text is responded to or created. Context can include the general historical, cultural and social conditions in which a text is responded to and created (context of culture) or the specific features of its immediate environment (context of situation). The term is also used to refer to the wording surrounding an unfamiliar word, which a reader or listener uses to understand its meaning.",English
-Contraction,"An abbreviated version of a word or words, often formed by shortening a word or merging 2 words into one (e.g. ‘doctor’/‘Dr’, ‘do not’/‘don’t’).",English
-Convention,"An accepted language practice that has developed over time and is generally used and understood, for example the use of punctuation.",English
-Coordinating conjunctions,"Words that link phrases and clauses in such a way that the elements have equal status in meaning. They include conjunctions like ‘and’, ‘or’, ‘either’/‘neither’, ‘but’, ‘so’ and ‘then’.",English
-Country,"The physical environment that a particular Aboriginal and Torres Strait Islander Peoples’ group has a relationship with. Referring to this territory as ‘Country’, rather than land, indicates a reciprocal and deep relationship and one where Country both owns and is owned by the People. The concept of Country includes lands, waters and sky.",English
-Creating,"The development and/or production of spoken, written or multimodal texts in print or digital forms.",English
-Decodable texts,Texts that contain a high percentage of words made up of learnt phoneme–grapheme patterns. Decodable texts support beginning readers to practise their phonic skills.,English
-Decode,"The process of applying phoneme–grapheme correspondence knowledge to read words. Following decoding, readers draw on contextual, vocabulary and grammatical knowledge to make meaning and recognise when they make an error (for example when reading words that are spelled the same but are pronounced differently), self-correcting when they do.",English
-Dependent clause,"A clause that cannot make complete sense on its own: it needs to be combined with an independent clause to form a complete sentence. The dependent clause can be introduced by a finite verb, like ‘goes’ in the following sentence: ‘When the sun goes down, I shall eat my dinner.’ It can also be introduced by non-finite verbs, as in ‘going’ in the following sentence: ‘From 1966 to 2001 the total population decreased, going from 11,800 down to 11,077.’",English
-Design,"The way particular elements are selected and used in the process of text construction for particular purposes. These elements might be linguistic (words), visual (images), audio (sounds), gestural (body language), spatial (arrangement on the page, screen or 3D) or multimodal (a combination of more than one).",English
-Develop,"To build on, change or advance to be more complete.",English
-Digital texts,"Audio, visual or multimodal texts produced through digital or electronic technology, which may be interactive and include animations and/or hyperlinks. Examples of digital texts include DVDs, websites and e-literature.",English
-Digital tools,"Digital hardware, software, platforms and resources used to develop and communicate learning, ideas and information.",English
-Digraph,"Two letters that represent a single sound. Vowel digraphs are 2 vowels (‘oo’, ‘ea’). Consonant digraphs have 2 consonants (‘sh’, ‘th’). Vowel/consonant digraphs have one vowel and one consonant (‘er’, ‘ow’).",English
-Edit,"To prepare, alter, adapt or refine texts with attention to elements such as structure, cohesion, grammar, spelling, punctuation and vocabulary.",English
-Elaborated tenses,"Complex tenses other than simple tenses, such as present continuous (e.g. ‘she has been running’).",English
-Ellipsis,"• The omission of words that repeat what has gone before; these terms are simply understood (e.g. in ‘The project will be innovative. To be involved will be exciting’, ‘in the project’ is ellipsed in the second sentence).
+• clarifying – to make clear (e.g. ‘in fact’ or ‘for example’)"
+English,English,Consonant,"All letters of the alphabet that are not vowels. The 21 consonants are b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y and z."
+English,English,Consonant blend,"A group of 2 or 3 consonants that are all pronounced individually (e.g. /b/ and /l/ in the word ‘black’, or /s/, /p/ and /r/ in the word ‘spring’)."
+English,English,Context,"The environment in which a text is responded to or created. Context can include the general historical, cultural and social conditions in which a text is responded to and created (context of culture) or the specific features of its immediate environment (context of situation). The term is also used to refer to the wording surrounding an unfamiliar word, which a reader or listener uses to understand its meaning."
+English,English,Contraction,"An abbreviated version of a word or words, often formed by shortening a word or merging 2 words into one (e.g. ‘doctor’/‘Dr’, ‘do not’/‘don’t’)."
+English,English,Convention,"An accepted language practice that has developed over time and is generally used and understood, for example the use of punctuation."
+English,English,Coordinating conjunctions,"Words that link phrases and clauses in such a way that the elements have equal status in meaning. They include conjunctions like ‘and’, ‘or’, ‘either’/‘neither’, ‘but’, ‘so’ and ‘then’."
+English,English,Country,"The physical environment that a particular Aboriginal and Torres Strait Islander Peoples’ group has a relationship with. Referring to this territory as ‘Country’, rather than land, indicates a reciprocal and deep relationship and one where Country both owns and is owned by the People. The concept of Country includes lands, waters and sky."
+English,English,Creating,"The development and/or production of spoken, written or multimodal texts in print or digital forms."
+English,English,Decodable texts,Texts that contain a high percentage of words made up of learnt phoneme–grapheme patterns. Decodable texts support beginning readers to practise their phonic skills.
+English,English,Decode,"The process of applying phoneme–grapheme correspondence knowledge to read words. Following decoding, readers draw on contextual, vocabulary and grammatical knowledge to make meaning and recognise when they make an error (for example when reading words that are spelled the same but are pronounced differently), self-correcting when they do."
+English,English,Dependent clause,"A clause that cannot make complete sense on its own: it needs to be combined with an independent clause to form a complete sentence. The dependent clause can be introduced by a finite verb, like ‘goes’ in the following sentence: ‘When the sun goes down, I shall eat my dinner.’ It can also be introduced by non-finite verbs, as in ‘going’ in the following sentence: ‘From 1966 to 2001 the total population decreased, going from 11,800 down to 11,077.’"
+English,English,Design,"The way particular elements are selected and used in the process of text construction for particular purposes. These elements might be linguistic (words), visual (images), audio (sounds), gestural (body language), spatial (arrangement on the page, screen or 3D) or multimodal (a combination of more than one)."
+English,English,Develop,"To build on, change or advance to be more complete."
+English,English,Digital texts,"Audio, visual or multimodal texts produced through digital or electronic technology, which may be interactive and include animations and/or hyperlinks. Examples of digital texts include DVDs, websites and e-literature."
+English,English,Digital tools,"Digital hardware, software, platforms and resources used to develop and communicate learning, ideas and information."
+English,English,Digraph,"Two letters that represent a single sound. Vowel digraphs are 2 vowels (‘oo’, ‘ea’). Consonant digraphs have 2 consonants (‘sh’, ‘th’). Vowel/consonant digraphs have one vowel and one consonant (‘er’, ‘ow’)."
+English,English,Edit,"To prepare, alter, adapt or refine texts with attention to elements such as structure, cohesion, grammar, spelling, punctuation and vocabulary."
+English,English,Elaborated tenses,"Complex tenses other than simple tenses, such as present continuous (e.g. ‘she has been running’)."
+English,English,Ellipsis,"• The omission of words that repeat what has gone before; these terms are simply understood (e.g. in ‘The project will be innovative. To be involved will be exciting’, ‘in the project’ is ellipsed in the second sentence).
 
 • Through a related resource called substitution, where a word like ‘one’ is substituted for a noun or noun group, as in ‘There are lots of apples in the bowl. Can I have one?’ (of them).
 
 • A cohesive resource that binds text together and is commonly used in dialogue for speed of response and economy of effort, for example (do you) ‘Want a drink?’ and ‘Thanks, I would’ (like a drink).
 
-• The use of 3 dots (…). This form of punctuation (also known as points of ellipsis) can be used to indicate such things as surprise or suspense in a narrative text (e.g. ‘They all stood frozen as the door opened slowly …’), in digital contexts such as apps and websites to show that more options are available, and where words or phrases have been omitted from a sentence or quoted passage.",English
-Etymology,The origins and development of the form and meaning of words and how these meanings and forms have changed over time.,English
-Evaluative language,"Positive or negative language that judges the worth of something. It includes language to express feelings and opinions, to make judgements about aspects of people such as their behaviour, and to assess the quality of things such as literary works. Evaluations can be made explicit (e.g. through the use of adjectives, as in ‘That’s a lovely poem’, ‘He’s an awful man’ or ‘How wonderful!’), or they can be left implicit (e.g. ‘He dropped the ball when he was tackled’ or ‘Sarah put her arm around the child while she wept’).",English
-Evocative vocabulary,"Vivid language that captures attention and imagination, conveying emotions and actions.",English
-Expand,To express in fuller form or detail.,English
-Experiment,"To try or test something, such as a text structure, language feature or literary device, to shape meaning or evoke a response.",English
-Features of voice,"Particular vocal qualities a speaker selects and uses (including volume, tone, pitch, pace and fluency) to engage, and have an impact on, their audience.",English
-Figurative language,"Words or phrases used in a way that differs from the expected or everyday usage, and in a non-literal way for particular effect (e.g. simile, metaphor or personification).",English
-Fluency,"An ability to read a text accurately using pace, phrasing and expression appropriately. Also refers to an ability to write with automaticity using a functional pencil grip or grasp.",English
-Framing,"The way in which elements in a still or moving image are arranged to create a specific interpretation of the whole. Strong framing creates a sense of enclosure around elements, while weak framing creates a sense of openness.",English
-Genre (or literary genre),"The categories into which texts are grouped. While this term has a complex history within literary theory, for the purposes of the English curriculum, it is a term used to distinguish texts on the basis of their subject matter (e.g. detective fiction, romance, science fiction or fantasy fiction). In other contexts, it can be used to describe form and structure (e.g. of poetry, novels or short stories).",English
-Grammar,"The language we use and the description of language as a system. In describing language, attention is paid to both structure (form) and meaning (function) at the level of the word, the sentence and the text.",English
-Grapheme,A letter or group of letters that spell a phoneme in a word (e.g. /f/ in the word ‘fog’ or /ph/ in the word ‘photo’).,English
-Handwriting,"The production of legible, correctly formed letters by hand or with the assistance of writing tools, for example a pencil grip or assistive technology.",English
-High-frequency words,"The words that appear frequently in texts. Some high-frequency words are decodable, such as ‘big’, and others have irregular spelling patterns, such as ‘was.’",English
-Homophone,"A word identical in pronunciation to another but different in meaning and spelling, for example ‘bare’ and ‘bear’, or ‘air’ and ‘heir’.",English
-Hybrid texts,Composite texts created by a purposeful mixing of elements from different sources or genres (e.g. infotainment).,English
-Idiom or idiomatic expressions,Expressions whose meaning does not relate to the literal meaning of its words (e.g. ‘They went out to paint the town red’).,English
-Image,"A picture or visual representation that may be moving or still (such as a photograph, painting or drawing) and which may represent something real, symbolic or imagined.",English
-Imagery,"Visually descriptive or figurative language to represent things, including objects, actions and ideas in ways that appeal to the senses of the reader or viewer.",English
-Independent clause,"A clause that makes sense on its own, whereas a dependent clause needs to be added to an independent clause for the sentence to make sense.",English
-Indigenous Cultural and Intellectual Property (ICIP),"The rights of Aboriginal and Torres Strait Islander Peoples to own and control their cultural heritage. This refers to all aspects of cultural heritage, including the tangible (e.g. cultural objects) and intangible (e.g. knowledge).",English
-Interaction skills,"Social, speaking and listening skills selected for purpose and audience to interact and communicate with others in ways that may be linguistic, vocal and non-verbal.",English
-Interpersonal language,"Language used for interacting with others, such as language to express feelings, opinions and judgements and language used for social purposes.",English
-Intertextuality or intertextual references,"The associations or connections between one text and other texts. Intertextual references can be more or less explicit and self-conscious. They can take the form of direct quotation, parody, allusion or structural borrowing.",English
-Juxtaposition,"The placement of 2 or more ideas, characters, actions, settings, phrases or words side-by-side for a particular purpose (e.g. to highlight contrast or for rhetorical effect).",English
-Language features,"The features of language that support meaning, for example sentence structure, vocabulary, illustrations, diagrams, graphics, punctuation, figurative language and language patterns (patterns of repetition or similarity, such as the repeated use of verbs at the beginning of a recipe).
+• The use of 3 dots (…). This form of punctuation (also known as points of ellipsis) can be used to indicate such things as surprise or suspense in a narrative text (e.g. ‘They all stood frozen as the door opened slowly …’), in digital contexts such as apps and websites to show that more options are available, and where words or phrases have been omitted from a sentence or quoted passage."
+English,English,Etymology,The origins and development of the form and meaning of words and how these meanings and forms have changed over time.
+English,English,Evaluative language,"Positive or negative language that judges the worth of something. It includes language to express feelings and opinions, to make judgements about aspects of people such as their behaviour, and to assess the quality of things such as literary works. Evaluations can be made explicit (e.g. through the use of adjectives, as in ‘That’s a lovely poem’, ‘He’s an awful man’ or ‘How wonderful!’), or they can be left implicit (e.g. ‘He dropped the ball when he was tackled’ or ‘Sarah put her arm around the child while she wept’)."
+English,English,Evocative vocabulary,"Vivid language that captures attention and imagination, conveying emotions and actions."
+English,English,Expand,To express in fuller form or detail.
+English,English,Experiment,"To try or test something, such as a text structure, language feature or literary device, to shape meaning or evoke a response."
+English,English,Features of voice,"Particular vocal qualities a speaker selects and uses (including volume, tone, pitch, pace and fluency) to engage, and have an impact on, their audience."
+English,English,Figurative language,"Words or phrases used in a way that differs from the expected or everyday usage, and in a non-literal way for particular effect (e.g. simile, metaphor or personification)."
+English,English,Fluency,"An ability to read a text accurately using pace, phrasing and expression appropriately. Also refers to an ability to write with automaticity using a functional pencil grip or grasp."
+English,English,Framing,"The way in which elements in a still or moving image are arranged to create a specific interpretation of the whole. Strong framing creates a sense of enclosure around elements, while weak framing creates a sense of openness."
+English,English,Genre (or literary genre),"The categories into which texts are grouped. While this term has a complex history within literary theory, for the purposes of the English curriculum, it is a term used to distinguish texts on the basis of their subject matter (e.g. detective fiction, romance, science fiction or fantasy fiction). In other contexts, it can be used to describe form and structure (e.g. of poetry, novels or short stories)."
+English,English,Grammar,"The language we use and the description of language as a system. In describing language, attention is paid to both structure (form) and meaning (function) at the level of the word, the sentence and the text."
+English,English,Grapheme,A letter or group of letters that spell a phoneme in a word (e.g. /f/ in the word ‘fog’ or /ph/ in the word ‘photo’).
+English,English,Handwriting,"The production of legible, correctly formed letters by hand or with the assistance of writing tools, for example a pencil grip or assistive technology."
+English,English,High-frequency words,"The words that appear frequently in texts. Some high-frequency words are decodable, such as ‘big’, and others have irregular spelling patterns, such as ‘was.’"
+English,English,Homophone,"A word identical in pronunciation to another but different in meaning and spelling, for example ‘bare’ and ‘bear’, or ‘air’ and ‘heir’."
+English,English,Hybrid texts,Composite texts created by a purposeful mixing of elements from different sources or genres (e.g. infotainment).
+English,English,Idiom or idiomatic expressions,Expressions whose meaning does not relate to the literal meaning of its words (e.g. ‘They went out to paint the town red’).
+English,English,Image,"A picture or visual representation that may be moving or still (such as a photograph, painting or drawing) and which may represent something real, symbolic or imagined."
+English,English,Imagery,"Visually descriptive or figurative language to represent things, including objects, actions and ideas in ways that appeal to the senses of the reader or viewer."
+English,English,Independent clause,"A clause that makes sense on its own, whereas a dependent clause needs to be added to an independent clause for the sentence to make sense."
+English,English,Indigenous Cultural and Intellectual Property (ICIP),"The rights of Aboriginal and Torres Strait Islander Peoples to own and control their cultural heritage. This refers to all aspects of cultural heritage, including the tangible (e.g. cultural objects) and intangible (e.g. knowledge)."
+English,English,Interaction skills,"Social, speaking and listening skills selected for purpose and audience to interact and communicate with others in ways that may be linguistic, vocal and non-verbal."
+English,English,Interpersonal language,"Language used for interacting with others, such as language to express feelings, opinions and judgements and language used for social purposes."
+English,English,Intertextuality or intertextual references,"The associations or connections between one text and other texts. Intertextual references can be more or less explicit and self-conscious. They can take the form of direct quotation, parody, allusion or structural borrowing."
+English,English,Juxtaposition,"The placement of 2 or more ideas, characters, actions, settings, phrases or words side-by-side for a particular purpose (e.g. to highlight contrast or for rhetorical effect)."
+English,English,Language features,"The features of language that support meaning, for example sentence structure, vocabulary, illustrations, diagrams, graphics, punctuation, figurative language and language patterns (patterns of repetition or similarity, such as the repeated use of verbs at the beginning of a recipe).
 
-Choices in language features together with text structures define a type of text and shape its meaning. These choices vary according to the purpose of a text, its subject matter, audience and mode or medium of production.",English
-Language modes,"For the purposes of the English curriculum, the processes of speaking, listening, reading, viewing and writing, which underpin effective communication.",English
-Layout,"The spatial arrangement of print and graphics on a page or screen, including size of font, positioning of illustrations, inclusion of captions, labels, headings, bullet points, borders and text boxes.",English
-Listening,"Using the sense of hearing and other senses, as well as a range of active behaviours, to comprehend information transmitted through gesture, body language and sound.",English
-Literary device,"A structural or language technique used to shape meaning, and for aesthetic or stylistic purposes (e.g. narrative structure, characterisation and setting, rhetorical devices and figurative language).",English
-Literary text,Past and contemporary texts across a range of cultural contexts that are valued for their form and style and are recognised as having artistic value. A ‘wide range’ of literary texts (as referenced in the English curriculum) refers to diversity and breadth in text selection.,English
-Long vowel,"A vowel that is pronounced in the same way as the name of the letter (e.g. the ‘e’ sound in ‘be’, and the ‘o’ sound in ‘go’).",English
-Media texts,"Spoken, print, graphic or electronic communications with a public audience. They often involve numerous people in their construction and are usually shaped by the technology used in their production.
+Choices in language features together with text structures define a type of text and shape its meaning. These choices vary according to the purpose of a text, its subject matter, audience and mode or medium of production."
+English,English,Language modes,"For the purposes of the English curriculum, the processes of speaking, listening, reading, viewing and writing, which underpin effective communication."
+English,English,Layout,"The spatial arrangement of print and graphics on a page or screen, including size of font, positioning of illustrations, inclusion of captions, labels, headings, bullet points, borders and text boxes."
+English,English,Listening,"Using the sense of hearing and other senses, as well as a range of active behaviours, to comprehend information transmitted through gesture, body language and sound."
+English,English,Literary device,"A structural or language technique used to shape meaning, and for aesthetic or stylistic purposes (e.g. narrative structure, characterisation and setting, rhetorical devices and figurative language)."
+English,English,Literary text,Past and contemporary texts across a range of cultural contexts that are valued for their form and style and are recognised as having artistic value. A ‘wide range’ of literary texts (as referenced in the English curriculum) refers to diversity and breadth in text selection.
+English,English,Long vowel,"A vowel that is pronounced in the same way as the name of the letter (e.g. the ‘e’ sound in ‘be’, and the ‘o’ sound in ‘go’)."
+English,English,Media texts,"Spoken, print, graphic or electronic communications with a public audience. They often involve numerous people in their construction and are usually shaped by the technology used in their production.
 
-The media texts studied in English can be found in newspapers and magazines and on television, film, radio, computer software and the internet.",English
-Metalanguage,"Vocabulary including technical terms, concepts, ideas or codes used to describe or discuss a language. The language of grammar and the language of literary criticism are examples.",English
-Metaphor,A type of figurative language used to describe a person or object through an implicit comparison to something with similar characteristics.,English
-Metonymy,"The use of the name of one thing or attribute to represent something larger or related (e.g. using the word ‘Crown’ to represent the monarch of a country; referring to a place for an event, as in ‘Chernobyl’ when referring to changed attitudes to nuclear power; or using a time for an event, as in ‘9/11’ when referring to changed global relations).",English
-Modality,"Aspects of language that suggest a particular angle on events, or a speaker or writer’s assessment of possibility, probability, obligation and conditionality. These aspects are expressed linguistically in choices for modal verbs (e.g. ‘can’, ‘may’, ‘must’ or ‘should’), modal adverbs (e.g. ‘possibly’, ‘probably’ or ‘certainly’) and modal nouns (e.g. ‘possibility’, ‘probability’ or ‘certainty’).",English
-Modal verb,"A verb that expresses a degree of probability attached by a speaker to a statement (e.g. ‘I might come home.’) or a degree of obligation (e.g. ‘You must give it to me.’, or ‘You are not permitted to smoke in here.’).",English
-Mode,"For the purposes of the English curriculum, the features or formats that convey spoken, written, visual, audio, gestural and spatial meaning, such as spoken text, print, image, sound, gesture and spatial design.",English
-Morpheme,"The smallest meaningful or grammatical unit in language. Morphemes are not necessarily the same as words. The word ‘cat’ has one morpheme, while the word ‘cats’ has 2 morphemes: ‘cat’ for the animal and ‘s’ to indicate that there is more than one. Similarly, ‘like’ has one morpheme, while ‘dislike’ has 2: ‘like’ to describe appreciation and ‘dis’ to indicate the opposite.",English
-Morphological knowledge,"Knowledge of morphemes, morphemic processes and the different forms and combinations of morphemes (e.g. the word ‘unfriendly’ is formed from the stem ‘friend’, the adjective-forming suffix ‘ly’ and the negative prefix ‘un’). Also known as morphemic knowledge.",English
-Morphological word families,"Groups of words that share a common morpheme and usually have a related meaning (e.g. ‘pay’, ‘repay’ and ‘payment’, or ‘music’ and ‘musician’).",English
-Multimodal text,"A text that combines 2 or more modes (e.g. print, image and spoken text, as in a film or computer presentation). See also: Mode.",English
-Multisyllabic,Words consisting of more than one syllable. Also known as polysyllabic.,English
-Narrative,"A story of events or experiences, real or imagined. In literary theory, narrative includes the story (what is narrated) and the discourse (how it is narrated).",English
-Neologism,The creation of a new word or expression.,English
-Nominalisation,"The process of forming nouns from verbs (e.g. ‘reaction’ from ‘react’ or ‘departure’ from ‘depart’) or adjectives (e.g. ‘length’ from ‘long’ or ‘eagerness’ from ‘eager’).
+The media texts studied in English can be found in newspapers and magazines and on television, film, radio, computer software and the internet."
+English,English,Metalanguage,"Vocabulary including technical terms, concepts, ideas or codes used to describe or discuss a language. The language of grammar and the language of literary criticism are examples."
+English,English,Metaphor,A type of figurative language used to describe a person or object through an implicit comparison to something with similar characteristics.
+English,English,Metonymy,"The use of the name of one thing or attribute to represent something larger or related (e.g. using the word ‘Crown’ to represent the monarch of a country; referring to a place for an event, as in ‘Chernobyl’ when referring to changed attitudes to nuclear power; or using a time for an event, as in ‘9/11’ when referring to changed global relations)."
+English,English,Modality,"Aspects of language that suggest a particular angle on events, or a speaker or writer’s assessment of possibility, probability, obligation and conditionality. These aspects are expressed linguistically in choices for modal verbs (e.g. ‘can’, ‘may’, ‘must’ or ‘should’), modal adverbs (e.g. ‘possibly’, ‘probably’ or ‘certainly’) and modal nouns (e.g. ‘possibility’, ‘probability’ or ‘certainty’)."
+English,English,Modal verb,"A verb that expresses a degree of probability attached by a speaker to a statement (e.g. ‘I might come home.’) or a degree of obligation (e.g. ‘You must give it to me.’, or ‘You are not permitted to smoke in here.’)."
+English,English,Mode,"For the purposes of the English curriculum, the features or formats that convey spoken, written, visual, audio, gestural and spatial meaning, such as spoken text, print, image, sound, gesture and spatial design."
+English,English,Morpheme,"The smallest meaningful or grammatical unit in language. Morphemes are not necessarily the same as words. The word ‘cat’ has one morpheme, while the word ‘cats’ has 2 morphemes: ‘cat’ for the animal and ‘s’ to indicate that there is more than one. Similarly, ‘like’ has one morpheme, while ‘dislike’ has 2: ‘like’ to describe appreciation and ‘dis’ to indicate the opposite."
+English,English,Morphological knowledge,"Knowledge of morphemes, morphemic processes and the different forms and combinations of morphemes (e.g. the word ‘unfriendly’ is formed from the stem ‘friend’, the adjective-forming suffix ‘ly’ and the negative prefix ‘un’). Also known as morphemic knowledge."
+English,English,Morphological word families,"Groups of words that share a common morpheme and usually have a related meaning (e.g. ‘pay’, ‘repay’ and ‘payment’, or ‘music’ and ‘musician’)."
+English,English,Multimodal text,"A text that combines 2 or more modes (e.g. print, image and spoken text, as in a film or computer presentation). See also: Mode."
+English,English,Multisyllabic,Words consisting of more than one syllable. Also known as polysyllabic.
+English,English,Narrative,"A story of events or experiences, real or imagined. In literary theory, narrative includes the story (what is narrated) and the discourse (how it is narrated)."
+English,English,Neologism,The creation of a new word or expression.
+English,English,Nominalisation,"The process of forming nouns from verbs (e.g. ‘reaction’ from ‘react’ or ‘departure’ from ‘depart’) or adjectives (e.g. ‘length’ from ‘long’ or ‘eagerness’ from ‘eager’).
 
 Also refers to the process of forming noun phrases from clauses (e.g. ‘their destruction of the city’ from ‘they destroyed the city’).
 
-Nominalisation is a way of making a text more compact and is often a feature of texts that contain abstract ideas and concepts.",English
-Non-standard English,"Varieties of spoken and written English, often used in informal contexts, that use language and vocabulary considered outside standards agreed to by the general population. Examples can include slang and expletives.",English
-Noun,"A word class used to represent places, people, ideas and things. Nouns can be made plural (e.g. ‘dog’/‘dogs’) and can be marked for possession (e.g. ‘dog’/‘dog’s’). There are different types of nouns, including:
+Nominalisation is a way of making a text more compact and is often a feature of texts that contain abstract ideas and concepts."
+English,English,Non-standard English,"Varieties of spoken and written English, often used in informal contexts, that use language and vocabulary considered outside standards agreed to by the general population. Examples can include slang and expletives."
+English,English,Noun,"A word class used to represent places, people, ideas and things. Nouns can be made plural (e.g. ‘dog’/‘dogs’) and can be marked for possession (e.g. ‘dog’/‘dog’s’). There are different types of nouns, including:
 
 • common noun: refers to a person, thing or place in a class or group (e.g. ‘teacher’, ‘table’ and ‘desert’)
 
@@ -191,54 +191,54 @@ Noun,"A word class used to represent places, people, ideas and things. Nouns can
 
 • concrete noun: refers to something that has a physical reality, that may be seen, touched or tasted
 
-• pronoun: refers to words like ‘I’, ‘you’, ‘them’ and ‘hers’ that are used in place of a noun.",English
-Noun groups,"A group of words building on a noun. Noun groups usually consist of an article (‘the’, ‘a’ or ‘an’) plus one or more adjectives. They can also include demonstratives (e.g. ‘this’ or ‘those’), possessives (e.g. ‘my’ or ‘Ann’s’), quantifiers (e.g. ‘two’ or ‘several’), or classifiers (e.g. ‘wooden’) before the head noun.",English
-Objective language,"Language used to convey evidence-based ideas and conclusion, minimising the emotions, personal opinions and judgements of the speaker or writer.",English
-Onomatopoeia,"A word that imitates a sound. Onomatopoeic words are used as a literary device to enhance description (e.g. ‘moan’, ‘thump’ and ‘meow’).",English
-Pace,The rate of speech used or varied for purpose and audience.,English
-Personification,A type of metaphor in which qualities of a person or a living thing are attributed or transferred to something non-living or inanimate (e.g. ‘the last chance he had just walked out the door’).,English
-Perspective,"A lens through which the author perceives the world and creates a text, or the lens through which the reader or viewer perceives the world and understands a text.",English
-Phase,"The variable patterns that unfold in each stage of a text, such as the paragraph describing the setting in the orientation of a narrative or the placement of evidence in the body of an argument.",English
-Phoneme,"The smallest unit of sound in a word. The word ‘it’ has 2 phonemes: /i/ and /t/. The word ‘ship’ has 3 phonemes: /sh/, /i/, /p/.",English
-Phoneme–grapheme correspondence knowledge,The knowledge of how letters in printed English relate to the sounds of the language. Also known as grapheme–phoneme correspondence knowledge or GPC.,English
-Phoneme deletion,"The formation of a different word by removing a phoneme (e.g. taking the /t/ away from the word ‘train’ to make a new word, ‘rain’).",English
-Phoneme substitution,Substituting phonemes for others (e.g. changing the /r/ in ‘rat’ to /b/ to make ‘bat’). This can also occur with middle and final phonemes (e.g. changing the /a/ in ‘cat’ to /o/ to make ‘cot’).,English
-Phonemic awareness,"A sub-skill of phonological awareness, referring to the ability to identify/isolate, blend, segment and manipulate sounds in words.",English
-Phonic knowledge,Understanding of the relationships between letters and sounds in a language; the correspondence between the sounds (phonemes) and the letter patterns that represent these sounds (graphemes).,English
-Phonological awareness,"A broad concept that relates to the sounds of spoken language. It includes understandings about words, rhyme and syllables.
+• pronoun: refers to words like ‘I’, ‘you’, ‘them’ and ‘hers’ that are used in place of a noun."
+English,English,Noun groups,"A group of words building on a noun. Noun groups usually consist of an article (‘the’, ‘a’ or ‘an’) plus one or more adjectives. They can also include demonstratives (e.g. ‘this’ or ‘those’), possessives (e.g. ‘my’ or ‘Ann’s’), quantifiers (e.g. ‘two’ or ‘several’), or classifiers (e.g. ‘wooden’) before the head noun."
+English,English,Objective language,"Language used to convey evidence-based ideas and conclusion, minimising the emotions, personal opinions and judgements of the speaker or writer."
+English,English,Onomatopoeia,"A word that imitates a sound. Onomatopoeic words are used as a literary device to enhance description (e.g. ‘moan’, ‘thump’ and ‘meow’)."
+English,English,Pace,The rate of speech used or varied for purpose and audience.
+English,English,Personification,A type of metaphor in which qualities of a person or a living thing are attributed or transferred to something non-living or inanimate (e.g. ‘the last chance he had just walked out the door’).
+English,English,Perspective,"A lens through which the author perceives the world and creates a text, or the lens through which the reader or viewer perceives the world and understands a text."
+English,English,Phase,"The variable patterns that unfold in each stage of a text, such as the paragraph describing the setting in the orientation of a narrative or the placement of evidence in the body of an argument."
+English,English,Phoneme,"The smallest unit of sound in a word. The word ‘it’ has 2 phonemes: /i/ and /t/. The word ‘ship’ has 3 phonemes: /sh/, /i/, /p/."
+English,English,Phoneme–grapheme correspondence knowledge,The knowledge of how letters in printed English relate to the sounds of the language. Also known as grapheme–phoneme correspondence knowledge or GPC.
+English,English,Phoneme deletion,"The formation of a different word by removing a phoneme (e.g. taking the /t/ away from the word ‘train’ to make a new word, ‘rain’)."
+English,English,Phoneme substitution,Substituting phonemes for others (e.g. changing the /r/ in ‘rat’ to /b/ to make ‘bat’). This can also occur with middle and final phonemes (e.g. changing the /a/ in ‘cat’ to /o/ to make ‘cot’).
+English,English,Phonemic awareness,"A sub-skill of phonological awareness, referring to the ability to identify/isolate, blend, segment and manipulate sounds in words."
+English,English,Phonic knowledge,Understanding of the relationships between letters and sounds in a language; the correspondence between the sounds (phonemes) and the letter patterns that represent these sounds (graphemes).
+English,English,Phonological awareness,"A broad concept that relates to the sounds of spoken language. It includes understandings about words, rhyme and syllables.
 
-Note: The term ‘sound’ relates to the sound we make when we say a letter or word, not to the letter in print. A letter may have more than one sound, such as the letter ‘a’ in ‘was’, ‘can’ or ‘father’, and a sound can be represented by more than one letter, such as the sound /k/ in ‘cat’ and ‘walk’. The word ‘ship’ has 3 sounds: /sh/, /i/, and /p/; but it has 4 letters: ‘s’, ‘h’, ‘i’ and ‘p’. Teachers should use the terms ‘sound’ and ‘letter’ accurately to help students clearly distinguish between the 2.",English
-Phrase,"A unit intermediate between clause and word consisting of a head word alone or accompanied by one or more dependents. The class of a phrase is determined by the head: a phrase with a noun as head is a noun phrase (e.g. ‘men’ or ‘the men who died’), while one with a verb as head is a verb phrase (e.g. ‘went’ or ‘had gone’), and so on.",English
-Pitch,The frequency (the highness or lowness of tone) of sound used or varied for purpose and audience. See also: Features of voice.,English
-Place,"‘Place’ is significant for Aboriginal and Torres Strait Islander Peoples.
+Note: The term ‘sound’ relates to the sound we make when we say a letter or word, not to the letter in print. A letter may have more than one sound, such as the letter ‘a’ in ‘was’, ‘can’ or ‘father’, and a sound can be represented by more than one letter, such as the sound /k/ in ‘cat’ and ‘walk’. The word ‘ship’ has 3 sounds: /sh/, /i/, and /p/; but it has 4 letters: ‘s’, ‘h’, ‘i’ and ‘p’. Teachers should use the terms ‘sound’ and ‘letter’ accurately to help students clearly distinguish between the 2."
+English,English,Phrase,"A unit intermediate between clause and word consisting of a head word alone or accompanied by one or more dependents. The class of a phrase is determined by the head: a phrase with a noun as head is a noun phrase (e.g. ‘men’ or ‘the men who died’), while one with a verb as head is a verb phrase (e.g. ‘went’ or ‘had gone’), and so on."
+English,English,Pitch,The frequency (the highness or lowness of tone) of sound used or varied for purpose and audience. See also: Features of voice.
+English,English,Place,"‘Place’ is significant for Aboriginal and Torres Strait Islander Peoples.
 
 For Torres Strait Islander Peoples, ‘Place’ is a space mapped out that Torres Strait Islander individuals or groups occupy and regard as their own and that has varying degrees of spirituality. It includes lands, waters and sky.
 
-For Aboriginal Peoples, ‘Place’ refers to the special places that exist within Country, the purposes of which vary significantly. They can include places of ceremony and initiation, birth and the provision of healing and health care; places of learning; and places for Sorry Business. These places vary greatly over the various landscapes and seascapes across the continent. There are some parts of Country that have landmarks that directly relate to the ancestor spirits and the creation of existence. These are especially important as culturally significant places and need to be cared for. There are also other places on Country that are important for ceremony, as mentioned above, which are also considered especially important for Aboriginal communities.",English
-Plural,"More than one; for example, ‘dog’ is singular (one dog) and ‘dogs’ is plural (more than one dog), and ‘loaves’ is the plural of ‘loaf’.",English
-Poetic devices,Particular patterns and techniques of language used in poems to create particular effects.,English
-Point of view,"The position from which a text is designed to be perceived. Narrative point of view refers to the ways that a narrator may be related to the story. The narrator, for example, might take the role of first or third person, omniscient or restricted in knowledge of events, and reliable or unreliable in interpretation of what happens.",English
-Predicting,An informed presumption about something that might happen. Predicting at the text level can include working out what a text might contain based on previous knowledge of the type of text and/or evidence from the text.,English
-Prefix,A prefix is a meaningful element added to the beginning of a base word to change its meaning (e.g. ‘un-’ to ‘happy’ to make ‘unhappy’).,English
-Preposition,"A word or small group of words that indicates a time or space relationship between a noun and other words in a sentence, for example ‘The train arrived at 9 o’clock.’ and ‘Freya stood in front of the class.’
+For Aboriginal Peoples, ‘Place’ refers to the special places that exist within Country, the purposes of which vary significantly. They can include places of ceremony and initiation, birth and the provision of healing and health care; places of learning; and places for Sorry Business. These places vary greatly over the various landscapes and seascapes across the continent. There are some parts of Country that have landmarks that directly relate to the ancestor spirits and the creation of existence. These are especially important as culturally significant places and need to be cared for. There are also other places on Country that are important for ceremony, as mentioned above, which are also considered especially important for Aboriginal communities."
+English,English,Plural,"More than one; for example, ‘dog’ is singular (one dog) and ‘dogs’ is plural (more than one dog), and ‘loaves’ is the plural of ‘loaf’."
+English,English,Poetic devices,Particular patterns and techniques of language used in poems to create particular effects.
+English,English,Point of view,"The position from which a text is designed to be perceived. Narrative point of view refers to the ways that a narrator may be related to the story. The narrator, for example, might take the role of first or third person, omniscient or restricted in knowledge of events, and reliable or unreliable in interpretation of what happens."
+English,English,Predicting,An informed presumption about something that might happen. Predicting at the text level can include working out what a text might contain based on previous knowledge of the type of text and/or evidence from the text.
+English,English,Prefix,A prefix is a meaningful element added to the beginning of a base word to change its meaning (e.g. ‘un-’ to ‘happy’ to make ‘unhappy’).
+English,English,Preposition,"A word or small group of words that indicates a time or space relationship between a noun and other words in a sentence, for example ‘The train arrived at 9 o’clock.’ and ‘Freya stood in front of the class.’
 
-Other examples of prepositions are ‘below’, ‘for’, ‘down’, ‘above’, ‘to’, ‘near’, ‘under’, ’since’, ‘between’, ‘with’, ‘before’, ‘after’, ‘into’, ‘from’, ‘beside’, ‘without’, ‘out’, ‘during’, ‘past’, ‘over’, ‘until’, ‘through’, ‘off’, ‘on’, ‘across’, ‘by’, ‘in’ and ‘around.’",English
-Prepositional phrases,"Prepositional phrases are units of meaning within a clause that contain a preposition, for example ‘She ran into the garden’ and ‘He is available from 9 o’clock’.",English
-Presentation,An address or report on a particular topic that can be adapted for different audiences and purposes and may be supported by multimodal features.,English
-Pronoun,"A word that takes the place of a noun (e.g. ‘I’, ‘me’, ‘he’, ‘she’, ‘herself’, ‘you’, ‘it’, ‘that’, ‘they’, ‘few’, ‘many’, ‘who’, ‘whoever’, ‘someone’, ‘everybody’ and many others).",English
-Pronoun referencing,"Using a pronoun to refer to a specific noun or noun group. For example, ‘Guang (noun referred to) lost his (pronoun) phone.’ Cohesive texts use pronoun referencing that is consistent and unambiguous.",English
-Pun,Humorous use of a word to bring out more than one meaning; a play on words.,English
-Purpose,An intended or assumed reason for a type of text.,English
-Reading,"Processing words, symbols or actions to derive and/or construct meaning. Reading includes interpreting, critically analysing and reflecting upon the meaning of a wide range of written and visual, print and non-print texts.",English
-Repetition,"A word, a phrase, a full sentence or a poetic line repeated to emphasise its significance. Repetition is a language feature and a cohesive device.",English
-Rhetorical device,"Use of language that is intended to have an effect on an audience, such as evoking an emotion or persuading an audience by appealing to logos, ethos, pathos and kairos.",English
-Rhetorical question,A question that is asked to provoke thought rather than that requires an answer.,English
-Salience,"A strategy of emphasis, highlighting what is important in a text. In images, salience is created through strategies like placement of an item in the foreground, size, and contrast in tone or colour. In writing, salience can occur through placing what is important at the beginning or at the end of a sentence or paragraph, or through devices such as underlining or italics.",English
-Scan or scanning,"When reading, moving the eyes quickly down the page seeking specific words and phrases. Scanning is also used when a reader first finds a resource, to determine whether it will answer their questions.",English
-Segment,"To recognise and separate phonemes in a word. Speakers may say each sound as they tap it out. For example, for the word ‘man’ they may stretch (e.g. ‘mmmaaannn’) and pause between each phoneme (e.g. /m/-/a/-/n/).",English
-Semantics,Information related to meanings used when reading. Semantic information includes a reader’s own prior knowledge and the meanings embedded in a text.,English
-Semicolon,"A punctuation mark (;) used to join clauses that could stand alone as sentences. In this way, clauses that have a close relationship with one another may be linked together in a single sentence. Can also be used to separate items on a long list.",English
-Sentence,"The largest grammatical construction; a complete expression of a statement, question, command or exclamation. A sentence consists of one or more clauses that are grammatically linked. A written sentence begins with a capital letter and ends with a full stop, question mark or exclamation mark. There are different types of sentences:
+Other examples of prepositions are ‘below’, ‘for’, ‘down’, ‘above’, ‘to’, ‘near’, ‘under’, ’since’, ‘between’, ‘with’, ‘before’, ‘after’, ‘into’, ‘from’, ‘beside’, ‘without’, ‘out’, ‘during’, ‘past’, ‘over’, ‘until’, ‘through’, ‘off’, ‘on’, ‘across’, ‘by’, ‘in’ and ‘around.’"
+English,English,Prepositional phrases,"Prepositional phrases are units of meaning within a clause that contain a preposition, for example ‘She ran into the garden’ and ‘He is available from 9 o’clock’."
+English,English,Presentation,An address or report on a particular topic that can be adapted for different audiences and purposes and may be supported by multimodal features.
+English,English,Pronoun,"A word that takes the place of a noun (e.g. ‘I’, ‘me’, ‘he’, ‘she’, ‘herself’, ‘you’, ‘it’, ‘that’, ‘they’, ‘few’, ‘many’, ‘who’, ‘whoever’, ‘someone’, ‘everybody’ and many others)."
+English,English,Pronoun referencing,"Using a pronoun to refer to a specific noun or noun group. For example, ‘Guang (noun referred to) lost his (pronoun) phone.’ Cohesive texts use pronoun referencing that is consistent and unambiguous."
+English,English,Pun,Humorous use of a word to bring out more than one meaning; a play on words.
+English,English,Purpose,An intended or assumed reason for a type of text.
+English,English,Reading,"Processing words, symbols or actions to derive and/or construct meaning. Reading includes interpreting, critically analysing and reflecting upon the meaning of a wide range of written and visual, print and non-print texts."
+English,English,Repetition,"A word, a phrase, a full sentence or a poetic line repeated to emphasise its significance. Repetition is a language feature and a cohesive device."
+English,English,Rhetorical device,"Use of language that is intended to have an effect on an audience, such as evoking an emotion or persuading an audience by appealing to logos, ethos, pathos and kairos."
+English,English,Rhetorical question,A question that is asked to provoke thought rather than that requires an answer.
+English,English,Salience,"A strategy of emphasis, highlighting what is important in a text. In images, salience is created through strategies like placement of an item in the foreground, size, and contrast in tone or colour. In writing, salience can occur through placing what is important at the beginning or at the end of a sentence or paragraph, or through devices such as underlining or italics."
+English,English,Scan or scanning,"When reading, moving the eyes quickly down the page seeking specific words and phrases. Scanning is also used when a reader first finds a resource, to determine whether it will answer their questions."
+English,English,Segment,"To recognise and separate phonemes in a word. Speakers may say each sound as they tap it out. For example, for the word ‘man’ they may stretch (e.g. ‘mmmaaannn’) and pause between each phoneme (e.g. /m/-/a/-/n/)."
+English,English,Semantics,Information related to meanings used when reading. Semantic information includes a reader’s own prior knowledge and the meanings embedded in a text.
+English,English,Semicolon,"A punctuation mark (;) used to join clauses that could stand alone as sentences. In this way, clauses that have a close relationship with one another may be linked together in a single sentence. Can also be used to separate items on a long list."
+English,English,Sentence,"The largest grammatical construction; a complete expression of a statement, question, command or exclamation. A sentence consists of one or more clauses that are grammatically linked. A written sentence begins with a capital letter and ends with a full stop, question mark or exclamation mark. There are different types of sentences:
 
 • simple sentence: has the form of a single independent clause (e.g. ‘Mary is beautiful.’, ‘The ground shook.’ or ‘Take a seat.’)
 
@@ -246,48 +246,48 @@ Sentence,"The largest grammatical construction; a complete expression of a state
 
 • complex sentence: contains an independent (or main) clause and one or more dependent (or subordinate) clauses. The dependent clause is joined to the independent clause through subordinating conjunctions like ‘when’, ‘while’ and ‘before’, as in the following examples: ‘We all went outside when the sun came out.’ and ‘Because I am reading Shakespeare, my time is limited.’
 
-• compound-complex sentence: contains at least 2 independent clauses and at least one dependent clause. A compound-complex sentence can express longer and more complex thoughts and/or ideas (e.g. ‘At 6 o’clock this morning, I went to feed the animals but I realised I had run out of hay.’)",English
-Silent letter,A letter that is in the written form of a word but is not pronounced in the spoken form (e.g. ‘t’ in the word ‘listen’ or ‘k’ in the word ‘knew’).,English
-Simile,"A device comparing 2 things that are not alike. Similes use ‘like’, ‘as’ or ‘than’ to make the comparison (e.g. ‘The cake was as light as air’).",English
-Simple sentence,A sentence that contains one clause and expresses a complete thought. It has a subject and a verb and may also have an object or complement.,English
-Skim,"Reading quickly, selecting key words and details in a text to determine the general meaning or main messages or ideas.",English
-Sound,"Any sound, other than speech and language, used to create an effect in a text.",English
-Sound devices,"Resources used by poets to convey and reinforce the meaning or experience of poetry through the skilful use of sound (e.g. alliteration, onomatopoeia, rhythm and rhyme).",English
-Speaking,Orally conveying meaning and communicating with purpose. Some students participate in speaking activities using communication systems and assistive technologies.,English
-Spelling generalisations,"Principles that can be applied when trying to spell an unfamiliar word (e.g. words ending in ‘-f’ or ‘-fe’ that form a plural using ‘ves’: ‘calf’ becomes ‘calves’ and ‘knife’ becomes ‘knives’; although there are exceptions, such as ‘chief’ becomes ‘chiefs’).",English
-Spelling patterns,"Regular through to irregular print patterns/representations that can be based on sounds (phonemes), letters or meaning units (morphemes).",English
-Stages,"The stable pattern of the organisation of a genre such as the orientation, complication and resolution of a story or the introduction, body and conclusion of an argument. Stages are broken into phases.",English
-Standard Australian English,"The variety of spoken and written English language in Australia used in more formal settings, such as for official or public purposes, and recorded in dictionaries, style guides and grammars. While Standard Australian English is always dynamic and evolving, it is recognised as the ‘common language’ of Australians.",English
-Stereotype,When a person or thing is judged to be the same as all others of its type. Stereotypes are usually formulaic and oversimplified.,English
-Story,"The telling and relating of characters and events, real or imagined.",English
-Style or stylistic features,"The ways aspects of texts (such as words, sentences and images) are arranged and how they affect meaning. Style can distinguish the work of individual authors (e.g. Jennings’ stories or Lawson’s poems) as well as the work of a particular period (e.g. Elizabethan drama or 19th-century novels). Examples of stylistic features include narrative viewpoint, structure of stanzas, and juxtaposition.",English
-Subject,"An element in the structure of a clause, usually filled by a noun or noun group, that is enacting the verb, for example ‘The dog (subject) was barking’. The normal position of the subject is before the verb or verb group, but in most kinds of interrogative it follows the first auxiliary verb, for example ‘Was the dog barking?’ or ‘Why was the dog barking?’.
+• compound-complex sentence: contains at least 2 independent clauses and at least one dependent clause. A compound-complex sentence can express longer and more complex thoughts and/or ideas (e.g. ‘At 6 o’clock this morning, I went to feed the animals but I realised I had run out of hay.’)"
+English,English,Silent letter,A letter that is in the written form of a word but is not pronounced in the spoken form (e.g. ‘t’ in the word ‘listen’ or ‘k’ in the word ‘knew’).
+English,English,Simile,"A device comparing 2 things that are not alike. Similes use ‘like’, ‘as’ or ‘than’ to make the comparison (e.g. ‘The cake was as light as air’)."
+English,English,Simple sentence,A sentence that contains one clause and expresses a complete thought. It has a subject and a verb and may also have an object or complement.
+English,English,Skim,"Reading quickly, selecting key words and details in a text to determine the general meaning or main messages or ideas."
+English,English,Sound,"Any sound, other than speech and language, used to create an effect in a text."
+English,English,Sound devices,"Resources used by poets to convey and reinforce the meaning or experience of poetry through the skilful use of sound (e.g. alliteration, onomatopoeia, rhythm and rhyme)."
+English,English,Speaking,Orally conveying meaning and communicating with purpose. Some students participate in speaking activities using communication systems and assistive technologies.
+English,English,Spelling generalisations,"Principles that can be applied when trying to spell an unfamiliar word (e.g. words ending in ‘-f’ or ‘-fe’ that form a plural using ‘ves’: ‘calf’ becomes ‘calves’ and ‘knife’ becomes ‘knives’; although there are exceptions, such as ‘chief’ becomes ‘chiefs’)."
+English,English,Spelling patterns,"Regular through to irregular print patterns/representations that can be based on sounds (phonemes), letters or meaning units (morphemes)."
+English,English,Stages,"The stable pattern of the organisation of a genre such as the orientation, complication and resolution of a story or the introduction, body and conclusion of an argument. Stages are broken into phases."
+English,English,Standard Australian English,"The variety of spoken and written English language in Australia used in more formal settings, such as for official or public purposes, and recorded in dictionaries, style guides and grammars. While Standard Australian English is always dynamic and evolving, it is recognised as the ‘common language’ of Australians."
+English,English,Stereotype,When a person or thing is judged to be the same as all others of its type. Stereotypes are usually formulaic and oversimplified.
+English,English,Story,"The telling and relating of characters and events, real or imagined."
+English,English,Style or stylistic features,"The ways aspects of texts (such as words, sentences and images) are arranged and how they affect meaning. Style can distinguish the work of individual authors (e.g. Jennings’ stories or Lawson’s poems) as well as the work of a particular period (e.g. Elizabethan drama or 19th-century novels). Examples of stylistic features include narrative viewpoint, structure of stanzas, and juxtaposition."
+English,English,Subject,"An element in the structure of a clause, usually filled by a noun or noun group, that is enacting the verb, for example ‘The dog (subject) was barking’. The normal position of the subject is before the verb or verb group, but in most kinds of interrogative it follows the first auxiliary verb, for example ‘Was the dog barking?’ or ‘Why was the dog barking?’.
 
 In independent clauses the subject is an obligatory element, except in imperative clauses and casual style, for example ‘There will be no milk left.’
 
-Most personal pronouns have a different form when they are the subject of a finite clause (‘I’, ‘he’, ‘she’, etc.) than when they are the object (‘me’, ‘him’, ‘her’), for example ‘She won the race’, not ‘Her won the race’. In the present tense, and the past tense with the verb ‘be’, the verb agrees with the subject in person and number, for example ‘Her son lives with her’ and ‘Her sons live with her’.",English
-Subjective language,"Use of language that reflects the opinions, interpretations, emotions and judgement of the writer or speaker.",English
-Subject matter,The topic or theme under consideration.,English
-Subordinating conjunction,"Links a dependent clause to an independent (main) clause in a sentence. Examples include conjunctions like ‘when’ in the sentence ‘When I went to Sydney, I met my aunt.’, ‘while’ in ‘While waiting for my dinner, I fell asleep.’ and ‘although’ in ‘Although I left my coat behind in the car, I continued on my way.’",English
-Suffix,A meaningful element added to the end of a base word to change its meaning (e.g. to form past tense: ‘-ed’; to show a smaller amount or degree: ‘-less’; to form an adverb: ‘-ly’).,English
-Syllabification,The process of dividing words into syllables.,English
-Syllable,"A word, or part of a word, pronounced as a unit usually consisting of a vowel alone or a vowel with one or more consonants (e.g. ‘bat’ has one syllable; ‘bat-ting’ has 2 syllables).",English
-Symbolism,"The use of one object, person or situation to signify or represent another, by giving them meanings that are different from their literal sense (e.g. a dove is a symbol of peace).",English
-Synonym,"A word having nearly the same meaning as others (e.g. synonyms for ‘old’ include ‘aged’, ‘venerable’ and ‘antiquated’).",English
-Syntax,"The ways words, phrases and clauses are structured in sentences. In some educational settings ‘syntax’ and ‘grammar’ are used interchangeably.",English
-Tense,"The form a verb takes to signal the location of a clause in time (e.g. ‘Luca laughs’ is present tense, and ‘Luca laughed’ is past tense).",English
-Text,"A means for communication. The forms and conventions of text have developed to help us communicate effectively with a variety of audiences for a range of purposes.
+Most personal pronouns have a different form when they are the subject of a finite clause (‘I’, ‘he’, ‘she’, etc.) than when they are the object (‘me’, ‘him’, ‘her’), for example ‘She won the race’, not ‘Her won the race’. In the present tense, and the past tense with the verb ‘be’, the verb agrees with the subject in person and number, for example ‘Her son lives with her’ and ‘Her sons live with her’."
+English,English,Subjective language,"Use of language that reflects the opinions, interpretations, emotions and judgement of the writer or speaker."
+English,English,Subject matter,The topic or theme under consideration.
+English,English,Subordinating conjunction,"Links a dependent clause to an independent (main) clause in a sentence. Examples include conjunctions like ‘when’ in the sentence ‘When I went to Sydney, I met my aunt.’, ‘while’ in ‘While waiting for my dinner, I fell asleep.’ and ‘although’ in ‘Although I left my coat behind in the car, I continued on my way.’"
+English,English,Suffix,A meaningful element added to the end of a base word to change its meaning (e.g. to form past tense: ‘-ed’; to show a smaller amount or degree: ‘-less’; to form an adverb: ‘-ly’).
+English,English,Syllabification,The process of dividing words into syllables.
+English,English,Syllable,"A word, or part of a word, pronounced as a unit usually consisting of a vowel alone or a vowel with one or more consonants (e.g. ‘bat’ has one syllable; ‘bat-ting’ has 2 syllables)."
+English,English,Symbolism,"The use of one object, person or situation to signify or represent another, by giving them meanings that are different from their literal sense (e.g. a dove is a symbol of peace)."
+English,English,Synonym,"A word having nearly the same meaning as others (e.g. synonyms for ‘old’ include ‘aged’, ‘venerable’ and ‘antiquated’)."
+English,English,Syntax,"The ways words, phrases and clauses are structured in sentences. In some educational settings ‘syntax’ and ‘grammar’ are used interchangeably."
+English,English,Tense,"The form a verb takes to signal the location of a clause in time (e.g. ‘Luca laughs’ is present tense, and ‘Luca laughed’ is past tense)."
+English,English,Text,"A means for communication. The forms and conventions of text have developed to help us communicate effectively with a variety of audiences for a range of purposes.
 
-Texts can be expressions of meaning in written, spoken, visual and multimodal forms and can incorporate language, sound, print, film, electronic and multimodal representations.",English
-Text navigation,"The way in which readers move through text. Readers generally read novels in a linear fashion from the beginning to the end; readers of non-fiction books often use the contents page and index and move between chapters according to the information they are seeking. Readers often read digital texts more flexibly, according to interest and purpose, using hyperlinks to move between pages and digital objects, such as videos or animations, making quick judgements about relevance of material.",English
-Text structure,"The ways information is organised in different types of texts, for example chapter headings, subheadings, tables of contents, indexes and glossaries, overviews, introductory and concluding paragraphs, sequencing, topic sentences, taxonomies, and cause and effect. Choices in text structures and language features together define a text type and shape its purpose and meaning. See also: Language features.",English
-Theme,"The main idea or message of a text.
+Texts can be expressions of meaning in written, spoken, visual and multimodal forms and can incorporate language, sound, print, film, electronic and multimodal representations."
+English,English,Text navigation,"The way in which readers move through text. Readers generally read novels in a linear fashion from the beginning to the end; readers of non-fiction books often use the contents page and index and move between chapters according to the information they are seeking. Readers often read digital texts more flexibly, according to interest and purpose, using hyperlinks to move between pages and digital objects, such as videos or animations, making quick judgements about relevance of material."
+English,English,Text structure,"The ways information is organised in different types of texts, for example chapter headings, subheadings, tables of contents, indexes and glossaries, overviews, introductory and concluding paragraphs, sequencing, topic sentences, taxonomies, and cause and effect. Choices in text structures and language features together define a text type and shape its purpose and meaning. See also: Language features."
+English,English,Theme,"The main idea or message of a text.
 
 Theme is important at different levels of text organisation. The topic sentence serves as the theme for the points raised in a paragraph. A pattern of themes contributes to the method of development for the text as a whole.
 
-Grammatical theme indicates importance both within a clause and across a text. In a clause, the theme comes in first position and indicates what the sentence is about.",English
-Tone,The mood created by the language features used by an author and the way the text makes the reader feel.,English
-Types of texts (or text types),"Classifications according to the particular purposes a text is designed to achieve. These purposes influence the characteristic features that texts employ. In general, in the English curriculum, texts can be classified as belonging to one of 3 types – narrative, informative or persuasive – although it is acknowledged that these distinctions are neither static nor watertight, and that particular texts can belong to more than one category:
+Grammatical theme indicates importance both within a clause and across a text. In a clause, the theme comes in first position and indicates what the sentence is about."
+English,English,Tone,The mood created by the language features used by an author and the way the text makes the reader feel.
+English,English,Types of texts (or text types),"Classifications according to the particular purposes a text is designed to achieve. These purposes influence the characteristic features that texts employ. In general, in the English curriculum, texts can be classified as belonging to one of 3 types – narrative, informative or persuasive – although it is acknowledged that these distinctions are neither static nor watertight, and that particular texts can belong to more than one category:
 
 • narrative texts: texts whose primary purpose is to entertain through their imaginative use of literary elements. They are recognised for their form, style and artistic or aesthetic value. These texts include novels, traditional tales, poetry, stories, plays, fiction for young adults and children (including picture books), and multimodal texts such as film.
 
@@ -295,9 +295,9 @@ Types of texts (or text types),"Classifications according to the particular purp
 
 • persuasive texts: texts whose primary purpose is to put forward a point of view and persuade a reader, viewer or listener. They form a significant part of modern communication in both print and digital environments. These texts include advertising, debates, arguments, discussions, polemics and influential essays and articles.
 
-• See also: Genre.",English
-Values,Ideas and beliefs specific to individuals and groups.,English
-Verb,"Verbs tell us what kind of situation is described in a clause – in particular, whether it is a happening or a state – but they often need other elements to locate the situation in time, to indicate polarity (positive or negative), aspect (whether the situation is completed or not) or modality (the assessment the speaker is making about the situation):
+• See also: Genre."
+English,English,Values,Ideas and beliefs specific to individuals and groups.
+English,English,Verb,"Verbs tell us what kind of situation is described in a clause – in particular, whether it is a happening or a state – but they often need other elements to locate the situation in time, to indicate polarity (positive or negative), aspect (whether the situation is completed or not) or modality (the assessment the speaker is making about the situation):
 
 • doing: for example ‘She climbed the ladder.’
 
@@ -311,22 +311,22 @@ Verb,"Verbs tell us what kind of situation is described in a clause – in parti
 
 • relating: for example ‘I am older than him.’
 
-Verbs are essential to clause structure and change their form according to tense (present tense or past tense), to person (first, second or third) and to number (singular or plural).",English
-Verb groups,"Groups of words that are centred on a verb and consist of one or more verbs. The main verb in a verb group often needs auxiliary (or helping) verbs to indicate features like time (past or present), polarity (positive or negative), aspect (whether the action is completed or not) and modality (the assessment of the speaker about the action).
+Verbs are essential to clause structure and change their form according to tense (present tense or past tense), to person (first, second or third) and to number (singular or plural)."
+English,English,Verb groups,"Groups of words that are centred on a verb and consist of one or more verbs. The main verb in a verb group often needs auxiliary (or helping) verbs to indicate features like time (past or present), polarity (positive or negative), aspect (whether the action is completed or not) and modality (the assessment of the speaker about the action).
 
-All of the following verbs contribute to the meaning of the verb group as a whole: ‘the girl played soccer’, ‘the girl was playing/had been playing soccer’, ‘the girl was not playing soccer’ and ‘the girl could have been playing soccer’.",English
-Viewing,"Observing with purpose, understanding and critical awareness. See also: Reading.
+All of the following verbs contribute to the meaning of the verb group as a whole: ‘the girl played soccer’, ‘the girl was playing/had been playing soccer’, ‘the girl was not playing soccer’ and ‘the girl could have been playing soccer’."
+English,English,Viewing,"Observing with purpose, understanding and critical awareness. See also: Reading.
 
-Students may participate in viewing activities by watching or looking and/or listening to a text (such as a film, diagram or picture) or by listening to a speaker describe the visual features of a text (such as a diagram, picture or multimedia).",English
-Visual features,"Visual components of a text such as placement, salience, framing, representation of action or reaction, shot size, social distance and camera angle.",English
-Voice,"In English grammar, voice is used to describe the contrast between such pairs of clauses as ‘The dog bit me’ (active voice) and ‘I was bitten by the dog’ (passive voice). Active and passive clauses differ in the way participant roles are associated with grammatical functions.
+Students may participate in viewing activities by watching or looking and/or listening to a text (such as a film, diagram or picture) or by listening to a speaker describe the visual features of a text (such as a diagram, picture or multimedia)."
+English,English,Visual features,"Visual components of a text such as placement, salience, framing, representation of action or reaction, shot size, social distance and camera angle."
+English,English,Voice,"In English grammar, voice is used to describe the contrast between such pairs of clauses as ‘The dog bit me’ (active voice) and ‘I was bitten by the dog’ (passive voice). Active and passive clauses differ in the way participant roles are associated with grammatical functions.
 
 In clauses expressing actions, like the above examples, the subject of the active clause (the dog) has the role of actor, and the object (me) the role of patient, whereas in the passive clause the subject (I) has the role of patient and the object of the preposition (the dog) the role of actor.
 
 In clauses that describe situations other than actions, such as ‘Everyone admired the minister’ and ‘The minister was admired by everyone’, the same grammatical difference is found, so that the object of the active clause (the minister) corresponds to the subject of the passive clause, and the subject of the active clause (everyone) corresponds to the object of the preposition ‘by’.
 
-Voice can also mean the distinct personality of a piece of writing or the individual writing style of a composer, created through the way they use and mix various language features (e.g. a narrative using a child’s voice).",English
-Vowel,"A letter of the alphabet (a, e, i, o, u, and sometimes y) that represents a speech sound created by the relatively free passage of breath through the larynx and oral cavity.",English
-Vowel digraph,"Two successive vowels that represent a single phoneme (e.g. /ai/ in the word ‘rain’, /ea/ in the word ‘beach’ and /ee/ in the word ‘free’).",English
-Word origins,The historical development of words from their earliest known use. Word origin (etymology) tracks the transfer of words from one language to another.,English
-Writing,"Planning, composing, editing and publishing texts in print or digital forms. Writing usually involves activities using pencils, pens or word processors, and/or using drawings, models or photos to represent text, and/or using a scribe to record responses or produce recorded responses.",English
+Voice can also mean the distinct personality of a piece of writing or the individual writing style of a composer, created through the way they use and mix various language features (e.g. a narrative using a child’s voice)."
+English,English,Vowel,"A letter of the alphabet (a, e, i, o, u, and sometimes y) that represents a speech sound created by the relatively free passage of breath through the larynx and oral cavity."
+English,English,Vowel digraph,"Two successive vowels that represent a single phoneme (e.g. /ai/ in the word ‘rain’, /ea/ in the word ‘beach’ and /ee/ in the word ‘free’)."
+English,English,Word origins,The historical development of words from their earliest known use. Word origin (etymology) tracks the transfer of words from one language to another.
+English,English,Writing,"Planning, composing, editing and publishing texts in print or digital forms. Writing usually involves activities using pencils, pens or word processors, and/or using drawings, models or photos to represent text, and/or using a scribe to record responses or produce recorded responses."
