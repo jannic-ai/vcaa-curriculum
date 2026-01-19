@@ -1,94 +1,94 @@
-SubjectArea,Subject,Band,AssessmentType,Mark,Grade,EQCode,EQSection,EQHeader,ISCode,EQDescription
-English,English,12,Final Exam,10,A+,VCEE12A01,A,Analytical response to a text,VCEE12AIS01,"Demonstrates a close and perceptive reading of the text, considering complexities of its ideas, concerns and values explored through the structure of the text and its language"
-English,English,12,Final Exam,10,A+,VCEE12A02,A,Analytical response to a text,VCEE12AIS02,"Demonstrates a clear understanding of the implications of the topic, using an appropriate strategy for dealing with it, and exploring its complexity from the basis of the text"
-English,English,12,Final Exam,10,A+,VCEE12A03,A,Analytical response to a text,VCEE12AIS03,"Develops a cogent, controlled and well-substantiated discussion using precise and expressive language"
-English,English,12,Final Exam,9,A,VCEE12A04,A,Analytical response to a text,VCEE12AIS01,"Demonstrates a close and perceptive reading of the text, considering complexities of its ideas, concerns and values explored through the structure of the text and its language"
-English,English,12,Final Exam,9,A,VCEE12A05,A,Analytical response to a text,VCEE12AIS02,"Demonstrates a clear understanding of the implications of the topic, using an appropriate strategy for dealing with it, and exploring its complexity from the basis of the text"
-English,English,12,Final Exam,9,A,VCEE12A06,A,Analytical response to a text,VCEE12AIS03,"Develops a cogent, controlled and well-substantiated discussion using precise and expressive language"
-English,English,12,Final Exam,8,B+,VCEE12A07,A,Analytical response to a text,VCEE12AIS01,"Demonstrates a thoughtful reading of the text, exploring its ideas, concerns and values through a discussion of the structure of the text and its language"
-English,English,12,Final Exam,8,B+,VCEE12A08,A,Analytical response to a text,VCEE12AIS02,"Demonstrates an understanding of the implications of the topic, exploring it from the basis of the text"
-English,English,12,Final Exam,8,B+,VCEE12A09,A,Analytical response to a text,VCEE12AIS03,"Develops a detailed, substantiated and coherent discussion using language fluently and confidently"
-English,English,12,Final Exam,7,B,VCEE12A10,A,Analytical response to a text,VCEE12AIS01,"Demonstrates detailed knowledge of the text throughout, including some of its ideas, concerns and values by appropriately acknowledging aspects of the structure of the text and its language"
-English,English,12,Final Exam,7,B,VCEE12A11,A,Analytical response to a text,VCEE12AIS02,"Understands the topic, developing a sustained and well-supported response"
-English,English,12,Final Exam,7,B,VCEE12A12,A,Analytical response to a text,VCEE12AIS03,Develops an organised piece of writing using language accurately and appropriately
-English,English,12,Final Exam,6,C+,VCEE12A13,A,Analytical response to a text,VCEE12AIS01,"Demonstrates a clear knowledge of the text, including some elements of its ideas, concerns and values and some awareness of structure and language"
-English,English,12,Final Exam,6,C+,VCEE12A14,A,Analytical response to a text,VCEE12AIS02,"Develops a response to the topic, supported by appropriate evidence from the text"
-English,English,12,Final Exam,6,C+,VCEE12A15,A,Analytical response to a text,VCEE12AIS03,Presents a generally organised piece of writing using language that is mostly accurate and appropriate
-English,English,12,Final Exam,5,C,VCEE12A16,A,Analytical response to a text,VCEE12AIS01,"Demonstrates an adequate knowledge of the text and makes some reference to its ideas, concerns and values"
-English,English,12,Final Exam,5,C,VCEE12A17,A,Analytical response to a text,VCEE12AIS02,Presents a response that shows an understanding of the topic referring to evidence from the text
-English,English,12,Final Exam,5,C,VCEE12A18,A,Analytical response to a text,VCEE12AIS03,"Presents a piece of writing that communicates adequately, displaying some elements of organisation"
-English,English,12,Final Exam,4,D+,VCEE12A19,A,Analytical response to a text,VCEE12AIS01,"Demonstrates basic knowledge of the text with limited reference to ideas, concerns and values"
-English,English,12,Final Exam,4,D+,VCEE12A20,A,Analytical response to a text,VCEE12AIS02,Presents a response that shows some understanding of the topic
-English,English,12,Final Exam,4,D+,VCEE12A21,A,Analytical response to a text,VCEE12AIS03,Shows adequate expression and language control
-English,English,12,Final Exam,3,D,VCEE12A22,A,Analytical response to a text,VCEE12AIS01,Shows a familiarity with the text
-English,English,12,Final Exam,3,D,VCEE12A23,A,Analytical response to a text,VCEE12AIS02,Shows a limited awareness of the topic
-English,English,12,Final Exam,3,D,VCEE12A24,A,Analytical response to a text,VCEE12AIS03,Shows basic expression and language control
-English,English,12,Final Exam,2,E+,VCEE12A25,A,Analytical response to a text,VCEE12AIS01,Shows limited familiarity with the text
-English,English,12,Final Exam,2,E+,VCEE12A26,A,Analytical response to a text,VCEE12AIS02,Shows a very limited awareness of the topic
-English,English,12,Final Exam,2,E+,VCEE12A27,A,Analytical response to a text,VCEE12AIS03,Uses language that is not always clear
-English,English,12,Final Exam,1,E,VCEE12A28,A,Analytical response to a text,VCEE12AIS01,Shows limited familiarity with the text
-English,English,12,Final Exam,1,E,VCEE12A29,A,Analytical response to a text,VCEE12AIS02,Shows a very limited awareness of the topic
-English,English,12,Final Exam,1,E,VCEE12A30,A,Analytical response to a text,VCEE12AIS03,Uses language that is not always clear
-English,English,12,Final Exam,0,E,VCEE12A31,A,Analytical response to a text,VCEE12AIS01,Shows no knowledge of the text and/or no attempt to engage with the topic and/or only minimal control of language
-English,English,12,Final Exam,10,A+,VCEE12B01,B,Creating a text,,Demonstrates insightful consideration of the ideas raised by the title and stimulus in connection with a Framework of Ideas
-English,English,12,Final Exam,10,A+,VCEE12B02,B,Creating a text,,Creates a cohesive text with an explicit purpose(s) and an appropriate voice
-English,English,12,Final Exam,10,A+,VCEE12B03,B,Creating a text,,"Demonstrates sophisticated control of language and text structure(s), that makes rich use of vocabulary and language features"
-English,English,12,Final Exam,9,A,VCEE12B04,B,Creating a text,,Demonstrates insightful consideration of the ideas raised by the title and stimulus in connection with a Framework of Ideas
-English,English,12,Final Exam,9,A,VCEE12B05,B,Creating a text,,Creates a cohesive text with an explicit purpose(s) and an appropriate voice
-English,English,12,Final Exam,9,A,VCEE12B06,B,Creating a text,,"Demonstrates sophisticated control of language and text structure(s), that makes rich use of vocabulary and language features"
-English,English,12,Final Exam,8,B+,VCEE12B07,B,Creating a text,,Demonstrates an astute exploration of the ideas raised by the title and stimulus in connection with a Framework of Ideas
-English,English,12,Final Exam,8,B+,VCEE12B08,B,Creating a text,,Creates a coherent text with an explicit purpose(s) and an appropriate voice
-English,English,12,Final Exam,8,B+,VCEE12B09,B,Creating a text,,"Demonstrates confident control of language and text structure(s), that makes thoughtful use of vocabulary and language features"
-English,English,12,Final Exam,7,B,VCEE12B10,B,Creating a text,,Demonstrates a detailed connection to the ideas raised by the title and stimulus related to a Framework of Ideas
-English,English,12,Final Exam,7,B,VCEE12B11,B,Creating a text,,Creates a coordinated text with a clear purpose(s) and an appropriate voice
-English,English,12,Final Exam,7,B,VCEE12B12,B,Creating a text,,"Demonstrates sound control of language and text structure(s), that makes clear use of vocabulary and language features"
-English,English,12,Final Exam,6,C+,VCEE12B13,B,Creating a text,,Develops a clear connection to the ideas raised by the title and stimulus with reference to a Framework of Ideas
-English,English,12,Final Exam,6,C+,VCEE12B14,B,Creating a text,,Creates a connected text with a clear purpose(s) and an appropriate voice
-English,English,12,Final Exam,6,C+,VCEE12B15,B,Creating a text,,"Demonstrates clear control of language and text structure(s), makes effective use of vocabulary and language features"
-English,English,12,Final Exam,5,C,VCEE12B16,B,Creating a text,,Develops an adequate connection to the ideas raised by the title and stimulus with reference to a Framework of Ideas
-English,English,12,Final Exam,5,C,VCEE12B17,B,Creating a text,,Creates an organised text that is linked to a purpose(s) and has an appropriate voice
-English,English,12,Final Exam,5,C,VCEE12B18,B,Creating a text,,"Demonstrates adequate control of language and text structure(s), that makes some use of vocabulary and language features"
-English,English,12,Final Exam,4,D+,VCEE12B19,B,Creating a text,,Shows a basic connection to the ideas raised by the title and stimulus
-English,English,12,Final Exam,4,D+,VCEE12B20,B,Creating a text,,Shows some connection to a purpose(s) and some awareness of voice
-English,English,12,Final Exam,4,D+,VCEE12B21,B,Creating a text,,"Shows basic control of language and text structure(s), that makes simple use of vocabulary and language features"
-English,English,12,Final Exam,3,D,VCEE12B22,B,Creating a text,,Shows limited connection to the ideas raised by the title and stimulus
-English,English,12,Final Exam,3,D,VCEE12B23,B,Creating a text,,Shows limited awareness of purpose or appropriate voice
-English,English,12,Final Exam,3,D,VCEE12B24,B,Creating a text,,Shows limited control of language and structure
-English,English,12,Final Exam,2,E+,VCEE12B25,B,Creating a text,,Shows little or no apparent connection to ideas raised by the title and stimulus
-English,English,12,Final Exam,2,E+,VCEE12B26,B,Creating a text,,Shows little awareness of the purpose(s) of their text
-English,English,12,Final Exam,2,E+,VCEE12B27,B,Creating a text,,Uses language that is not always clear
-English,English,12,Final Exam,1,E,VCEE12B28,B,Creating a text,,Shows little or no apparent connection to ideas raised by the title and stimulus
-English,English,12,Final Exam,1,E,VCEE12B29,B,Creating a text,,Shows little awareness of the purpose(s) of their text
-English,English,12,Final Exam,1,E,VCEE12B30,B,Creating a text,,Uses language that is not always clear
-English,English,12,Final Exam,0,E,VCEE12B31,B,Creating a text,,Shows no knowledge of the task and/or no attempt to engage with the task
-English,English,12,Final Exam,10,A+,VCEE12C01,C,Analysis of argument and language,,"Demonstrates a perceptive understanding of contention, the development of argument(s) as constructed in the text and the point of view expressed"
-English,English,12,Final Exam,10,A+,VCEE12C02,C,Analysis of argument and language,,Demonstrates sophisticated insight into the ways in which written and spoken language and visuals complement the argument(s) and are used to persuade the intended audience
-English,English,12,Final Exam,10,A+,VCEE12C03,C,Analysis of argument and language,,Uses sophisticated and precise language
-English,English,12,Final Exam,9,A,VCEE12C04,C,Analysis of argument and language,,"Demonstrates a perceptive understanding of contention, the development of argument(s) as constructed in the text and the point of view expressed"
-English,English,12,Final Exam,9,A,VCEE12C05,C,Analysis of argument and language,,Demonstrates sophisticated insight into the ways in which written and spoken language and visuals complement the argument(s) and are used to persuade the intended audience
-English,English,12,Final Exam,9,A,VCEE12C06,C,Analysis of argument and language,,Uses sophisticated and precise language
-English,English,12,Final Exam,8,B+,VCEE12C07,C,Analysis of argument and language,,"Demonstrates a thoughtful understanding of contention, the development of argument(s) as constructed in the text and the point of view expressed"
-English,English,12,Final Exam,8,B+,VCEE12C08,C,Analysis of argument and language,,Demonstrates sound insight into the ways in which the written and spoken language and visuals work together to build the argument(s) and persuade the intended audience
-English,English,12,Final Exam,8,B+,VCEE12C09,C,Analysis of argument and language,,Uses language confidently
-English,English,12,Final Exam,7,B,VCEE12C10,C,Analysis of argument and language,,"Demonstrates detailed understanding of contention, argument(s) presented in the text and the point of view expressed"
-English,English,12,Final Exam,7,B,VCEE12C11,C,Analysis of argument and language,,Demonstrates insight into the ways in which the written and spoken language and visuals in the text are used to persuade the intended audience
-English,English,12,Final Exam,7,B,VCEE12C12,C,Analysis of argument and language,,Uses fluent expression
-English,English,12,Final Exam,6,C+,VCEE12C13,C,Analysis of argument and language,,"Demonstrates a clear understanding of contention, the argument(s) presented in the text and the point of view expressed"
-English,English,12,Final Exam,6,C+,VCEE12C14,C,Analysis of argument and language,,Demonstrates some awareness of the ways in which the written and spoken language and visuals in the text are used to persuade the intended audience
-English,English,12,Final Exam,6,C+,VCEE12C15,C,Analysis of argument and language,,uses competent expression
-English,English,12,Final Exam,5,C,VCEE12C16,C,Analysis of argument and language,,"Demonstrates adequate understanding of contention, the argument(s) presented and the point of view expressed"
-English,English,12,Final Exam,5,C,VCEE12C17,C,Analysis of argument and language,,Demonstrates basic awareness of the ways in which the written and spoken language and visuals in the text are used to persuade the intended audience
-English,English,12,Final Exam,5,C,VCEE12C18,C,Analysis of argument and language,,Uses language adequately
-English,English,12,Final Exam,4,D+,VCEE12C19,C,Analysis of argument and language,,"Demonstrates a basic understanding of the contention, the argument(s) and point of view expressed"
-English,English,12,Final Exam,4,D+,VCEE12C20,C,Analysis of argument and language,,Describes the ways in which written and spoken language and visuals are used to persuade an audience
-English,English,12,Final Exam,4,D+,VCEE12C21,C,Analysis of argument and language,,Uses basic language
-English,English,12,Final Exam,3,D,VCEE12C22,C,Analysis of argument and language,,Shows a limited knowledge of the argument(s) or point of view
-English,English,12,Final Exam,3,D,VCEE12C23,C,Analysis of argument and language,,Shows a limited knowledge of the ways in which written and spoken language and visuals are used
-English,English,12,Final Exam,3,D,VCEE12C24,C,Analysis of argument and language,,Attempts basic language
-English,English,12,Final Exam,2,E+,VCEE12C25,C,Analysis of argument and language,,Shows little understanding of the material
-English,English,12,Final Exam,2,E+,VCEE12C26,C,Analysis of argument and language,,Shows only minimal knowledge of the task
-English,English,12,Final Exam,2,E+,VCEE12C27,C,Analysis of argument and language,,Uses language that is not always clear
-English,English,12,Final Exam,1,E,VCEE12C28,C,Analysis of argument and language,,Shows little understanding of the material
-English,English,12,Final Exam,1,E,VCEE12C29,C,Analysis of argument and language,,Shows only minimal knowledge of the task
-English,English,12,Final Exam,1,E,VCEE12C30,C,Analysis of argument and language,,Uses language that is not always clear
-English,English,12,Final Exam,0,E,VCEE12C31,C,Analysis of argument and language,,Shows no understanding of the requirements of the task
+SubjectArea,Subject,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,Mark,Grade,EQCode,EQSection,EQHeader,ISCode,EQDescription
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,10,A+,VCEE12A01,A,Analytical response to a text,VCEE12AIS01,"Demonstrates a close and perceptive reading of the text, considering complexities of its ideas, concerns and values explored through the structure of the text and its language"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,10,A+,VCEE12A02,A,Analytical response to a text,VCEE12AIS02,"Demonstrates a clear understanding of the implications of the topic, using an appropriate strategy for dealing with it, and exploring its complexity from the basis of the text"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,10,A+,VCEE12A03,A,Analytical response to a text,VCEE12AIS03,"Develops a cogent, controlled and well-substantiated discussion using precise and expressive language"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,9,A,VCEE12A04,A,Analytical response to a text,VCEE12AIS01,"Demonstrates a close and perceptive reading of the text, considering complexities of its ideas, concerns and values explored through the structure of the text and its language"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,9,A,VCEE12A05,A,Analytical response to a text,VCEE12AIS02,"Demonstrates a clear understanding of the implications of the topic, using an appropriate strategy for dealing with it, and exploring its complexity from the basis of the text"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,9,A,VCEE12A06,A,Analytical response to a text,VCEE12AIS03,"Develops a cogent, controlled and well-substantiated discussion using precise and expressive language"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,8,B+,VCEE12A07,A,Analytical response to a text,VCEE12AIS01,"Demonstrates a thoughtful reading of the text, exploring its ideas, concerns and values through a discussion of the structure of the text and its language"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,8,B+,VCEE12A08,A,Analytical response to a text,VCEE12AIS02,"Demonstrates an understanding of the implications of the topic, exploring it from the basis of the text"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,8,B+,VCEE12A09,A,Analytical response to a text,VCEE12AIS03,"Develops a detailed, substantiated and coherent discussion using language fluently and confidently"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,7,B,VCEE12A10,A,Analytical response to a text,VCEE12AIS01,"Demonstrates detailed knowledge of the text throughout, including some of its ideas, concerns and values by appropriately acknowledging aspects of the structure of the text and its language"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,7,B,VCEE12A11,A,Analytical response to a text,VCEE12AIS02,"Understands the topic, developing a sustained and well-supported response"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,7,B,VCEE12A12,A,Analytical response to a text,VCEE12AIS03,Develops an organised piece of writing using language accurately and appropriately
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,6,C+,VCEE12A13,A,Analytical response to a text,VCEE12AIS01,"Demonstrates a clear knowledge of the text, including some elements of its ideas, concerns and values and some awareness of structure and language"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,6,C+,VCEE12A14,A,Analytical response to a text,VCEE12AIS02,"Develops a response to the topic, supported by appropriate evidence from the text"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,6,C+,VCEE12A15,A,Analytical response to a text,VCEE12AIS03,Presents a generally organised piece of writing using language that is mostly accurate and appropriate
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,5,C,VCEE12A16,A,Analytical response to a text,VCEE12AIS01,"Demonstrates an adequate knowledge of the text and makes some reference to its ideas, concerns and values"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,5,C,VCEE12A17,A,Analytical response to a text,VCEE12AIS02,Presents a response that shows an understanding of the topic referring to evidence from the text
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,5,C,VCEE12A18,A,Analytical response to a text,VCEE12AIS03,"Presents a piece of writing that communicates adequately, displaying some elements of organisation"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,4,D+,VCEE12A19,A,Analytical response to a text,VCEE12AIS01,"Demonstrates basic knowledge of the text with limited reference to ideas, concerns and values"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,4,D+,VCEE12A20,A,Analytical response to a text,VCEE12AIS02,Presents a response that shows some understanding of the topic
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,4,D+,VCEE12A21,A,Analytical response to a text,VCEE12AIS03,Shows adequate expression and language control
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,3,D,VCEE12A22,A,Analytical response to a text,VCEE12AIS01,Shows a familiarity with the text
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,3,D,VCEE12A23,A,Analytical response to a text,VCEE12AIS02,Shows a limited awareness of the topic
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,3,D,VCEE12A24,A,Analytical response to a text,VCEE12AIS03,Shows basic expression and language control
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,2,E+,VCEE12A25,A,Analytical response to a text,VCEE12AIS01,Shows limited familiarity with the text
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,2,E+,VCEE12A26,A,Analytical response to a text,VCEE12AIS02,Shows a very limited awareness of the topic
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,2,E+,VCEE12A27,A,Analytical response to a text,VCEE12AIS03,Uses language that is not always clear
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,1,E,VCEE12A28,A,Analytical response to a text,VCEE12AIS01,Shows limited familiarity with the text
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,1,E,VCEE12A29,A,Analytical response to a text,VCEE12AIS02,Shows a very limited awareness of the topic
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,1,E,VCEE12A30,A,Analytical response to a text,VCEE12AIS03,Uses language that is not always clear
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,0,E,VCEE12A31,A,Analytical response to a text,VCEE12AIS01,Shows no knowledge of the text and/or no attempt to engage with the topic and/or only minimal control of language
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,10,A+,VCEE12B01,B,Creating a text,,Demonstrates insightful consideration of the ideas raised by the title and stimulus in connection with a Framework of Ideas
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,10,A+,VCEE12B02,B,Creating a text,,Creates a cohesive text with an explicit purpose(s) and an appropriate voice
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,10,A+,VCEE12B03,B,Creating a text,,"Demonstrates sophisticated control of language and text structure(s), that makes rich use of vocabulary and language features"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,9,A,VCEE12B04,B,Creating a text,,Demonstrates insightful consideration of the ideas raised by the title and stimulus in connection with a Framework of Ideas
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,9,A,VCEE12B05,B,Creating a text,,Creates a cohesive text with an explicit purpose(s) and an appropriate voice
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,9,A,VCEE12B06,B,Creating a text,,"Demonstrates sophisticated control of language and text structure(s), that makes rich use of vocabulary and language features"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,8,B+,VCEE12B07,B,Creating a text,,Demonstrates an astute exploration of the ideas raised by the title and stimulus in connection with a Framework of Ideas
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,8,B+,VCEE12B08,B,Creating a text,,Creates a coherent text with an explicit purpose(s) and an appropriate voice
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,8,B+,VCEE12B09,B,Creating a text,,"Demonstrates confident control of language and text structure(s), that makes thoughtful use of vocabulary and language features"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,7,B,VCEE12B10,B,Creating a text,,Demonstrates a detailed connection to the ideas raised by the title and stimulus related to a Framework of Ideas
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,7,B,VCEE12B11,B,Creating a text,,Creates a coordinated text with a clear purpose(s) and an appropriate voice
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,7,B,VCEE12B12,B,Creating a text,,"Demonstrates sound control of language and text structure(s), that makes clear use of vocabulary and language features"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,6,C+,VCEE12B13,B,Creating a text,,Develops a clear connection to the ideas raised by the title and stimulus with reference to a Framework of Ideas
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,6,C+,VCEE12B14,B,Creating a text,,Creates a connected text with a clear purpose(s) and an appropriate voice
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,6,C+,VCEE12B15,B,Creating a text,,"Demonstrates clear control of language and text structure(s), makes effective use of vocabulary and language features"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,5,C,VCEE12B16,B,Creating a text,,Develops an adequate connection to the ideas raised by the title and stimulus with reference to a Framework of Ideas
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,5,C,VCEE12B17,B,Creating a text,,Creates an organised text that is linked to a purpose(s) and has an appropriate voice
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,5,C,VCEE12B18,B,Creating a text,,"Demonstrates adequate control of language and text structure(s), that makes some use of vocabulary and language features"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,4,D+,VCEE12B19,B,Creating a text,,Shows a basic connection to the ideas raised by the title and stimulus
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,4,D+,VCEE12B20,B,Creating a text,,Shows some connection to a purpose(s) and some awareness of voice
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,4,D+,VCEE12B21,B,Creating a text,,"Shows basic control of language and text structure(s), that makes simple use of vocabulary and language features"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,3,D,VCEE12B22,B,Creating a text,,Shows limited connection to the ideas raised by the title and stimulus
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,3,D,VCEE12B23,B,Creating a text,,Shows limited awareness of purpose or appropriate voice
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,3,D,VCEE12B24,B,Creating a text,,Shows limited control of language and structure
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,2,E+,VCEE12B25,B,Creating a text,,Shows little or no apparent connection to ideas raised by the title and stimulus
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,2,E+,VCEE12B26,B,Creating a text,,Shows little awareness of the purpose(s) of their text
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,2,E+,VCEE12B27,B,Creating a text,,Uses language that is not always clear
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,1,E,VCEE12B28,B,Creating a text,,Shows little or no apparent connection to ideas raised by the title and stimulus
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,1,E,VCEE12B29,B,Creating a text,,Shows little awareness of the purpose(s) of their text
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,1,E,VCEE12B30,B,Creating a text,,Uses language that is not always clear
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,0,E,VCEE12B31,B,Creating a text,,Shows no knowledge of the task and/or no attempt to engage with the task
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,10,A+,VCEE12C01,C,Analysis of argument and language,,"Demonstrates a perceptive understanding of contention, the development of argument(s) as constructed in the text and the point of view expressed"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,10,A+,VCEE12C02,C,Analysis of argument and language,,Demonstrates sophisticated insight into the ways in which written and spoken language and visuals complement the argument(s) and are used to persuade the intended audience
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,10,A+,VCEE12C03,C,Analysis of argument and language,,Uses sophisticated and precise language
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,9,A,VCEE12C04,C,Analysis of argument and language,,"Demonstrates a perceptive understanding of contention, the development of argument(s) as constructed in the text and the point of view expressed"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,9,A,VCEE12C05,C,Analysis of argument and language,,Demonstrates sophisticated insight into the ways in which written and spoken language and visuals complement the argument(s) and are used to persuade the intended audience
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,9,A,VCEE12C06,C,Analysis of argument and language,,Uses sophisticated and precise language
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,8,B+,VCEE12C07,C,Analysis of argument and language,,"Demonstrates a thoughtful understanding of contention, the development of argument(s) as constructed in the text and the point of view expressed"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,8,B+,VCEE12C08,C,Analysis of argument and language,,Demonstrates sound insight into the ways in which the written and spoken language and visuals work together to build the argument(s) and persuade the intended audience
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,8,B+,VCEE12C09,C,Analysis of argument and language,,Uses language confidently
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,7,B,VCEE12C10,C,Analysis of argument and language,,"Demonstrates detailed understanding of contention, argument(s) presented in the text and the point of view expressed"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,7,B,VCEE12C11,C,Analysis of argument and language,,Demonstrates insight into the ways in which the written and spoken language and visuals in the text are used to persuade the intended audience
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,7,B,VCEE12C12,C,Analysis of argument and language,,Uses fluent expression
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,6,C+,VCEE12C13,C,Analysis of argument and language,,"Demonstrates a clear understanding of contention, the argument(s) presented in the text and the point of view expressed"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,6,C+,VCEE12C14,C,Analysis of argument and language,,Demonstrates some awareness of the ways in which the written and spoken language and visuals in the text are used to persuade the intended audience
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,6,C+,VCEE12C15,C,Analysis of argument and language,,uses competent expression
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,5,C,VCEE12C16,C,Analysis of argument and language,,"Demonstrates adequate understanding of contention, the argument(s) presented and the point of view expressed"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,5,C,VCEE12C17,C,Analysis of argument and language,,Demonstrates basic awareness of the ways in which the written and spoken language and visuals in the text are used to persuade the intended audience
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,5,C,VCEE12C18,C,Analysis of argument and language,,Uses language adequately
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,4,D+,VCEE12C19,C,Analysis of argument and language,,"Demonstrates a basic understanding of the contention, the argument(s) and point of view expressed"
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,4,D+,VCEE12C20,C,Analysis of argument and language,,Describes the ways in which written and spoken language and visuals are used to persuade an audience
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,4,D+,VCEE12C21,C,Analysis of argument and language,,Uses basic language
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,3,D,VCEE12C22,C,Analysis of argument and language,,Shows a limited knowledge of the argument(s) or point of view
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,3,D,VCEE12C23,C,Analysis of argument and language,,Shows a limited knowledge of the ways in which written and spoken language and visuals are used
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,3,D,VCEE12C24,C,Analysis of argument and language,,Attempts basic language
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,2,E+,VCEE12C25,C,Analysis of argument and language,,Shows little understanding of the material
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,2,E+,VCEE12C26,C,Analysis of argument and language,,Shows only minimal knowledge of the task
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,2,E+,VCEE12C27,C,Analysis of argument and language,,Uses language that is not always clear
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,1,E,VCEE12C28,C,Analysis of argument and language,,Shows little understanding of the material
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,1,E,VCEE12C29,C,Analysis of argument and language,,Shows only minimal knowledge of the task
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,1,E,VCEE12C30,C,Analysis of argument and language,,Uses language that is not always clear
+English,English,12,Final Exam,Pre Exam Criteria,2024-2027,0,E,VCEE12C31,C,Analysis of argument and language,,Shows no understanding of the requirements of the task
