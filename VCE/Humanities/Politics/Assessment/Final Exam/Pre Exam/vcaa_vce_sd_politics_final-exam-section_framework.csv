@@ -1,0 +1,4 @@
+SubjectArea,Subject,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,UnitASCode,EQCode,EQCriteriaCode,Section,EQCriteriaSectionHeader,EQCriteriaType,EQCriteriaDescription,Sequence
+Humanities,Politics,Year 12,Final Exam,,,"VCEPOU3AS1,VCEPOU3AS2",,,A,Section A,,,1
+Humanities,Politics,Year 12,Final Exam,,,"VCEPOU3AS1,VCEPOU3AS2",,,B,Section B,,,2
+Humanities,Politics,Year 12,Final Exam,,,"VCEPOU4AS1,VCEPOU4AS2",,,C,Section C,,,3
