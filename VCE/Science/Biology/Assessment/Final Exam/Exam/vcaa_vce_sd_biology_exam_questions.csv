@@ -1,0 +1,632 @@
+SubjectArea,Subject,SubjectStreamCode,SubjectStreamName,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,UnitASCode,ExamReportCode,EQCode,SectionCode,SectionName,QuestionNumber,QuestionLabel,Marks,ContentType,Content,StimulusSource,Sequence
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERA,,A,Section A,,,40,Header,Section A: Section A,,1
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERA,,A,Section A,,,,SubHeader,Instructions,,2
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERA,,A,Section A,,,,Instruction,Answer all questions in pencil on your Multiple-Choice Answer Sheet.,,3
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERA,,A,Section A,,,,Instruction,Choose the response that is correct or that best answers the question.,,4
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,,B,Section B,,,80,Header,Section B: Section B,,1
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,,B,Section B,,,,SubHeader,Instructions,,2
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,,B,Section B,,,,Instruction,Answer all questions in the spaces provided.,,3
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,,B,Section B,,,,Instruction,Write your responses in English.,,4
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB1,B,Section B,1,Q1,11,Question,"The diagram below shows a typical plant cell. Several locations have been labelled.
+V--------- ® @
+o _ . \ X
+&i/
+'
+5 0.
+Q\e)\'&
+Q ) z
+AN 0 Q- 3
+Source: Adapted from LDarin/Shutterstock.com",,5
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB1,B,Section B,1i,Q1i,4,SubQuestion,"With reference to the cell above, which location (V, W, X, Y or Z) shows the Golgi :
+apparatus?",,6
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB1,B,Section B,1b,Q1b,2,SubQuestion,Describe the role of tRNA in the production of a protein.,,7
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB1,B,Section B,1c,Q1c,2,SubQuestion,Explain how an enzyme catalyses the breakdown of a protein.,,8
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB1,B,Section B,1d,Q1d,1,SubQuestion,"Some proteins need to be secreted from the plant cell.
+% Describe the role of vesicles in the export of protein from a cell.",,9
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB1,B,Section B,1e,Q1e,2,SubQuestion,"The process of protein synthesis can be considered a scientific model. The current
+= knowledge of protein synthesis has been developed over many years, with
+8 contributions from different scientists. However, models have limitations.
+Identify a limitation of the model of protein synthesis, and suggest a possible solution
+to this limitation.",,10
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB2,B,Section B,2,Q2,5,Question,"Complex multicellular organisms, such as humans, have many cell types that perform dif erent
+functions. Two such cell types are shown in the diagrams below. Intestinal epithelial cells allow for the
+uptake of nutrients along the digestive tract. Fat cells (adipocytes) store fat. The organism's proteome
+plays a part in allowing for this complexity.
+Intestinal epithelial cell Fat cell
+. s ---- nucleus
+([, ® -=7- nucleus
+Source: (left image) Adapted from Dee-sign/Shutterstock.com;
+(rightimage) Adapted from inspiring.team/Shut erstock.com
+The dif erent cell types contain the same genes, yet they have very dif erent structures and functions.
+Describe an organism's 'proteome', and use this concept to explain how organisms achieve such
+diversity in cell types. Refer to the cells in the diagrams in your response.
+B ----------",,11
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB3,B,Section B,3,Q3,4,Question,"Researchers have been investigating methods for the accurate analysis of ethanol
+production by yeast cells. The data below represents the production of ethanol by yeast
+cells from a solution of 45% glucose in water, plus some trace nutrients. No oxygen was
+present.
+45 Q 15
+Q . 00 o Key
+o o o-a ethanol
+= 0-0 glucose
+30 Q 10
+glucose ethanol
+concentration d o concentration
+(%) 0-o
+0-0
+15 d
+fermentation time (hours)
+Source: D Mackie, et al., 'Simple, fast and accurate methodology for quantitative analysis using
+[ Fourier transform infrared spectroscopy, with bio-hybrid fuel cell examples', MethodsX, vol. 3, 2016, pp. 128-138,
+H licensed CC-BY 4.0 <ht ps://creativecommons.org/licenses/by/4.0/>",,12
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB3,B,Section B,3a,Q3a,2,SubQuestion,"State two reasons why the glucose concentration does not reduce to zero over the
+S 500 hours in a solution containing yeast cells.",,13
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB3,B,Section B,3b,Q3b,2,SubQuestion,"One of the researchers suggested that adding oxygen would enable the yeast cells to
+produce more ethanol and consume more glucose. This would make the production of
+the ethanol more efficient.
+Describe the effect of adding oxygen on the production of ethanol by yeast cells. Give
+a reason for your response.",,14
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB4,B,Section B,4,Q4,11,Question,"Photosynthesis is an important biochemical pathway in plants and some single-cell
+organisms that produce glucose as an energy source.",,15
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB4,B,Section B,4a,Q4a,3,SubQuestion,Explain why photosynthesis is considered to be a biochemical pathway.,,16
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB4,B,Section B,4,Q4,,MidQuestionContext,"Use the following information to answer parts b and c.
+Photosynthesis requires the fixation of carbon dioxide (CO,). The graph below shows the
+fixation of carbon dioxide during the light-independent stage at different light intensities for a
+C3 plant and a C4 plant.
+800
+Key
+700 -- Cd plant
+600 -=- C3plant
+500
+amount of carbon
+dioxide fixation 400
+(mmol/hr)
+light intensity (lux)
+Source: Adapted from C Wang, et al., 'Systematic Comparison of C3 and C4 Plants
+Based on Metabolic Network Analysis', BMC Systems Biology, vol. 6, suppl. 2, 59, 2012,
+licensed CC-BY 2.0 <https://creativecommons.org/licenses/by/2.0/>",,17
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB4,B,Section B,4b,Q4b,3,SubQuestion,"Astudent stated that C4 plants growing next to C3 plants had an advantage.
+Use the data from the graph to support this statement. Justify your response.",,18
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB4,B,Section B,4c,Q4c,2,SubQuestion,"Referring to the graph, explain why the rate of COj, fixation in the C3 plants changes
+as light intensity changes and then plateaus (levels off) above a light intensity
+of 1700 lux.",,19
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB4,B,Section B,4d,Q4d,3,SubQuestion,"Explain how C4 plants are better adapted to reducing photorespiration compared to
+C3 plants.",,20
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB5,B,Section B,5,Q5,9,Question,"Barley (Hordeum vulgare) is an important cereal crop that provides food for people
+and animals. Scientists from Western Australia have successfully used CRISPR-Cas9
+gene-editing techniques to develop barley plants with an increased ability to take up and
+use nitrogen. These new barley varieties will reduce the amount of nitrogen fertiliser used
+in crop farming. They will also reduce greenhouse gas emissions because nitrogen from
+fertiliser is emitted as nitrous oxide into the environment.
+CRISPR-Cas9 technologies are used to edit a gene in the barley seed by causing
+single nucleotide substitution. One of the edited genes is Hv7, which alters the amount of
+chlorophyll and nitrogen in the transformed barley plant, is shown in the graphs below.
+total 2.0 total 0.6
+chlorophyll . .
+1.5 nitrogen
+content (%) 04
+(mglg) 1.0 5
+control transformed control transformed
+(Hv1) (Hv1) o)
+Source: Adapted from SD Karunarathne, et al.,
+'CRISPR/Cas9 gene editing and natural variation analysis demonstrate the potential for HVARE1 -
+in improvement of nitrogen use ef iciency in barley', Journal of Integrative Plant Biology, vol. 64, 2022, pp. 756770 _E'",,21
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB5,B,Section B,5i,Q5i,2,SubQuestion,"Referring to the graphs, complete the table for the amounts of chlorophyll and
+nitrogen in the control and transformed barley plants. 1 mark -
+ExF
+Total chlorophyll Total nitrogen (%)
+content (mg/g) 1
+ii. Referring to either chlorophyll or nitrogen, explain how the change in the
+transformed barley plant could impact the plant.",,22
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB5,B,Section B,5b,Q5b,2,SubQuestion,"Scientists using CRISPR-Cas9 technologies to edit barley seeds are aware that not all
+barley seeds are transformed.
+Explain why some barley seeds may not be transformed when using CRISPR-Cas9
+technologies.",,23
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB5,B,Section B,5c,Q5c,2,SubQuestion,"Toidentify the transformed seeds, scientists grow three Hv1 barley plants, Hv1-A,
+Hv1-B and Hv1-C. They also grow a control barley plant. Scientists then extract
+DNA from the barley plants and mix it with BstN1, an endonuclease. BstN1 has one
+recognition site for DNA from non-transformed barley plants and no recognition sites
+for DNA from transformed barley plants. The mixture of DNA from the barley plants
+and Bst N1 undergoes gel electrophoresis to identify the transformed barley plants.
+The results are shown below.
+% : - direction of movement
+= - o of DNA fragments
+H -
+° > Q
+g s &
+Source: Adapted from SD Karunarathne, et al.,
+'CRISPR/Cas9 gene editing and natural variation analysis demonstrate the potential for
+HVARE1 in improvement of nitrogen use efficiency in barley' Journal of Integrative Plant Biology,
+vol. 64, 2022, pp. 756770
+Using the gel electrophoresis results, identify the transformed barley plant. Justify
+your response.",,24
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB5,B,Section B,5d,Q5d,2,SubQuestion,Describe how DNA fragments are separated in gel electrophoresis.,,25
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB6,B,Section B,6,Q6,4,Question,"Trastuzumab and pertuzumab are monoclonal antibodies used in the treatment of human
+epidermal growth factor receptor 2 (HER2)-positive breast cancer. Both monoclonal
+antibodies attach to a cancer cell as shown in the diagram below.
+HER2 receptor
+pertuzumab
+1ras(uzumab->
+RUTRE SR BBBESCOCS RSyl T PPPp cancer cell
+9 ""ﬂ"" plasma membrane
+Source: Adapted from J Wang and B Xu, 'Targeted therapeutic options and future perspectives
+for HER2-positive breast cancer', Signal Transduction and Targeted Therapy, vol. 4, no. 34, 2019,
+licensed CC-BY 4.0 <https://creativecommons.org/licenses/by/4.0/>",,26
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB6,B,Section B,6a,Q6a,2,SubQuestion,"Referring to the diagram, compare the two variable regions of the monoclonal
+H] antibodies trastuzumab and pertuzumab.",,27
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB6,B,Section B,6b,Q6b,2,SubQuestion,"Identify two ways in which the monoclonal antibodies could function to help treat
+person with HER2-positive breast cancer.",,28
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB7,B,Section B,7,Q7,10,Question,"Measles is a highly contagious viral infection. The virus is spread when a person infected
+with the virus coughs or sneezes.
+In Australia, health authorities report cases of measles to a national body. The number of
+reported cases of measles from 1991 to 2002 is shown in the graph below.
+Number of reported cases of measles in Australia
+(1991 to 2002)
+ool [ [ [ T[]
+number of
+e oo /L INL L T[]
+ses ool /U NPT
+oy A O I A A
+N A o S I
+year
+Source: National Notifiable Diseases Surveillance System,
+Australian Government Department of Health and Aged Care <www.health.gov.au/our-work/nndss> 3",,29
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB7,B,Section B,7a,Q7a,3,SubQuestion,"l|dentify one action taken within the Australian population that may have led to the
+change in number of cases from 1994 onwards. Explain how this action could cause
+this change.",,30
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB7,B,Section B,7b,Q7b,3,SubQuestion,"Measles is no longer endemic in Australia. In January 2024, the Victorian Department
+of Health issued a health alert when three new measles cases were reported. The
+health alert listed the public locations that the infected individuals had visited.
+Identify a potential source of the measles infection for the three individuals, and state
+two benefits of listing the public locations that they had visited.",,31
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB7,B,Section B,7c,Q7c,4,SubQuestion,"Measles is a known pathogen that is re-emerging around the world. New pathogens
+are also emerging.
+Describe two factors that are contributing to the emergence of new pathogens in
+% human populations.",,32
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB8,B,Section B,8,Q8,8,Question,"Researchers studied Eucalyptus salubris in its natural habitat in Western Australia.
+E. salubris is an evergreen tree that reaches up to 25 metres in height. It has small, white
+flowers that are thought to be pollinated by insects. It also has seeds that fal directly
+beneath the tree canopy.
+The researchers sampled 20 populations of E. salubris. They noted differences in the
+appearance of the trees and the thickness of the leaves.
+The results indicated that the 20 populations could be divided into two distinct groups,
+represented in the images below. Image A shows an example of one group, with thicker
+leaves, and Image B shows an example of the other group, with thinner leaves.
+The two groups live in close geographical proximity but those with thinner leaves are only
+found in soils with high phosphorus levels. Genetic analysis comparing the two groups
+showed significant differences. These findings strongly indicate that the two groups should
+be classified as two separate species.
+4 : a . o !
+3 !
+: 7 e 3 Nl i
+ez AR Ve KL /) :ﬂ'ﬁ' & ! T
+TRV e R R Wl
+VRN e N RN \ Vg
+e\ R T NN
+1 \ITPAN RO R S N N T
+s el w@:a/, PRGN NN TN S/ ] e
+AN e R |/ 3
+""q'!' iy P S el o
+N s s L{.,'p ouglf SR Y \ 3 """" @
+PR T T ) LR ] T\ ) i g
+ldi"""" { o0, M0 LA 3 ,\\.\1! » s e
+ek e AT G SIS Rk e ) A 3 bo Tt ;'A, SR g
+A b R | o SAETRN Ul
+i § .-',.'\' i
+B | o Kb S TR e
+Image A Image
+Source: RM Binks, DA Steane and M Byrme, Ecology and Evolution, vol. 11, 2021, pp. 5096-5110,
+licensed CC-BY 4.0 <https://creativecommons.org/licenses/by/4.0/>",,33
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB8,B,Section B,8a,Q8a,1,SubQuestion,State the scientific investigation methodology used to collect the samples of E. salubris.,,34
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB8,B,Section B,8b,Q8b,2,SubQuestion,"Identify the evidence that suggests that the two groups should be classified as two
+separate species.",,35
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB8,B,Section B,8i,Q8i,5,SubQuestion,"ldentify the type of speciation that may be occurring between the two distinct
+groups of E. salubris.",,36
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB9,B,Section B,9,Q9,9,Question,"Genomic variation in Indigenous Australians
+Arecent study explored variation in the DNA sequences of Indigenous Australians. Genome
+DNA sequencing was used to increase understanding of both human genomic diversity and
+genetic disease.
+Indigenous Australian communities were invited to take part in the genomic research. The research
+was conducted in accordance with required ethical guidelines to ensure that the research was
+beneficial to the communities and aligned with their own ways of knowing. The collection of
+genomic data also falls under Indigenous Australian governance and custodianship.
+People from four remote Indigenous communities across northern and central Australia, as well as
+non-Indigenous Australians, consented to take part in the research. The four remote Indigenous
+communities were: Tiwi Islands, Galiwin'ku, Titjikala and Yarrabah. Their locations are shown on
+the partial map of Australia below.
+9 @ Key
+s/ (1) TwiIstands
+Galiwin'ku
+RVORRIO o
+(3) Ti kala
+@ Yarrabah -
+Source: Adapted from Figure 1a in ALM Reis, et al., 'The landscape of genomic structural 3.
+variation in Indigenous Australians', Nature, vol. 624, Dec. 2023, pp. 602-610,
+licensed CC-BY 4.0 <https://creativecommons.org/licenses/by/4.0/> 2
+DNA from 121 Indigenous Australian individuals and 18 non-Indigenous Australian individuals of
+European ancestry was sequenced. The sequencing focused on the 0.4% of the human genome
+that varies among individuals. In these areas of the genome, 46% of DNA sequence variation was
+found within Indigenous individuals in the same community. Only 2.8% of similar DNA sequence
+variation was shared across all four remote Indigenous communities.
+It was concluded that each community has different and highly diverse DNA sequences. Similarly,
+each community is highly diverse in their culture and languages. The study also found that
+Indigenous Australians have the highest amount of DNA sequence variation outside Africa, and are
+highly genetically distinct from non-Indigenous Australians.
+The Tiwi Islands geographically separated from the Australian mainland around 9000 years ago.
+However, since at least 26,000 years ago, all communities have been genetically isolated, with
+little detectable migration. This is supported by Indigenous Australians' unique knowledges and
+connections to Country and Place.
+Source: Adapted from ALM Reis, et al., 'The landscape of genomic structural variation in Indigenous Australians',
+Nature, vol. 624, Dec. 2023, pp. 602-610; M Silcocks, et al., 'Indigenous Australian genomes show deep structure and
+rich novel variation', Nature, vol. 624, Dec. 2023, pp. 593-601",,37
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB9,B,Section B,9a,Q9a,1,SubQuestion,"One of the aims of the study was to explore variation in DNA sequences of Indigenous
+Australians.
+DNA from 18 non-Indigenous Australian individuals of European ancestry was also
+sequenced in the study.
+Give one reason for this.",,38
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB9,B,Section B,9b,Q9b,2,SubQuestion,"Identify how the researchers applied the ethical principle of respect in this study. Give
+a reason for your response.",,39
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB9,B,Section B,9c,Q9c,4,SubQuestion,"The study concluded that each of the four communities has highly diverse DNA
+= sequences, and that there are different DNA sequence variations across communities.
+= Complete the table below using the data provided to support each conclusion.",,40
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB9,B,Section B,9,Q9,,MidQuestionContext,"< Communities have
+3 highly diverse DNA
+sequences.
+There are dif erent
+DNA sequence
+variations across
+communities.",,41
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB9,B,Section B,9d,Q9d,0,SubQuestion,"The genomic data was used to calculate genetic divergence times between
+communities. The results are outlined in the following diagram.
+years ago
+Titjikala ~ Yarrabah Galiwin'ku Tiwi Islands
+Source: Adapted from Figure 4 in M Silcocks, et al., 'Indigenous Australian genomes show deep structure
+and rich novel variation', Nature, vol. 624, Dec. 2023, pp. 593-601,
+licensed CC-BY 4.0 <https://creativecommons.org/licenses/by/4.0/> ,9.
+Explain how the results of the study contribute to advancing the understanding of
+either human genomic diversity or the treatment of genetic disease. 2 marks -
+ExF
+= This page is blank.
+Examination continues on the next page.",,42
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB10,B,Section B,10,Q10,9,Question,"For their student-designed scientific investigation, a student wanted to investigate whether highlighting
+herd immunity in vaccination advertising campaigns influences an individual's vaccination decisions in
+Australia. They based their investigation on Scandinavian research that included three dif erent groups:
+Group A, Group B and Group C.
+The student recruited 121 participants via the school newsletter and social media pages. Participants
+were randomly placed into each group.
+Individuals within each group received the fol
+owing information:
+'Imagine that there is a new and infectious disease in the world. The infected people have influenza
+symptoms, but usually recover quickly. The virus has caused a few deaths, but scientists have concerns
+that the virus will mutate and become more infectious. A vaccine against the virus is available, but it is
+not yet fully tested for side effects.'
+Groups B and C received additional information as outlined in the table below.
+Additional information received
+'The vaccine stimulates the body to rapidly respond to the virus, which helps
+to prevent iliness. This is an individual benefit of vaccination.'
+C 'Due to young age, allergies or poor health, a portion of the population cannot OU
+be vaccinated. To prevent iliness in this group, it is important that the majority
+of the population get vaccinated. This highlights the benefit of herd immunity
+to the population.' _i'
+Source: Adapted from S Amesen, et al., Scandinavian Journal of Public Health, vol. 46, no. 8, 2018 2_
+After reading the information, participants were asked to answer the question 'How likely are you to get
+vaccinated?' s
+Each participant rated the likelihood that they would get vaccinated by choosing one option from the
+scale below.
+Not likely Slightly likely |Somewhat likely Likely Very likely
+Participants submitted their answers anonymously online.
+The results of the student's investigation are summarised in the graph below.
+R
+average
+likelihoodof 3 m-m----
+vaccination
+22- - - I
+ppam-- === A - .
+B C
+group",,43
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB10,B,Section B,10a,Q10a,3,SubQuestion,Analyse the results.,,44
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB10,B,Section B,10i,Q10i,2,SubQuestion,"Based on their findings, what strategy could the student recommend to Australian
+health authorities to increase vaccination rates?",,45
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2024,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI24ERB,VCEBI24EQB10,B,Section B,10i,Q10i,4,SubQuestion,Outline the importance of randomly placing participants into groups.,,46
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERA,,A,Section A,,,40,Header,Section A: Section A,,1
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERA,,A,Section A,,,,SubHeader,Instructions,,2
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERA,,A,Section A,,,,Instruction,Answer all questions in pencil on your Multiple-Choice Answer Sheet.,,3
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERA,,A,Section A,,,,Instruction,Choose the response that is correct or that best answers the question.,,4
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERA,,A,Section A,,,,Instruction,A correct answer scores 1; an incorrect answer scores 0.,,5
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERA,,A,Section A,,,,Instruction,Marks will not be deducted for incorrect answers.,,6
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERA,,A,Section A,,,,Instruction,No marks will be given if more than one answer is completed for any question.,,7
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,,B,Section B,,,80,Header,Section B: Section B,,1
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,,B,Section B,,,,SubHeader,Instructions,,2
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,,B,Section B,,,,Instruction,Answer all questions in the spaces provided.,,3
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,,B,Section B,,,,Instruction,Write your responses in English.,,4
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB1,B,Section B,1,Q1,5,Question,"Insulin is a hormone that helps regulate blood glucose levels. The insulin gene has three
+exons. The three exons within the gene are shown in the diagram below.
+Exon
+Exon
+Exon
+Source: Adapted from S Ataie-Ashtiani and B Forbes, 'A review of the biosynthesis and structural implications of
+insulin gene mutations linked to human disease', Cells, vol. 12, no. 7, 25 March 2023",,5
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB1,B,Section B,1a,Q1a,3,SubQuestion,"Construct a diagram of an mRNA molecule in the space provided below to show the
+result of mRNA processing of the insulin gene. Label three modifications as a result of
+mRNA processing on the diagram.",,6
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB1,B,Section B,1b,Q1b,2,SubQuestion,"Recombinant DNA technologies are used to produce large quantities of human insulin
+to treat diabetes.
+Shown below are some of the steps involved in one method used in the production of
+human insulin. Two steps are incomplete.
+Complete step 4 and step 8 in the spaces provided below.",,7
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB1,B,Section B,1,Q1,,MidQuestionContext,"Step 1 - Obtain genes coding for the two insulin amino acid chains A and B.
+Step 2 - Isolate the plasmids, each of which contains an antibiotic
+resistance gene.
+Step 3 - Some of these plasmids are mixed with genes coding for amino acid
+chain A. Remaining plasmids are mixed with genes coding for amino acid
+chain B.
+Step 4 - DNA ligase 
+Step 5 - All bacteria are exposed to heat shock to take up the recombinant
+plasmids.
+Step 6 - Bacteria are grown on nutrient plates containing antibiotics. Transformed
+bacteria will survive and express genes.
+Step 7 - Isolate amino acid chains A and B from the bacteria.
+Step 8 - Amino acid chains A and B ",,8
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB2,B,Section B,2,Q2,11,Question,"Tryptophan (trp) is one of the least common amino acids in proteins. When needed, some
+bacteria can synthesise trp. In these bacteria, the trp operon regulates the production of
+enzymes involved in trp synthesis.",,9
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB2,B,Section B,2a,Q2a,2,SubQuestion,"Explain how enzymes such as those coded by the genes within the trp operon
+catalyse biochemical reactions.",,10
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB2,B,Section B,2,Q2,,MidQuestionContext,"Use the following information to answer part b and part c on page 27.
+The graph below shows the activity of the enzymes coded by the genes within the trp
+operon. At 20 minutes, the bacteria were shifted from an environment containing trp to
+an environment without trp.
+The solid line represents a model simulation of enzyme activity, while the triangles and
+squares represent two sets of experimental data.
+enzyme activity
+(arbitrary units)
+time (minutes)
+Source: Adapted from M Santillán and M Mackey, 'Dynamic regulation of the tryptophan operon:
+A modeling study and comparison with experimental data', PNAS, vol. 98, no. 4, 13 February 2001",,11
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB2,B,Section B,2b,Q2b,5,SubQuestion,"Referring to the graph, explain why enzyme activity remains low between 0 and
+20 minutes and why it remains steady after approximately 60 minutes. As part of
+your response, explain how the repression and attenuation mechanisms work
+together to regulate the production of enzymes coded by genes within the trp operon.",,12
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB2,B,Section B,2c,Q2c,2,SubQuestion,"The model simulation captures the general trend of enzyme activity but does not
+accurately replicate the experimental data, especially when the bacteria are first
+moved to a trp-free environment.
+State two possible limitations of the model simulation that could account for the
+differences in the data from the simulation and the two experiments.",,13
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB2,B,Section B,2d,Q2d,2,SubQuestion,"In the past, bacteria had four stop codons, including UGG, and no codon for trp.
+The UGG codon in bacteria now codes for trp.
+Identify a consequence for the bacteria of the UGG codon now coding for trp. Justify
+your response.",,14
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB3,B,Section B,3,Q3,9,Question,"Year 12 student knew that photosynthesis and photorespiration both occur in C3 , C4 and
+CAM plants.",,15
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB3,B,Section B,3a,Q3a,3,SubQuestion,"C4 and CAM plants all use Rubisco in photosynthesis.
+Place a cross (X) in the correct boxes in the following table to indicate the location of
+Rubisco activity for each plant type.
+Place another cross (X) in the correct boxes to indicate the time of day when Rubisco
+activity is greatest for each plant type. ",,16
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB3,B,Section B,3,Q3,,MidQuestionContext,"Location of
+Rubisco activity
+Time of day when Rubisco
+activity is greatest
+Mesophyll
+cells
+Bundle
+sheath cells
+Daytime
+Night-time
+CAM
+Use the following information to answer part b and part c below.
+The student read the following statement in their Biology textbook: 'The rate of
+photorespiration increases with an increase in temperature in C3 plants.'",,17
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB3,B,Section B,3b,Q3b,2,SubQuestion,"Explain why the rate of photorespiration increases with an increase in temperature in
+C3 plants.",,18
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB3,B,Section B,3c,Q3c,0,SubQuestion,"The student wanted to test the statement by conducting a controlled experiment.
+The student proposed that they would need to control the amount of sunlight and
+water that each plant received.",,19
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB3,B,Section B,3i,Q3i,4,SubQuestion,Describe how the student could control each of these variables.,,20
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB4,B,Section B,4,Q4,4,Question,"Genetic engineering has been used to modify the traits of many plants.
+The following table shows examples of genetic engineering in two agricultural crop plants:
+rice (Oryza sativa) and maize (Zea mays L.).
+Crop
+Information
+rice
+The editing of the OsHXK1 gene in rice using CRISPR-Cas9 technologies
+increases chlorophyll levels in the leaves of plants.
+maize
+Genes responsible for the production of toxins in the soil bacterium
+Bacillus thuringiensis were inserted into the genome of maize to kill corn
+rootworm larvae.",,21
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB4,B,Section B,4a,Q4a,2,SubQuestion,"Complete the table below, using the information provided, to determine whether each
+crop is transgenic, genetically modified or both. Justify each response. ",,22
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB4,B,Section B,4,Q4,,MidQuestionContext,"Crop
+Transgenic, genetically
+modified or both
+Justification
+rice
+maize",,23
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB4,B,Section B,4b,Q4b,2,SubQuestion,"Explain how the editing of the OsHXK1 gene in rice could result in an increased
+crop yield.",,24
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB5,B,Section B,5,Q5,6,Question,"The bacterium Neisseria meningitidis causes meningococcal disease. N. meningitidis is
+contagious and transmitted between people via secretions of the nose and throat.",,25
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB5,B,Section B,5a,Q5a,2,SubQuestion,State two roles of neutrophils in an immune response to N. meningitidis.,,26
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB5,B,Section B,5b,Q5b,4,SubQuestion,"Contrast how the adaptive immune system responds to an extracellular pathogen, like
+N. meningitidis, and an intracellular pathogen, like the influenza virus.",,27
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB6,B,Section B,6,Q6,10,Question,"Respiratory syncytial virus (RSV) is a common virus that can infect people of all ages. RSV
+can lead to the hospitalisation of infants. RSV is easily spread via respiratory droplets from
+those infected.
+In late 2024, the Australian federal government announced an initiative for pregnant
+women to receive a vaccine to combat RSV. A single dose of the vaccine is recommended
+at between 24 and 36 weeks of pregnancy. The vaccine contains two different proteins
+normally found on the surface of RSV.",,28
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB6,B,Section B,6a,Q6a,2,SubQuestion,"Identify the type of immunity given to the babies of mothers who have had this
+vaccination. Justify your response.",,29
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB6,B,Section B,6b,Q6b,2,SubQuestion,"Suggest one reason why pregnant women would be advised to receive a booster
+vaccine for RSV if they become pregnant again.",,30
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB6,B,Section B,6c,Q6c,2,SubQuestion,Explain one economic benefit relevant to the vaccination of pregnant women.,,31
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB6,B,Section B,6d,Q6d,2,SubQuestion,"Nirsevimab is a monoclonal antibody that can be used to help prevent severe RSV
+infections. Injections containing these antibodies are given to infants born during
+high-risk RSV periods to unvaccinated mothers.
+Explain how monoclonal antibodies work to reduce the severity of RSV in these infants.",,32
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB6,B,Section B,6e,Q6e,2,SubQuestion,"Other than administering vaccination and nirsevimab, identify one way in which
+the spread of RSV could be reduced in the infants of unvaccinated mothers. Justify
+your response.",,33
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB7,B,Section B,7,Q7,8,Question,"In 2007, a single colony of Asian honey bees (Apis cerana) was accidentally introduced
+into Australia via a port in Queensland. Honey bee queens typically mate with up to
+10 males during a short period early in life and use the stored sperm to fertilise eggs over
+their lifetime. The queen in the introduced colony was already carrying sperm from matings
+in her native environment. Upon arrival, the queen continuously laid eggs, producing
+offspring. Other bees in the initial colony did not produce fertilised eggs. Over time, new
+colonies were established. The bees expanded to an estimated 10 000-50 000 colonies
+within a decade.",,34
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB7,B,Section B,7a,Q7a,2,SubQuestion,"Scientists believe the introduction of the Asian honey bee into Australia is an example
+of the founder effect.
+Referring to genetic changes, state what the founder effect is and why the scientists
+are correct.",,35
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB7,B,Section B,7b,Q7b,3,SubQuestion,"Compared to the initial colony, the bees in the new colonies showed an improved
+ability to gather food and organise their colonies. Scientists investigated their DNA
+and discovered 481 differences from the original colony of Asian honey bees that had
+been introduced into Australia.
+Identify the process responsible for these DNA differences and explain how this
+process contributed to the successful expansion of the colonies.",,36
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB7,B,Section B,7c,Q7c,3,SubQuestion,"The introduction of the Asian honey bee has had serious ecological effects. The
+bees compete with native species for resources, take over important nesting sites
+and pose a threat to native honey bee colonies that are managed for agriculture. The
+introduction of the Asian honey bee could be an environmental selection pressure for
+the native bee population.
+Explain the potential genetic change in the native bee population.",,37
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB8,B,Section B,8,Q8,14,Question,"Scientists are using microorganisms to restart brain activity in tadpoles
+Animal brains are made up of specialised cells called neurons. The activity of these cells relies on
+constant supply of oxygen. When oxygen supply is too low (hypoxia), brain activity stops.
+Scientists often use tadpoles during research. Tadpoles hatch from eggs that are laid in groups of
+thousands. Their skin can be transparent, as shown in the diagram below.
+5 mm
+eye
+gut
+Source: TadeasH/Shutterstock.com
+During the early stages of their development, tadpoles absorb dissolved oxygen from the water
+through their gills.
+Researchers conducted an experiment using tadpoles. The experiment was approved by the ethical
+standards committee. The tadpoles were used to explore whether photosynthetic cyanobacteria
+could serve as an alternative oxygen source to that supplied in the water. Researchers injected
+cyanobacteria into the hearts of tadpoles. The cyanobacteria entered each tadpole's bloodstream
+and were transported to other parts of the body, including the brain.
+After the injection, these tadpoles were placed in a dark, hypoxic environment. After about
+65 minutes, brain activity stopped, indicated by the white arrowheads in the figure below. These
+tadpoles were then exposed to light. After 15-20 minutes in the light, brain activity restarted,
+indicated by the black arrowheads in the figure below.
+time (minutes)
+brain
+activity
+dark
+light
+dark
+dark
+light
+light
+In the future, this might provide a way to increase oxygen levels to humans during medical
+emergencies. However, a major challenge for a future use of injectable photosynthetic
+microorganisms is the potential activation of an immune response in people. Much more research
+is needed to ensure the safety of this potential treatment.
+Source: Adapted from S Özugur et al., 'Green oxygen power plants in the brain rescue neuronal activity',
+iScience, vol. 24, 22 October 2021",,38
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB8,B,Section B,8a,Q8a,2,SubQuestion,"Using information from the article, propose two reasons why tadpoles were chosen
+for this experiment.",,39
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB8,B,Section B,8b,Q8b,4,SubQuestion,"i.	 Other than enzymes, name two molecules the photosynthetic cyanobacteria
+would require to produce oxygen.",,40
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB8,B,Section B,8c,Q8c,2,SubQuestion,"Explain why the tadpoles' brain activity stopped when their neurons were exposed to
+hypoxic environment for extended periods of time.",,41
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB8,B,Section B,8d,Q8d,2,SubQuestion,"Referring to a biochemical pathway, explain one reason for the delay in the restart of
+the tadpoles' brain activity.",,42
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB8,B,Section B,8e,Q8e,2,SubQuestion,"The electron transport chain occurs within the mitochondria.
+Outline two events that occur along this chain.",,43
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB8,B,Section B,8f,Q8f,2,SubQuestion,"Two students noted that this research had been approved by the researchers' ethical
+standards committee:
+Student X thought this experiment was ethical as it met the principle of beneficence.
+Student Y thought this experiment was unethical as it did not meet the principle of
+non‑maleficence.
+State which student you agree with and justify your response using information from
+the article.",,44
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB9,B,Section B,9,Q9,5,Question,"The Galápagos archipelago is a group of islands. The woodpecker finch (Camarhynchus
+pallidus) is found on four of the islands that comprise the Galápagos islands. The locations
+of populations of the woodpecker finch on these four islands are shown below.
+Isabela
+Santiago
+Santa Cruz
+sea
+San Cristobal
+Key
+woodpecker finch
+location
+kilometres
+Source: Adapted from LP Lawson et al., 'A hidden finch
+Zoological Journal of the Linnean Society, vol. 202, no. 4, December 2024",,45
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB9,B,Section B,9a,Q9a,2,SubQuestion,"Scientists studied the different woodpecker finch populations using molecular homology.
+Use one example to describe how molecular homology can be interpreted to
+determine the relatedness between the populations.",,46
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB9,B,Section B,9b,Q9b,3,SubQuestion,"Scientists concluded that the woodpecker finch populations on San Cristobal island
+may be considered to be a different species from the woodpecker finch populations on
+the three other islands shown on the map above.
+Referring to the map, explain the type of speciation that has occurred.",,47
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB10,B,Section B,10,Q10,8,Question,"A team of researchers has uncovered dozens of fossilised footprints at an archaeological
+site in Kenya. The sediments around the footprints were dated to about 1.52 million
+years old.
+The researchers made two conclusions:
+Conclusion 1 - The footprints are from hominin species.
+Conclusion 2 - There are two separate hominin species rather than variation within the
+one species.",,48
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB10,B,Section B,10a,Q10a,2,SubQuestion,Describe the evidence that would support each conclusion.,,49
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB10,B,Section B,10,Q10,,MidQuestionContext,"Conclusion 1 
+Conclusion 2 
+Use the following information to answer part b below and part c on page 41.
+One species of hominins, Homo neanderthalensis, lived in Europe and west Asia
+for hundreds of thousands of years before disappearing about 40 000 years ago.
+Modern-day non-African Homo sapiens have inherited 1-2% of their DNA from
+H. neanderthalensis.
+Evidence for interbreeding between H. sapiens and H. neanderthalensis has been
+obtained from two recent studies and is summarised in the table below. Each study
+analysed the genomes belonging to H. sapiens individuals of different ages.
+Number
+of genomes
+studied
+Individuals
+studied and age
+Conclusion
+made
+Study
+7 ancient individuals
+dated at approximately
+45 000 years ago
+interbreeding occurred
+between 49 000 to
+45 000 years ago
+Study
+275 present-day
+individuals and 59
+ancient individuals
+dated from 45 000 to
+2200 years ago
+interbreeding occurred
+between 50 500 to
+43 500 years ago",,50
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB10,B,Section B,10b,Q10b,2,SubQuestion,"Give one reason for the difference in the conclusion made in each study. Justify your
+response using information from the table above.",,51
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB10,B,Section B,10c,Q10c,2,SubQuestion,"Study 2 also compared the percentage of Neanderthal DNA in the 59 ancient human
+individuals to the 275 present-day individuals. The diagram below summarises
+the findings.
+> 40 000 years ago
+> 20 000 years ago
+present day
+59 ancient humans
+275 diverse present-day
+individuals
+time
+Key
+Neanderthal DNA
+Source: Adapted from LNM Iasi et al., 'Neanderthal ancestry through time: Insights from
+genomes of ancient and present-day humans', Science, vol. 386, issue 6727, 13 December 2024
+Account for the change in the percentage of Neanderthal DNA found in ancient human
+individuals compared to present-day individuals.",,52
+Science,Biology,,,Year 12,Final Exam,Exam Questions,2025,"VCEBIU3AS1,VCEBIU3AS2,VCEBIU4AS1,VCEBIU4AS2,VCEBIU4AS3",VCEBI25ERB,VCEBI25EQB10,B,Section B,10d,Q10d,2,SubQuestion,"Fossils have been used to indicate where and at what time certain hominin species
+lived in the world. mtDNA has been used to provide evidence of how hominin species
+may have migrated across the world.
+Outline two benefits of using mtDNA to help determine pathways hominin species
+may have taken.",,53

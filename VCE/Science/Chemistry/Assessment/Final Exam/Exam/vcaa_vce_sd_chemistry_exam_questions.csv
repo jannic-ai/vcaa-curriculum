@@ -1,0 +1,2004 @@
+SubjectArea,Subject,SubjectStreamCode,SubjectStreamName,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,UnitASCode,ExamReportCode,EQCode,SectionCode,SectionName,QuestionNumber,QuestionLabel,Marks,ContentType,Content,StimulusSource,Sequence
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERA,,A,Section A,,,30,Header,Section A: Section A,,1
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERA,,A,Section A,,,,SubHeader,Instructions,,2
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERA,,A,Section A,,,,Instruction,Answer all questions in pencil on the Multiple-Choice Answer Sheet.,,3
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERA,,A,Section A,,,,Instruction,Choose the response that is correct or that best answers the question.,,4
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERA,,A,Section A,,,,Instruction,Acorrect answer scores 1; an incorrect answer scores 0.,,5
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERA,,A,Section A,,,,Instruction,Marks will not be deducted for incorrect answers.,,6
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERA,,A,Section A,,,,Instruction,No marks wil be given if more than one answer is completed for any question.,,7
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,,B,Section B,,,90,Header,Section B: Section B,,1
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,,B,Section B,,,,SubHeader,Instructions,,2
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,,B,Section B,,,,Instruction,Answer all questions in the spaces provided.,,3
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,,B,Section B,,,,Instruction,Write your responses in English.,,4
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB1,B,Section B,1a,Q1a,2,SubQuestion,"How can melting point determination be used to check the components and purity of
+solid consumer products?",,5
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB1,B,Section B,1b,Q1b,0,SubQuestion,"Linalool, C4qH,50, is a colourless oil found in lavender plants. Linalool may be useful
+in the human body to reduce inflammation. The molar mass of linalool is 154 g mol™"".
+HO",,6
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB1,B,Section B,1i,Q1i,6,SubQuestion,How many chiral centres are present in each linalool molecule?,,7
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB2,B,Section B,2,Q2,8,Question,"Areaction pathway begins with a hydrocarbon, Compound E.
+Compound
+Cly(g)/UV light
+1-chloropentane
+NaOH(aq)
+Compound
+C3Hg
+H,0(g)/H;PO,
+KoCr,07(aq)/H(aq) s
+pentanoic acid Compound
+L e
+sto, u)
+Compound",,8
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB2,B,Section B,2i,Q2i,2,SubQuestion,Write the molecular formula of Compound E in the box provided on page 14.,,9
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB2,B,Section B,2b,Q2b,1,SubQuestion,"1-chloropentane is reacted with NaOH to produce Compound L.
+Write the semi-structural formula for Compound L in the box provided on page 14.",,10
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB2,B,Section B,2c,Q2c,1,SubQuestion,"Cj3Hg reacts with H,O in the presence of a H;PO, catalyst to produce Compound M,
+which is a primary alcohol.
+Write the IUPAC name of Compound M in the box provided on page 14.",,11
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB2,B,Section B,2d,Q2d,0,SubQuestion,"Pentanoic acid is reacted with Compound M to form Compound N in the presence of
+concentrated sulfuric acid, H,SO,(1).",,12
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB2,B,Section B,2i,Q2i,4,SubQuestion,"State a qualitative test to detect the presence of the functional group in pentanoic
+acid, and state the expected observation(s).",,13
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB3,B,Section B,3,Q3,9,Question,"Alabel on a bread packet has the following information.
+Nutritional information
+Mass per 100
+of bread
+Carbohydrates 4739",,14
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB3,B,Section B,3a,Q3a,1,SubQuestion,"Use item 12 of the Data Book to calculate the energy typically available for the body
+to use in 100 g of bread.",,15
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB3,B,Section B,3b,Q3b,0,SubQuestion,"Gluten exorphin C is derived from gluten found in bread. The skeletal structure
+of gluten exorphin C is shown below.
+H o
+H H o
+NG N A
+H o N#\N [ o
+05 o",,16
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB3,B,Section B,3i,Q3i,3,SubQuestion,Name the bond that joins the monomers in gluten exorphin C.,,17
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB3,B,Section B,3c,Q3c,0,SubQuestion,"The fats in bread can be broken down into compounds including oleic acid and stearic
+acid. Refer to item 21 of the Data Book.",,18
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB3,B,Section B,3i,Q3i,5,SubQuestion,Identify a structural difference between oleic acid and stearic acid.,,19
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB4,B,Section B,4,Q4,8,Question,"Ammonia gas, NH3(g), can be made by reacting a mixture of nitrogen gas, N,(g), and
+hydrogen gas, H,(g), using an iron catalyst.
+The reaction can be represented by the equation
+N(g) +3Hy(g) = 2NHa(g) AH=-92.3kJ
+The equilibrium constant, K, , at 400 °C is 1.60 x 10~ kPa
+In a mixture that is at equilibrium at 400 °C, the partial pressure of H, is 88.7 kPa and the
+partial pressure of N, is 43.4 kPa.",,20
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB4,B,Section B,4a,Q4a,1,SubQuestion,"Write the expression for the equilibrium constant, K,",,21
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB4,B,Section B,4b,Q4b,1,SubQuestion,"Determine the partial pressure of NH,, in kPa, in the equilibrium mixture at 400°C.",,22
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB4,B,Section B,4c,Q4c,3,SubQuestion,"Ataconstant temperature of 400 °C, a change was made to the equilibrium system.
+Just after the change was made, the reaction quotient, Q, was 1.20 x 10~°kPa2
+Identify a change to the system that would result in this reaction quotient. Explain how
+the system would respond to the change.",,23
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB4,B,Section B,4d,Q4d,3,SubQuestion,"Explain how the iron catalyst addresses the conflict between optimal rate and
+temperature considerations in the production of NH,. Support your answer with
+reference to one green chemistry principle. Refer to item 26.ii of the Data Book.",,24
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB5,B,Section B,5a,Q5a,0,SubQuestion,"Acontainer with 100.0 g of water was heated using a butane, C,H;g, gas burner.
+The following results were obtained.
+Mass of C4H,, combusted 0.580¢g
+Temperature increase of water 356°C",,25
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB5,B,Section B,5i,Q5i,2,SubQuestion,"Use item 13 of the Data Book to calculate the amount of energy released by the
+combustion of C4H1g.",,26
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB5,B,Section B,5,Q5,,MidQuestionContext,"ii. Calculate the amount of energy absorbed by the 100.0 g of water. 1 mark QU
+- nnnn
+nnn",,27
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB5,B,Section B,5i,Q5i,2,SubQuestion,Calculate the percentage energy efficiency of the system used to heat the water.,,28
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB5,B,Section B,5b,Q5b,0,SubQuestion,"Minh is provided with solutions of 0.500 M lead(ll) nitrate, Pb(NO,),(aq), and 0.960
+potassium iodide, Kl(aq), to investigate the reaction below
+Pb(NO3),(aq) + 2Kl(aq) - Pbly(s) + 2KNOs(aq) AH=-49.0kJ
+Minh calibrated a solution calorimeter and found its calibration factor to be
+470.0J °C™"". Minh performed the reaction above in the calibrated calorimeter.
+The initial temperature of each solution was 25.0 °C. Minh stirred the mixture
+continuously during the reaction.",,29
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB5,B,Section B,5i,Q5i,6,SubQuestion,"Explain why a calorimeter needs to be calibrated before it can be used to calculate
+enthalpy changes.",,30
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB6,B,Section B,6,Q6,13,Question,"Compound X has a molecular formula of C5H4;CIO.
+The infrared spectrum of Compound X is shown below.
+transmit ance ' ' } I l '
+M
+'wave number (cm~') o
+Data: National Institute of Advanced Industrial Science and Technology, SDBS Web <https//sdbs. db aist go jp> g",,31
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB6,B,Section B,6a,Q6a,1,SubQuestion,"Useitem 22 of the Data Book to identify the bond type in Compound X that has the
+highest wave number.",,32
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB6,B,Section B,6b,Q6b,0,SubQuestion,"The mass spectrum of Compound X, C5H,;CI O, is shown below.
+relative
+intensity
+m/z
+Data: National Institute of Advanced Industrial Science and Technology, SDBS Web <https://sdbs.db.aist.go.jp>",,33
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB6,B,Section B,6i,Q6i,2,SubQuestion,Identify the m/z of the base peak.,,34
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB6,B,Section B,6c,Q6c,3,SubQuestion,"The ®CNMR spectrum for Compound X is shown below.
+ppm
+Data: National Institute of Advanced Industrial Science and Technology, SDBS Web <https://sdbs.db.aist.go.jp>
+What information do the four peaks in the 3¢ NMR spectrum provide about the cU
+arrangement of the five carbon atoms in the structure of Compound X? Justify your
+answer.",,35
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB6,B,Section B,6d,Q6d,0,SubQuestion,"The high-resolution THNMR spectrum for Compound X is shown below.
+ppm
+Data: National Institute of Advanced Industrial Science and Technology, SDBS Web <https://sdbs.db.aist.go.jp>",,36
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB6,B,Section B,6i,Q6i,5,SubQuestion,"Each peakin the THNMR spectrum for Compound X is a singlet.
+= Each peak has an associated integration curve.
+In general, what feature of a ""THNMR peak is represented by its integration curve?",,37
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB6,B,Section B,6e,Q6e,2,SubQuestion,"Inthe space provided below, draw the structural diagram of Compound X, using the
+information provided in parts a-d of Question 6.",,38
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB7,B,Section B,7a,Q7a,0,SubQuestion,"Svante adds a 1 M solution of sodium nitrate, NaNOs(aq), to a beaker. An electric
+current from a 3 V power supply is then passed between an iron, Fe(s), electrode and
+a platinum, Pt(s), electrode placed into the solution.
+The positive terminal of the power supply is attached to the Fe electrode and the
+negative terminal of the power supply is attached to the Pt electrode.
+Refer to item 1 of the Data Book.",,39
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB7,B,Section B,7i,Q7i,3,SubQuestion,State which metal electrode is the anode.,,40
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB7,B,Section B,7b,Q7b,0,SubQuestion,"Lithium-ion cells are used in many electronic products. When the cell is recharging, f_
+the following reactions occur at the electrodes.
+Electrode X: LiCoO, - CoO, + Li* + &~ 2
+Electrode Y: 6C + Li* + ™ - LiCq",,41
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB7,B,Section B,7i,Q7i,5,SubQuestion,State the polarity of Electrode X during recharging.,,42
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB7,B,Section B,7c,Q7c,0,SubQuestion,"Artificial photosynthesis can be used to produce hydrogen from water in acidic
+conditions. A simplified diagram of the acidic artificial photosynthesis process is
+shown below.
+© light
+[ roducts
+= P Hy(a)
+QbS] H,0() reactants
+g [
+c8 direction of electron flow",,43
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB7,B,Section B,7i,Q7i,4,SubQuestion,Identify the overall energy transformation that occurs during artificial photosynthesis.,,44
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB8,B,Section B,8,Q8,12,Question,"Lucia, a VCE student, investigated the production of bioethanol from the fermentation of
+glucose solution in the presence of yeast. Enzymes in yeast assist with the fermentation reaction.
+Lucia trialled two methods for the investigation, Method A and Method B. Both methods were
+trialled once.
+Method A Method
+1. Dissolve 5.0 g of glucose in 100 mL of water 1. Dissolve 5.0 g of glucose in 100 mL of water
+at 35 °C in a 250 mL conical flask. at 35 °C in a 250 mL conical flask.
+2. Add 2.0 g of yeast to the glucose solution 2. Add 2.0 g of yeast to the glucose solution
+and stir to mix. and stir to mix.
+3. Quickly place the conical flask on a balance 3. Quickly place a stopper fitted with a delivery
+and record the mass to one decimal place. tube in the mouth of the conical flask.
+4. After 30 minutes, record the mass of the 4. Submerge the end of the delivery tube in an
+conical flask to one decimal place. inverted burette filled with water at 25
+5. After 30 minutes, record the volume of gas
+in the burette.
+- gas collected
+- after 30 minutes
+-
+conical flask burette
+glucose
+solution and
+yeast
+1] 2824 g Lt
+TaRE Sz",,45
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB8,B,Section B,8i,Q8i,2,SubQuestion,Write a balanced chemical equation for the production of bioethanol from glucose.,,46
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB8,B,Section B,8b,Q8b,0,SubQuestion,"Lucia recorded the following results for Method A and Method B.
+Method A Method
+Time (minutes) Mass (g) Time (minutes) Volume (mL)",,47
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB8,B,Section B,8i,Q8i,5,SubQuestion,"Calculate the amount, in mol, of gas produced using Method A. The molar mass of
+the gas produced is 44.0 g mol ™""",,48
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB8,B,Section B,8c,Q8c,0,SubQuestion,"Luciadecided to use Method B with different amounts of glucose to test how changing
+the concentration of the glucose solution affects the rate of bioethanol production.
+Lucia recorded the volume of gas produced at three-minute intervals instead of only
+after 30 minutes. The graph below shows the data produced.
+ofgas 300 La
+produced Pl
+(mL) AR
+° g
+0 3 6 9 12 15 18 21 24 27 30 33 36 39 42 45 48
+time (minutes)
+Key 2.
+~~oe-~ 10.0 g glucose per 100 mL water - e~ 20.0 g glucose per 100 mL water
+Lucia's hypothesis was that the rate of the reaction would increase as the concentration
+of glucose solution increased.",,49
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB8,B,Section B,8i,Q8i,3,SubQuestion,Identify the independent variable.,,50
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB8,B,Section B,8i,Q8i,2,SubQuestion,"Identify one limitation of Method B. Your answer must be different to your answer
+for part b.i i.",,51
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB9,B,Section B,9,Q9,9,Question,"Paracetamol, CgHgNO,, can be made using two different reactions, Reaction P1 and
+Reaction P2.
+Reaction P1
+Liquid ethanoic anhydride, C4HgO54(1), is added to a mixture of solid 4-aminophenol,
+CgH;NO(s), and water. The resulting mixture of all reactants is heated in a hot-water bath
+for 10 minutes.
+60 °C, H,0
+CgH;NO + C4HgO3 B s CgHgNO, + C,H40,
+4-aminophenol ethanoic anhydride paracetamol ethanoic acid
+(M=109gmol™) (M=102gmol™) M=151gmol"") (M=60gmol™)
+Reaction P2
+Liquid ethanoic acid, C,H,0,(l), is mixed with solid 4-aminophenol, CsH;NO(s). The
+reactant mixture is heated in a hot water bath for 10 minutes.
+heat
+CgH,NO + C,H,0, - CgHgNO, + H,0
+4-aminophenol ethanoic acid paracetamol water
+M=109gmol""') (M=60gmol™) M=151gmol""') (M=18gmol™"") 5
+Results
+- For Reaction P1, the percentage yield is 87% and the percentage atom economy is 72%.
+= For every 1.4 g of 4-aminophenol reacted in Reaction P2, 0.80 g of paracetamol
+is produced.",,52
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB9,B,Section B,9i,Q9i,2,SubQuestion,"Calculate the percentage yield and percentage atom economy of Reaction P2, and
+compare them to the results for Reaction P1. 4 marks .
+ii. Use your answer to part a.i to discuss which reaction is better aligned with green
+chemistry. Support your answer by referencing the relevant green chemistry
+principle.
+Refer to item 26.ii of the Data Book.",,53
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB9,B,Section B,9b,Q9b,3,SubQuestion,"Prevention of waste is a green chemistry principle. Refer to item 26.ii of the Data Book.
+Discuss Reaction P1 and Reaction P2 in terms of this green chemistry principle.",,54
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB9,B,Section B,9i,Q9i,0,SubQuestion,United Nations Sustainable DevelopmentGoals = 22,,55
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB9,B,Section B,9i,Q9i,0,SubQuestion,Greenchemistry principles________~~~ 23,,56
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB9,B,Section B,9i,Q9i,0,SubQuestion,"Types of economies 23
+. You may keep this Data Book.
+. VVIHDRIAII CURRICULUM Vonn
+AND ASSESSMENT AUTHORITY
+1. Electrochemical series
+eoezeere | oo
+VCE Chemistry Data Book Page 3 of 24
+2. Chemical relationships
+amount of substance (number of moles) m Vv
+n=-; n=cV; n=-
+Vi
+universal gas equation pV=nRT
+chemical calibration factor (CF) for
+calorimetry CF= AT
+electrical calibration factor (CF) P Vit
+TaT
+molar enthalpy change
+amount of electrons (number of moles) () = Q
+% atom economy molar mass of desired product _ 100
+molar mass of all reactants
+% yield actual yield
+theoretical yield
+equilibrium constant e cr x[D]d % ..
+[AF x[BI? x . .
+for the equation
+aA+bB+...=cC+dD+..
+3. Physical constants and standard values
+NI TS
+N T SRR
+4. Unit conversions
+5. Metric prefixes
+The following prefixes are commonly used within the International System of Units (SI) to
+modify the base units and express quantities in multiples or fractions of those units.
+E--
+e | e
+VCE Chemistry Data Book Page 5 of 24
+6. Acid-base indicators
+range pH to higher pH in range
+7. Colours of selected conjugate redox reagents
+B e
+S = R
+Cry,07
+8. Formulas and charges for selected ions
+CationsI T .
+Momo [ Formia [ eme | Fomua | ame | Fomua
+VCE Chemistry Data Book Page 7 of 24
+AnionsI I R
+[ vame | omun [ wame | romus | Name | formus
+G R
+9. Solubility table
+e [ o | e
+VCE Chemistry Data Book Page 9 of 24
+10. Average bond enthalpies at 25 °C - single bonds
+(el wfolwle w1
+o e e | o | | e | |
+ERE I EA N A
+11. Average bond enthalpies at 25 °C - multiple bonds
+e
+e
+12. Energy content of food groups
+The energy that is typically available for the body to use as a result of the digestion
+and absorption of fats and oils, proteins and carbohydrates is shown in the table below.
+These values may vary based on the specific composition of foods and individual
+metabolic factors.
+Energy content
+13. Molar enthalpies of combustion
+The molar enthalpies of combustion in the following table are calculated at SLC
+(25 °C and 100 kPa) with combustion products being CO,(g) and H,O(l). Enthalpies of
+combustion, AH, for the substances in this table are reported for one mole of fuel and are
+shown as negative values, indicating the exothermic nature of the combustion reaction.
+C,He(9) + 3%02(9) -> 2C0,(g) + 3H,0()) AH = -1560 kJ mol™'
+Molar enthalpy
+of combustion
+(kJ mol™)
+VCE Chemistry Data Book Page 11 0f 24
+14. Heats of combustion of selected blended fuels
+Blended fuels are mixtures of compounds with different mixture ratios and, hence,
+determination of a generic molar enthalpy of combustion is not realistic. The values
+provided in the following table are typical values for heats of combustion at SLC
+(25 °C and 100 kPa) with combustion products being CO,(g) and H,O(l). Values for heats
+of combustion will vary due to the composition of the dif erent fuels. Additionally, for natural
+gas, the values may vary based on the source and processing.
+Heat of Heat of
+Fuel combustion combustion
+(kJg™) (kJ mL™"")
+= N R N A
+oo e | e
+15. Heats of combustion of selected biofuels
+The following table provides typical values for the heat of combustion of selected biofuels.
+The values may vary significantly, particularly for biogas, depending on the source of
+the biofuel and, hence, its composition. The amount of energy consumed during any
+purification process must also be considered when determining the net energy obtained
+from a biofuel.
+Fuel Heat of combustion
+(kJg™)
+This depends on its methane content,
+bio which can vary from 45% to 75% methane
+gas )
+by volume, depending on its source. The
+other main constituentis CO,, which does
+not burn.
+16. Periodic table of the elements
+hydrogen
+3 10| 4 16 atomic number __| 79 2.5 | electronegativity value
+Li Be Au symbol of element
+6.9 o0 197.0 relative atomic mass
+lithium beryllium
+gold name of element
+1"" 09]12 13
+Na Mg
+sodium magnesium
+Ca Sc Ti \J Cr Mn Fe Co
+potassium calcium scandium titanium vanadium chromium | manganese iron cobalt
+Rb Sr Y Zr Nb Mo Te Ru Rh
+rubidium strontium yttrium Zzirconium niobium molybdenum | technetium ruthenium rhodium
+Cs Ba 57-71 Hf Ta w Re Os Ir
+132.9 137.3 lanthanoids 178.5 180.9 183.8 186.2 190.2 192.2
+caesium barium hafnium tantalum tungsten rhenium osmium iridium
+Fr Ra 89-103 Rf Db Sg Bh Hs Mt
+(223) (226) actinoids (261) (262) (266) (264) (267) (268)
+francium radium rutherfordium| dubnium seaborgium bohrium hassium meitnerium
+La Ce Pr Nd Pm Sm Eu
+lanthanum cerium praseodymium | neodymium | promethium samarium europium
+Ac Th Pa u Np Pu Am
+actinium thorium protactinium uranium neptunium plutonium americium
+VCE Chemistry Data Book Page 13 of 24
+helium
+B c N o F Ne
+boron carbon nitrogen oxygen fluorine neon
+Al Si P S cl Ar
+aluminium silicon phosphorus sulfur chlorine argon
+Ni Cu Zn Ga Ge As Se Br Kr
+nickel copper zinc gallium germanium arsenic selenium bromine krypton
+Pd Ag cd In Sn Sb Te 1 Xe
+palladium silver cadmium indium tin antimony tellurium iodine xenon
+Pt Au Hg Tl Pb Bi Po At Rn
+platinum gold mercury thallium lead bismuth polonium astatine radon
+110 m 12 13 114 15 116 ""7 18
+Ds Rg Cn Nh Fl Mc Lv Ts Og
+darmstadtium | roentgenium | copernicium nihonium flerovium moscovium | livermorium | tennessine oganesson
+64 12|65 66 12167 12|68 1269 13|70 il 13
+Gd Tb Dy Ho Er Tm Yb Lu
+gadolinium terbium dysprosium holmium erbium thulium ytterbium lutetium
+Cm Bk cf Es Fm Md No Lr
+curium berkelium californium | einsteinium fermium | mendelevium | nobelium lawrencium
+Values in brackets indicate the mass number of the longest-lived isotope.
+17. Names of selected elements
+Relative Relative
+ymoor A s simoor Al somie
+(amu) (amu)
+Cremen|
+w | ws
+n | a5 | s
+o | v | w0 | oo
+T | m | s [ ws | [wen | e | o | w2
+S | oo |+ | w0
+oo | [ 5 | we | [mew | w | v | wo
+Cower |0 | o | w0
+o e | | w0
+T | o [ o | w0 | [wem | m | @ | ms
+e | v o | w0
+Cww | w7 | o
+Cowe | 1 | w0 | s
+e | m [ w | w
+Cwn | w2 | e
+VCE Chemistry Data Book Page 15 of 24
+18. Representations of organic molecules
+The following table shows different representations of organic molecules, using
+butanoic acid as an example.
+HHH|
+structural formula
+HHH O-H
+semi-structural
+(condensed) formula CH,CH,CH,COOH or CH,(CH,),COOH
+o
+skeletal structure /\)KO/H or /\)kOH
+19. Functional group nomenclature in organic chemistry
+The following table shows the priority of functional groups when naming
+organic compounds that contain more than one functional group.
+The functional group with the highest priority determines the suffix of
+the compound.
+Class of Functional
+compound group name
+EC S
+Cewe eww | e
+hydroxy/
+hydroxyl ydroxy- _
+'halo' bromo-
+halogen (i.e. bromo, chloro-
+9 chloro, fluoro, fluoro-
+iodo) iodo-
+20. 2-amino acids (a=amino acids)
+The table below provides simplified structures for amino acids. These amino acids may
+all be classified as '2-amino acids' since the amino group (-NH,) is attached to the second
+carbon atom in the carbon chain, numbered from the carboxyl (-COOH) end. They may
+also be classified as 'a-amino acids', since both the amino group and the carboxyl group
+are attached to the same carbon atom, known as the alpha carbon. These structures
+may be used as the basis for drawing zwitterions, identifying the products of protein
+hydrolysis and drawing the structures formed in the condensation polymerisation of amino
+acid monomers.
+CH,
+Ala
+H,N-CH-COOH
+I'\'IH
+Arg C'HZ-CHZ- CH,-NH-C-NH,
+H,;N-CH-COOH
+asparagine Asn ("":HzfoNH
+H,;N-CH-COOH
+CH,-COOH
+aspartic acid Asp
+H,N-CH-COOH
+CH,-SH
+cysteine Cys
+H,N-CH-COOH
+CH,-CH,-COOH
+glutamic acid Glu
+H,;N-CH-COOH
+glutamine Gin
+H,;N-CH-COOH
+histidine His CH, N\
+H
+H,N-CH-COOH
+VCE Chemistry Data Book Page 17 of 24
+e o] s
+CH;-CH-CH,-CH,
+isoleucine
+H,N-CH--COOH
+CHS-TH-CHS
+leucine Leu THQ
+H,;N-CH-COOH
+CH,-CH,-CH,-CH,-NH,
+lysine Lys
+H,N-CH-COOH
+CH,-CH,-S-CH,
+methionine Met
+H,N-CH-COOH
+phenylalanine Phe
+H,N-CH
+COOH
+proline Pro H@
+CH,-OH
+serine Ser
+H,N-CH-COOH
+CH;-CH-OH
+threonine Thr
+H,N-CH-COOH
+tryptophan Trp
+H,N-CH--COOH
+CHZ-@OH
+tyrosine Tyr
+H,;N-CH-COOH
+CH;-CH-CH,
+valine Val
+H,N-CH-COOH
+21. Formulas of selected fatty acids
+o [ e
+formula
+22. Characteristic ranges for infrared absorption
+VCE Chemistry Data Book Page 19 of 24
+23. ""*C NMR data
+Typical °C shift values relative to TMS = 0
+These can differ slightly in different solvents.
+Type of carbon Chemical shift (ppm)
+R-CH,-R 20-45
+15-80
+R;C-NR 35-70
+50-90
+R,C=CR, 110-150
+R>C =0 165-175
+RNe-
+C=0 165-185
+H,N
+24. ""HNMR data
+Typical proton shift values relative to TMS = 0
+These can differ slightly in different solvents. The shift refers to the proton environment that
+is indicated in bold letters in the formula.
+Type of proton Chemical shift (ppm)
+o | e
+R-CH,-R 1.3-14
+RCH=CH-CH, 1.6-1.9
+CH370< or CH3-0< 2.0
+OR NHR
+CH.
+21-2.7
+[e}
+C\/ 32
+NHCH,R
+[e]
+@707C7CH3
+37-4.8
+OCH,R
+(varies considerably
+under different
+conditions)
+RHC=CHR 4.5-7.0
+VCE Chemistry Data Book Page 21 of 24
+Type of proton Chemical shift (ppm)
+C//O
+6.0-8.0
+NH,
+C//O
+9.0-13.0
+No-H
+25. Representations of selected biomolecules
+H*T*OH CH,OH
+L i
+OH H
+HO OH
+H OH
+glycerol a-D-glucose
+CH,OH
+CHZ%H CHZ%H CH?%H CH,0H CH, CH,0H
+Q Q
+VANG OH oH ~ AOH OH OH
+L [¢] o o d d d o)
+OH J, OH OH OH OH
+amylose (starch) amylopectin (starch)
+26. Sustainability",,57
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2024,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH24ERB,VCECH24EQB9,B,Section B,9i,Q9i,0,SubQuestion,"United Nations Sustainable Development Goals
+The following nine goals are relevant to VCE Chemistry:
+Goal 2: Zero hunger
+Goal 6: Clean water and sanitation
+Goal 7: Affordable and clean energy
+Goal 9: Industry, innovation and infrastructure
+Goal 11: Sustainable cities and communities
+Goal 12: Responsible consumption and production
+Goal 13: Climate action
+Goal 14: Life below water
+Goal 15: Life on land
+Source: Adapted from 'The 17 Goals',
+Department of Economic and Social Affairs,
+Sustainable Development, United Nations
+<https://sdgs.un.org./goals>
+VCE Chemistry Data Book Page 23 of 24
+ii. Green chemistry principles
+The following seven green chemistry principles are relevant to VCE Chemistry:
+Atom economy: Processes/pathways should be designed to maximise incorporation of all
+reactant materials used in the process into the final product.
+- Catalysis: Catalysts should be selected to generate the same desired product(s) with less
+waste and using less energy and reagents in reaction processes/pathways.
+Design for degradation: Chemical products should be designed so that at the end of their use
+they break down into harmless degradation products and do not persist in the environment.
+Design for energy efficiency: Processes/pathways should be designed for maximum energy
+efficiency and with minimal negative environmental and economic impacts.
+Designing safer chemicals: Chemical products should be designed to achieve their intended
+function while minimising toxicity.
+Prevention of wastes: It is better to prevent waste than to treat or clean up waste after it has
+been produced.
+Use of renewable feedstocks: Raw materials or feedstocks should be made from renewable
+(mainly plant-based) materials, rather than from fossil fuels, whenever practicable.
+Source: Adapted from PT Anastas and JC Warner,
+Green Chemistry: Theory and Practice, Oxford University Press, New York, 1998, p.30
+iii. Types of economies
+Linear
+Dispose
+resources
+Circular
+Natural
+resources Take
+Recycle Make
+Compost
+Re-make
+Re-use
+Repair
+End of Chemistry Data Book
+Victorian Curriculum and Assessment Authority 2024 .",,58
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERA,,A,Section A,,,30,Header,Section A: Section A,,1
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERA,,A,Section A,,,,SubHeader,Instructions,,2
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERA,,A,Section A,,,,Instruction,Answer all questions in pencil on your Multiple-Choice Answer Sheet.,,3
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERA,,A,Section A,,,,Instruction,Choose the response that is correct or that best answers the question.,,4
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERA,,A,Section A,,,,Instruction,A correct answer scores 1; an incorrect answer scores 0.,,5
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERA,,A,Section A,,,,Instruction,Marks will not be deducted for incorrect answers.,,6
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERA,,A,Section A,,,,Instruction,No marks will be given if more than one answer is completed for any question.,,7
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,,B,Section B,,,90,Header,Section B: Section B,,1
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,,B,Section B,,,,SubHeader,Instructions,,2
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,,B,Section B,,,,Instruction,Answer all questions in the spaces provided.,,3
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,,B,Section B,,,,Instruction,Write your responses in English.,,4
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB1,B,Section B,1,Q1,13,Question,"Kim investigated the energy efficiency of two different fuels, propane, C3H8, and pure bioethanol,
+C2H5OH, for heating water.
+Kim placed a saucepan with 166.0 g of tap water on a portable camp stove and heated it using C3H8.
+The set-up for the experiment is shown below.
+digital
+thermometer
+temperature
+probe
+portable camp stove
+propane container
+saucepan
+The following results were recorded.
+initial temperature of water
+24.1
+final temperature of water
+90.1
+mass of C3H8 combusted
+9.0",,5
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB1,B,Section B,1a,Q1a,2,SubQuestion,Write a balanced thermochemical equation for the complete combustion of C3H8. ,,6
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB1,B,Section B,1b,Q1b,2,SubQuestion,"Using item 13 of the Data Book, calculate the amount of energy released by the
+complete combustion of 9.0 g of C3H8 (M = 44.0 g mol−1). ",,7
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB1,B,Section B,1c,Q1c,3,SubQuestion,i.	 Calculate the energy absorbed by the water in the saucepan. ,,8
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB1,B,Section B,1,Q1,,MidQuestionContext,"Kim placed all of the equipment inside a sealed container with a total air volume of 0.125 m3
+and repeated the investigation.
+The air in the enclosure contained 21.0% v/v oxygen, O2, at standard laboratory conditions (SLC).
+sealed container
+21.0% v/v O2",,9
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB1,B,Section B,1d,Q1d,4,SubQuestion,"9.0 g of C3H8 was combusted in the sealed container shown above.
+Determine the mass of the reactant in excess. ",,10
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB1,B,Section B,1e,Q1e,2,SubQuestion,"In another investigation, Kim found that 15.3 g of C2H5OH (M = 46.0 g mol−1) was
+required to produce the same change in water temperature as the 9.0 g of C3H8.
+Explain why different masses of the fuels were required to produce the same
+temperature change. ",,11
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB2,B,Section B,2,Q2,13,Question,"Stef is an engineer working in the electroplating industry. Electroplating is a process that
+uses electrolysis to coat objects with a thin layer of metal to protect the object or improve
+its appearance.
+Traditionally objects are electroplated with chromium, Cr, using the set-up shown below.
+The electrolyte used is chromium(III) sulfate, Cr2(SO4)3(aq), with a small amount of
+H2SO4(aq).
+voltage
+amperage
+power source
+electrolyte
+chromium
+electrode
+object
+to be
+plated
+Source: Adapted from US Chrome, <www.uschrome.com>
+The half-equation for chromium electroplating is
+Cr3+(aq) + 3e−  Cr(s)
+E0 = −0.74",,12
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB2,B,Section B,2a,Q2a,2,SubQuestion,"Explain, using oxidation numbers, why this is a reduction reaction. ",,13
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB2,B,Section B,2b,Q2b,2,SubQuestion,"Explain why the effective electroplating of an object requires the same ion to be
+involved in both the anode and cathode reactions. ",,14
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB2,B,Section B,2c,Q2c,3,SubQuestion,"Small amounts of H2SO4(aq) are used in this electroplating cell.
+Use item 1 of the Data Book to justify why the amount must be carefully managed. ",,15
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB2,B,Section B,2d,Q2d,4,SubQuestion,"Over a period of 2.50 hours, a mass of 7.80 g of Cr (Ar = 52.0 amu) was electroplated
+onto an object.
+Calculate the current, in amperes, required to achieve this electroplating. ",,16
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB2,B,Section B,2e,Q2e,2,SubQuestion,"Stef is investigating innovation in the industry and is comparing the use of other
+metals to chromium in electroplating.
+Stef has found that rhodium, Rh (Ar = 102.9 amu), can be used to electroplate parts
+for wind turbines because it is harder and more resistant to salt corrosion than Cr.
+Rh3+(aq) + 3e−  Rh(s)
+E0 = +0.76
+Explain why less current would be required to plate the same mass of Rh
+compared to Cr. ",,17
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB3,B,Section B,3,Q3,12,Question,"Methanol, CH3OH, is widely used as a starting material for a range of products, including
+paints and pharmaceuticals. A chemical reaction for the synthesis of CH3OH is
+CO(g) + 2H2(g)  CH3OH(g)
+∆H < 0",,18
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB3,B,Section B,3a,Q3a,1,SubQuestion,Define the term 'reversible reaction'. ,,19
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB3,B,Section B,3b,Q3b,0,SubQuestion,"The operating conditions used for producing CH3OH are 500 K and 10 000 kPa in the
+presence of a catalyst.",,20
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB3,B,Section B,3i,Q3i,4,SubQuestion,"The rate of the reaction can be increased by increasing the temperature.
+Explain the impact this would have on the yield. ",,21
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB3,B,Section B,3,Q3,,MidQuestionContext,"A mixture of carbon monoxide, CO, hydrogen, H2, and CH3OH gases inside a sealed
+container is at equilibrium at 500 K. The equilibrium expression is
+CH OH
+at 500
+A change to the system is applied at time t1. The concentrations at t1 are measured to be:
+•	 [CO] = 2.00
+•	 [H2] = 1.25
+•	 [CH3OH] = 5.60",,22
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB3,B,Section B,3c,Q3c,3,SubQuestion,"Determine what needs to happen for the system to return to equilibrium. Use
+calculations to support your response. ",,23
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB3,B,Section B,3d,Q3d,4,SubQuestion,"5.00 mol of CO and an unknown amount of H2 were injected into an evacuated
+1.00 L sealed container at 500 K. Once equilibrium was established, the concentration
+of CH3OH was determined to be 1.30 M.
+Calculate the amount of H2, in moles, initially added to the container. ",,24
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB4,B,Section B,4,Q4,17,Question,"Many industries, such as the pharmaceutical industry, need to produce a range of
+organic compounds.",,25
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB4,B,Section B,4a,Q4a,0,SubQuestion,"Simple hydrocarbons are the usual raw material used to produce haloalkanes,
+amines, alcohols, carboxylic acids and esters.",,26
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB4,B,Section B,4i,Q4i,4,SubQuestion,"Write a balanced equation to show the production of C3H7Cl from C3H8.
+Include the reaction conditions. ",,27
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB4,B,Section B,4,Q4,,MidQuestionContext,"During the production process, routine quality testing occurs. After testing, the samples
+are collected as organic waste. In order to dispose of the waste safely, the components
+must be separated.",,28
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB4,B,Section B,4b,Q4b,0,SubQuestion,"The waste from one laboratory was a mixture of amines and carboxylic acids.
+The amines were separated from the carboxylic acids on the basis of their different
+boiling points.
+Boiling points of the first three compounds in the carboxylic acid and amine series are
+listed in the table below.
+carboxylic acids
+HCOOH
+101
+CH3COOH
+118
+CH3CH2COOH
+141
+amines
+CH3NH2
+−6
+CH3CH2NH2
+17
+CH3CH2CH2NH2
+48",,29
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB4,B,Section B,4i,Q4i,3,SubQuestion,"Referring to their structures, explain why the homologous series of carboxylic
+acids have higher boiling points than the corresponding amines. ",,30
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB4,B,Section B,4,Q4,,MidQuestionContext,"Compound X, known to contain both oxygen and chlorine, was purified from a waste
+sample to enable it to be re-used.",,31
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB4,B,Section B,4c,Q4c,0,SubQuestion,"The mass spectrum of Compound X is shown below:
+The only stable isotope of oxygen is 16O.
+The two naturally occurring, stable isotopes of chlorine are 35Cl and 37Cl.
+relative
+intensity
+m/z
+Data: Adapted from ChemicalBook, <www.chemicalbook.com>",,32
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB4,B,Section B,4i,Q4i,3,SubQuestion,Identify the m/z of the base peak. ,,33
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB4,B,Section B,4d,Q4d,3,SubQuestion,"The high-resolution 1H NMR spectrum for Compound X is shown below.
+ppm
+Data: Adapted from ChemicalBook, <www.chemicalbook.com/>
+Data obtained from the 1H NMR spectrum for Compound X is shown in the table below.
+Chemical shift (ppm)
+Relative peak area
+Referring to the 1H NMR spectrum and the table above, deduce three things about
+the structure of Compound X. ",,34
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB4,B,Section B,4e,Q4e,2,SubQuestion,"The 13C NMR spectrum for Compound X is shown below.
+ppm
+Data: ChemicalBook, <www.chemicalbook.com/>
+What does the 13C NMR spectrum indicate about the structure of Compound X? ",,35
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB4,B,Section B,4f,Q4f,2,SubQuestion,"i.	 In the space provided below, draw the skeletal diagram of Compound X that is
+consistent with the information provided in parts c-e. ",,36
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB5,B,Section B,5,Q5,13,Question,"Traditionally the quinine tree has been used to treat many illnesses, including malaria,
+due to the range of different compounds contained in its bark. One of the useful medicinal
+compounds in its bark is quinine, C20H24N2O2, which is used to make tonic water. Tonic
+water sold today has a much lower concentration of quinine than in the past.",,37
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB5,B,Section B,5a,Q5a,0,SubQuestion,"High-performance liquid chromatography (HPLC) is commonly used to detect both
+the presence and concentration of quinine in tonic water.
+The HPLC chromatograph of a sample of tonic water is shown below.
+time (minutes)
+absorbance
+quinine
+Data: Adapted from Xesús Feás et al.,
+'Toxicological aspects of the consumption of soft drinks containing quinine',
+Nutricion Clinica y Dietetica Hospitalaria, vol. 28(2), January 2008",,38
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB5,B,Section B,5i,Q5i,5,SubQuestion,"Explain how retention time can be used to confirm the presence of quinine in the
+sample of tonic water. ",,39
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB5,B,Section B,5b,Q5b,0,SubQuestion,A representation for quinine is shown below with three functional groups circled.,,40
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB5,B,Section B,5i,Q5i,3,SubQuestion,"Using item 19 of the Data Book, name the functional group with the highest priority
+when following IUPAC nomenclature. ",,41
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB5,B,Section B,5c,Q5c,0,SubQuestion,"Quinine has four chiral centres. Only one of its isomers is an effective medicine in the
+treatment of malaria.",,42
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB5,B,Section B,5i,Q5i,5,SubQuestion,"Referring to the term 'chiral centre' in your response, explain why only one isomer
+of quinine is effective. ",,43
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6,Q6,14,Question,"Many vegetables contain compounds that taste bitter because of the oxalate ion, C2O4
+Removing the
+bitterness can be achieved through different cooking methods, including boiling and steaming.
+VCE Chemistry student Karolina undertook research to collect background information for her scientific
+investigation and learnt that oxalate compounds can be water-soluble and water-insoluble.
+From her research Karolina developed the following hypothesis: 'The boiling process will remove 75%
+of the oxalate compounds in spinach leaves.'
+Karolina tested her hypothesis by investigating the effectiveness of boiling to remove C2O4
+2− from
+spinach leaves.
+The method developed by Karolina is outlined below.
+Step
+Step
+Step
+Place chopped spinach
+leaves into a beaker.
+Add 1 M HCl and mix.
+Filter the spinach mixture
+into a 500 mL volumetric
+flask. Fill to the level with
+deionised water.
+Heat the volumetric flask
+in a hot water bath to
+reach 50 °C. Leave the
+flask in the bath.
+Part A - Preparation of oxalate ion solution
+From the volumetric flask
+in the 50 °C hot water
+bath, pipette a 25.0 mL
+aliquot into a conical flask.
+See diagram below.
+Step
+Step
+Step
+Fill a 50.00 mL burette
+with 0.0020 M acidified
+potassium permanganate,
+KMnO4, solution.
+Immediately titrate
+until a permanent colour
+change is observed in
+the conical flask.
+Part B - Titration",,44
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6a,Q6a,1,SubQuestion,"Circle the scientific investigation methodology that Karolina most likely used to
+develop her hypothesis. ",,45
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6,Q6,,MidQuestionContext,"case study fieldwork literature review modelling
+C2O4
+2− reacts with permanganate ions, MnO4
+−, according to the equation below.
+2MnO4
+−(aq) + 5C2O4
+2−(aq) + 16H+(aq) → 2Mn2+(aq) + 10CO2(g) + 8H2O(l)",,46
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6b,Q6b,1,SubQuestion,"Refer to item 7 of the Data Book. What specific observation did Karolina use to
+determine the end point of the titration? ",,47
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6c,Q6c,0,SubQuestion,The reaction was conducted at 50 °C rather than at room temperature.,,48
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6i,Q6i,2,SubQuestion,"Use collision theory to state why this is a preferred temperature at which to
+conduct the reaction. ",,49
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6,Q6,,MidQuestionContext,"Results
+Karolina recorded the titration results for the uncooked spinach in the table below.
+Trial
+Initial volume (mL)
+Final volume (mL)
+Titre (mL)",,50
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6d,Q6d,1,SubQuestion,"Calculate the average titre of MnO4
+− used in the experiment. ",,51
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6e,Q6e,4,SubQuestion,"A 15.15 g sample of uncooked spinach was used.
+Calculate the mass of C2O4
+2− (M = 88.0 g mol−1) in the sample using the experimental
+results above. Give your answer in grams. ",,52
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6,Q6,,MidQuestionContext,"Karolina then prepared a second 15.15 g sample of spinach as follows:
+•	 boiled in deionised water for two minutes
+•	 thoroughly rinsed with deionised water using a sieve
+•	 left overnight to dry
+This cooked sample was then tested using the steps outlined in Part A and Part B on page 32.",,53
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6f,Q6f,1,SubQuestion,"Karolina calculated the mass of C2O4
+2− to be 0.0545 g in this sample.
+Determine the percentage change of C2O4
+2− that resulted by boiling the spinach
+in this experiment. ",,54
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6g,Q6g,2,SubQuestion,"Rinsing is an essential step in the process for testing the cooked spinach.
+Explain why insufficient rinsing of the cooked sample before commencing Step
+of Part A on page 32 would lead to a calculated C2O4
+2− concentration that is higher
+than the true value. ",,55
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB6,B,Section B,6h,Q6h,2,SubQuestion,Discuss whether the findings support Karolina's hypothesis. ,,56
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB7,B,Section B,7,Q7,8,Question,"Steel is an essential component of modern life. In 2023, approximately 1.9 billion tonnes of steel was
+made worldwide and steel production was responsible for 8% of global carbon dioxide, CO2, emissions.
+In traditional steelmaking, iron ore, which is primarily iron(III) oxide, Fe2O3, is reduced with a form
+C, known as coke. This occurs in a blast furnace with temperatures between 2200
+and 2300 °C, producing molten iron, Fe, and forming CO2 as a by-product.
+One alternative process being considered is molten oxide electrolysis (MOE). In MOE, Fe2O3 is heated
+to approximately 1600 °C and dissolved in a liquid oxide electrolyte such as calcium oxide, CaO. Fe is
+formed at the cathode and oxygen gas, O2(g), is formed at the inert anode. The inert anode needs to be
+highly stable and corrosion resistant. Materials being considered for the anode include:
+•	 platinum,
+•	 iridium,
+•	 ceramic-metal oxides.
+Fe2O3 dissolved
+in liquid oxide
+electrolyte
+O2 gas
+molten Fe
+inert
+anode
+The MOE process
+Source: Adapted from R Campbell, 'The green edge of steel:
+Cutting through carbon', 28 June 2021, <www.whitecase.com>
+
+The table below provides a summary of the key characteristics of the two processes.
+Process
+Overall equation
+CO2
+emissions
+per tonne
+of steel
+produced
+(kg)
+Electricity
+used
+per tonne
+of steel
+produced
+(MJ)
+blast
+furnace
+2Fe2O3(l) + 3C(s) → 4Fe(l) + 3CO2(g)
+MOE
+2Fe2O3(l) → 4Fe(l) + 3O2(g)
+1 tonne = 1000 kg",,57
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB7,B,Section B,7a,Q7a,2,SubQuestion,"Goal 12 of the United Nations Sustainable Development Goals is
+consumption and production'.
+Describe a necessary requirement for the MOE process to have a positive impact
+on this goal while still meeting society's needs for steel. ",,58
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB7,B,Section B,7b,Q7b,6,SubQuestion,"Evaluate the MOE and the blast furnace processes with respect to green chemistry
+principles. Refer to item 26 ii of the Data Book, the information on pages 36 and 37
+and content you have learnt in VCE Chemistry in your response.
+Your response must:
+•	 include two relevant green chemistry principles and compare both methods
+against each principle
+•	 describe one ethical factor that is important to the challenge of producing steel
+to meet global needs
+•	 include a concluding statement that is consistent with your evaluation. ",,59
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB7,B,Section B,7i,Q7i,0,SubQuestion,"United Nations Sustainable Development Goals 
+ii. 	Green chemistry principles 
+iii. 	Types of economies 
+You may keep this Data Book.
+VCAA 2025
+Data Book VCE Chemistry
+Electrochemical series
+Reaction
+Standard electrode potential (E 0)
+in volts at 25
+F2(g) + 2e- ⇌ 2F-(aq)
+H2O2(aq) + 2H+(aq) + 2e- ⇌ 2H2O(l)
+MnO4
+-(aq) + 8H+(aq) + 5e- ⇌ Mn2+(aq) + 4H2O(l)
+PbO2(s) + 4H+(aq) + 2e- ⇌ Pb2+(aq) + 2H2O(l)
+Cr2O7
+2- (aq) + 14H+(aq) + 6e- ⇌ 2Cr3+(aq) + 7H2O(l)
+Cl2(g) + 2e- ⇌ 2Cl-(aq)
+O2(g) + 4H+(aq) + 4e- ⇌ 2H2O(l)
+Br2(l) + 2e- ⇌ 2Br
+Ag+(aq) + e- ⇌ Ag(s)
+Fe3+(aq) + e- ⇌ Fe2+(aq)
+O2(g) + 2H+(aq) + 2e- ⇌ H2O2(aq)
+I2(s) + 2e- ⇌ 2I-(aq)
+O2(g) + 2H2O(l) + 4e- ⇌ 4OH-(aq)
+Cu2+(aq) + 2e- ⇌ Cu(s)
+Sn4+(aq) + 2e- ⇌ Sn2+(aq)
+2H+(aq) + 2e- ⇌ H2(g)
+Pb2+(aq) + 2e- ⇌ Pb(s)
+0.13
+Sn2+(aq) + 2e- ⇌ Sn(s)
+0.14
+Ni2+(aq) + 2e- ⇌ Ni(s)
+0.25
+Co2+(aq) + 2e- ⇌ Co(s)
+0.28
+Fe2+(aq) + 2e- ⇌ Fe(s)
+0.44
+Zn2+(aq) + 2e- ⇌ Zn(s)
+0.76
+2H2O(l) + 2e- ⇌ H2(g) + 2OH-(aq)
+0.83
+Mn2+(aq) + 2e- ⇌ Mn(s)
+1.18
+Al3+(aq) + 3e- ⇌ Al(s)
+1.66
+Mg2+(aq) + 2e- ⇌ Mg(s)
+2.37
+Na+(aq) + e- ⇌ Na(s)
+2.71
+Ca2+(aq) + 2e- ⇌ Ca(s)
+2.87
+K+(aq) + e- ⇌ K(s)
+2.93
+Li+(aq) + e- ⇌ Li(s)
+3.04
+VCE Chemistry Data Book
+Chemical relationships
+Name
+Formula
+amount of substance (number of moles)
+universal gas equation
+pV = nRT
+chemical calibration factor (CF) for
+calorimetry
+electrical calibration factor (CF)
+= VIt
+thermal energy transferred
+q = mcΔT
+molar enthalpy change
+∆H
+electric charge
+Q = It
+amount of electrons (number of moles)
+n
+% atom economy
+1
+molar mass of desired product
+molar mass of all reactants
+% yield
+×100
+actual yield
+theoretical yield
+equilibrium constant
+for the equation
+aA + bB + ... ⇌ cC + dD
+Data Book VCE Chemistry
+Physical constants and standard values
+Name
+Symbol
+Value
+Avogadro constant
+NA or
+6.02 × 1023 mol-1
+Faraday constant
+C mol-1
+molar gas constant
+8.31 J mol-1
+molar volume of an ideal gas at SLC
+(25 °C and 100 kPa)
+24.8 L mol-1
+specific heat capacity of water
+4.18 kJ kg-1 K-1 or 4.18 J g-1
+density of water at 25
+1.0 g mL-1
+molar latent heat of vaporisation of water at 25
+ΔHvap(H2O)
++44.0 kJ mol-1
+molar latent heat of vaporisation of water at 100
+ΔHvap(H2O)
++40.7 kJ mol-1
+Unit conversions
+Measured value
+Conversion
+0
+273
+100 kPa
+0.987 atm
+1 litre
+1 dm3 or 1 × 10-3 m3 or 1 × 103 cm3 or 1 × 103 mL
+Metric prefixes
+The following prefixes are commonly used within the International System of Units (SI) to
+modify the base units and express quantities in multiples or fractions of those units.
+Prefixes
+Scientific notation
+Multiplying factor
+giga
+mega
+kilo
+deci
+10-1
+centi
+10-2
+milli
+10-3
+micro
+10-6
+nano
+10-9
+pico
+10-12
+VCE Chemistry Data Book
+Acid‑base indicators
+Name
+range
+Colour change from lower
+pH to higher pH in range
+thymol blue (1st change)
+2.8
+red → yellow
+methyl orange
+4.4
+red → yellow
+bromophenol blue
+4.6
+yellow → blue
+methyl red
+6.2
+red → yellow
+bromothymol blue
+7.6
+yellow → blue
+phenol red
+8.4
+yellow → red
+thymol blue (2nd change)
+9.6
+yellow → blue
+phenolphthalein
+8.3
+colourless → pink
+Colours of selected conjugate redox reagents
+Redox reagent in oxidised state
+Redox reagent in reduced state
+Name/formula
+Colour
+Name/formula
+Colour
+bromine, Br2
+brown
+bromide ion, Br−
+colourless
+chlorine, Cl2
+yellow/green
+chloride ion, Cl−
+colourless
+copper(II) ion, Cu2+
+blue
+copper(I) ion, Cu+
+red
+dichromate ion,
+Cr2O7
+orange
+chromium(III) ion, Cr3+
+green
+iodine,
+brown in
+aqueous solutions
+iodide ion,
+colourless
+iron(III) ion, Fe3+
+yellow/brown
+iron(II) ion, Fe2+
+pale green
+manganese(IV) dioxide,
+MnO2
+black/brown
+manganese(II) ion,
+Mn2+
+very pale pink
+permanganate ion,
+MnO4
+intense purple
+manganese(II) ion,
+Mn2+
+very pale pink
+Data Book VCE Chemistry
+Formulas and charges for selected ions
+Cations
+Name
+Formula
+Name
+Formula
+Name
+Formula
+ammonium
+NH4
+barium
+Ba2+
+aluminium
+Al3+
+copper(I)
+Cu+
+calcium
+Ca2+
+chromium(III)
+Cr3+
+hydronium
+H3O+
+copper(II)
+Cu2+
+iron(III)
+Fe3+
+lithium
+Li+
+iron(II)
+Fe2+
+potassium
+lead(II)
+Pb2+
+titanium(IV)
+Ti4+
+silver
+Ag+
+magnesium
+Mg2+
+sodium
+Na+
+mercury(II)
+Hg2+
+nickel(II)
+Ni2+
+tin(II)
+Sn2+
+zinc
+Zn2+
+VCE Chemistry Data Book
+Anions
+Name
+Formula
+Name
+Formula
+Name
+Formula
+bromide
+Br−
+carbonate
+CO3
+citrate
+C6H5O7
+chlorate
+ClO3
+chromate
+CrO4
+nitride
+N3−
+chloride
+Cl−
+dichromate
+Cr2O7
+phosphate
+PO4
+chlorite
+ClO2
+monohydrogen
+phosphate
+HPO4
+cyanide
+CN−
+oxide
+O2−
+dihydrogen
+phosphate
+H2PO4
+peroxide
+ethanoate
+CH3COO−
+sulfate
+SO4
+fluoride
+sulfide
+S2−
+hydrogen
+carbonate
+HCO3
+sulfite
+SO3
+hydrogen sulfate
+HSO4
+thiosulfate
+S2O3
+hydrogen sulfide
+HS−
+hydrogen sulfite
+HSO3
+hydroxide
+OH−
+hypochlorite
+ClO−
+iodide
+nitrate
+nitrite
+perchlorate
+ClO4
+permanganate
+MnO4
+Data Book VCE Chemistry
+Solubility table
+Salts
+Soluble
+Insoluble
+sodium
+All
+None
+potassium
+ammonium
+nitrate
+ethanoate
+bromide, chloride, iodide
+Most are soluble.
+lead(II), silver, CuBr2 , CuI2
+sulfate
+Most are soluble.
+barium, calcium, lead(II), silver
+carbonate
+Group 1 ions, ammonium
+Most are insoluble.
+phosphate
+Group 1 ions, ammonium
+Most are insoluble.
+hydroxide
+Group 1 ions, ammonium
+Most are insoluble.
+VCE Chemistry Data Book
+Average bond enthalpies at 25 °C - single bonds
+ΔH (kJ mol-1)
+Average bond enthalpies at 25 °C - multiple bonds
+Bond
+ΔH (kJ mol-1)
+C=C
+C≡C
+C=N
+C≡N
+C=O
+N≡N
+Data Book VCE Chemistry
+Energy content of food groups
+The energy that is typically available for the body to use as a result of the digestion
+and absorption of fats and oils, proteins and carbohydrates is shown in the table below.
+These values may vary based on the specific composition of foods and individual
+metabolic factors.
+Food
+Energy content
+fats and oils
+protein
+carbohydrate
+Molar enthalpies of combustion
+The molar enthalpies of combustion in the following table are calculated at SLC
+(25 °C and 100 kPa) with combustion products being CO2(g) and H2O(l). Enthalpies of
+combustion, ΔH, for the substances in this table are reported for one mole of fuel and are
+shown as negative values, indicating the exothermic nature of the combustion reaction.
+C2H6(g) + 3 1
+2O
+2CO2(g) + 3H2O(l) ΔH = −1560 kJ mol−1
+Fuel
+Formula
+Molar enthalpy
+of combustion
+(kJ mol-1)
+hydrogen
+H2(g)
+−286
+methane
+CH4(g)
+−890
+ethane
+C2H6(g)
+−1560
+propane
+C3H8(g)
+−2220
+butane
+C4H10(g)
+−2880
+octane
+C8H18(l)
+−5470
+methanol
+CH3OH(l)
+−726
+ethanol
+C2H5OH(l)
+−1370
+carbon (graphite)
+C(s)
+−394
+glucose
+C6H12O6(s)
+−2840
+VCE Chemistry Data Book
+Heats of combustion of selected blended fuels
+Blended fuels are mixtures of compounds with different mixture ratios and, hence,
+determination of a generic molar enthalpy of combustion is not realistic. The values
+provided in the following table are typical values for heats of combustion at SLC
+(25 °C and 100 kPa) with combustion products being CO2(g) and H2O(l). Values for heats
+of combustion will vary due to the composition of the different fuels. Additionally, for natural
+gas, the values may vary based on the source and processing.
+Fuel
+State
+Heat of
+combustion
+(kJ
+Heat of
+combustion
+(kJ mL-1)
+diesel
+liquid
+kerosene
+liquid
+natural gas
+gas
+petrol
+liquid
+Heats of combustion of selected biofuels
+The following table provides typical values for the heat of combustion of selected biofuels.
+The values may vary significantly, particularly for biogas, depending on the source of
+the biofuel and, hence, its composition. The amount of energy consumed during any
+purification process must also be considered when determining the net energy obtained
+from a biofuel.
+Fuel
+State
+Heat of combustion
+(kJ
+biodiesel
+liquid
+Approx 37
+bioethanol
+liquid
+biogas
+gas
+14-24
+This depends on its methane content,
+which can vary from 45% to 75% methane
+by volume, depending on its source. The
+other main constituent is CO2 , which does
+not burn.
+hydrogen
+lithium
+beryllium
+sodium
+magnesium
+potassium
+calcium
+scandium
+titanium
+vanadium
+chromium
+manganese
+iron
+cobalt
+rubidium
+strontium
+yttrium
+zirconium
+niobium
+molybdenum
+technetium
+ruthenium
+rhodium
+caesium
+barium
+57-71
+lanthanoids
+hafnium
+tantalum
+tungsten
+rhenium
+osmium
+iridium
+francium
+radium
+89-103
+actinoids
+rutherfordium
+dubnium
+seaborgium
+bohrium
+hassium
+meitnerium
+lanthanum
+cerium
+praseodymium
+neodymium
+promethium
+samarium
+europium
+actinium
+thorium
+protactinium
+uranium
+neptunium
+plutonium
+americium
+symbol of element
+electronegativity value
+atomic number
+relative atomic mass
+name of element
+gold
+Data Book VCE Chemistry
+Periodic table of the elements
+helium
+boron
+carbon
+nitrogen
+oxygen
+fluorine
+neon
+aluminium
+silicon
+phosphorus
+sulfur
+chlorine
+argon
+nickel
+copper
+zinc
+gallium
+germanium
+arsenic
+selenium
+bromine
+krypton
+palladium
+silver
+cadmium
+indium
+tin
+antimony
+tellurium
+iodine
+xenon
+platinum
+gold
+mercury
+thallium
+lead
+bismuth
+polonium
+astatine
+radon
+darmstadtium
+roentgenium
+copernicium
+nihonium
+flerovium
+moscovium
+livermorium
+tennessine
+oganesson
+gadolinium
+terbium
+dysprosium
+holmium
+erbium
+thulium
+ytterbium
+lutetium
+curium
+berkelium
+californium
+einsteinium
+fermium
+mendelevium
+nobelium
+lawrencium
+VCE Chemistry Data Book
+Values in brackets indicate the mass number of the longest‑lived isotope.
+Data Book VCE Chemistry
+Names of selected elements
+Element
+Symbol
+Atomic
+number
+Relative
+atomic
+mass
+(amu)
+Element
+Symbol
+Atomic
+number
+Relative
+atomic
+mass
+(amu)
+aluminium
+magnesium
+argon
+manganese
+arsenic
+mercury
+barium
+neon
+beryllium
+nickel
+boron
+nitrogen
+bromine
+oxygen
+cadmium
+phosphorus
+caesium
+platinum
+calcium
+potassium
+carbon
+rubidium
+chlorine
+scandium
+chromium
+selenium
+cobalt
+silicon
+copper
+silver
+fluorine
+sodium
+gallium
+strontium
+germanium
+sulfur
+gold
+tin
+helium
+titanium
+hydrogen
+tungsten
+iodine
+vanadium
+iron
+xenon
+krypton
+yttrium
+lead
+zinc
+lithium
+zirconium
+VCE Chemistry Data Book
+Representations of organic molecules
+The following table shows different representations of organic molecules, using
+butanoic acid as an example.
+Formula
+Representation
+molecular formula
+C4H8O2
+structural formula
+semi‑structural
+(condensed) formula
+CH3CH2CH2COOH or CH3(CH2)2COOH
+skeletal structure
+H or
+Functional group nomenclature in organic chemistry
+The following table shows the priority of functional groups when naming
+organic compounds that contain more than one functional group.
+The functional group with the highest priority determines the suffix of
+the compound.
+Class of
+compound
+Functional
+group name
+Prefix
+Suffix
+carboxylic acid
+carboxyl
+‑oic acid
+ester
+ester
+‑oate
+amide
+amide
+‑amide
+aldehyde
+carbonyl
+‑al
+ketone
+carbonyl
+‑one
+alcohol
+hydroxy/
+hydroxyl
+hydroxy‑
+‑ol
+amine
+amino
+amino‑
+‑amine
+alkene
+alkenyl
+‑ene
+halogen
+'halo'
+(i.e. bromo,
+chloro, fluoro,
+iodo)
+bromo-
+chloro-
+fluoro-
+iodo-
+Data Book VCE Chemistry
+2‑amino acids (α‑amino acids)
+The table below provides simplified structures for amino acids. These amino acids may
+all be classified as '2-amino acids' since the amino group (-NH2) is attached to the second
+carbon atom in the carbon chain, numbered from the carboxyl (-COOH) end. They may
+also be classified as 'α-amino acids', since both the amino group and the carboxyl group
+are attached to the same carbon atom, known as the alpha carbon. These structures
+may be used as the basis for drawing zwitterions, identifying the products of protein
+hydrolysis and drawing the structures formed in the condensation polymerisation of amino
+acid monomers.
+Name
+Symbol
+Structure
+alanine
+Ala
+H2N
+COOH
+CH3
+arginine
+Arg
+H2N
+COOH
+CH2
+CH2
+CH2
+NH2
+asparagine
+Asn
+H2N
+COOH
+CH2
+NH2
+aspartic acid
+Asp
+H2N
+COOH
+CH2
+COOH
+cysteine
+Cys
+H2N
+COOH
+CH2
+glutamic acid
+Glu
+H2N
+COOH
+CH2
+CH2
+COOH
+glutamine
+Gln
+H2N
+COOH
+CH2
+CH2
+NH2
+glycine
+Gly
+H2N
+CH2
+COOH
+histidine
+His
+H2N
+COOH
+CH2
+VCE Chemistry Data Book
+Name
+Symbol
+Structure
+isoleucine
+Ile
+H2N
+COOH
+CH3
+CH2
+CH3
+leucine
+Leu
+H2N
+COOH
+CH2
+CH3
+CH3
+lysine
+Lys
+H2N
+COOH
+CH2
+CH2
+CH2
+CH2
+NH2
+methionine
+Met
+H2N
+COOH
+CH2
+CH2
+CH3
+phenylalanine
+Phe
+H2N
+CH2
+COOH
+proline
+Pro
+COOH
+serine
+Ser
+H2N
+COOH
+CH2
+threonine
+Thr
+H2N
+COOH
+CH3
+tryptophan
+Trp
+H2N
+CH2
+COOH
+tyrosine
+Tyr
+H2N
+CH2
+COOH
+valine
+Val
+H2N
+COOH
+CH3
+CH3
+Data Book VCE Chemistry
+Formulas of selected fatty acids
+Name
+Molecular
+formula
+Semi‑structural formula
+caproic
+C6H12O2
+CH3(CH2)4COOH
+capric
+C10H20O2
+CH3(CH2)8COOH
+lauric
+C12H24O2
+CH3(CH2)10COOH
+myristic
+C14H28O2
+CH3(CH2)12COOH
+palmitic
+C16H32O2
+CH3(CH2)14COOH
+palmitoleic
+C16H30O2
+CH3(CH2)5CH=CH(CH2)7COOH
+stearic
+C18H36O2
+CH3(CH2)16COOH
+oleic
+C18H34O2
+CH3(CH2)7CH=CH(CH2)7COOH
+linoleic
+C18H32O2
+CH3(CH2)4CH=CHCH2CH=CH(CH2)7COOH
+linolenic
+C18H30O2
+CH3(CH2CH=CH)3(CH2)7COOH
+arachidic
+C20H40O2
+CH3(CH2)18COOH
+arachidonic
+C20H32O2
+CH3(CH2)4(CH=CHCH2)3CH=CH(CH2)3COOH
+Characteristic ranges for infrared absorption
+Bond
+Wave number
+(cm-1)
+Bond
+Wave number
+(cm-1)
+C=O (amides)
+1630
+C-H (alkanes, alkenes, arenes)
+2850-3090
+C=O (aldehydes)
+1660
+H (acids)
+2500
+C=O (acids)
+1680
+H (alcohols)
+3200
+C=O (ketones)
+1680-1850
+H (amines and amides)
+3300
+C=O (esters)
+1720-1840
+VCE Chemistry Data Book
+13C NMR data
+Typical 13C shift values relative to TMS = 0
+These can differ slightly in different solvents.
+Type of carbon
+Chemical shift (ppm)
+R-CH3
+8-25
+R-CH2-R
+45
+R3-CH
+40-60
+R4-C
+45
+R-CH2-X
+15-80
+R3C-NR
+35-70
+R-CH2-OH
+50-90
+R2C=CR2
+110-150
+arenes C6H5-R
+110-150
+RCOOH
+160-185
+165-175
+H2N
+165-185
+190-200
+R2C
+205-220
+Data Book VCE Chemistry
+1H NMR data
+Typical proton shift values relative to TMS = 0
+These can differ slightly in different solvents. The shift refers to the proton environment that
+is indicated in bold letters in the formula.
+Type of proton
+Chemical shift (ppm)
+R-CH3
+0.9-1.0
+R-CH2-R
+1.3-1.4
+RCH=CH-CH3
+1.6-1.9
+R3-CH
+CH3
+CH3
+NHR
+CH3
+2.1-2.7
+R-CH2-X (X = F, Cl, Br or I)
+4.5
+R2-CH-OH
+4.5
+NHCH2R
+R-O-CH3 or
+3.3-3.7
+CH3
+OCH2R
+4.8
+R-O-H
+1-6
+(varies considerably
+under different
+conditions)
+R-NH2
+1-5
+RHC=CHR
+4.5-7.0
+VCE Chemistry Data Book
+Type of proton
+Chemical shift (ppm)
+4.0-12.0
+6.9-9.0
+NH2
+6.0-8.0
+9.4
+9.0-13.0
+Data Book VCE Chemistry
+Representations of selected biomolecules
+glycerol
+CH2OH
+α-D-glucose
+CH2OH
+CH2OH
+CH2OH
+amylose (starch)
+CH2OH
+CH2OH
+CH2
+CH2OH
+amylopectin (starch)
+Sustainability",,60
+Science,Chemistry,,,Year 12,Final Exam,Exam Questions,2025,"VCECHU3AS1,VCECHU3AS2,VCECHU4AS1,VCECHU4AS2,VCECHU4AS3",VCECH25ERB,VCECH25EQB7,B,Section B,7i,Q7i,0,SubQuestion,"United Nations Sustainable Development Goals
+The following nine goals are relevant to VCE Chemistry:
+Goal 2: Zero hunger
+Goal 6: Clean water and sanitation
+Goal 7: Affordable and clean energy
+Goal 9: Industry, innovation and infrastructure
+Goal 11: Sustainable cities and communities
+Goal 12: Responsible consumption and production
+Goal 13: Climate action
+Goal 14: Life below water
+Goal 15: Life on land
+Source: Adapted from 'The 17 Goals',
+Department of Economic and Social Affairs,
+Sustainable Development, United Nations
+<https://sdgs.un.org./goals>
+VCE Chemistry Data Book
+﻿End of Chemistry Data Book
+ii. Green chemistry principles
+The following seven green chemistry principles are relevant to VCE Chemistry:
+Atom economy: Processes/pathways should be designed to maximise incorporation of all
+reactant materials used in the process into the final product.
+Catalysis: Catalysts should be selected to generate the same desired product(s) with less
+waste and using less energy and reagents in reaction processes/pathways.
+Design for degradation: Chemical products should be designed so that at the end of their use
+they break down into harmless degradation products and do not persist in the environment.
+Design for energy efficiency: Processes/pathways should be designed for maximum energy
+efficiency and with minimal negative environmental and economic impacts.
+Designing safer chemicals: Chemical products should be designed to achieve their intended
+function while minimising toxicity.
+Prevention of wastes: It is better to prevent waste than to treat or clean up waste after it has
+been produced.
+Use of renewable feedstocks: Raw materials or feedstocks should be made from renewable
+(mainly plant‑based) materials, rather than from fossil fuels, whenever practicable.
+Source: Adapted from PT Anastas and JC Warner,
+Green Chemistry: Theory and Practice, Oxford University Press, New York, 1998, p.30
+iii. Types of economies
+Linear
+Natural
+resources
+Take
+Make
+Distribute
+Use
+Dispose
+Circular
+Natural
+resources
+Take
+Use
+Re-use
+Repair
+Sort
+Transfer
+Recycle
+Compost
+Enrich
+Distribute
+Make
+Re-make
+Victorian Curriculum and Assessment Authority 2025
+Victorian Curriculum and Assessment Authority 2025",,61
