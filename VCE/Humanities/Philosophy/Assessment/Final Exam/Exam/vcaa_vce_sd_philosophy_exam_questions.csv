@@ -1,9 +1,9 @@
 SubjectArea,Subject,SubjectStreamCode,SubjectStreamName,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,UnitASCode,ExamReportCode,EQCode,SectionCode,SectionName,QuestionNumber,QuestionLabel,Marks,ContentType,Content,StimulusSource,Sequence
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,,A,Section A,,,40,Header,Section A: Section A,,1
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,,A,Section A,,,,SubHeader,Instructions,,2
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,,A,Section A,,,,Instruction,Answer all questions in the spaces provided.,,3
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,,A,Section A,,,,Instruction,Write your responses in English.,,4
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA1,A,Section A,1,Q1,10,Question,"You want if possible - and there is no madder 'if possible' - to abolish suffering; and we? - it
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,,A,Section A,,,40,Header,Section A: Section A,,1
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,,A,Section A,,,,SubHeader,Instructions,,2
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,,A,Section A,,,,Instruction,Answer all questions in the spaces provided.,,3
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,,A,Section A,,,,Instruction,Write your responses in English.,,4
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA1,A,Section A,1,Q1,10,Question,"You want if possible - and there is no madder 'if possible' - to abolish suffering; and we? - it
 really does seem that we would rather increase it and make it worse than it has ever been! Wellbeing
 as you understand it - that is no goal, that seems to us an end! A state which soon renders man
 ludicrous and contemptible - which makes it desirable that he should perish! The discipline of
@@ -14,13 +14,13 @@ interpreting, exploiting misfortune, and whatever of depth, mystery, mask, spiri
 greatness has been bestowed upon it - has it not been bestowed through suffering, through the
 discipline of great suffering?
 Source: F Nietzsche, Beyond Good and Evil, Penguin Group, London, 2003, p. 155",,5
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA1,A,Section A,1a,Q1a,0,SubQuestion,"With reference to the passage above, explain how Nietzsche might respond to the view that
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA1,A,Section A,1a,Q1a,0,SubQuestion,"With reference to the passage above, explain how Nietzsche might respond to the view that
 self-discipline is a key ingredient in the good life.",,6
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA1,A,Section A,1b,Q1b,0,SubQuestion,"How might one other thinker studied in Unit 3 respond to Nietzsche's view on the role of
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA1,A,Section A,1b,Q1b,0,SubQuestion,"How might one other thinker studied in Unit 3 respond to Nietzsche's view on the role of
 self-discipline in the good life?",,7
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA1,A,Section A,1c,Q1c,0,SubQuestion,"What is the role of suffering in the good life? Provide your own justified response to this question.
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA1,A,Section A,1c,Q1c,0,SubQuestion,"What is the role of suffering in the good life? Provide your own justified response to this question.
 Support your reasoning with an example.",,8
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA2,A,Section A,2,Q2,10,Question,"Distributive justice, the first type, organizes the allotment of public goods-honor, money, property.
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA2,A,Section A,2,Q2,10,Question,"Distributive justice, the first type, organizes the allotment of public goods-honor, money, property.
 It depends on a ""geometric"" or proportional notion of equality. For instance, two people get an equal
 amount to eat for dinner when each is served a portion in proportion to his appetite. Although one
 diner may get a larger serving than another, each will have been treated equally provided that in
@@ -32,14 +32,14 @@ instance, that the rich should contribute proportionally more wealth to the publ
 proportionally more honor in return. Honor is the good that the poor have to give.
 Source: DS Allen, Talking to Strangers: Anxieties of Citizenship Since Brown v. Board of Education,
 The University of Chicago Press, Chicago, 2006, pp. 121 and 122",,9
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA2,A,Section A,2a,Q2a,0,SubQuestion,"Consider the following viewpoint: 'Justice involves distributing society's goods unevenly.'
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA2,A,Section A,2a,Q2a,0,SubQuestion,"Consider the following viewpoint: 'Justice involves distributing society's goods unevenly.'
 How would Allen draw on Aristotle's approach described in the passage above, to respond
 to this viewpoint? Use a contemporary example of your own to support your response.",,10
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA2,A,Section A,2b,Q2b,0,SubQuestion,"How might one other thinker studied in Unit 3 respond to the view that uneven distribution of
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA2,A,Section A,2b,Q2b,0,SubQuestion,"How might one other thinker studied in Unit 3 respond to the view that uneven distribution of
 goods is just?",,11
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA2,A,Section A,2c,Q2c,0,SubQuestion,"To what extent does the good life with others require that everyone has an equal share? Provide
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA2,A,Section A,2c,Q2c,0,SubQuestion,"To what extent does the good life with others require that everyone has an equal share? Provide
 your own justified response to this question.",,12
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA3,A,Section A,3,Q3,10,Question,"The following extract is from an interview with Violet CoCo by The Philosophy Club. CoCo is an
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA3,A,Section A,3,Q3,10,Question,"The following extract is from an interview with Violet CoCo by The Philosophy Club. CoCo is an
 environmental activist and a member of Extinction Rebellion, a global movement that agitates for
 government action on climate change. The group organises acts of nonviolent civil disobedience
 a form of protest where laws or the instructions of authorities are deliberately disobeyed - to draw
@@ -68,13 +68,13 @@ central Melbourne.
 Source: Michelle Sowey, 'The philosopher activist: An interview with Violet CoCo' (2021, April 3), The Philosophy Club,
 <https://thephilosophyclub.com.au/2021/04/03/philosopher-activist/>; reproduced with permission
 Photographer Julian Meehan (© Julian Meehan; reproduced with permission)",,13
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA3,A,Section A,3a,Q3a,0,SubQuestion,"Does the good life require taking a strong stance on moral issues? Using CoCo as your central
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA3,A,Section A,3a,Q3a,0,SubQuestion,"Does the good life require taking a strong stance on moral issues? Using CoCo as your central
 example, provide your own justified response to this question.",,14
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA3,A,Section A,3b,Q3b,0,SubQuestion,"Compare how two thinkers studied in Unit 3 might respond to CoCo's claim that it is morally
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA3,A,Section A,3b,Q3b,0,SubQuestion,"Compare how two thinkers studied in Unit 3 might respond to CoCo's claim that it is morally
 required to engage in nonviolent civil disobedience. Justify your response.",,15
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA3,A,Section A,3c,Q3c,0,SubQuestion,"Which of the two responses that you compared in part b provides the more compelling view?
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA3,A,Section A,3c,Q3c,0,SubQuestion,"Which of the two responses that you compared in part b provides the more compelling view?
 Justify your response.",,16
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA4,A,Section A,4,Q4,10,Question,"The harm which is done by credulity in a man is not confined to the fostering of a credulous
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA4,A,Section A,4,Q4,10,Question,"The harm which is done by credulity in a man is not confined to the fostering of a credulous
 character in others, and consequent support of false beliefs. Habitual want of care about what
 believe leads to habitual want of care in others about the truth of what is told to me. Men speak
 the truth to one another when each reveres the truth in his own mind and in the other's mind; but
@@ -88,23 +88,23 @@ the bosom of this his family, and it is no marvel if he should become even as th
 are our duties knit together, that whoso shall keep the whole law, and yet offend in one point, he is
 guilty of all.
 Source: WK Clifford, 'The Ethics of Belief', The Contemporary Review, vol. 29, Dec 1876-May 1877, p. 289",,17
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA4,A,Section A,4a,Q4a,0,SubQuestion,"Based on the passage above, why does Clifford think we have a serious responsibility, both to
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA4,A,Section A,4a,Q4a,0,SubQuestion,"Based on the passage above, why does Clifford think we have a serious responsibility, both to
 ourselves and to others, to form true beliefs?
 End of Section",,18
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA4,A,Section A,4b,Q4b,0,SubQuestion,"Compare Clifford's view about the responsibilities we have to society and ourselves when forming
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA4,A,Section A,4b,Q4b,0,SubQuestion,"Compare Clifford's view about the responsibilities we have to society and ourselves when forming
 beliefs with the view expressed by one other thinker studied in Unit 4.",,19
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERA,VCEPH25EQA4,A,Section A,4c,Q4c,0,SubQuestion,"Clifford believes it is dangerous to hold false beliefs, even if they are 'comforting and pleasant'.
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU3AS1,VCEPHU3AS2",VCEPH25ERA,VCEPH25EQA4,A,Section A,4c,Q4c,0,SubQuestion,"Clifford believes it is dangerous to hold false beliefs, even if they are 'comforting and pleasant'.
 To what extent do you agree? Justify your response.",,20
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERB,,B,Section B,,,20,Header,Section B: Section B,,1
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERB,,B,Section B,,,,SubHeader,Instructions,,2
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERB,,B,Section B,,,,Instruction,Write your response in English.,,3
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERB,VCEPH25EQB1,B,Section B,1,Q1,20,Question,"Do controversial opinions cause more harm than good in society?
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU4AS1,VCEPHU4AS2",VCEPH25ERB,,B,Section B,,,20,Header,Section B: Section B,,1
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU4AS1,VCEPHU4AS2",VCEPH25ERB,,B,Section B,,,,SubHeader,Instructions,,2
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU4AS1,VCEPHU4AS2",VCEPH25ERB,,B,Section B,,,,Instruction,Write your response in English.,,3
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU4AS1,VCEPHU4AS2",VCEPH25ERB,VCEPH25EQB1,B,Section B,1,Q1,20,Question,"Do controversial opinions cause more harm than good in society?
 Discuss this question using viewpoints and arguments from two thinkers studied in Unit 4, using
 case study you have studied this year as your central example.",,4
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERB,VCEPH25EQB2,B,Section B,2,Q2,20,Question,"'We have to be able to trust that we can believe other people and that they will believe us.'
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU4AS1,VCEPHU4AS2",VCEPH25ERB,VCEPH25EQB2,B,Section B,2,Q2,20,Question,"'We have to be able to trust that we can believe other people and that they will believe us.'
 Discuss this statement using viewpoints and arguments from two thinkers studied in Unit 4, using
 case study you have studied this year as your central example.",,5
-Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,,VCEPH25ERB,VCEPH25EQB3,B,Section B,3,Q3,20,Question,"'I cannot believe something I have not had the opportunity to experience directly.'
+Humanities,Philosophy,,,Year 12,Final Exam,Exam Questions,2025,"VCEPHU4AS1,VCEPHU4AS2",VCEPH25ERB,VCEPH25EQB3,B,Section B,3,Q3,20,Question,"'I cannot believe something I have not had the opportunity to experience directly.'
 Discuss this statement using viewpoints and arguments from two thinkers studied in Unit 4, using
 case study you have studied this year as your central example.
 Select a question by placing a tick (✓) in one of the boxes below:

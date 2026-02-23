@@ -1,5 +1,5 @@
 SubjectArea,Subject,Band,Unit,UnitASCode,AreaofStudy,Outcome,OutcomeCode,ExampleType,ContentType,ExampleText,ParentText,URLTitle,URL,Sequence
-Humanities,Philosophy,,,,,,,,Header,,Humanities - Philosophy,Philosophy - Teaching and Learning,https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/philosophy/teaching-and-learning,0
+Humanities,Philosophy,,,"VCEPHU1AS1,VCEPHU1AS2,VCEPHU1AS3,VCEPHU2AS1,VCEPHU2AS2,VCEPHU2AS3,VCEPHU3AS1,VCEPHU3AS2,VCEPHU4AS1,VCEPHU4AS2",,,,,Header,,Humanities - Philosophy,Philosophy - Teaching and Learning,https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/philosophy/teaching-and-learning,0
 Humanities,Philosophy,Year 11,Unit 1,VCEPHU1,,,,,UnitHeading,"Unit 1 - Philosophy, existence and knowledge",,,,1
 Humanities,Philosophy,Year 11,Unit 1,VCEPHU1AS1,Area of Study 1 - The nature and methods of philosophy,Outcome 1,,,OutcomeHeading,Outcome 1:,,,,1
 Humanities,Philosophy,Year 11,Unit 1,VCEPHU1AS1,Area of Study 1 - The nature and methods of philosophy,Outcome 1,,,OutcomeDescription,Analyse the distinctive nature of philosophy and recognise and apply techniques of philosophical reasoning.,,,,2

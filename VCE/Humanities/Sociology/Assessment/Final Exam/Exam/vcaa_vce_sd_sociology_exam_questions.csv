@@ -1,16 +1,16 @@
 SubjectArea,Subject,SubjectStreamCode,SubjectStreamName,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,UnitASCode,ExamReportCode,EQCode,SectionCode,SectionName,QuestionNumber,QuestionLabel,Marks,ContentType,Content,StimulusSource,Sequence
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,,ALL,All questions,,,,Header,All questions,,1
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,,ALL,All questions,,,,SubHeader,Instructions,,2
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,,ALL,All questions,,,,Instruction,Answer all questions in the spaces provided.,,3
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,,ALL,All questions,,,,Instruction,Write your responses in English.,,4
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,,ALL,All questions,,,,Instruction,Use the additional space at the end of this book if you need extra space to complete,,5
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL1,ALL,All questions,1a,Q1a,2,SubQuestion,"Identify one example of practical reconciliation and one example of symbolic
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,,ALL,All questions,,,,Header,All questions,,1
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,,ALL,All questions,,,,SubHeader,Instructions,,2
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,,ALL,All questions,,,,Instruction,Answer all questions in the spaces provided.,,3
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,,ALL,All questions,,,,Instruction,Write your responses in English.,,4
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,,ALL,All questions,,,,Instruction,Use the additional space at the end of this book if you need extra space to complete,,5
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL1,ALL,All questions,1a,Q1a,2,SubQuestion,"Identify one example of practical reconciliation and one example of symbolic
 reconciliation from Representation 1.",,6
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL1,ALL,All questions,1b,Q1b,2,SubQuestion,"Explain the difference between practical reconciliation and symbolic reconciliation
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL1,ALL,All questions,1b,Q1b,2,SubQuestion,"Explain the difference between practical reconciliation and symbolic reconciliation
 using the examples you identified in part a.",,7
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL2,ALL,All questions,2,Q2,6,Question,"Evaluate the success of the process of reconciliation since 2000. Use three examples from
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL2,ALL,All questions,2,Q2,6,Question,"Evaluate the success of the process of reconciliation since 2000. Use three examples from
 Representation 1 to support your evaluation.",,8
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL3,ALL,All questions,3,Q3,10,Question,"Examine the relationship between one issue related to Australian Indigenous cultures and changing
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL3,ALL,All questions,3,Q3,10,Question,"Examine the relationship between one issue related to Australian Indigenous cultures and changing
 public awareness of Australian Indigenous cultures. Use evidence from material you have studied this
 year to support your examination of the relationship.
 Ethnicity
@@ -63,29 +63,29 @@ Melbourne Knights, Sydney United and Perth's Western Knights.'
 Source: Adapted from <www.sbs.com.au/news/article/many-journeys-one-squad-australia-
 is-one-of-the-most-culturally-diverse-teams-at-the-2022-world-cup/jzjkg 1w8r>
 Refer to Representation 2 to answer Questions 4 and 5.",,9
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL4,ALL,All questions,4,Q4,5,Question,"Explain how Australia's culturally diverse soccer team at the 2022 FIFA World Cup is an example of
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL4,ALL,All questions,4,Q4,5,Question,"Explain how Australia's culturally diverse soccer team at the 2022 FIFA World Cup is an example of
 the contemporary concept of multiculturalism in Australia. Use two examples from Representation
 to support your explanation.",,10
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL5,ALL,All questions,5,Q5,5,Question,"Explain how the composition of Australia's 2022 FIFA World Cup soccer team could have enabled
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL5,ALL,All questions,5,Q5,5,Question,"Explain how the composition of Australia's 2022 FIFA World Cup soccer team could have enabled
 sense of inclusion for ethnic communities in Australia. Refer to two examples from Representation 2.",,11
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL6,ALL,All questions,6,Q6,10,Question,"Analyse the relationship between responses to cultural practices and the process of othering. In your
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL6,ALL,All questions,6,Q6,10,Question,"Analyse the relationship between responses to cultural practices and the process of othering. In your
 analysis, use two examples from ethnic groups you have studied this year.
 Community",,12
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL7,ALL,All questions,7a,Q7a,4,SubQuestion,"Describe Michel Maffesoli's theory of neo-tribes. Use one example of a neo-tribe to
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL7,ALL,All questions,7a,Q7a,4,SubQuestion,"Describe Michel Maffesoli's theory of neo-tribes. Use one example of a neo-tribe to
 support your description.",,13
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL7,ALL,All questions,7b,Q7b,6,SubQuestion,"Compare Ferdinand TOnnies's and Michel Maffesoli's approaches to understanding
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL7,ALL,All questions,7b,Q7b,6,SubQuestion,"Compare Ferdinand TOnnies's and Michel Maffesoli's approaches to understanding
 community. In your comparison, use two examples from material you have studied
 this year.",,14
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL8,ALL,All questions,8,Q8,10,Question,"Analyse the interplay between information and communications technology (ICT) and feelings of
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL8,ALL,All questions,8,Q8,10,Question,"Analyse the interplay between information and communications technology (ICT) and feelings of
 belonging, and the way this interplay influences the experience of a community you researched this
 year. In your analysis, use two examples from the community.
 Social movements and social change",,15
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL9,ALL,All questions,9a,Q9a,4,SubQuestion,"Describe a type of social movement you have studied this year and its current stage.
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL9,ALL,All questions,9a,Q9a,4,SubQuestion,"Describe a type of social movement you have studied this year and its current stage.
 Use relevant evidence from the social movement to support your description.",,16
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL9,ALL,All questions,9b,Q9b,6,SubQuestion,"Evaluate the influence of the social movement you described in part a on social
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL9,ALL,All questions,9b,Q9b,6,SubQuestion,"Evaluate the influence of the social movement you described in part a on social
 change with reference to the work of Erica Chenoweth. Use two examples from the
 social movement to support your evaluation.",,17
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,,VCESO24ERALL,VCESO24EQALL10,ALL,All questions,10,Q10,10,Question,"Analyse how power was used by a social movement''s opposition in an attempt to prevent the social
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2024,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO24ER,VCESO24EQALL10,ALL,All questions,10,Q10,10,Question,"Analyse how power was used by a social movement''s opposition in an attempt to prevent the social
 movement from achieving its desired social changes. Use evidence from a social movement you have
 studied this year to support your analysis.
 Extra space for responses
@@ -94,14 +94,14 @@ If you use any additional Question and Answer Books to complete your responses, 
 number on the front cover. At the end of the examination, place the additional Question and Answer
 Books inside the front cover of the first Question and Answer Book.
 Victorian Curriculum and Assessment Authority 2024",,18
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,,ALL,All questions,,,80,Header,All questions,,1
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,,ALL,All questions,,,,SubHeader,Instructions,,2
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,,ALL,All questions,,,,Instruction,Answer all questions in the spaces provided.,,3
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,,ALL,All questions,,,,Instruction,Write your responses in English.,,4
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,,ALL,All questions,,,,Instruction,Use the additional space at the end of this book if you need extra space to complete,,5
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL1,ALL,All questions,1,Q1,4,Question,"Examine the public misconception that Australian Indigenous people share one culture. In your
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,,ALL,All questions,,,80,Header,All questions,,1
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,,ALL,All questions,,,,SubHeader,Instructions,,2
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,,ALL,All questions,,,,Instruction,Answer all questions in the spaces provided.,,3
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,,ALL,All questions,,,,Instruction,Write your responses in English.,,4
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,,ALL,All questions,,,,Instruction,Use the additional space at the end of this book if you need extra space to complete,,5
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL1,ALL,All questions,1,Q1,4,Question,"Examine the public misconception that Australian Indigenous people share one culture. In your
 response, use examples from Australian Indigenous cultures you have studied this year.",,6
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL2,ALL,All questions,2,Q2,6,Question,"Representation 1a
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL2,ALL,All questions,2,Q2,6,Question,"Representation 1a
 There is one thing today we cannot imagine.
 We cannot imagine that the descendants of people whose genius and resilience maintained
 culture here through fifty thousand years or more, through cataclysmic1 changes to the climate and
@@ -119,7 +119,7 @@ on which the NGV is built.
 Source: Acknowledgment of Country, National Gallery of Victoria, <www.ngv.vic.gov.au>
 Apply Charles Wright Mills's concept of the sociological imagination to material in Representations 1a
 and 1b to show awareness of the experiences of Australian Indigenous people.",,7
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL3,ALL,All questions,3,Q3,10,Question,"Discuss why Australians may have differing views on reconciliation. Refer to symbolic and practical
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL3,ALL,All questions,3,Q3,10,Question,"Discuss why Australians may have differing views on reconciliation. Refer to symbolic and practical
 reconciliation in your response.
 Now open: The couple behind the Pierogi Pierogi Food Truck open
 Polish diner in Brunswick East [Melbourne]
@@ -189,17 +189,17 @@ of exposed steel and concrete
 6cobalt - blue
 7peeled - open
 8kefir - Turkish fermented yoghurt drink",,8
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL4,ALL,All questions,4a,Q4a,2,SubQuestion,Identify one example of material culture from Representation 2.,,9
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL4,ALL,All questions,4b,Q4b,4,SubQuestion,"Explain how Eat Pierogi Make Love uses Polish traditions to create a sense of
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL4,ALL,All questions,4a,Q4a,2,SubQuestion,Identify one example of material culture from Representation 2.,,9
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL4,ALL,All questions,4b,Q4b,4,SubQuestion,"Explain how Eat Pierogi Make Love uses Polish traditions to create a sense of
 belonging for the Polish community.",,10
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL5,ALL,All questions,5,Q5,4,Question,"Explain Stuart Hall's theory of cultural hybridity and explore its connection to experiences of ethnicity
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL5,ALL,All questions,5,Q5,4,Question,"Explain Stuart Hall's theory of cultural hybridity and explore its connection to experiences of ethnicity
 using examples from Representation 2.",,11
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL6,ALL,All questions,6,Q6,10,Question,"Analyse the impact of the media on one ethnic group's experience in Australia's multicultural society.
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL6,ALL,All questions,6,Q6,10,Question,"Analyse the impact of the media on one ethnic group's experience in Australia's multicultural society.
 In your response, provide a detailed description of the ethnic group, including how it identifies itself.
 Community",,12
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL7,ALL,All questions,7,Q7,4,Question,"Describe how two components of ethical methodology are implemented when conducting
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL7,ALL,All questions,7,Q7,4,Question,"Describe how two components of ethical methodology are implemented when conducting
 sociological research.",,13
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL8,ALL,All questions,8,Q8,6,Question,"Representation
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL8,ALL,All questions,8,Q8,6,Question,"Representation
 Source: Kayla Osborne, 'Voice of Real Australia: Small town values in the middle of suburbia', The Canberra Times,
 29 March 2022, <www.canberratimes.com.au/story/7660569/small-town-values-in-the-middle-of-suburbia>
 Story by Kayla Osborne © The Canberra Times/ACM
@@ -239,10 +239,10 @@ And it's easy to choose to dine at a large-scale
 chain restaurant, the recipes are stock standard,
 so you know what you are getting every time.
 But there's beauty in enjoying a small town.",,14
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL9,ALL,All questions,9,Q9,10,Question,"Examine how the concept of community has changed over time. Refer to the theories of Ferdinand
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL9,ALL,All questions,9,Q9,10,Question,"Examine how the concept of community has changed over time. Refer to the theories of Ferdinand
 Tönnies and Michel Maffesoli, and include examples from material you have studied this year.
 Social movements and social change",,15
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL10,ALL,All questions,10,Q10,10,Question,"Representation
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL10,ALL,All questions,10,Q10,10,Question,"Representation
 Photograph: Michael Clayton-Jones
 Due to copyright restrictions, this material is not supplied.
 Due to copyright restrictions, this material is not supplied.
@@ -250,14 +250,14 @@ Source: Adapted from R Dexter, 'How people power saved Fitzroy pool from closure
 <www.theage.com.au/national/victoria/how-people-power-john-clarke-and-julian-assange-saved-fitzroy-pool-20241203-p5kviq.html>
 Photo licensed by Fairfax Media syndication/Nine group
 1black ban - refusal to do something, as a union tactic 2 rationalism - efficiency and cost cutting",,16
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL10,ALL,All questions,10a,Q10a,3,SubQuestion,"Describe the type of social movement shown in Representation 4. Use evidence from
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL10,ALL,All questions,10a,Q10a,3,SubQuestion,"Describe the type of social movement shown in Representation 4. Use evidence from
 Representation 4 to support your response. ",,17
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL10,ALL,All questions,10b,Q10b,4,SubQuestion,"Over six weeks, this social movement moved from emergence to decline.
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL10,ALL,All questions,10b,Q10b,4,SubQuestion,"Over six weeks, this social movement moved from emergence to decline.
 Identify each stage experienced by this social movement using evidence from
 Representation 4.",,18
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL10,ALL,All questions,10c,Q10c,3,SubQuestion,"Examine how power was used by the social movement in Representation 4 to achieve
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL10,ALL,All questions,10c,Q10c,3,SubQuestion,"Examine how power was used by the social movement in Representation 4 to achieve
 its aims.",,19
-Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,,VCESO25ERALL,VCESO25EQALL11,ALL,All questions,11,Q11,10,Question,"Analyse how a current social movement's stage has affected its ability to influence social change.
+Humanities,Sociology,,,Year 12,Final Exam,Exam Questions,2025,"VCESOU3AS1,VCESOU3AS2,VCESOU4AS1,VCESOU4AS2",VCESO25ER,VCESO25EQALL11,ALL,All questions,11,Q11,10,Question,"Analyse how a current social movement's stage has affected its ability to influence social change.
 Extra space for responses
 Clearly number all responses in this space.
 If you use any additional Question and Answer Books to complete your responses, write your student

@@ -1,5 +1,5 @@
 SubjectArea,Subject,Band,Unit,UnitASCode,AreaofStudy,Outcome,OutcomeCode,ExampleType,ContentType,ExampleText,ParentText,URLTitle,URL,Sequence
-Humanities,Politics,,,,,,,,Header,,Humanities - Politics,Politics - Teaching and Learning,https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/politics/teaching-and-learning,0
+Humanities,Politics,,,"VCEPOU1AS1,VCEPOU1AS2,VCEPOU2AS1,VCEPOU2AS2,VCEPOU3AS1,VCEPOU3AS2,VCEPOU4AS1,VCEPOU4AS2",,,,,Header,,Humanities - Politics,Politics - Teaching and Learning,https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/politics/teaching-and-learning,0
 Humanities,Politics,Year 11,Unit 1,VCEPOU1,,,,,UnitHeading,"Unit 1 - Politics, power and political actors",,,,1
 Humanities,Politics,Year 11,Unit 1,VCEPOU1AS1,Area of Study 1 - Power and national political actors,Outcome 1,,,OutcomeHeading,Outcome 1,,,,1
 Humanities,Politics,Year 11,Unit 1,VCEPOU1AS1,Area of Study 1 - Power and national political actors,Outcome 1,,,OutcomeDescription,"Explain the sources of power and legitimacy of national political actors, and analyse the political significance of Australian political actors' use of power in a contested domestic political issue.",,,,2
