@@ -1,0 +1,519 @@
+SubjectArea,Subject,SubjectStreamCode,SubjectStreamName,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,UnitASCode,ExamReportCode,EQCode,SectionCode,SectionName,QuestionNumber,QuestionLabel,Marks,ContentType,Content,StimulusSource,Sequence
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA1,A,Short-answer questions,1,Q1,25,Question,"Egypt
+Refer to pages 2-3 in the Sources Book when responding to this question.",,4
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA1,A,Short-answer questions,1a,Q1a,3,SubQuestion,"Using Source 1, outline how Thutmosis Ill contributed to the power of Egypt.",,5
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA1,A,Short-answer questions,1b,Q1b,5,SubQuestion,"Using Source 2 and your own knowledge, explain how funerary customs and religious
+practices changed in New Kingdom Egypt.",,6
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA1,A,Short-answer questions,1c,Q1c,4,SubQuestion,"Using your own knowledge, describe how Rameses Il contributed to commerce, trade
+and tribute in the Near East and East Africa.",,7
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA1,A,Short-answer questions,1d,Q1d,5,SubQuestion,"Using Source 3 and your own knowledge, explain the status of women in
+New Kingdom Egypt.",,8
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA1,A,Short-answer questions,1e,Q1e,8,SubQuestion,"Analyse how Amenhotep Il and Akhenaten used building projects for political and
+social purposes. Use evidence to support your response.",,9
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA2,A,Short-answer questions,2,Q2,25,Question,"Greece
+Refer to pages 4-5 in the Sources Book when responding to this question.",,10
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA2,A,Short-answer questions,2a,Q2a,3,SubQuestion,"Using Source 4, outline the features of tyranny in Ancient Greece.",,11
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA2,A,Short-answer questions,2b,Q2b,5,SubQuestion,"Using Source 5 and your own knowledge, explain the role and status of women in
+Ancient Greece.",,12
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA2,A,Short-answer questions,2c,Q2c,4,SubQuestion,"Using your own knowledge, describe how Solon changed the political structure
+of Athens.",,13
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA2,A,Short-answer questions,2d,Q2d,5,SubQuestion,"Using Source 6 and your own knowledge, explain how Cleon's political leadership
+influenced Athenian involvement in the Archidamian War (431-421 BCE).",,14
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA2,A,Short-answer questions,2e,Q2e,8,SubQuestion,"Evaluate how beneficial it was for a Greek city-state to be a member of the Delian
+League after 460 BCE. Use evidence to support your response.",,15
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA3,A,Short-answer questions,3,Q3,25,Question,"Rome
+Refer to pages 6-7 in the Sources Book when responding to this question.",,16
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA3,A,Short-answer questions,3a,Q3a,3,SubQuestion,"Using Source 7, outline the military powers of the magistracy of consul.",,17
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA3,A,Short-answer questions,3b,Q3b,5,SubQuestion,"Using Source 8 and your own knowledge, explain how the Revolution of 509 BCE
+caused political change in Ancient Rome.",,18
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA3,A,Short-answer questions,3c,Q3c,5,SubQuestion,"Using Source 9 and your own knowledge, explain the role of women in ancient
+Roman society.",,19
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA3,A,Short-answer questions,3d,Q3d,4,SubQuestion,"Using your own knowledge, describe how Gaius Marius contributed to the demise of
+the Roman Republic.",,20
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA3,A,Short-answer questions,3e,Q3e,8,SubQuestion,"Evaluate the extent to which the Battle of Actium was the most significant event in the
+rivalry between Octavian and Mark Antony. Use evidence to support your response.",,21
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERB,,B,Extended responses,,,20,Header,Section B: Extended responses,,1
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERB,,B,Extended responses,,,,SubHeader,Instructions,,2
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERB,,B,Extended responses,,,,Instruction,Write your response in English.,,3
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERB,VCEHA24EQB1,B,Extended responses,1,Q1,20,Question,"Egypt
+'Nefertiti was the main cause of the crisis in the Amarna Period.'
+To what extent do you agree? Justify your response.",,4
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERB,VCEHA24EQB2,B,Extended responses,2,Q2,20,Question,"Greece
+'The actions of Alcibiades had a significant impact on the outcome of the Decelean (lonian) War.""
+To what extent do you agree? Justify your response.",,5
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERB,VCEHA24EQB3,B,Extended responses,3,Q3,20,Question,"Rome
+'The actions of Sulla led to the downfall of the Roman Republic.'
+To what extent do you agree? Justify your response.
+Select a question by placing a tick (v) in one of the boxes below:
+Question 1 |:| Question 2 |:| Question 3
+Extra space for responses
+Clearly number all responses in this space.
+If you use any additional Question and Answer Books to complete your responses, write your student
+number on the front cover. At the end of the examination, place the additional Question and Answer
+Books inside the front cover of the first Question and Answer Book.
+Assessment criteria for Section
+The essay in Section B will be assessed against the following criteria:
+« construction of a coherent and relevant historical argument that addresses the specific demands of
+the essay question
+« demonstration of historical knowledge that is accurate and appropriate for the essay question
+« application of historical thinking concepts such as cause and consequence, continuity and change,
+and/or historical significance
+use of sources as evidence to support a historical argument, including a range of primary sources,
+perspectives and historical interpretations
+Victorian Curriculum and Assessment Authority 2024
+History: Ancient History
+. Sources Book
+VCE Examination - Monday 11 November 2024
+. Contents pages
+Egpt 000000
+[ Y=Y o= "" Pt
+. Rome_ 000
+. 'You may keep this Sources Book.
+[~ A VATTEU T,
+Egypt
+Sources 1-3 relate to Question 1.
+Source
+This extract is a historical interpretation that describes the results of Thutmosis I I's military campaigns.
+Thutmose' I I's military successes brought an influx of wealth into the Egyptian economy. Taxes
+and tribute came from lands as far apart as Nubia, Retennu,? Babylon and Naharin,®and from the
+Hit ites and the Keftiu (The Minoans). This allowed one of the most prolific building programs in
+Egyptian history.
+Thutmose's devotion to the gods of ancient Egypt, especially Amen? of Thebes, resulted in the
+rebuilding and embellishment® of many of the key religious sites in Egypt at that time. Forts were
+constructed, canals reopened and naval ports expanded. For over 50 years Thutmose dominated
+Egypt and the Near East and was respected by the Egyptians so much that 500 years later
+Pinudjem | of the 21st Dynasty named his son after him.
+Source: G Kenworthy and K Cameron, Studies in Ancient Egypt: Periods and Personalities, 2nd edition, J Lawless (ed.),
+Nelson Cengage Leaming, South Melbourne, 2000, p.104
+1Thutmose - Thutmosis 3Naharin - ancient Egyptian name for the kingdom of
+2Retennu -ancient Egyptian name for Mitanni (Syro-Mesopotamia)
+Canaan and Syria 4Amen - Amun
+Sembellishment - decoration
+Source
+This is a drawing of a wall painting in the tomb chapel of Nakht at the cemetery of Thebes. Nakht held
+the position of scribe and astronomer of Amun, probably during the reign of Amenhotep I l.
+SN DS =R S IR RS - T
+R =2 Z:Ié s
+T_-'ﬁ =1 ﬁ;l""! I l@ rivies ,'\~ P 'g: = ""
+el aril B W W W R ST
+';'"".'/L g "".:,. ) ,""': b,&y /- ""I'i. .""""'ﬁ»"" SN Al
+-] in' 52 st AOURARARADY 2 NhC
+40 T8 A i xR i
+AUV - o
+T T { 3
+S0y B '[25 ' L
+B g N ,
+TMLEGE ROl
+- <R ,,f'
+Ex= N 2 T e s 5 o SR
+Bl G o ~'*'t§:"",w{ﬂ x '#'i""ﬁ"""" T ST 'i
+B e 7D VAN y { e St
+=Y SR M O e T
+. | emes : b0 U 40 ML P L
+Mgt sl '""'ﬁ W ig
+by N %-, 7.3 _-{\%ﬂr /) ' W
+R 7 == & -- o VY v
+1 e = e g; f%' 0 [0 - sahahthiaiod
+g i B« P V 1 % CGy
+5 YN, nft 1A ' e
+T, E- _ﬁ\ AN BYE ﬁt""""*:« E"" I X ""R
+Source: N Davies, L Crane, F Unwin, H Hopgood, North Side of the West Wal of Nakht's Offering Chapel, tempera on paper,
+1908-1914; original c. 1410-1370 BCE, Metropolitan Museum of Art, <www.metmuseum.org/art/collection/search/548578>
+Source
+This is an extract from an inscription that was carved on a stela at Abydos. It describes how Ahmose I,
+the founder of the Eighteenth Dynasty, honoured his grandmother, Tetisheri.
+Now, it came to pass that his majesty sat in the audience-hall . . the King of Upper and Lower
+Egypt, Nebpehtire, Son of Re, Ahmose (1), given life; while the hereditary princess, great in favor,
+great in amiability, king''s-daughter, king's-sister, divine consort, great king's-wife, Ahmose-
+Nefretiri, who liveth,2 was with his majesty.
+The king himself spake? to her: ""I, it is, who have remembered the mother of my mother, and the
+mother of my father, great king's-wife and king's-mother, Tetisheri . . triumphant. (Although) she
+already has a tomb . . and a mortuary chapel . . on the soil of Thebes and Abydos, | have said this
+to thee,* in that my majesty has desired to have made for her (also) a pyramid and a house ..
+Tazeser, as a monumental donation of my majesty. Its lake shall be dug, its trees shall be planted,
+its offerings shall be founded, equipped with people, endowed with® lands, presented with herds,
+mortuary priests and ritual priests having their duties, every man knowing his stipulation.""®
+.. His majesty did this because he so greatly loved her, beyond everything.
+Source: JH Breasted, Ancient Records of Egypt, Vol Il: The Eighteenth Dynasty, University of Chicago Press, Chicago, 1906, pp. 15 and 16
+Tamiability - friendliness 4thee - you
+2liveth - lives Sendowed with - given
+3spake - spoke Sstipulation - role
+Greece
+Sources 4-6 relate to Question 2.
+Source
+This extract is a historical interpretation that describes the key features of tyranny in Ancient Greece.
+.. from the mid seventh century a series of usurpers began to seize autocratic power in the more
+advanced cities, establishing dynasties which usually lasted for some two generations before they
+were overthrown and replaced by hoplite'-dominated governments . . Thus for a century or more
+after about 650, tyranny was one of the prevalent forms of government in the Greek cities . . During
+this period it was also the tyrants who dominated the political and artistic life of the Greek world, and
+who captured the popular imagination in tradition. The experience of tyranny created a fascination
+and a hatred which permanently influenced Greek political attitudes against monarchy .
+.. tyranny is defined as absolute rule exercised contrary to customary law,2 or at the whim? of the
+ruler; and it is contrasted with kingship, which is absolute rule in accordance with customary law,
+or for the benefit of the subjects. Itis regarded . as the worst possible form of government, worse
+even than mob-rule, with which indeed it is held to have some connection.
+Source: O Murray, Early Greece, Fontana Paperbacks, Great Britain, 1980, pp. 132 and 133
+Thoplite -armed foot soldier
+2customary law - traditional law
+3whim
+Source
+This image, painted on a terracotta funerary plaque, depicts a corpse being prepared for burial, with
+men and women mourning.
+SaleigBaWownigigligh IgUigbelgiangaghs""Fat,
+BTl o (5 b [ e o [ ) [ o S e o e W S S O I
+£ { & z S o N
+o g ; ; N 1 :
+. A « [ A S '\ b
+RE | S /i i .
+- | N/ i Uy 8 f) | b
+\Z/IRINT N | b= [y 2 (Hes
+NINWEZ T S i) i e o "" Al
+U= N (AN i IR i ISR -
+OS] e DI A0 s
+k /1 NI 1l I/ i,
+/I % i AR fi
+i 1 e S i /1] 4
+NSk i
+'Sl S AN YRIR g
+J / (1 I 1l . [l
+N ' B B g
+L i i i il Is%
+oL L S MR
+T ~ e f £ v
+P - il -
+L @i
+i ~ _a-} €3
+J (L Sl
+Source: Terracotta funerary plague, Terracotta; black-figure, c. 520-510 BCE, Metropolitan Museum of Art,
+<www.metmuseum.org/art/collection/search/254801>
+Source
+This extract from Aristotle describes the personality of Cleon.
+After the death of Pericles, Nicias, who later died in Sicily, became the leader of the aristocratic
+party, and Cleon, the son of Cleaenetus, the leader of the people. This man, more than anybody
+else, appears to have corrupted the people by his violent methods. He was the first who shouted on
+the public platform, who used abusive language and who spoke with his cloak girt"" up about him,
+while all the others used to speak in proper dress and manner.
+Source: Aristotle, Aristotle's Constitution of Athens and Related Texts, translated with introduction and notes by K von Fritz and E Kapp,
+Hafner Publishing Company, New York, 1966, pp. 98 and 99
+1girt
+wrapped
+Rome
+Sources 7-9 relate to Question 3.
+Source
+This extract is a historical interpretation that describes the powers of the consuls in the
+Roman Republic.
+The consuls .. consult the senate on matters of urgency [and] carry out in detail the provisions of
+its decrees. Again as concerns all affairs of state administered by the people it is their duty to take
+these under their charge, to summon assemblies, to introduce measures, and to preside over the
+execution of the popular decrees. As for preparation for war and the general conduct of operations
+in the field, here their power is almost uncontrolled; for they are empowered to make what demands
+they choose on the allies, to appoint military tribunes, to levy soldiers and select those who are
+fittest for service. They also have the right of inflicting, when on active service, punishment on
+anyone under their command; and they are authorized to spend any sum they decide upon from the
+public funds, being accompanied by a quaestor! who faithfully executes their instructions.
+Source: Polybius: The Histories, Books 5-8, WR Paton (trans.), revised by FW Walbank and C Habicht,
+Harvard University Press, Massachusetts, 2011, p. 331
+1quaestor - a magistracy with financial and administrative duties
+Source
+This is a historical interpretation that outlines some of the political changes that occurred after the
+Revolution of 509 BCE.
+The establishment of the Roman Republic was due either to revolution or evolution; it was either
+the effect or the cause of the fall of the monarchy . . the monarchy was abolished and two annual
+magistrates named consuls . . were established in its place ..
+.. With their subordinate officers they were responsible for the financial and general administration
+of the state. This supreme executive authority, which was a basic constitutional conception,! was
+conferred by the Comitia Curiata . . Later magistrates, e.g. censors and aediles, who took over
+some of the consuls' duties, did not obtain imperium.?
+In addition to the regular magistrates was the extraordinary office of dictator ..
+Thus the Romans had provided an executive by creating a regular magistracy together with an
+extraordinary emergency one. This executive was expected by custom to rely largely on the Council
+of Elders and in practice it did . . Finally, of the two Assemblies of the People the Comitia Centuriata
+gained increasing political influence and took over many of the functions of the Comitia Curiata ...
+Source: HH Scullard, A History of the Roman World: 753 to 146 BC, 5th edition, Routledge, New York, 2003, pp. 78-81
+1conception
+2imperium - military and judicial authority
+Source
+This sculptural frieze from the Ara Pacis Augustae (Altar of Augustan Peace) in Rome depicts members
+of the imperial household participating in a religious procession. The monument was dedicated by the
+Senate in 9 BCE.
+. St 2 R o D S (T T,
+o s T2 & * ¢ r
+% \A'j""v' '.%""*' \ iLk ;:&,; 5+ T
+¢ 'ﬁ%aﬁ' & ""R ""'gﬁ YW s ""%ﬁ B As
+: J Y~/ N
+72N 8 >y 4B .
+i) - T A ' AL
+AN SN = ""\ ~E o S T\
+5% 's'M-/,-g\ W 2 %/' 18743 o 1 ANZRY2
+7 NI T sk [ % WS = R
+< e A S & ) IS
+St | 7 244045 s NP NN
+b?' M ""'""I;""i:['i '1';.""1 / // §. AN NG SEE vM\A.'« v fiy "" &,
+E b i [ AR 154 ~ ""\ SR / AU
+NG § ] (141 44/ 2 Va2 TN
+TA) 7 &/ N Vi N""//] | =W\ [-' PRAY S
+4 AV I 7 :\.'.{I;' f =7 T Ak Ve
+J1redh 3 o wiA v /1K N e
+g 2o SEll & O iy L
+% s % ni:!""""li!,, A 7 T ! \""i
+AL | M ] Al 3= iz ™
+= = s s 3 -
+Source: Ara Pacis Augustae: detail, sacrificial procession from long right wall, marble, Art Images for College Teaching,
+University of Michigan Library Digital Collections, <www.quod.lib.umich.edu/a/aict/x-rm011>
+End of Sources Book
+Victorian Cur iculum and Assessment Authority 2024 .",,6
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA1,A,Short-answer questions,1,Q1,25,Question,"Egypt
+Refer to pages 2-3 in the Sources Book when responding to this question.",,4
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA1,A,Short-answer questions,1a,Q1a,3,SubQuestion,"Using Source 1, outline the economic benefits of military activity for the Amen-Ra cult.",,5
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA1,A,Short-answer questions,1b,Q1b,4,SubQuestion,"Using Source 2 and your own knowledge, describe how New Kingdom kings
+expressed their power as warriors.",,6
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA1,A,Short-answer questions,1c,Q1c,5,SubQuestion,"Using Source 3 and your own knowledge, explain Hatshepsut's key motivations for
+implementing her building programs.",,7
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA1,A,Short-answer questions,1d,Q1d,5,SubQuestion,"Using Source 4 and your own knowledge, explain why Akhenaten moved the royal
+capital from Thebes to Akhetaten.",,8
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA1,A,Short-answer questions,1e,Q1e,8,SubQuestion,"Analyse how the relationship between the priests of the Amen-Ra cult and the king
+contributed to the crisis of the Amarna Period. Use evidence to support your response.",,9
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA2,A,Short-answer questions,2,Q2,25,Question,"Greece
+Refer to pages 4-5 in the Sources Book when responding to this question.",,10
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA2,A,Short-answer questions,2a,Q2a,4,SubQuestion,"Using Source 5 and your own knowledge, describe the civic obligations of a metic in
+Ancient Athens.",,11
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA2,A,Short-answer questions,2b,Q2b,8,SubQuestion,"Analyse how the reforms of Ephialtes contributed to the development of democracy in
+Ancient Athens. Use evidence to support your response.",,12
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA2,A,Short-answer questions,2c,Q2c,3,SubQuestion,"Using Source 6, outline why the Spartans were confident of success in war against
+Athens.",,13
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA2,A,Short-answer questions,2d,Q2d,5,SubQuestion,"Using Source 7 and your own knowledge, explain how the Megarian Decree
+contributed to the outbreak of the Archidamian War.",,14
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA2,A,Short-answer questions,2e,Q2e,5,SubQuestion,"Using Source 8 and your own knowledge, explain Lysander's role in ending the
+Decelean (Ionian) War.",,15
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA3,A,Short-answer questions,3,Q3,25,Question,"Rome
+Refer to pages 6-7 in the Sources Book when responding to this question.",,16
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA3,A,Short-answer questions,3a,Q3a,3,SubQuestion,"Using Source 9, outline how Romulus became the founder of Rome in 753 BCE.",,17
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA3,A,Short-answer questions,3b,Q3b,4,SubQuestion,"Using Source 10 and your own knowledge, describe the cultural expressions that
+defined Roman life during the early Roman Republic.",,18
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA3,A,Short-answer questions,3c,Q3c,5,SubQuestion,"Using Source 11 and your own knowledge, explain the limitations of the Roman
+Republic's political institutions.",,19
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA3,A,Short-answer questions,3d,Q3d,5,SubQuestion,"Using Source 12 and your own knowledge, explain why Pompey's early military
+success and popularity caused concern among Roman politicians.",,20
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA3,A,Short-answer questions,3e,Q3e,8,SubQuestion,"Analyse how key military battles determined the outcome of the civil war between
+Caesar and Pompey. Use evidence to support your response.",,21
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERB,,B,Extended responses,,,20,Header,Section B: Extended responses,,1
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERB,,B,Extended responses,,,,SubHeader,Instructions,,2
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERB,,B,Extended responses,,,,Instruction,Write your response in English.,,3
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERB,VCEHA25EQB1,B,Extended responses,1,Q1,20,Question,"Egypt
+'Despite his unconventional reign, Akhenaten fulfilled the Egyptian role of the god-king.'
+To what extent do you agree? Justify your response.",,4
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERB,VCEHA25EQB2,B,Extended responses,2,Q2,20,Question,"Greece
+Sparta blamed Athens, actually Sparta played a key role in causing the outbreak of the
+Archidamian War.'
+To what extent do you agree? Justify your response.",,5
+Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERB,VCEHA25EQB3,B,Extended responses,3,Q3,20,Question,"Rome
+'The erosion of Roman morals and values led to the demise of the Roman Republic.'
+To what extent do you agree? Justify your response.
+Select a question by placing a tick (✓) in one of the boxes below:
+Question 1 □ Question 2 □ Question
+Extra space for responses
+Clearly number all responses in this space.
+If you use any additional Question and Answer Books to complete your responses, write your student
+number on the front cover. At the end of the examination, place the additional Question and Answer
+Books inside the front cover of the first Question and Answer Book.
+Assessment criteria for Section
+The essay in Section B will be assessed against the following criteria:
+•	 construction of a coherent and relevant historical argument that addresses the specific demands of
+the essay question
+•	 demonstration of historical knowledge that is accurate and appropriate for the essay question
+•	 application of historical thinking concepts such as cause and consequence, continuity and change,
+and/or historical significance
+•	 use of sources as evidence to support a historical argument, including a range of primary sources,
+perspectives and historical interpretations
+Victorian Curriculum and Assessment Authority 2025
+Victorian Curiculum and Asesment Authority 2025
+History: Ancient History
+Sources Book
+VCE Examination - Wednesday 12 November 2025
+Contents
+pages
+Egypt 
+2-3
+Greece 
+4-5
+Rome 
+6-7
+You may keep this Sources Book.
+VCAA 2025
+Egypt
+Sources 1-4 relate to Question 1.
+Source
+This is a historical interpretation, published in 2013, which describes the military campaigns of
+Thutmosis III. Details of the campaigns were carved in the Temple of Karnak and dedicated to
+Amun (Amen-Ra).
+The most extensive presentation of the Karnak temple as receiver of income from military
+campaigns abroad is found in the annals of Thutmose III1 ... in a concluding text it is stated
+that all prisoners made on the king's first campaign (including over 1,500 ""Syrians"") were given
+to Amun, in order to serve him as temple weavers and cultivators ... that cows from Egyptian,
+Levantine and Nubian herds were donated to Amun for his milk offerings ... that three Canaanite
+towns were assigned to Amun, and were charged with a yearly tax that contributed to the divine
+offering ... The donations appear as a natural consequence of the king's victories, which are
+explicitly said to have been made possible by his father Amun.
+Source: B Haring, 'The Rising Power of the House of Amun in the New Kingdom', in JCM Garcia (ed.), Ancient Egyptian Administration,
+Brill, Leiden, 2013, pp. 618 and 619
+III - Thutmosis III
+Source
+This is a line drawing of the decoration on the right side of a ceremonial chariot found in the tomb
+of Thutmosis IV. It depicts the king riding his chariot into battle, accompanied by the Theban war
+god Montu.
+Source: H Carter and PE Newberry, The Tomb of Thoutmôsis IV, Gerald Duckworth & Co. Ltd., London, 2002, plate
+Sources Book 2025 VCE History: Ancient History
+Source
+This is part of an inscription from the base of an obelisk erected by Hatshepsut in the Temple of Karnak.
+It is the King himself1 who says:
+I declare before the folk who shall be in the future,
+Who shall observe the monument I made for my father2,
+Who shall speak in discussion,
+Who shall look to posterity3-
+It was when I sat in the palace,
+And thought of my maker,
+That my heart led me to make for him
+Two obelisks of electrum4,
+Whose summits would reach the heavens,
+In the august5 hall of columns,
+Between the two great portals6 of the King,
+The Strong Bull, King Aakheperkare7, the Horus triumphant.
+Source: M Lichtheim (ed.), Ancient Egyptian Literature, University of California Press, Oakland, 2019, p. 338
+King himself - Hatshepsut
+2 my father - Hatshepsut's divine father Amun
+3 posterity - future generations
+4 electrum - a precious metal, an alloy of gold and silver
+5 august - respected, impressive
+6 portals - temple pylons, monumental gateways
+Aakheperkare - another name for Hatshepsut's mortal father, Thutmosis
+Source
+This is an extract from the 'Earlier Proclamation', inscribed on the boundary stelae at Akhetaten in
+Year 5 of Akhenaten's reign. It records the founding of Akhetaten by the king.
+Then said his Person1 to them: ""Behold Aten! The Aten wishes to have [something] made for him
+as a monument with an eternal and everlasting name. Now it is the Aten, my father, who advised
+me concerning it, (namely) Akhet-Aten2. No official had ever advised me concerning it, nor had any
+people in the entire land ever advised me concerning it, to tell me [a plan] for making Akhet-Aten
+in this distant place ... It is the Aten, my [father], who advised me concerning it, (saying),
+[fill] Akhet-Aten with provisions-a storehouse for everything!' while my father, HOR-ATEN3,
+proclaimed to me, 'It is to belong to my Person, to be Akhet-Aten continually forever.'""
+Source: WJ Murnane, Texts from the Amarna Period in Egypt, Scholars Press, Atlanta, 1995, p.
+Person - the king, Akhenaten
+Akhet-Aten - the city of Akhetaten, also called Amarna
+3 HOR-ATEN - the Aten
+Greece
+Sources 5-8 relate to Question 2.
+Source
+This is a historical interpretation, first published in 1935, which describes the status and conditions
+placed on metics in Ancient Athens.
+The importance of the resident aliens, the metics, varied greatly from state to state ... [In Athens]
+they seem to have been most numerous and most highly favoured ... They were ... debarred1 from
+the exercise of active political rights and from the possession of real property ... Yet they enjoyed
+personal freedom ... [and] remained contented and often prosperous, and the Athenians had no
+occasion ... to suspect them of disaffection or treachery.
+Source: MN Tod, 'The Economic Background of the Fifth Century', in JB Bury, SA Cooke and FE Adcock (eds),
+The Cambridge Ancient History: Vol 5, Athens 478-401 B.C., Cambridge University Press, Cambridge, 1983, p.
+1 debarred - excluded
+Source
+This extract from the Athenian historian Thucydides recounts part of the speech of the Spartan king
+Archidamus discussing preparations for war against Athens.
+'Peloponnesians and allies, our fathers have engaged in many campaigns both in and outside
+the Peloponnese, and the elder men in this army of ours are not inexperienced in war. Yet we
+have never marched out in greater strength than now ... the whole of Hellas1 is eagerly watching
+this action of ours, and, because of the general hatred against Athens, wishing us success in our
+undertakings
+The best and safest thing of all is when a large force is so well disciplined that it seems to be
+acting like one man.'
+Source: Thucydides, History of the Peloponnesian War, R Warner (trans.) with introduction and notes by MI Finley,
+Penguin Books, London, 1972, pp. 130 and 131
+Hellas - Greece
+Sources Book 2025 VCE History: Ancient History
+Source
+This map of Ancient Greece shows the location of key city-states and the Athenian and Spartan spheres
+of influence on the eve of the Peloponnesian War (431-404 BCE).
+Key
+Sparta
+AEGEAN
+SEA
+Athens
+Megara
+Delian League
+Peloponnesian League
+Macedon
+Unaligned city-states
+Achaemenid Persia
+The Peloponnesian War c. 431 BCE
+Corcyra
+Thebes
+Corinth
+Delphi
+Source: Adapted from World History Edu,<worldhistoryedu.com/wp-content/uploads/2024/11/Greece-at-the-beginning-of-
+the-Peloponnesian-War.png>
+Source
+This extract from the Greek historian and biographer Plutarch describes Lysander's actions leading up
+to the end of the Decelean (Ionian) War.
+Lysander sailed to the various cities in the neighbourhood and ordered all the Athenians he
+found to return to Athens, and he proclaimed that anybody caught outside the city would be put
+to death without exception. This step, which drove all the Athenians into the capital at once, was
+deliberately taken so as to produce intense scarcity and famine in Athens as soon as possible,
+and to forestall the necessity for a siege, against which the Athenians might otherwise have been
+well provided.
+... [Lysander] learned that the people of Athens were suffering terribly from famine, and so he
+sailed into the Piraeus and reduced the city, which was forced to accept the terms he laid down.
+Source: Plutarch, The Rise and Fall of Athens: Nine Greek Lives, translation and introduction by I Scott-Kilvert,
+Penguin Books, Harmondsworth, 1975, pp. 298-300
+Rome
+Sources 9-12 relate to Question 3.
+Source
+This extract from the Roman historian Livy describes the rivalry between Romulus and Remus over the
+foundation of Rome.
+Remus is said to have been the first to receive an omen: six vultures appeared to him. The augury1
+had just been announced to Romulus when double the number appeared to him. Each was saluted
+as king by his own party. The one side based their claim on the priority of the appearance, the other
+on the number of the birds. Then followed an angry altercation; heated passions led to bloodshed;
+in the tumult2 Remus was killed. The more common report is that Remus contemptuously3 jumped
+over the newly raised walls and was forthwith killed by the enraged Romulus, who exclaimed,
+shall it be henceforth with every one who leaps over my walls."" Romulus thus became sole ruler,
+and the city was called after him, its founder.
+Source: T Livius, The History of Rome by Titus Livius: Vol 1, Rev. Canon Roberts (trans.), JM Dent & Sons Ltd, London, 1926, p.
+1 augury - omen or prediction
+2 tumult - violence
+3 contemptuously - with disgust
+Source 10
+This 19th-century painting, titled Coriolanus, depicts the Roman aristocrat Gnaeus Marcius Coriolanus
+being confronted by Roman diplomats and priests, as well as his mother, wife and children. They are
+begging him to end his siege of Rome in 488 BCE.
+Source: Soma Orlai Petrich, Coriolanus, oil on canvas, 48 × 71 cm, 1869, Keresztény Museum, Hungary
+Sources Book 2025 VCE History: Ancient History
+End of Sources Book
+Source 11
+This extract from the Greek political historian Polybius describes the role of the people in the Roman
+constitution.
+[W]hat part is left for the people in the constitution, when the senate has these various functions,
+especially the control of the receipts and expenditure of the exchequer1; and when the consuls,
+again, have absolute power over the details of military preparation, and an absolute authority in
+There is, however, a part left [to] the people, and it is a most important one. For the people
+is the sole fountain of honor and of punishment; and it is by these two things and these alone that
+dynasties and constitutions and, in a word, human society are held together
+Source: AHM Jones (ed.), A History of Rome Through the Fifth Century, Vol 1: The Republic, Harper & Row, New York, 1968, p. 178
+1 exchequer - the public treasury of Rome
+Source 12
+This is a historical interpretation, published in 1978, which examines Pompey's unconventional rise to
+political prominence in Ancient Rome.
+On 12 March 81 [BCE] ... Pompey held his triumph. It was officially for his victory over Hiarbas1,
+since his other victories had been over Roman citizens
+More important from the historical point of view is the effect his triumph must have had on the other
+political leaders of the time. Centuries of tradition decreed that the aspiring politician should
+slowly work his way up the ladder of promotion
+And yet here was a young soldier ... winning a dangerous amount of personal popularity
+with the people.
+Source: J Leach, Pompey the Great, Croom Helm Ltd, London, 1978, pp. 32 and 33
+Hiarbas - King of Numidia (North Africa)
+Victorian Curriculum and Assessment Authority 2025
+Victorian Curriculum and Assessment Authority 2025 .",,6

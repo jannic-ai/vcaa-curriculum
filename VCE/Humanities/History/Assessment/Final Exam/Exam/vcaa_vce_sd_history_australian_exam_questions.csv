@@ -1,0 +1,750 @@
+SubjectArea,Subject,SubjectStreamCode,SubjectStreamName,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,UnitASCode,ExamReportCode,EQCode,SectionCode,SectionName,QuestionNumber,QuestionLabel,Marks,ContentType,Content,StimulusSource,Sequence
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA1,A,Short-answer questions,1,Q1,25,Question,"From custodianship to the Anthropocene (60000 BCE-2010)
+Refer to pages 2-4 in the Sources Book when responding to this question.",,4
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA1,A,Short-answer questions,1a,Q1a,2,SubQuestion,"Using Source 1, identify two features of the suggested location that make it suitable
+for the establishment of a national park.",,5
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA1,A,Short-answer questions,1b,Q1b,4,SubQuestion,"Using Source 2 and your own knowledge, describe how two significant events
+contributed to environmental change in Australia.",,6
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA1,A,Short-answer questions,1c,Q1c,5,SubQuestion,"Using Source 3 and your own knowledge, explain how British attitudes about the land
+contributed to colonisation.",,7
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA1,A,Short-answer questions,1d,Q1d,6,SubQuestion,"Using Source 4 and your own knowledge, explain two perspectives that influenced
+Australians' views of the environment from 1950 to 2010.",,8
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA1,A,Short-answer questions,1e,Q1e,8,SubQuestion,"Analyse the impact of protest on changes to government policy concerning the
+Australian environment between 1950 and 2010. Use evidence to support
+your response.",,9
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA2,A,Short-answer questions,2,Q2,25,Question,"Creating a nation (1834-2008)
+Refer to pages 5 and 6 in the Sources Book when responding to this question.",,10
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA2,A,Short-answer questions,2a,Q2a,2,SubQuestion,"Using Source 5, identify two reasons why migration to the colonies was considered
+desirable.",,11
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA2,A,Short-answer questions,2b,Q2b,4,SubQuestion,"Using Source 6 and your own knowledge, describe two aspects of life in Great Britain
+that contributed to increased immigration to the colonies of Australia after 1834.",,12
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA2,A,Short-answer questions,2c,Q2c,5,SubQuestion,"Using Source 7 and your own knowledge, explain the consequences of the Aboriginal
+Protection Act 1869 (Victoria) up to 1913.",,13
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA2,A,Short-answer questions,2d,Q2d,6,SubQuestion,"Using Source 8 and your own knowledge, explain two key events that contributed to
+changes in immigration and citizenship in Australia from 1973.",,14
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA2,A,Short-answer questions,2e,Q2e,8,SubQuestion,"Analyse the significant ideas that influenced attitudes towards immigrants to Australia
+after 1945. Use evidence to support your response.",,15
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA3,A,Short-answer questions,3,Q3,25,Question,"Power and resistance (1788-1998)
+Refer to pages 7-9 in the Sources Book when responding to this question.",,16
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA3,A,Short-answer questions,3a,Q3a,2,SubQuestion,"Using Source 9, identify two complaints that contributed to the Eureka Stockade.",,17
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA3,A,Short-answer questions,3b,Q3b,4,SubQuestion,"Using Source 10 and your own knowledge, describe two perspectives on female
+suffrage up to 1908.",,18
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA3,A,Short-answer questions,3c,Q3c,5,SubQuestion,"Using Source 11 and your own knowledge, explain the ideas that influenced attitudes
+about workers' rights up to 1913.",,19
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA3,A,Short-answer questions,3d,Q3d,6,SubQuestion,"Using Source 12 and your own knowledge, explain two key events that contributed to
+changes for Aboriginal and Torres Strait Islander Peoples.",,20
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA3,A,Short-answer questions,3e,Q3e,8,SubQuestion,"Analyse how ideas about feminism and sexuality challenged the exercise of power
+from 1957 to 1998. Use evidence to support your response.",,21
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA4,A,Short-answer questions,4,Q4,25,Question,"War and upheaval (1909-1992)
+Refer to pages 10 and 11 in the Sources Book when responding to this question.",,22
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA4,A,Short-answer questions,4a,Q4a,2,SubQuestion,"Using Source 13, identify two examples of how Australians responded to the news of
+the outbreak of war in 1914.",,23
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA4,A,Short-answer questions,4b,Q4b,4,SubQuestion,"Using Source 14 and your own knowledge, describe two perspectives on the issue of
+conscription during World War I",,24
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA4,A,Short-answer questions,4c,Q4c,5,SubQuestion,"Using Source 15 and your own knowledge, explain how increased government activity
+changed the economic and social life of Australia during World War I1.",,25
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA4,A,Short-answer questions,4d,Q4d,6,SubQuestion,"Using Source 16 and your own knowledge, explain two key ideas that influenced the
+Australian Government's decision to participate in the Vietnam War.",,26
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERA,VCEHU24EQA4,A,Short-answer questions,4e,Q4e,8,SubQuestion,"Analyse the influence of the Save Our Sons campaign and the Moratorium Movement
+on changing attitudes towards participation in the Viethnam War. Use evidence to
+support your response.",,27
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERB,,B,Essay,,,20,Header,Section B: Essay,,1
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERB,,B,Essay,,,,SubHeader,Instructions,,2
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERB,,B,Essay,,,,Instruction,Write your response in English.,,3
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERB,VCEHU24EQB1,B,Essay,1,Q1,20,Question,"From custodianship to the Anthropocene (60000 BCE-2010)
+'Up until 1901, European colonisation caused more change to the Australian landscape than to
+Aboriginal custodianship and culture.""
+To what extent do you agree with this statement?",,4
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERB,VCEHU24EQB2,B,Essay,2,Q2,20,Question,"Creating a nation (1834-2008) g
+'Imperialism was the most influential idea in developing attitudes to migration between 1834 and 1913.' g
+To what extent do you agree with this statement?",,5
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERB,VCEHU24EQB3,B,Essay,3,Q3,20,Question,":
+Power and resistance (1788-1998) g
+'Up until 1913, the most significant change to the exercise of power was in the broadening of rights for
+all Australians.'
+To what extent do you agree with this statement?",,6
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHUU3AS1,VCEHUU3AS2",VCEHU24ERB,VCEHU24EQB4,B,Essay,4,Q4,20,Question,"War and upheaval (1909-1992)
+Australian experience of participating in World War | and World War Il demonstrated that
+Australians remained loyal to Britain and committed to maintaining the security of Empire.'
+To what extent do you agree with this statement?
+Select a question by placing a tick (') in one of the boxes below:
+Question 1] Question 2 [] Question 3 [] Question 4
+= e
+o
+------
+o
+------
+e
+S,
+2.
+e
+------
+e
+2
+= e
+o
+------
+o
+------
+e
+------
+- OO O O O O O O OO OO
+Extra space for responses
+Clearly number all responses in this space.
+= e
+o
+------
+o
+------
+e
+S -
+2.
+e
+------
+e
+2
+= e
+o
+------
+o
+------
+If you use any additional Question and Answer Books to complete your responses, write your student
+number on the front cover. At the end of the examination, place the additional Question and Answer
+Books inside the front cover of the first Question and Answer Book.
+Assessment criteria for Section
+The essay in Section B will be assessed against the following criteria:
+« construction of a coherent and relevant historical argument that addresses the specific demands of
+the essay question
+« demonstration of historical knowledge that is accurate and appropriate for the essay question
+« application of historical thinking concepts such as cause and consequence, continuity and change,
+and/or historical significance
+« use of sources as evidence to support a historical argument, including a range of primary sources,
+perspectives and historical interpretations
+Victorian Curriculum and Assessment Authority 2024
+Sources Book
+VCE Examination - Monday 18 November 2024
+Contents pages
+From custodianship to the Anthropocene (60000 BCE-2010) 2-4
+Creating a nation (1834-2008) .~ 5-6
+Power and resistance (1788-1998) = 79
+War and upheaval (1909-1992) .= 10-1
+You may keep this Sources Book.
+Vvlcmmu CURRICULUM ORIA
+2024 AND ASSESSMENT AUTHORITY et
+From custodianship to the Anthropocene (60000 BCE-2010)
+Sources 1-4 relate to Question 1.
+Source
+Newspaper report on the establishment of the Royal National Park, published in 1879
+Itis indeed somewhat strange that so large an area of Crown land', possessed of such natural
+beauties, within fourteen miles of a populous city, should have remained so long unknown,
+unvisited, and unappropriated2
+.. Between the creek and the sea is a coast range of the usual sandstone formation . . The park
+therefore will contain a great variety of grand and beautiful features .. it has the sandstone slopes,
+with their peculiar forms and vegetation, with which the travellers on the Blue Mountains are now
+familiar. It has in the valleys one attraction, no longer to be found in the well-known gulleys® of the
+Blue Mountains, namely, splendid specimens of Australian timber.
+Source: The Sydney Morning Herald, 2 April 1879, p.
+1Crown land -land set aside for the government
+2unappropriated - not set aside for a specific use
+3gulleys - narrow valleys with steep sides
+Source
+Front cover of pamphlet about irrigation colonies along the Murray River, produced in 1890
+T e e e T s
+R e AR
+Vit RS Al s ,L'f'r*m x%'*g':'
+RIS L Y TR A i oY b
+AN T Qi
+QA BV AR B i N O A AU
+R ALY TR R4
+R gAY SUEE LR A
+""?f' ¥ 4,.55/ .5»(""?.':.; ARN A Pl ol @ it
+5 s il T R P Ca e o
+Gk i B ﬁ R Lo s l;s
+= B L A ¢ S P Lasd N ))ﬂ;,e:("",-.
+P o' P e § AP R )Y Y
+>~ AT SO MR TERR DIV A T,
+TR T g 2 B 'l-@"" b3p oo
+BRIy G PRSP g o, A S R S SR e ST
+TR Y ,éﬁ';w:'f:""p«;k R o e | e
+SRy D B 7K Xy Ve p S GAVA SN s
+T 2 e ) RO 37\ /) [ 2% -
+. :_5, 4 il 5, 2 e 3 ~4ki§ﬁ %19 232;
+R Ay g L NATE R RS AL T
+3 .""g' s e 7%?""7'{'{""""'""&, ""ré!g
+: A oY e
+ALK FRUBFUL FEAINS:
+= MR A UL e Je Ko A\TRAR A AV K e
+c it J%t e I e AR S %' o (X s
+= 3y { S AR e A R
+Y g S Ro LN S S N A
+2 SR AT O A et L N T i
+= B L Veous MU MR ¢ O
+= REEE ol Rl e
+ERR AT - S o ,);2""35 ek -
+< e 5,; k*ﬁ..,:s'ﬂ., O Ty Mg ,,éﬁ ,@ s
+WlBE faasmw S ol
+SRR e oiaeddi ML B BRI
+RS EreE 0 RS A0
+2 EE P G MR L e
+EAD | e et S
+gt '3 . . S TN .
+EEERG vp e e,
+[ oot i VR AR RAR RECEE GTes
+] SNV ReRd. s
+) A e e . O A
+Bl T s M e
+N 2 ST e
+Source: Adapted from R St John Hall, Australian irrigation colonies (Chaffey Bros. Limited):
+The growth of the colonies, pamphlet, Sands & McDougall, Adelaide, 1890
+Source
+Ahistorian's interpretation of how settlers justified moving into Aboriginal land
+Anormal justification for settlers in moving onto Aboriginal lands was a reference to the Bible, and
+in particular to God's Old Testament instruction to go forth and multiply and subdue' the earth,
+quoted by the Herald? in the wake of the Myall Creek trials®, The Aborigines had failed to subdue
+the earth and thus left it open to those who were willing to. Christopher Hodgson, a parson's4 son
+who had farmed the Darling Downs west of Brisbane, wrote of his years in Australia, 'Thus far the
+creator of the universe is just, in that He allows the superiority of civilisation over barbarism®,
+intellect over instinct or brutish® reason . . the world was made for man's enjoyment and created not
+as a beautiful spectacle, or spotless design, but as a field to be improved upon.'
+Source: T Keneally, Australians: Origins to Eureka, vol. 1, Allen & Unwin, Crows Nest, 2009, p. 406
+1subdue - conquer
+2Herald - newspaper from the period
+3Myall Creek trials - trials for the massacre of Indigenous Peoples by 12 colonists in 1838
+4parson - religious minister
+Sbarbarism - savagery
+Sbrutish - uncivilised
+Source
+A submission by an Australian scientific body regarding the human impact on the Australian
+environment f,
+The human impact on the environment is a function not only of population, but also of lifestyle, r%-
+organisation and technology ... Any rise in population will increase the necessity and urgency to
+do what already needs to be done to enhance Australia's population 'carrying capacity'1. Resource
+and infrastructure issues, especially regarding water and energy use and waste disposal, already :
+require more attention if Australia is to achieve an ecologically sustainable? way of life. If these
+issues are not adequately addressed, Australia can expect further degradation of land and water
+resources in certain regions of the coastal zone and on inland river systems, compromising its
+quality of life - even at current population levels.
+Source: The Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia's Population 'Carrying Capacity""
+One Nation - Two Ecologies, report, House of Representatives Standing Committee for Long Term Strategies,
+Australian Government Publishing Service, Canberra, 1994, p.
+1carrying capacity - the maximum population size that can be sustained by a specific environment
+2ecologically sustainable - maintaining the long-term balance of the environment
+Creating a nation (1834-2008)
+Sources 5-8 relate to Question 2.
+Source
+A perspective on migration to Australia written by immigrant RJ Mann in 1849
+The Australian colonies present an almost boundless field for the industry1 of man. All who are
+willing and able to work may live, and live well, there. The country is in most places in a state of
+natural pasture, growing food suf icient for flocks and herds without limit. A large proportion of it
+is fertile open land, fit for the plough, where a man with a hoe?, and the labour of a few days, may
+'chip' into the earth sufficient maize® or Indian corn to sustain him for the entire year. Starvation is
+unknown in Australia.
+Source: RJ Mann, Mann's Emigrant Guide to Australia, W Strange, London 1849, p. 76 in R Broome, The Colonial Experience:
+The Port Phillip District/Victoria 1834-1860, Latrobe University History Program, Melbourne, 2009, p.
+1industry -work and production
+2hoe -a gardening tool
+3maize -type of corn
+Source
+% A cartoon depicting social classes in Great Britain, published in 1843
+8 NN R TR AL RS <+ 3 N T
+== TR = S N o U s
+[ A2\ A €8 S e RO S = S § i i -
+£ ;-"" ""rééﬁ;éﬁﬂ}i*'""&fz. Phgaa bl fi\ﬁﬁ 948 \
+N\ R ? SR o X )N W i g AL sl Ak R |
+E 7 NGRS Y L Lo\
+g 5""""'«;'&'@"" i »-N""\' ) ) N T N \'1 ""EE;-""X( SR\
+S~ ey e - S B NI s [ o Q ¢ A
+a = S -A' y l? Gt 17 P B = % 4
+e & i g s/\ \\ \* ey TN
+: = RS 8 WA T e A e
+E'f e N NN Dl NS A\ S8
+el /-/m\,zx%/* Nl UK g
+MR g | . = g | N W N\ Semetee e BN o
+oo e C I TS S ey N W, SRR ST
+ﬁﬁgf/&&f}lﬁ' ==Y -\.\& N \""\ ,';:J»','J;""vs'{/ﬁ_a?w:fi;
+s 9 O A RSN e 0 O A S|
+AN ""5"""" Al R '7'5\'\'7(""-};:\»\-_:&»»\ S N N~
+WY gy ﬁi;k\'q{'ift'ﬂ' N == P e
+oS BN A B e el o= | ST SOR
+el 1 N MERONRNGY § nat ey
+V-l g Ny . s,
+A\ K ,i §§ e A i T vy Ul SESEE
+D) 1 7§ A S '3 ! ;:iﬂ'j;:s'z"":;g{i
+O Ciee ST TS IR S P O e\
+SN A1 I et :"".\ IR M ARSI L PNl W 0N
+2 =i ;, :'.,"" SRS e 4 St SR
+RS AL ol o AT - GENZTY et
+IR P aUE RO, == fRero
+MF__ i oY s
+. e 0 NSl
+k-4 Tow CAPITAL AND LABOUR.
+Source: RJ Hammerton, 'Capital and Labour', cartoon, Punch, or The London Charivari, vol. 5, 1843, p.
+Source
+Ahistorical interpretation of the cause and effect of government legislation on Aboriginal and Torres
+Strait Islander Peoples
+The influence of racial ideas and attitudes, which cast Aborigines as a primitive, childlike race
+that was doomed to 'disappear', deepened in the closing decades of the nineteenth century, and
+discriminatory legislation was introduced by several mainland colonies or States . . which was
+similar to an Act previously passed in Victoria (1869). These Acts established agencies upon which
+these governments gradually conferred' greater regulatory powers, and so they increasingly
+determined the lot? of a growing number of Aborigines in settled areas.
+Source: B Attwood and A Markus, The Struggle for Aboriginal Rights: A Documentary History, Allen & Unwin, NSW, 1999, p.
+conferred
+2|ot
+Source
+Extract from a Canberra newspaper article on Vietnamese refugees, published in 1975
+Afurther 170 Vietnamese refugees are expected to arrive in Australia within the next 10 days from
+refugee camps in Hong Kong.
+An Immigration Department official in Canberra said yesterday that arrangements were being
+made for Qantas to fly the refugees to Australia.
+He said that three Australian immigration officials were in Hong Kong processing applications from
+refugees wishing to come to Australia.
+There was no information as to how many more applications had been approved. :5""
+Source: The Canberra Times, 14 June 1975, p.
+Power and resistance (1788-1998)
+Sources 9-12 relate to Question 3.
+Source
+Principles of the Ballarat Reform League in the lead up to the Eureka Stockade
+At a Meeting held on Bakery Hill in the presence of about ten thousand men on Saturday
+November 11th, 1854 the following were adopted as the principles and objects of the
+Reform League"".
+That it is the inalienable' right of every citizen to have a voice in making the laws he is called upon
+to obey - that taxation without representation is tyranny?.
+That, being as the people have been hitherto®, unrepresented in the Legislative Council of the
+Colony of Victoria, they have been tyrannised over, and it becomes their duty as well as interest to
+resist, and if necessary to remove the irresponsible power which so tyrannises over them.
+That this Colony has hitherto been governed by paid Officials, upon the false assumption that law
+is greater than justice because, forsooth?, it was made by them and their friends, and admirably
+suits their selfish ends and narrow minded views. It is the object of the ""League"" to place the power
+in the hands of responsible representatives of the people to frame wholesome laws and carry on an
+© honest Government.
+<: Source: The Ballarat Reform League, Charter, 11 November 1854, Public Record Of ice Victoria
+1inalienable - cannot be taken away
+=; 2tyranny - cruel and unfair government rule
+""g 3hitherto -to this time
+< 4forsooth -in truth
+Source 10
+l lustration from The Australian Woman's Sphere, published in 1903
+Vo 11, No. 32 MELBOURNE, APRIL 8, 1903 Price, Two Pance.
+W, ¥ N3
+B /// // //'/ QY et~ iy -
+2, Ul s K 5l SALT Net Yoz SiEY,
+Z ! e e ?4.,
+SO SR E ,;'ﬁ W
+= W RN S L
+= 44 D\ i e e R e
+) \OSa-gi 8y I8 AN B o8
+P), Zlm\ i """"""/')'r'""'""'(""@é'ﬂ{é' 2] 7 INSaEs
+= 2 fE] .Suw i q""\ra/'//é//,',','i,s\ AT =5 7)) YN
+YR INTZ s sovei ) 77 ANy
+R4 X@.'Kwnﬂ/@""hﬂﬁgﬁ V""'""@'/' S VR
+P ) f)@*} &7 Sl N AANS
+) ) W N N Pj\\ 4 AN o
+N e T, s N R '
+RN N - = -
+i/ \ Ui\ / | 4 q & = B B - AN = s
+""%A'Iﬁ.')' el LA 'I ﬁ 2t
+Source: The Australian Woman's Sphere, vol. l , no. 32, Melbourne, 8 April 1903
+Source 11 :
+Ahistorical interpretation of the expansion of new unionism
+During the 1880s Australian trade unionism underwent a substantial expansion. Whereas trade
+unionism had been considered primarily the preserve of ' skilled tradesmen, it spread in the
+1880s amongst previously unorganised semi and unskilled workers, notably the shearers, metal
+miners, and railwaymen .. it was labelled the 'new unionism' ... [and] became associated with the
+other major phenomena2 of the labour movement at this time, the apparent heightening of class
+consciousness and the establishment of the Labor Party in the 1890s.
+Source: R Markey, 'New Unionism in Australia, 1880-1900"", Labour History, no. 48, May 1985
+the preserve of -reserved for
+2phenomena- events
+Source 12
+Petition to Governor-General, Lord Casey from four Gurindji leaders, written in 1967
+We, the leaders of the Gurindji people, write to you about our earnest' desire to regain tenure?
+of our tribal lands in the Wave Hill-Limbunya area of the Northern Territory, of which we were
+dispossessed in time past, and for which we received no recompense3.
+Our people have lived here from time immemorial* and our culture, myths, dreaming and sacred
+places have evolved in this land. Many of our forefathers were killed in the early days while trying to
+retain it. Therefore we feel that morally the land is ours and should be returned to us.
+Source: Petition to Lord Casey, Governor-General of Australia from four Gurindji spokesmen, April 1967,
+National Library of Australia, Frank Hardy Papers
+1earnest-deeply felt and genuine
+2tenure - ownership
+3recompense - compensation or payment
+""4time immemorial -a time so long ago in the past that people have no memory of it
+War and upheaval (1909-1992)
+Sources 13-16 relate to Question 4.
+Source 13
+An extract from The Argus, a Melbourne newspaper, after the declaration of war, 6 August 1914
+In an incredibly short time after the first copy had been sold, everyone in the street seemed to have
+heard the news of the declaration of war. Some were enthusiastic, some evidently gratiﬁed'; some
+seemed ovt-zrweighted2 by the import3 of the news, some were openly pessimistic"". But the general
+feeling was one of relief that the terrible waiting and uncertainty of the last few days was over,
+and that, whatever the issue might be, Great Britain had made her voice known in the quarrel5 of
+the nations.
+Source: 'War News Relieves Tension', The Argus, 6 August 1914, p.
+1gratified - pleased or satisfied
+2overweighted
+3import
+4pessimistic -negative about the future
+Squarrel -argument
+Source 14
+Aleaflet from the Council of Women of Victoria on the Conscription Referendum, produced in 1917 o)
+.
+Source: Australian War Memorial Collection, C964495
+Source 15
+Ahistorian's interpretation about life on the home front during World War
+Labor had introduced so many rules designed, no doubt, to save resources and equalise hardship,
+but in themselves often petty and irksome. Shoppers, for example, discovered that only parcels
+above a specified size and weight might be delivered while even the butcher's boy on his pushbike
+could make deliveries only on approved days. Aimost every area of homefront life suffered from
+similar regulations and rules ..
+Throughout 1944 and 1945 the determination to prosper out of the war grew and, if some people
+still worked devotedly for patriotic causes, others turned to racecourses or the black market.
+Commentators were dazed by the pursuit of pleasure and the large sums of money some people
+would spend for poor quality alcohol or still dreary2 meals ..
+. Rationing and austerity®, strict regulation of the workforce and questions of morality all turned on
+perceptions of how well-off the other fellow was.
+Source: M McKernan, Australians at Home: World War II, The Five Mile Press, Scoresby, 2014, pp. 144 and 145
+irksome - irritating or annoying
+2dreary
+g 3austerity - living in a simpler manner to conserve resources
+== Source 16
+'; Sir Robert Menzies''s perspective on Australia's involvement in the Vietnam War, given at a press
+= conference in Canberra, 13 July 1965
+The Communists themselves from Hanoi and from Peking describe this as a war of liberation ..
+[-] This is the grandiloquent1 . . name they give to a series of military operations which are obviously
+Q designed to overthrow the Government of South Viet Nam, to convert South Viet Nam into
+Communist state and to extend the boundaries of Communist influence so many miles, so many
+miles, hundreds of miles nearer to us.
+Source: P Cook and C Manning, Australia's Vietnam War in History and Memory, LaTrobe University, Melbourne, 2002, pp. 14 and 15
+1grandiloquent- pompous or pretentious
+End of Sources Book
+Victorian Curriculum and Assessment Authority 2024 .",,7
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA1,A,Short-answer questions,1,Q1,25,Question,"From custodianship to the Anthropocene (60 000 BCE-2010)
+Refer to pages 2-3 in the Sources Book when responding to this question.",,4
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA1,A,Short-answer questions,1a,Q1a,2,SubQuestion,"Using Source 1, identify two features of the image that represent changes brought to
+Melbourne by European colonisation.",,5
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA1,A,Short-answer questions,1b,Q1b,10,SubQuestion,"Evaluate the extent to which Aboriginal land management and custodianship changed
+the natural environment of Australia prior to European colonisation. Use Source 2 and
+other evidence to support your response.",,6
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA1,A,Short-answer questions,1c,Q1c,3,SubQuestion,"Using Source 3, outline three reasons supporting the idea that humans have caused
+Earth to enter a new geological age.",,7
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA1,A,Short-answer questions,1d,Q1d,4,SubQuestion,"Using your own knowledge, describe how atomic testing in the Pacific contributed to
+the anti-nuclear movement in Australia.",,8
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA1,A,Short-answer questions,1e,Q1e,6,SubQuestion,"Using Source 4 and your own knowledge, explain how the impacts of human activity
+on the natural environment were challenged by individuals and groups between
+2010.",,9
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA2,A,Short-answer questions,2,Q2,25,Question,"Creating a nation (1834-2008)
+Refer to pages 4-5 in the Sources Book when responding to this question.",,10
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA2,A,Short-answer questions,2a,Q2a,2,SubQuestion,"Using Source 5, identify two groups in the image that were present at the Ballarat
+goldfields.",,11
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA2,A,Short-answer questions,2b,Q2b,10,SubQuestion,"Evaluate the impact of the White Australia policies on Australian population patterns
+between 1901 and 1913. Use Source 6 and other evidence to support your response.",,12
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA2,A,Short-answer questions,2c,Q2c,3,SubQuestion,"Using Source 7, outline three reasons for the creation of the 1948 Universal
+Declaration of Human Rights.",,13
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA2,A,Short-answer questions,2d,Q2d,4,SubQuestion,"Using your own knowledge, describe how the 1997 Bringing Them Home report
+contributed to debates about reconciliation in Australia.",,14
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA2,A,Short-answer questions,2e,Q2e,6,SubQuestion,"Using Source 8 and your own knowledge, explain the competing perspectives on
+immigration policy and border security between 1992 and 2008.",,15
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA3,A,Short-answer questions,3,Q3,25,Question,"Power and resistance (1788-1998)
+Refer to pages 6-8 in the Sources Book when responding to this question.",,16
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA3,A,Short-answer questions,3a,Q3a,2,SubQuestion,"Using Source 9, identify two features of the image that suggest Western Australians
+would benefit by voting 'yes' for federation.",,17
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA3,A,Short-answer questions,3b,Q3b,10,SubQuestion,"Evaluate the extent to which the experience of Australian workers improved between
+1890 and 1913. Use Source 10 and other evidence to support your response.",,18
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA3,A,Short-answer questions,3c,Q3c,3,SubQuestion,"Using Source 11, outline three ways in which Aboriginal nationalism contributed to the
+campaign for Indigenous rights in the 1970s.",,19
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA3,A,Short-answer questions,3d,Q3d,4,SubQuestion,"Using your own knowledge, describe how the 1969 protests for equal pay created
+change for Australian women.",,20
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA3,A,Short-answer questions,3e,Q3e,6,SubQuestion,"Using Source 12 and your own knowledge, explain how perspectives opposing
+homosexuality motivated challenges to power and authority between 1957 and 1998.",,21
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA4,A,Short-answer questions,4,Q4,25,Question,"War and upheaval (1909-1992)
+Refer to pages 9-11 in the Sources Book when responding to this question.",,22
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA4,A,Short-answer questions,4a,Q4a,2,SubQuestion,"Using Source 13, identify two features of the image that represent Australia's
+changing alliances since 1941.",,23
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA4,A,Short-answer questions,4b,Q4b,10,SubQuestion,"Evaluate the extent to which Australians' support for the deployment of conscripts
+beyond Australia changed between 1909 and 1943. Use Source 14 and other
+evidence to support your response.",,24
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA4,A,Short-answer questions,4c,Q4c,3,SubQuestion,"Using Source 15, outline three ideas that influenced Australia's involvement in the
+war in the Indo-Malayan region during the 1950s.",,25
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA4,A,Short-answer questions,4d,Q4d,4,SubQuestion,"Using your own knowledge, describe the reasons for Australia's involvement in the
+Korean War.",,26
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERA,VCEHU25EQA4,A,Short-answer questions,4e,Q4e,6,SubQuestion,"Using Source 16 and your own knowledge, explain the changing perspectives on
+women's and Aboriginal and Torres Strait Islander people's participation in the armed
+forces between 1950 and 1992.",,27
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERB,,B,Essay,,,20,Header,Section B: Essay,,1
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERB,,B,Essay,,,,SubHeader,Instructions,,2
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERB,,B,Essay,,,,Instruction,Write your response in English.,,3
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERB,VCEHU25EQB1,B,Essay,1,Q1,20,Question,"From custodianship to the Anthropocene (60 000 BCE-2010)
+'The natural environment of Australia has primarily been seen as a resource to be extracted or exploited
+for profit.'
+Discuss with reference to the periods 60 000 BCE-1901 and 1950-2010.",,4
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERB,VCEHU25EQB2,B,Essay,2,Q2,20,Question,"Creating a nation (1834-2008)
+'Immigration benefitted Australian society more than it did the migrants.'
+Discuss with reference to the periods 1834-1913 and 1945-2008.",,5
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERB,VCEHU25EQB3,B,Essay,3,Q3,20,Question,"Power and resistance (1788-1998)
+'Changes to power and authority for Aboriginal and Torres Strait Islander peoples have mainly been
+achieved through the court system and legislation.'
+Discuss with reference to the periods 1788-1913 and 1957-1998.",,6
+Humanities,Australian History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHUU3AS1,VCEHUU3AS2",VCEHU25ERB,VCEHU25EQB4,B,Essay,4,Q4,20,Question,"War and upheaval (1909-1992)
+'The experiences and the commemoration of returned Australian soldiers have largely been positive.'
+Discuss with reference to the periods 1909-1950 and 1950-1992.
+Select a question by placing a tick (✓) in one of the boxes below:
+Question 1 □ Question 2 □ Question 3 □ Question
+Extra space for responses
+Clearly number all responses in this space.
+If you use any additional Question and Answer Books to complete your responses, write your student
+number on the front cover. At the end of the examination, place the additional Question and Answer
+Books inside the front cover of the first Question and Answer Book.
+Assessment criteria for Section
+The essay in Section B will be assessed against the following criteria:
+•	 construction of a coherent and relevant historical argument that addresses the specific demands of
+the essay question
+•	 demonstration of historical knowledge that is accurate and appropriate for the essay question
+•	 application of historical thinking concepts such as cause and consequence, continuity and change,
+and/or historical significance
+•	 use of sources as evidence to support a historical argument, including a range of primary sources,
+perspectives and historical interpretations
+Victorian Curriculum and Assessment Authority 2025
+Victorian Curiculum and Asesment Authority 2025
+History: Australian History
+Sources Book
+VCE Examination - Tuesday 11 November 2025
+Contents
+pages
+From custodianship to the Anthropocene (60 000 BCE-2010) 
+2-3
+Creating a nation (1834-2008) 
+4-5
+Power and resistance (1788-1998) 
+6-8
+War and upheaval (1909-1992) 
+9-11
+You may keep this Sources Book.
+VCAA 2025
+From custodianship to the Anthropocene (60 000 BCE-2010)
+Sources 1-4 relate to Question 1.
+Source
+An engraving, produced in 1862, depicting Melbourne's Church Street Railway Station, looking towards
+Port Phillip Bay
+Source: S Calvert, Brighton and the Bay, engraving, 1862, State Library Victoria
+Source
+A historian's interpretation of the significance of the Dreaming
+The Dreaming has two rules: obey the Law, and leave the world as you found it ... In most other
+societies an urge for change is so entrenched1 as to be thought natural ... [It is not] clear that people
+entirely succeeded in leaving the world as they found it, but they dedicated their lives to conserving
+what they inherited, and within the perception of living generations generally they succeeded.
+Since creator ancestors made all the land, no land can be wilderness ... Every hill, plain, rock and
+tree is alive with story and imagery, and filled with presences2.
+Source: B Gammage, The Biggest Estate on Earth: How Aborigines made Australia, Allen & Unwin, Sydney, 2012, pp. 124 and 130
+1 entrenched - firmly established and not likely to change
+2 presences - something that exists but is not seen
+Sources Book 2025 VCE History: Australian History
+Source
+An interpretation by climate scientists and historians of why Earth has entered the Anthropocene
+Climate change has brought into sharp focus the capability of contemporary human civilization
+to influence the environment at the scale of the Earth as a single, evolving planetary system.
+Following the discovery of the ozone hole over Antarctica, with its undeniably anthropogenic1
+cause, the realization that the emission of large quantities of a colourless, odourless gas such
+as carbon dioxide (CO2) can affect the energy balance at the Earth's surface has reinforced the
+concern that human activity can adversely2 affect the broad range of ecosystem services that
+support human (and other) life ... In addition to the carbon cycle, humans are ... likely driving the
+sixth major extinction event in Earth history. Taken together, these trends are strong evidence that
+humankind ... now rivals some of the great forces of Nature in its impact on the functioning of the
+Earth system.
+Source: W Steffen, J Grinevald, P Crutzen and J McNeill, 'The Anthropocene: conceptual and historical perspectives',
+Philosophical Transactions of The Royal Society, 369, 2011, pp. 842 and 843
+1 anthropogenic - originating in human activity
+2 adversely - harmfully or negatively
+Source
+A newspaper report describing the first Clean Up Sydney Harbour Day, which involved 40 000
+participants, and grew into Clean Up Australia Day in the following year
+They turned out in droves1 around Sydney Harbour - mums, dads, kids and couples ... all
+carrying bags for rubbish.
+Robin and Peter Hirst, of Mosman in Sydney's north, volunteered because of the ""disgraceful"" state
+of the local beaches.
+""You should be able to run along the beach without having to wear shoes,"" said Mrs Hirst.
+found broken glass, cans, cigarette butts, plastic rubbish.""
+Volunteers turned out early. By 11am, the official start time, 120 tonnes2 of rubbish had been
+collected at 140 sites around the harbour.
+Yachtsman Ian Kiernan, who instigated3 the clean-up, said the disposal of rubbish, particularly
+packaging, was a world-wide problem.
+Source: 'A dirty day out at the beach', The Canberra Times, 9 January 1989, p.
+1 droves - a large number of people gathering for the same purpose
+2 tonnes - one tonne is equal to 1000 kilograms
+3 instigated - established, set in motion
+Creating a nation (1834-2008)
+Sources 5-8 relate to Question 2.
+Source
+A watercolour painting depicting John Alloo's Chinese restaurant on Main Road in Ballarat, produced
+in 1855
+Source: ST Gill, John Alloo's Chinese Restaurant, Main Road, Ballarat, 1855, watercolour, 25 × 36 cm, National Museum of Australia
+Source
+A historian's perspective on the implementation of the Immigration Restriction Act 1901 (White
+Australia policy)
+The White Australia policy was a declaration by those who had come to Australia from Britain, and
+by their descendants born in Australia, that they intended to hold the continent for British Australians
+against the world. In particular, they intended to hold it against the likely alternatives: an Australia
+of mixed cultures and races, with the possibility of a Chinese majority if the doors were left open,
+an Australia dominated by one of the other European empires. The cultural differences that must
+result from the first of these alternatives, they believed, would not be compatible with a functioning
+democracy based on universal suffrage, and the second was simply intolerable.
+Source: D Kemp, A Free Country: Australians' search for Utopia, The Miegunyah Press, Carlton, 2019, p. 473
+Sources Book 2025 VCE History: Australian History
+Source
+A speech by Senator Gareth Evans, then-Minister for Foreign Affairs and Trade, in 1988 on the passing
+of the Universal Declaration of Human Rights in 1948
+The Universal Declaration [of Human Rights] was the first, and remains the most important,
+international human-rights instrument to proclaim1 fundamental human rights, and to allocate to
+human rights a prominent place on the international agenda.
+In my speech at the United Nations two months ago, I recalled the prominent role in the adoption
+of the Universal Declaration played by an even more obsessive predecessor2 of mine, Herbert
+Vere Evatt. Evatt was way ahead of his time in his clear perception of the need to establish a body3
+of international law to protect the human rights of individuals. He recognised that human rights
+concerned above all individuals facing fear, intimidation or threats to their life - all of them in dire
+need of help and protection - and the victims of human-rights violations were the proper concern
+of all governments and the international community acting together.
+Source: G Evans, speech, in 'Declaration of Human Rights: 40 years on', Australian Foreign Affairs Record,
+no. 12, vol. 59, December 1988, pp. 517 and 518
+1 proclaim - announce the establishment of
+2 predecessor - a person who has previously occupied a position or office
+3body - collection
+Source
+A perspective on the treatment of asylum seekers and boat people in 2004
+A full judicial inquiry into the so called ""children overboard"" affair must now be conducted after the
+next election, regardless of which party forms government.
+Revelations1 on Monday morning confirm the view ... about the manufactured crisis of boat arrivals
+since 2001, that the Australian public deserve a full, frank2 and independent judicial inquiry.
+Over recent years there have been a succession of inquiries that have revealed disturbing facts
+and information about our treatment of boat people and asylum seekers generally.
+Since the Tampa incident many Australians have become increasingly concerned with the
+government's policies regarding asylum seekers. These policies have and continue to cause
+massive and unnecessary trauma.
+An inquiry would help ensure that if boats start to come again, we will get our responses right. But
+importantly, the critical healing process for the victims of the Government's policies requires that we
+uncover the truth about the events of recent years.
+Source: H Glenn, 'Full and independent inquiry into ""Kids Overboard"" vital', Torres News, 18-24 August 2004, p.
+1 revelations - previously unknown facts
+2 frank - open, honest and direct
+Power and resistance (1788-1998)
+Sources 9-12 relate to Question 3.
+Source
+An advertisement demanding a decision from Western Australians regarding their vote to join the
+Australian federation
+Source: 'West Australians Complete the Union by Voting Yes', picture, 1900, National Library of Australia, <nla.gov.au/nla.obj-137005405>
+Newfoundland was a British colony in Canada.
+The unbroken line from Perth to south-western Australia reads 'Eastern Railway' and the broken line
+that continues to Adelaide reads 'TRANS-CONTINENTAL RAILWAY'.
+Sources Book 2025 VCE History: Australian History
+Source 10
+A historian's interpretation of the Harvester Judgement and the establishment of the basic wage
+Higgins determined that [a fair and reasonable] wage should be sufficient to maintain a man as
+'human being in a civilized community'; furthermore ... it must provide for the needs of a family.
+He therefore used household budgets to work out the cost of housing, clothing, food, transport,
+books ... for a family of five, and declared this a minimum wage for an unskilled male labourer
+... the principles of Higgins' Harvester judgement became a fundamental feature of national life.
+Wages were to be determined not by bargaining but by an independent arbitrator1. They were
+to be based not on profits or productivity but human need. They were premised on the male
+breadwinner2, with men's wages sufficient to support a family ... Women contested the dual
+standard for the next sixty years.
+Source: S Macintyre, A Concise History of Australia, 2nd edition, Cambridge University Press, Port Melbourne, 2004, p. 151
+1 arbitrator - judge
+2 breadwinner - the main person earning money to support a family
+Source 11
+A historian's interpretation of the developments and achievements of Aboriginal nationalism
+Indigenous rights ... had become a powerful force in politicising Aboriginal people and binding
+disparate1 groups into a national movement. An Aboriginal flag ... was raised all over the country.
+The fight ... emboldened2 Aboriginal people and gave them confidence through a shared sense of
+injustice ... [Historian] Russell McGregor has termed this an Aboriginal nationalism.
+People across the country marched, occupied sites, formed committees and petitioned parliaments
+Appeals were made to the United Nations from 1970 onwards
+Aboriginal people forged links with groups overseas, which deepened their justifications for
+Indigenous rights and developed emerging ideas of Aboriginal sovereignty ... Indigenous global
+networks emerged in the 1970s and ideas were exchanged to improve Indigenous lives worldwide.
+Source: R Broome, Aboriginal Australians, 5th edition, Allen & Unwin, Crows Nest, 2019, p. 245
+1 disparate - fundamentally different and incomparable
+2emboldened - encouraged
+Source 12
+A perspective on the oppression experienced by gay and lesbian people in the early 1970s
+Homosexuals encounter oppression of three kinds: persecution, discrimination and tolerance
+The gayworld1 ... is constantly harassed by police. Homosexuals learn the places to be avoided
+because they are commonly visited by the vice squad2
+Indeed anyone in a position where he/she is likely to be suspected a homosexual can expect
+rough police treatment. I was once stopped and searched ... by two policemen because they saw
+me walking with a friend
+One can be refused a job, of course, without the real reason being stated ... many men are
+refused promotion because they lack a respectable family image ... many women because they
+seem ""too masculine""
+The most common form of oppression ... tends to be neither outright persecution or discrimination
+but rather [a] patronizing3 tolerance ... The difference between tolerance and acceptance is very
+considerable, for tolerance is a [gift] extended by the superior to the inferior.
+Source: D Altman, Homosexual: Oppression and liberation, Angus and Robertson Pty Ltd, Sydney, 1972, pp. 33, 35-36,
+1 the gayworld - the gay community
+2 vice squad - police division dedicated to stopping certain crimes, including those related to sex and sexuality
+3 patronizing - appearing to be kind with the intention of remaining superior
+Sources Book 2025 VCE History: Australian History
+War and upheaval (1909-1992)
+Sources 13-16 relate to Question 4.
+Source 13
+The packaging of an Australian jigsaw puzzle titled 'President F D Roosevelt - Prime Minister John
+Curtin - United for Victory', produced circa 1942
+Source: 'President F D Roosevelt - Prime Minister John Curtin - United for Victory', jigsaw packing envelope,
+John Sands Pty Ltd, c. 1942, Australian War Memorial Collection
+Source 14
+A historian's interpretation of the Curtin government's decision to extend the boundaries in which
+Australian conscripts could serve
+[In] 1942 the issue which had divided Australia in 1916 and 1917 re-emerged: conscription for
+overseas service
+There had been calls for conscription for overseas service from very early in [World War II].
+1942 the Australian army was made up of two parts - the volunteer A.I.F. (Australian Imperial
+Force), who could be sent to fight anywhere; and the conscripted A.M.F. (Australian Military Force1)
+which could be compelled2 to serve only on Australian territory. But in 1939 ... the Defence Act had
+been amended to include parts of New Guinea ... [In] 1942 Prime Minister Curtin decided that
+single army was needed, and that it must be able to be sent beyond New Guinea. To achieve this,
+the Defence Act would need to be amended
+... [In] January 1943 Curtin was authorised by his party to ... make the appropriate amendment to
+the Defence Act
+Source: R Lewis, A Nation at War: The Australian Home Front in the Second World War. Documents & Commentary,
+Longman Cheshire Pty Limited, Melbourne, 1985, pp. 112-114
+Military Force - also referred to as the Citizen Military Force
+2 compelled - forced
+Sources Book 2025 VCE History: Australian History
+End of Sources Book
+Source 15
+A historical interpretation of Australia's involvement in the war in the Indo-Malayan region
+during the 1950s
+[The] Malayan Emergency was declared ... in response to the murder of three estate managers
+... by guerrillas1 of the Malayan Communist Party (MCP), which had determined2 on the violent
+overthrow of the British colonial government
+Australian involvement in the Emergency began ... in response to a request from the British
+government
+Australian ground forces arrived in Malaya in October 1955 to form part of the Australian
+contribution to ... deter external communist aggression
+Confrontation, or Konfrontasi in Indonesian, was a small undeclared war ... through which
+President Sukarno of Indonesia sought to destabilise3 and ultimately destroy the new Federation
+of Malaysia
+The Australian government was extremely wary of involving its troops in conflict with Indonesia
+... [due to the] border that Indonesia shared with Papua New Guinea.
+Source: P Dennis, J Grey, E Morris and R Prior, The Oxford Companion to Australian Military History, 2nd edition,
+Oxford University Press, South Melbourne, 2008, pp. 152, 345 and 347
+1 guerrillas - members of a small, independent group taking part in irregular fighting,
+usually against larger regular forces
+2 determined - decided
+3 destabilise - to cause unrest
+Source 16
+Victorian Aboriginal man's perspective on his time in the armed forces, following his summons for
+National Service under the National Service Act 1951
+No one ... called me ... Choc or Darkie ... the great thing about our group was that, even though
+we all came from totally different backgrounds, once in uniform we were all the same
+[W]earing the uniform filled me with pride and self-esteem ... I thought that I had been well
+equipped for the rest of my life ... I would never have to answer to anybody about colour,
+background or indeed anything again.
+Source: J Beaumont and A Cadzow (eds), Serving our Country: Indigenous Australians, War, Defence and Citizenship,
+NewSouth Publishing, Sydney, 2018, p. 202
+Victorian Curriculum and Assessment Authority 2025
+Victorian Cur iculum and Assessment Authority 2025 .",,7

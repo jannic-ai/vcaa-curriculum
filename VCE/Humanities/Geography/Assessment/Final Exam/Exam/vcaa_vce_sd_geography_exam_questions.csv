@@ -1,0 +1,290 @@
+SubjectArea,Subject,SubjectStreamCode,SubjectStreamName,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,UnitASCode,ExamReportCode,EQCode,SectionCode,SectionName,QuestionNumber,QuestionLabel,Marks,ContentType,Content,StimulusSource,Sequence
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,,ALL,All questions,,,8,Header,All questions,,1
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,,ALL,All questions,,,,SubHeader,Instructions,,2
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,,ALL,All questions,,,,Instruction,Use the additional space at the end of this book if you need extra space to complete,,3
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL1,ALL,All questions,1,Q1,16,Question,Name the location of your selected example of deforestation.,,4
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL1,ALL,All questions,1a,Q1a,4,SubQuestion,Identify two reasons for the current land cover change at your selected location.,,5
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL1,ALL,All questions,1b,Q1b,6,SubQuestion,Describe two ways in which deforestation is assessed at your selected location.,,6
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL1,ALL,All questions,1c,Q1c,6,SubQuestion,"Evaluate the effectiveness of one management technique in response to the impacts
+of deforestation at your selected location.",,7
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL2,ALL,All questions,2,Q2,4,Question,"For a selected location experiencing melting ice, state the scale of change over a defined period of time.",,8
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL3,ALL,All questions,3,Q3,10,Question,"'The global phenomenon of melting ice sheets and glaciers is the result of the interconnection of natural
+processes and human activity.""
+Discuss, with reference to a selected location. You may use the same selected location chosen for
+Question 2.
+Use Figure 1 on pages 2 and 3 of the Data Book when responding to Question 4.",,9
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL4,ALL,All questions,4a,Q4a,3,SubQuestion,"Outline one way in which the analysis of satellite images or other forms of remote
+sensing would assist the geographer in identifying the land use change at this location.",,10
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL4,ALL,All questions,4b,Q4b,3,SubQuestion,"Select another source of data that the geographer could use in an investigation of the
+change in land use at the site in Figure 1. Explain the value of this data source.
+Do not use satellite images or other forms of remote sensing in this answer.",,11
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL4,ALL,All questions,4c,Q4c,4,SubQuestion,"Describe one geospatial technology used in your fieldwork investigation at a selected
+site involving land use change.",,12
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL5,ALL,All questions,5,Q5,4,Question,"Name your selected country with an ageing population.
+Identify two demographic characteristics that support your classification of this country as one with an
+ageing population.
+Use Figure 2 on pages 4 and 5 of the Data Book when responding to Question 6.",,13
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL6,ALL,All questions,6,Q6,6,Question,"Describe the changing spatial distribution of regions and/or countries that are predicted to experience
+natural population decrease between 2000 and 2050.
+Use Figure 3 on page 6 of the Data Book when responding to Question 7.",,14
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL7,ALL,All questions,7a,Q7a,4,SubQuestion,"Suggest two reasons for the high proportion of those aged 19 and under in the
+population structure of Country A.",,15
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL7,ALL,All questions,7b,Q7b,6,SubQuestion,"Using Country A as an example, explain how a decrease in infant mortality rates could
+have an impact on life expectancy levels of the population over several decades.",,16
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL7,ALL,All questions,7,Q7,,MidQuestionContext,Use Figure 4 on page 7 of the Data Book when responding to Question 8.,,17
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL8,ALL,All questions,8a,Q8a,4,SubQuestion,"Outline the main reasons for variations in population growth as developed in
+Malthusian theory.",,18
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL8,ALL,All questions,8b,Q8b,6,SubQuestion,To what extent does the data in Figure 4 support the predictions of Malthus?,,19
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2024,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE24ER,VCEGE24EQALL9,ALL,All questions,9,Q9,10,Question,"Name your selected country with a growing population.
+Analyse the causes of the resulting issues and challenges associated with this country's growing
+population.
+Extra space for responses
+Clearly number all responses in this space.
+If you use any additional Question and Answer Books to complete your responses, write your student
+number on the front cover. At the end of the examination, place the additional Question and Answer
+Books inside the front cover of the first Question and Answer Book.
+Assessment criteria for extended-answer questions
+The extended-answer questions will be assessed against the following criteria, as appropriate:
+« application of geographical knowledge and understanding
+« demonstration of geographical skills
+« description and application of key geographical concepts
+« interpretation and analysis of data and other geographical information
+Victorian Curiculum and Asesment Authority 2024
+Data Book
+. VCE Examination - Thursday 14 November 2024
+Contents pages
+. Figure 1. Land usechange = 2-3
+Figure 2. Human populaton = 4-5
+Figure 3. Human populaton
+. Figure 4. Human populaton = 7
+Refer to the data in this book for each question, as indicated in the Question and Answer Book.
+The data contained in this book is drawn from real-world case studies.
+. You may keep this Data Book.
+Vvlcmmu CURRICULUM ORIA
+2024 AND ASSESSMENT AUTHORITY et
+Figure 1. Land use change
+Background
+information
+Increasing local and ¢ y
+regional road traffic has
+meant many narrow roads
+in India's towns and cities
+are being widened.
+geographer is investigating
+the associated land use LS
+change in an outer urban
+area of Varanasi, a city
+in northern central India. =
+Buildings used for small _
+businesses including
+retailing of food, together
+with residences, have
+been demolished or partly
+demolished along several
+kilometres, Often the
+rear sections of buildings International
+are left standing. In the & boundary
+meantime, the local -___. Disputed
+population is making the o 1000 km boundary
+best of these changes.
+Figure 1a. Figure 1b. Location map Source: Adapted from Google Maps.
+S :
+SN, T EASE el
+'y LE g SR B\ K i - T =
+R ) [l i i ,.-U' L
+SRS e NEEIEME L g
+= 5&(""1, e 15;9;51*:!;' ;i':gg_ i 'g""'*f'
+2 i Eestg R e T T 3 =
+el e S LSBT S -
+= . an ey Kol
+W = i, L O
+APy fi""""""'??i""ﬁ':'"" . S T
+L= e e
+Figure 1c. Roadside land use change
+Figure 1. Land use change
+SEl ] Fa cougig -,
+L =L e |
+? % e M,Nwu.:;:!:-g '*s.» j:
+[ '\ I
+4 | i ""
+E 4 l 12 5
+el - g 1 -
+e
+B et 4 1
+o = e
+=i | .
+R v § ) g
+% T, etimm,
+2718 Vg - - \ y
+1 (B | o AR, o R T e
+PG 2 R s N e = --. _ s
+CEESSS <= o R mat | = T IR NS
+0y - fm = e AR o
+[P 5 e EE Y,
+> B/ CaIRpEnReS, g T IO L el
+!""""'i' . .,:'?-':43!5;%\'4'5 i3 S = = )T r- ' o
+g e Rl R A -
+Tt e e : et - 3
+Figure 1d. The impact of land use change
+- B B - e = e
+y - /) g = ) -
+5 "" i il
+A-NEE WS () et
+|}l 3 au .20 &9 s g 7] j
+; £ L= Zm0s S % i
+Y = ¢
+= x> < = b=, = T
+| st 1 = 8}
+VAN ;v-»'. ' A R
+Epm ==EY -
+P = - =g g4
+i 1 @ =L '8 | =% i
+L K e L ST -
+iy = - e
+v iy e i B = S 1M T
+R e N L '? ] | R
+% S s ¥ - b G5 : a e ?'
+B by o S oy NN o
+e - RN 'i,(.gzfk' SR -
+e 5 L2 SR -2 ot -
+> ' % e -(x 7B e
+S e d 2 ""' I |
+Figure 1e. Adjusting to land use change
+Figure 2. Human population
+S e
+e - N iy
+] ) > L v'\.F_?' ~ 5
+s e ,,,,,, g &> T Nt
+5, / e i
+/ """""""""" ;\ P p
+p s .
+Moo pes % i %
+o ' o L e 5 8
+] __W' ' e
+Y ¢ : e -
+""""""'""'ﬂ""""""d-'-
+»\.r',»-r- __,
+' :
+U y
+VZa
+01000 2000km v o - L - N
+Figure 2a. Countries experiencing natural population decrease, 2000
+Decreasing [ less than 0.2 percent a year
+M 0.2-0.5 percent a year
+[l more than 0.5 percent a year
+Increasing [ Increasing or zero growth a year
+Source: U.S. Census Bureau International Database, December 2023
+Figure 2. Human population
+S S
+o= / P> < TR -
+o - = L &Y
+hctcCids Fe i > TR VI S
+R 5 ) / ~ ' * o)
+S j,cv ""=
+. & SO NI
+s et Ny A L,
+e e 7 Wi Ly
+. o ""-\"""" LS i
+Tropic of Capricorn O A _,,S\,;,,',,,,,,,,,,,'L_____,,,,,,,,,, Ay -~ -
+A Y
+Vo4
+Figure 2b. Countries predicted to experience natural population decrease, 2050
+Decreasing [ less than 0.2 percent a year
+M 0.2-0.5 percent a year
+B more than 0.5 percent a year
+Increasing [ Increasing or zero growth a year
+Source: U.S. Census Bureau International Database, December 2023
+Figure 3. Human population
+100+ Wale 0.0% 00% Female
+45-49 1.7% _ 2.0%
+40-44 1.7% _ 21%
+35-39 2.0% _ 2.7%
+30-34 2.2% _ 3.1%
+25-29 2.1% _ 3.4%
+20-24 25% _ 4.1%
+15-19 4.5% _ 5.8%
+Figure 3. Population structure of Country A, 1970
+Source: <Populationpyramid.net>,
+licensed CC-BY 3.01GO
+<https:/creativecommons.org/licenses/by/3.0/igo/>
+Figure 4. Human population
+6---- ® Nigeria
+Uganda
+. @ Ethiopia Afghanistan
+Pakistan
+enya
+Total d
+Fertility
+Rate, @ Philippines
+2021 Ecuaaon @® Guatemala
+Fraace .Mexico
+Poland @ Iran Argentina
+LY Spain
+South Korea
+Percentage of the population who have experienced severe food insecurity, 2021
+Figure 4. Total fertility rate and severe food insecurity for selected countries, 2021
+Note: Food insecurity occurs when
+a person lacks regular access to
+enough safe and nutritious food for
+normal growth and development. Food
+insecurity is considered to be severe
+when, at times during a year, a person
+has had to reduce the quantity of their
+food and go without food for parts of
+day or a whole day.
+Source: <https://data.worldbank.org>
+End of Data Book
+Victorian Curriculum and Assessment Authority 2024 .",,20
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,,ALL,All questions,,,80,Header,All questions,,1
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,,ALL,All questions,,,,SubHeader,Instructions,,2
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,,ALL,All questions,,,,Instruction,Use the additional space at the end of this book if you need extra space to complete,,3
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL1,ALL,All questions,1,Q1,3,Question,Identify and describe a natural characteristic of a forest.,,4
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL2,ALL,All questions,2,Q2,10,Question,Name the location of your selected example of deforestation.,,5
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL2,ALL,All questions,2a,Q2a,4,SubQuestion,Outline one impact of deforestation at this location on the,,6
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL2,ALL,All questions,2b,Q2b,6,SubQuestion,"Discuss one issue and associated challenge of the impact on the social conditions
+outlined in part a.",,7
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL2,ALL,All questions,2,Q2,,MidQuestionContext,Use Figure 1 on page 3 of the Data Book when responding to Question 3.,,8
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL3,ALL,All questions,3,Q3,4,Question,"Compare the distribution of grassland to that of coniferous forest, as shown in Figure 1.
+Use Figure 2 on pages 4 and 5 of the Data Book when responding to Question 4.",,9
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL4,ALL,All questions,4a,Q4a,1,SubQuestion,"Identify the approximate compass direction of the flow of the main body of the
+Glacier. ",,10
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL4,ALL,All questions,4b,Q4b,2,SubQuestion,"State in the table below the approximate length of the Fjallsjökull Glacier in 1890 and
+in 2010, as shown in Figure 2d.",,11
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL4,ALL,All questions,4c,Q4c,2,SubQuestion,Distinguish between a glacier and an ice sheet.,,12
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL5,ALL,All questions,5,Q5,10,Question,"'The application of geospatial technology has done little to effectively assess and manage
+rates of melting ice sheets and glaciers.'
+Evaluate this statement with reference to one selected location.",,13
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL6,ALL,All questions,6,Q6,8,Question,Name the location of your selected area of fieldwork.,,14
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL6,ALL,All questions,6a,Q6a,2,SubQuestion,"Outline the land use change that has recently occurred, is underway or is planned for
+the near future at your fieldwork location.",,15
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL6,ALL,All questions,6b,Q6b,6,SubQuestion,"Identify and explain how two geographic characteristics have impacted, or are likely
+to impact, the land use change at your fieldwork location.",,16
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL7,ALL,All questions,7,Q7,12,Question,"There are many different types of population movement, including:
+•	 forced migration
+•	 voluntary migration
+•	 long-term migration (greater than 10 years).
+Describe each of these three types of population movement using different origin and
+destination examples.
+Forced migration 
+Voluntary migration 
+Long-term migration 
+Use Figure 3 on page 6 of the Data Book when responding to Question 8.",,17
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL8,ALL,All questions,8,Q8,6,Question,"The population represented in Figure 3 is experiencing a demographic dividend.
+demographic dividend is a potential boost in economic productivity that can occur when
+the number of people in the workforce is growing relative to the number of people outside
+the workforce.",,18
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL8,ALL,All questions,8a,Q8a,2,SubQuestion,"Justify, using evidence from Figure 3, that Country A is experiencing a demographic
+dividend.",,19
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL8,ALL,All questions,8b,Q8b,4,SubQuestion,"Predict a challenge that this demographic dividend could present for government or
+non-government organisations in Country A in the next 30 to 40 years. Justify your
+prediction using evidence from Figure 3.",,20
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL9,ALL,All questions,9,Q9,10,Question,"Name your selected country with a growing population.
+Discuss the nature of the population trends that have occurred in this country's population structure
+over time. Include a sketch diagram(s) to support your response. Do not use Country A from Question 8
+in your response.
+Space for sketch diagram(s)",,21
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL10,ALL,All questions,10,Q10,12,Question,Name your selected country with an ageing population.,,22
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL10,ALL,All questions,10a,Q10a,2,SubQuestion,Identify two issues caused by the ageing population in your selected country.,,23
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL10,ALL,All questions,10b,Q10b,2,SubQuestion,"Outline a strategy implemented in your selected country in response to one of the
+issues identified in part a.",,24
+Humanities,Geography,,,Year 12,Final Exam,Exam Questions,2025,"VCEGEU3AS1,VCEGEU3AS2,VCEGEU4AS1,VCEGEU4AS2",VCEGE25ER,VCEGE25EQALL10,ALL,All questions,10c,Q10c,8,SubQuestion,"Discuss, using evidence, the effectiveness of the strategy outlined in part b.",,25

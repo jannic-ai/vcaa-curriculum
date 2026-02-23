@@ -1,0 +1,850 @@
+SubjectArea,Subject,SubjectStreamCode,SubjectStreamName,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,UnitASCode,ExamReportCode,EQCode,SectionCode,SectionName,QuestionNumber,QuestionLabel,Marks,ContentType,Content,StimulusSource,Sequence
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA1,A,Short-answer questions,1,Q1,25,Question,"The American Revolution
+Refer to pages 2-4 in the Sources Book when responding to this question.",,4
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA1,A,Short-answer questions,1a,Q1a,2,SubQuestion,"ldentify two visual features of Source 1 that show that Samuel Adams was
+significant individual.",,5
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA1,A,Short-answer questions,1b,Q1b,2,SubQuestion,Identify two written features of Source 1 that show the key revolutionary idea of liberty.,,6
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA1,A,Short-answer questions,1c,Q1c,5,SubQuestion,"Using Source 2 and your own knowledge, explain how the ideas of Thomas Paine
+challenged the existing order.",,7
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA1,A,Short-answer questions,1d,Q1d,6,SubQuestion,"Using Source 3 and your own knowledge, analyse how the conditions experienced by
+Native Americans were changed by the revolution, up to 1789.",,8
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA1,A,Short-answer questions,1e,Q1e,10,SubQuestion,"Evaluate the extent to which the Bill of Rights enabled revolutionary leaders to
+achieve their ideals. Use Source 4 and other evidence to support your response.",,9
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA2,A,Short-answer questions,2,Q2,25,Question,"The French Revolution
+Refer to pages 5-7 in the Sources Book when responding to this question.",,10
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA2,A,Short-answer questions,2a,Q2a,2,SubQuestion,"Identify two visual features of Source 5 that show the inequality between the Three
+Estates.",,11
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA2,A,Short-answer questions,2b,Q2b,2,SubQuestion,"Identify two written features of Source 5 that show hardships experienced by
+members of the Third Estate.",,12
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA2,A,Short-answer questions,2c,Q2c,5,SubQuestion,"Using Source 6 and your own knowledge, explain how the actions of Marie Antoinette
+weakened support for the monarchy before 1789.",,13
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA2,A,Short-answer questions,2d,Q2d,6,SubQuestion,"Using Source 7 and your own knowledge, analyse how the power of the monarchy
+changed between 1789 and 1791.",,14
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA2,A,Short-answer questions,2e,Q2e,10,SubQuestion,"Evaluate the extent to which Federalist and counter-revolutionary revolts challenged
+the survival of the new regime. Use Source 8 and other evidence to support your
+response.",,15
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA3,A,Short-answer questions,3,Q3,25,Question,"The Russian Revolution
+Refer to pages 8-10 in the Sources Book when responding to this question.",,16
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA3,A,Short-answer questions,3a,Q3a,2,SubQuestion,"Identify two visual features of Source 9 that show that Tsar Nicholas Il feared
+opposition to his government.",,17
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA3,A,Short-answer questions,3b,Q3b,2,SubQuestion,"Identify two written features of Source 9 that show criticism of the government of Tsar
+Nicholas II.",,18
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA3,A,Short-answer questions,3c,Q3c,5,SubQuestion,"Using Source 10 and your own knowledge, explain how Tsarina Alexandra contributed
+to the outbreak of the February Revolution.",,19
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA3,A,Short-answer questions,3d,Q3d,6,SubQuestion,"Using Source 11 and your own knowledge, analyse how the lives of women were
+changed by the October Revolution, up to 1927.",,20
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA3,A,Short-answer questions,3e,Q3e,10,SubQuestion,"Evaluate the extent to which Lenin's leadership enabled the survival of the new
+regime, from 26 October 1917 to January 1924. Use Source 12 and other evidence to
+support your response.",,21
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA4,A,Short-answer questions,4,Q4,25,Question,"The Chinese Revolution
+Refer to pages 11-13 in the Sources Book when responding to this question.",,22
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA4,A,Short-answer questions,4a,Q4a,2,SubQuestion,"l|dentify two written features of Source 13 that demonstrate how Red Army soldiers
+were instructed to treat the people.",,23
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA4,A,Short-answer questions,4b,Q4b,2,SubQuestion,"Identify two visual features of Source 13 that show how Red Army soldiers could
+strengthen their connection with the people.",,24
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA4,A,Short-answer questions,4c,Q4c,5,SubQuestion,"Using Source 14 and your own knowledge, explain why the Guomindang
+(Kuomintang) lost the Civil War.",,25
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA4,A,Short-answer questions,4d,Q4d,6,SubQuestion,"Using Source 15 and your own knowledge, analyse how the lives of peasants were
+changed by the revolution, up to 1957.",,26
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA4,A,Short-answer questions,4e,Q4e,10,SubQuestion,"Evaluate the consequences of the Great Proletarian Cultural Revolution on Chinese
+society. Use Source 16 and other evidence to support your response.",,27
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,,B,Essay,,,20,Header,Section B: Essay,,1
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,,B,Essay,,,,SubHeader,Instructions,,2
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,,B,Essay,,,,Instruction,Write your response in English.,,3
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,VCEHR24EQB1,B,Essay,1,Q1,20,Question,"The American Revolution
+'It was the contribution of popular movements that made the outbreak of revolution
+certain to happen.'
+To what extent do you agree? Use evidence to support your response.",,4
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,VCEHR24EQB2,B,Essay,2,Q2,20,Question,"The French Revolution
+'The spread of Enlightenment ideas made the outbreak of revolution certain to happen.'
+To what extent do you agree? Use evidence to support your response.",,5
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,VCEHR24EQB3,B,Essay,3,Q3,20,Question,"b
+The Russian Revolution
+'The influence of liberal ideas and reforms in Tsarist Russia made the outbreak of
+revolution certain to happen.'
+To what extent do you agree? Use evidence to support your response.",,6
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,VCEHR24EQB4,B,Essay,4,Q4,20,Question,"The Chinese Revolution
+'The influence of Mao Zedong Thought (Maoism) made the outbreak of revolution
+certain to happen.'
+To what extent do you agree? Use evidence to support your response.
+Section B - Essay
+QueStion No. D Revolution :
+4
+------
+= e
+------
+a - OO O O O O O O OO OO
+JEEEEEEEEE=-=-=-=-- o
+e -~
+e
+------ oy
+R -- e
+4
+= e
+------
+a - OO O O O O O O OO OO
+e -~
+Extra space for responses
+Clearly number all responses in this space.
+4
+------
+8
+= e
+------
+-° e
+------
+a - OO O O O O O O OO OO
+JEEEEEEEEE=-=-=-=-- o
+- S
+e
+------ oy
+R -- e
+4
+------
+8
+= e
+------
+a - OO O O O O O O OO OO
+If you use any additional Question and Answer Books to complete your responses, write your student
+number on the front cover. At the end of the examination, place the additional Question and Answer
+Books inside the front cover of the first Question and Answer Book.
+Assessment criteria for Section
+The essay in Section B will be assessed against the following criteria:
+« construction of a coherent and relevant historical argument that addresses the specific demands of
+the essay question
+» demonstration of historical knowledge that is accurate and appropriate for the essay question
+« application of historical thinking concepts such as cause and consequence, continuity and change,
+and/or historical significance
+« use of sources as evidence to support a historical argument, including a range of primary sources,
+perspectives and historical interpretations
+Victorian Curriculum and Assessment Authority 2024
+History: Revolutions
+Sources Book
+VCE Examination - Tuesday 12 November 2024
+Contents
+pages
+The American Revolution 
+2-4
+The French Revolution 
+5-7
+The Russian Revolution 
+8-10
+The Chinese Revolution 
+11-13
+Refer to the sources in this book for each question in Section A, as indicated in the Question
+and Answer Book.
+You may keep this Sources Book.
+VCAA 2024
+The American Revolution
+Sources 1-4 relate to Question 1.
+Source
+This engraving by Paul Revere was published in Boston in 1774. It shows Samuel Adams surrounded
+by three goddesses.
+- H
+S S
+E
+@y = = U E S
+5 9 '@ CB\ i 1S,
+PO A, =
+4K 57w, BN 4 2
+A =GRl [N
+2 / S ==V < -g
+V=t s v 7k i
+y | 1) (kan 5 2
+el AR A \o .
+(8| DAY % :
+A "" = N,
+yoan WL
+V7D WA /e
+fal AN Y
+Iy \ (¢ VSVEZ 7 = INUNEN -]
+v i snam e e = f > A d
+Source: P Revere, Mr Samuel Adams, Royal American Magazine, April 1774
+On the left, the goddess of liberty is standing on a book titled LAWS TO ENSLAVE AMERICA. In the
+centre is the goddess of fame. On the right, the goddess of war and justice is standing on a British
+soldier. The text on the document at the bottom reads 'MAGNA CHARTA"""".
+'Magna Charta-Magna Carta, a document produced in England in 1215 stating that the king and his government
+must obey the law and respect the rights of the people, including liberty
+Source
+An extract from the pamphlet Common Sense, written by Thomas Paine and published in the colonies
+in January 1776
+have heard it asserted' by some, that as America has flourished? under her former connection
+with Great-Britain, the same connection is necessary towards her future happiness ... Nothing can
+be more fallacious® than this kind of argument ... America would have flourished as much, and
+probably much more, had no European power taken any notice of her .
+But Britain is the parent country, say some. Then the more shame upon her conduct. Even brutes
+do not devour their young, nor savages make war upon their families .
+A government of our own is our natural right .. . it is infinitely® wiser and safer, to form a constitution
+of our own in a cool deliberate manner, while we have it in our power, than to trust such an
+interesting event to time and chance.
+Source: T Paine, Common Sense (pamphlet), in The Writings of Thomas Paine, Vol. 1, MD Conway (ed.),
+GP Putnam's Sons, New York, 1894, pp. 85, 86 and 99
+asserted - spoken confidently, argued
+2flourished - grown, prospered
+3fallacious - false, untrue
+""devour
+Sinfinitely- very much
+Source
+Ahistorical interpretation, published in 2011, outlining some of the challenges facing Native Americans
+before and after 1776
+.. [C]hallenges confronting Native Americans . . became acute at the end of the Seven Years' War
+as numerous British American settlers pushed westward, encroaching on' Indian? lands ..
+Tensions between European settlers and Native Americans were subsumed® by the subsequent
+conflict between the British and their North American colonists. When the War of Independence
+began, Native Americans found themselves in a position of relative (and temporary) power as
+both the British and the American rebels sought to cultivate® their support .. . [But] With the rebel
+victory in the war, Native Americans were confronted by a new, more dangerous situation. The
+United States, which had secured capacious5 boundaries at the Peace of Paris, and, possessed
+of a growing population determined to settle western lands, posed a mortal® threat to the Native
+Americans, who could no longer count on the support of Britain.
+Source: FD Cogliano and KE Phimister (eds), Revolutionary America 1763-1815: a sourcebook, Routledge, New York, 2011, pp. 7 and
+1ent:roat:hing on -taking over 4cultivate -gain, achieve
+2Indian - Native American 5(:apar:ious -large, vast
+3subsumed - blended, became part of Smortal - deadly, fatal
+Source
+A historical interpretation, published in 2009, outlining the reasons for amendments to the American
+Constitution. These amendments became the Bill of Rights.
+Antipathy' toward a strong central government was only one concern among those opposed to the
+Constitution; of equal concern to many was the fear that the Constitution did not protect individual
+rights and freedoms sufficiently ... Indeed, five states, including Massachusetts, ratified? the
+Constitution on the condition that such amendments be added immediately.
+When the first Congress convened in New York City in September 1789, the calls for amendments
+protecting individual rights were virtually unanimous®. Congress quickly adopted 12 such
+amendments; by December 1791, enough states had ratified 10 amendments to make them part
+of the Constitution. Collectively, they are known as the Bill of Rights. Among their provisions®:
+freedom of speech, press, religion, and the right to assemble peacefully, protest, and demand
+changes (First Amendment) ..
+Source: G Clack, MS Neely and A Hamby (eds), Outline of U.S. History, Nova Science Publishers Inc., New York, 2009, p.
+1antipathy - dislike, hostility
+2ratified -voted on and approved
+3virlua|ly unanimous - something that almost everybody agreed with
+4provisions -details, condition
+The French Revolution
+Sources 5-8 relate to Question 2.
+Source
+This is an image of the Three Estates, produced in 1789. It shows the three main social groups: the
+church (First Estate), the nobility (Second Estate) and everybody else (Third Estate).
+- K]
+. ey,
+PR AR Ze
+! ; ST
+f3 LN z
+s & Q.
+Al AN
+By et (R g
+2 7 s
+£ :
+2 =0 -4
+L
+AN < El
+LN 3 3
+R % s
+ANTE S § 3 i
+by :
+i = 4 . b\
+Foor 4 Z ﬁ ) F
+S '\ AN ) A ! W S
+) 2 ' N
+el B0 O £ S e
+SRR Beanconamanato . W i "" e
+P e
+Source: Unknown artist, 1789
+The text on the farming tool translates to 'wet with tears'.
+The text on the papers in the coat pocket of the bishop translates to 'bishop, abbot, duke, count,
+pension, ostentation™.
+The text on the papers in the trouser pocket of the peasant translates to or reads 'salt and tobacco,
+tailles?, corvée®, tithes*, militias®.
+The text on the noble's sword translates to 'reddened with blood'.
+1ostentation - showing wealth and luxury ""tithes -taxes paid to the church
+2tailles -a tax imposed on the peasantry Smilitias - military service
+3corvée -a labour tax owed by the peasant to his lord
+Source
+Ahistorical interpretation, published in 1989, outlining some of the actions of Marie Antoinette
+before 1789
+When funds ran low she repeatedly went to the King, who usually indulged"" her. As a young woman
+she indulged a weakness for diamonds that ... earned her a smart rap over the knuckles? . from
+her imperial mother. ""A Queen can only degrade herself*,"" wrote [her mother] Maria Theresa,
+this sort of heedless* extravagance in difficult times.""
+Joseph [her brother] saw clearly that his sister wanted the privileges . . of monarchy while being
+free to pretend that she was really a private individual ... Marie-Antoinette remained determined to
+design her own identity . . she selected her own friends . . the Queen used her authority to shower
+gifts, offices and money on her chosen favorites ... And along with each of the favorites came
+large clan of relatives . . So that what to the Queen seemed innocent enough .. to less par'tial5
+judgment looked like a gigantic network of sinecure® .. .; the empire of ""Madame Deficit"" ..
+Source: S Schama, Citizens: A Chronicle of the French Revolution, Penguin Random House, UK, 2004, pp. 171 and 180
+1im'lulged -agreed to help ""heedless
+2smart rap over the knuckles - quick criticism 5panial - favourable
+sdegrade herself - harm her reputation Ssinecure - a job that requires little or no work, usually given to
+friends or family
+Source
+Ahistorical interpretation, published in 2013, of how the monarchy was affected by revolution
+The original aim of the French Revolution . . was not to destroy monarchy . . goodwil towards
+the king survived . . [T]he destruction of the old social order on the night of 4 August concluded to
+cries of Vive le Roil"" and the order that a . . medal be struck?, proclaiming Louis XVI 'Restorer of
+French Liberties'.
+It was only when the National Assembly turned .. to drafting the rules for constitutional monarchya,
+that the problems began. Almost the first question they confronted was that of whether the king
+should have a veto® on legislation ... When the king appeared hesitant to accept the ultimate
+decision in favour of delaying pc:)wer5 only, the result was the march of the Parisian women
+to Versailles .. [This was] fol
+owed by the famous procession back to Paris ... He had simply
+surrendered himself, and his power, to a mob.
+.. the Flight to Varennes . . The capture, and the return of the fugitives to Paris, was the October
+Days all over again ..
+Source: W Doyle, France and The Age of Revolution, IB Tauris and Co. Limited, London, 2013, pp. 116, 117 and 119
+""Vive le Roi! -Long Live the King!
+2struck
+3constitutional monarchy - a form of government in which the monarch's power is limited
+""4veto-the right to reject a decision (for instance, by a law-making body)
+5delaying power -the power to suspend approval for a period of time
+Source
+This is a letter written in December 1793 by Collot d'Herbois describing his attempts to defeat
+rebellion in Lyon, France's second largest city. Collot was a member of the Committee of Public Safety
+and was one of 82 members of the National Convention sent to ensure that its laws were followed
+throughout France.
+[W]e have restored .. the morale of afew men . . and . . a certain number of patriots' who have
+suffered oppression? for too long. We have revitalized® justice in republican style, i.e. swift and
+terrible .. It wil strike at traitors like a thunderbolt and leave only ashes. The destruction of one
+vile* and rebellious city will strengthen all the others.
+The death of these scoundrels® wil assure life for generations of free men . . We will demolish as
+much as we can, by cannon-fire and by exploding mines. But . . amidst a population of a hundred
+and fifty thousand, there are many obstacles to such methods.
+The people's blade .. did not frighten [the traitors]. We have set up a commission .. of true
+republicans sitting in judgement on traitors. Sixty-four of these ... were shot yesterday .. two
+hundred and thirty will fall today .. to persuade those cities which are vacillatings.
+Source: R Cobb and C Jones (eds), Voices of the French Revolution, Salem House Publishers, Topsfield (MA), 1988, pp. 200 and 201
+1palriots -those in support of the revolutionary government
+2cuppression -cruel or unjust treatment
+3revitalized - gave life to, or renewed
+""vile - evil, horrible
+Sscoundrels - dishonest people or villains
+svac:illaling - unsure whether to support the government
+The Russian Revolution
+Sources 9-12 relate to Question 3.
+Source
+This cartoon, titled The Czar' - 'Do I smell something burning?', was published in an American
+magazine in 1906.
+e
+&b i i g
+(e (B /s
+NS s R ) R
+G\ . NP ) P ) & ? £
+L 7 '1' ?'t' N & iy e
+N ! WA 2 o 7 4
+2 e | f Augl
+Uk SR "" TR
+e 9 = 3 i S > P
+Pl \ 2l | e JCURED
+@ \\.|% ('i@'. | s .
+Y ey -.:' <N A\
+N @
+2 oINS ) G W
+S, ) /,'\
+gy . ¢ & ) 12
+E d 'A'*B/,,'v_'?f'a\ //A {l z& > ' 21 !{'
+Sl /) oy ¢
+, s %'i rees- % 4
+S TN o o a ) s
+e = o THE CZAR-""DO I SMELL SOMETHING BURNING?""
+Source: E Zimmerman (Zim), The Czar- 'Do | smell something burning?', Judge (magazine), New York, 1906
+The text on the orange tin next to Tsar Nicholas Il reads 'ROYAL EXTINGUISHER?"",
+The text on the round object at the left of the image reads 'ANARCHY .
+The text on the smoke at the left of the image reads
+The text on the three steps reads 'ARISTOCRACY, DESPOTISM, TYRANNY#,
+Czar - Tsar
+2exlinguisher- machine used to put out fires
+3anarchy - alawless society without leaders or government
+'dsspotism. tyranny - ruling with total power, in a cruel and unfair way
+Source 10
+Aletter from Tsarina Alexandra to Tsar Nicholas Il, dated 22 August 1915. On that day, Nicholas
+appointed himself commander of the Russian army.
+Do not fear . . God will give me the strength to help you . . we ... see what the struggle here really is
+means - you showing your mastery, proving yourself the Autocrat' without [which] Russia cannot
+exist . . God, who is just & near you - will save your country & throne through your firmness.
+.. Itis the beginning of the glon/2 of [your] reign, He [Grigori Rasputin] said so & | absolutely
+believe it ...
+..Befirmtotheend ...
+.. make them tremble before your courage & will®. God is with you & our Friend [Grigori Rasputin]
+for you -all is well . . Don't doubt - believe, & all will be well & the army is everything - a few
+strikes, nothing, in comparison, as [they] can & shall be suppressed4
+.. Sleep well my Sunshine, Russia's Saviour®,
+Source: Letters of the Tsaritsa to the Tsar: 1914-1916, Duckworth & Co., London, 1923, pp. 114-116
+1 autocrat - ruler with total power
+2glory
+3will - wishes
+'suppressed - defeated, brought to an end
+Ssaviour - rescuer, hero
+Source 11
+A historical interpretation of how the October Revolution affected the everyday life of women, published
+in2017
+The Bolsheviks came to power with a radical' programme for the liberation? of women and the
+radical transformation® of the family . . [The] Code on Marriage . . [and] Family . . in October 1918
+.. equalized women''s legal status with men's .. allowed both spouses4 to retain the right to their
+own property and earnings ... and ... made divorce available at the request of either party. Under
+the old regime the Church had granted divorce in only the rarest of circumstances . .
+.. [From 1921] cuts in state subsidies led to the closure of the public dining halls, créches®, and
+communal laundries that had been a feature of War Communism, leaving women once again
+responsible for looking after children, cooking, cleaning, and sewing . .
+.. Within less than a decade European Russia® had the highest divorce rate in the world .
+Source: SA Smith, Russia in Revolution, Oxford University Press, Oxford, 2017, pp. 338, 342 and 343
+radical - complete, total 4s;:n:ouses - husband, wife
+2jiberation - setting free Scréches - childcare centres
+3transformation - major change 6Eumpean Russia - western Russia
+Source 12
+Ahistorical interpretation of the leadership of Lenin, published in 2010
+Lenin was an exceptional' figure. He founded .. the Bolsheviks, which he turned into a party
+that made the October Revolution of 1917. The world's first socialist state . . survived against the
+odds. Lenin and the communist leadership withdrew Russia from the First World War and won the
+Civil War ..
+.. In 1921 he introduced the New Economic Policy and saved the Soviet state from being
+overwhelmed by popular rebellion . .
+.. Lenin created the Cheka .. Lenin justified dictatorship and terror .
+And .. . while Lenin was cunning and untrustworthy, he was also dedicated to the ultimate? goal of
+communism. He enjoyed power; he lusted after® it . . But he wanted power for a purpose. He was
+determined that the Bolsheviks should initiate the achievement of a world without exploitation* and
+oppression® ..
+But .. [Lenin] never ceased to declare that revolutions did not simply happen: they had to be made.
+And this required leadership.
+Source: R Service, Lenin: A Biography, Pan Books, Pan Macmillan, London, 2010, pp. 1,10, 330, 493 and 494,
+1 exceptional - extraordinary, outstanding
+2ultimate - final, most important
+3lusted after - wanted and worked hard to achieve something
+4exploita(ion - unfair treatment
+5oppressicm - cruelty, domination
+The Chinese Revolution
+Sources 13-16 relate to Question 4.
+Source 13
+This poster, published circa 1937, includes the title Love and Protect the Common People, Help the
+Common People. It was produced by Red Army forces in southern China.
+AW/
+g f N e
+i .
+J
+X b E ﬂ
+Source: Unknown artist, Love and Protect the Common People, Help the Common People,
+Political Department of the High Command of the Fourth Military Region, circa 1937 <https://chineseposters.net/posters/pc-1938-001>
+The text down the left-hand side of the image translates as 'Produced by the Political Department of the
+High Command of the Fourth Military Region'.
+Source 14
+Ahistorical interpretation of the Chinese Civil War, published in 2016
+After some seemingly impressive successes in the first year of the war, the Nationalists
+[Guomindang/Kuomintang] were unable to achieve a single major victory between 1947 and
+1949. Faced by growing desertions, and betrayed by some of his higher officers, who passed to
+the Communists details of Nationalist troop positions and movements, Jiar\g1 could never wholly
+rely on his supposed supporters, a problem that rarely troubled Mao Zedong. Unable to sustain
+a genuinely popular fol
+owing, Jiang increasingly resorted to coercion? as the war went on ..
+August 1948, Shanghai witnessed particularly bloody scenes, including street-corner beheadings
+and shootings by government troops. Such atrocities® alienated"" the Nationalists' diminishing®
+band of supporters . .
+Source: M Lynch, China 1839-1997, 3rd ed., Hodder Education, London, 2016, pp. 122 and 123
+1Jiang - Jiang Jieshi (Chiang Kai-shek)
+2resorted to coercion - chose to use force
+3atrocities - very cruel actions
+""alienated - distanced
+5diminishing-reducing in number
+Source 15
+Extract from a speech given by Mao Zedong (Mao Tse-tung) at the Eleventh Session of the Supreme
+State Conference in February 1957
+.. [Blecause the imperialists . . oppressed' and exploited us . ours is an impoverished? country
+and the standard of living . . of our peasants . is still low .. In this context, it is right to say that
+the peasants lead a ""hard life"". But in another sense it is not true ... As a matter of fact, with very
+few exceptions, there has been some improvement in the life of .. the peasants . . Since liberation
+[October 1949], the peasants have been free from landlord exploitation® and their production
+has increased annually. Take grain crops. In 1949, the country's output was only something over
+210,000 million catties®. By 1956, it had risen to more than 360,000 million catties . . The state
+agricultural tax is not heavy, only amounting to something over 30,000 million catties a year.
+Source: Mao Zedong, 'On the correct handling of contradictions among the people', speech delivered to the Supreme State Conference,
+27 February 1957; Selected Works of Mao Tse-tung, Volume 5, Marxists Internet Archive <www.marxists.org>
+'oppressed -harshly treated
+2impm/erished - poor
+3exploitation - unfair treatment
+""catties - a unit of weight in China with 1 cattie being approximately 600 grams
+Source 16
+Ahistorical interpretation of the Great Proletarian Cultural Revolution, published in 2013
+In colleges and schools across China, teachers were attacked by pupils. Some were tortured
+and, in extreme cases, murdered, often in the most barbarous' ways .. Professors and
+scholars who escaped with their lives were sentenced to clean toilets. Aimost 400,000 people
+branded? as rightists were forced to leave cities and return to the villages from which they or their
+parents had come ..
+.. At their places of work, staff bowed three times before his [Mao Zedong's/Mao Tse-tung's]
+portrait. The Little Red Book was held to cure ilinesses . . Control was tightened. The only books,
+films and theatrical performances allowed were those approved by Jiang Qinga; a total of just 124
+novels were published during the Cultural Revolution. Any form of personal taste in clothing was
+out of bounds - women wore .. flat heels and most people donned* Red Guard-style green
+uniform jackets, baggy trousers and caps . .
+Source: J Fenby, The Penguin History of Modern China: The Fall and Rise of a Great Power, 1850 to the Present, 2nd ed.,
+Penguin Books, London, 2013, pp. 451 and 457
+'barbarous - savage, cruel
+2branded - labelled, named
+3Jiang Qing - Chiang Ch'ing
+""donned - wore
+End of Sources Book
+Victorian Curriculum and Assessment Authority 2024 .",,7
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA1,A,Short-answer questions,1,Q1,25,Question,"The American Revolution
+Refer to pages 2-4 in the Sources Book when responding to this question.",,4
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA1,A,Short-answer questions,1a,Q1a,4,SubQuestion,"Using Source 1, outline the ideas about Natural Rights expressed by the members of
+the Massachusetts Assembly. ",,5
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA1,A,Short-answer questions,1b,Q1b,10,SubQuestion,"Evaluate the contribution of the Coercive Acts to the outbreak of revolution by 1776.
+Use Source 2 and other evidence to support your response. ",,6
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA1,A,Short-answer questions,1c,Q1c,6,SubQuestion,"Using Source 3 and your own knowledge, analyse the challenges faced by Loyalists
+during and after the War of Independence. ",,7
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA1,A,Short-answer questions,1d,Q1d,5,SubQuestion,"Using Source 4 and your own knowledge, explain the influence George Washington
+had on society from 1776 to 1789.",,8
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA2,A,Short-answer questions,2,Q2,25,Question,"The French Revolution
+Refer to pages 5-7 in the Sources Book when responding to this question.",,9
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA2,A,Short-answer questions,2a,Q2a,4,SubQuestion,"Using Source 5, outline Emmanuel Joseph Sieyès's ideas about the Third Estate.",,10
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA2,A,Short-answer questions,2b,Q2b,10,SubQuestion,"Evaluate the extent to which the events of the Estates-General contributed to the
+outbreak of the revolution. Use Source 6 and other evidence to support your response.",,11
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA2,A,Short-answer questions,2c,Q2c,6,SubQuestion,"Using Source 7 and your own knowledge, analyse how economic challenges had an
+impact on the consolidation of the new regime.",,12
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA2,A,Short-answer questions,2d,Q2d,5,SubQuestion,"Using Source 8 and your own knowledge, explain how the rise of the sans culottes led
+to challenges in France up to 1793. ",,13
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA3,A,Short-answer questions,3,Q3,25,Question,"The Russian Revolution
+Refer to pages 8-10 in the Sources Book when responding to this question.",,14
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA3,A,Short-answer questions,3a,Q3a,4,SubQuestion,"Using Source 9, outline how the Fundamental Laws aimed to retain the powers and
+authority of Tsar Nicholas II.",,15
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA3,A,Short-answer questions,3b,Q3b,10,SubQuestion,"Evaluate the role played by Alexander Kerensky in the Bolshevik seizure of power in
+October 1917. Use Source 10 and other evidence to support your response.",,16
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA3,A,Short-answer questions,3c,Q3c,6,SubQuestion,"Using Source 11 and your own knowledge, analyse why the policy of War
+Communism was introduced by the Bolsheviks in 1918.",,17
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA3,A,Short-answer questions,3d,Q3d,5,SubQuestion,"Using Source 12 and your own knowledge, explain how changes in education
+introduced by the Bolsheviks altered the nature of Russian society.",,18
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA4,A,Short-answer questions,4,Q4,25,Question,"The Chinese Revolution
+Refer to pages 11-13 in the Sources Book when responding to this question.",,19
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA4,A,Short-answer questions,4a,Q4a,4,SubQuestion,"Using Source 13, outline the reasons given for the limited success of the New Life
+Movement.",,20
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA4,A,Short-answer questions,4b,Q4b,10,SubQuestion,"Evaluate how the Chinese Communists used the Sino-Japanese War to strengthen
+their position against the Guomindang (Kuomintang). Use Source 14 and other
+evidence to support your response.",,21
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA4,A,Short-answer questions,4c,Q4c,6,SubQuestion,"Using Source 15 and your own knowledge, analyse why a new approach was taken
+with the Great Leap Forward in 1958.",,22
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA4,A,Short-answer questions,4d,Q4d,5,SubQuestion,"Using Source 16 and your own knowledge, explain the role played by Jiang Qing
+(Chiang Ch'ing) in helping shape the Great Proletarian Cultural Revolution.",,23
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,,B,Essay,,,20,Header,Section B: Essay,,1
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,,B,Essay,,,,SubHeader,Instructions,,2
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,,B,Essay,,,,Instruction,Write your response in English.,,3
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,VCEHR25EQB1,B,Essay,1,Q1,20,Question,"The American Revolution
+'The wide-reaching political changes made between 1776 and 1789 meant revolutionary ideals
+were significantly compromised.'
+To what extent do you agree? Use evidence to support your response.",,4
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,VCEHR25EQB2,B,Essay,2,Q2,20,Question,"The French Revolution
+'The new regime consolidated power by enacting change that mostly reflected the original
+ideals of 1789.'
+To what extent do you agree? Use evidence to support your response.",,5
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,VCEHR25EQB3,B,Essay,3,Q3,20,Question,"The Russian Revolution
+'When faced with challenges to their authority after October 1917, the Bolsheviks always
+responded with ruthless violence.'
+To what extent do you agree? Use evidence to support your response.",,6
+Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,VCEHR25EQB4,B,Essay,4,Q4,20,Question,"The Chinese Revolution
+1949 until his death in 1976, the policies and actions of Mao Zedong (Mao Tse-tung)
+were simply a means of keeping himself in power.'
+To what extent do you agree? Use evidence to support your response.
+Section B - Essay
+Question No. c
+Revolution
+Extra space for responses
+Clearly number all responses in this space.
+If you use any additional Question and Answer Books to complete your responses, write your student
+number on the front cover. At the end of the examination, place the additional Question and Answer
+Books inside the front cover of the first Question and Answer Book.
+Assessment criteria for Section
+The essay in Section B will be assessed against the following criteria:
+•	 construction of a coherent and relevant historical argument that addresses the specific demands of
+the essay question
+•	 demonstration of historical knowledge that is accurate and appropriate for the essay question
+•	 application of historical thinking concepts such as cause and consequence, continuity and change,
+and/or historical significance
+•	 use of sources as evidence to support a historical argument, including a range of primary sources,
+perspectives and historical interpretations
+Victorian Curriculum and Assessment Authority 2025
+History: Revolutions
+Sources Book
+VCE Examination - Friday 7 November 2025
+Contents
+pages
+The American Revolution 
+2-4
+The French Revolution 
+5-7
+The Russian Revolution 
+8-10
+The Chinese Revolution 
+11-13
+Refer to the sources in this book for each question in Section A, as indicated in the Question
+and Answer Book.
+You may keep this Sources Book.
+VCAA 2025
+The American Revolution
+Sources 1-4 relate to Question 1.
+Source
+An extract from a letter written to a British merchant in December 1765, signed by Thomas Cushing,
+James Otis, Samuel Adams and Thomas Gray, who were members of the Massachusetts Assembly
+The Colonists have as great a Regard1 for Right, Liberty and Justice as any People under
+Heaven-and they generally have Knowledge enough to discover when their Rights are infringed
+They hold themselves intitled2 to all the inherent3, unalienable4 Rights of Nature, as Men-
+and to all the essential Rights of Britons, as subjects ... The primary, absolute, natural Rights of
+Englishmen as frequently declared in Acts of Parliament from Magna Charta5 to this Day, are
+Personal Security, Personal Liberty and Private Property ... It is a fundamental Principle of the
+British Constitution that the supreme Power6 cannot take from any Man any Part of his Property
+without his Consent in Person or by Representation.
+Source: HA Cushing (ed.), The Writings of Samuel Adams, vol. 1, GP Putnam's Sons, New York, 1904, pp. 64 and 65
+Regard - feeling or understanding
+2 intitled - entitled
+3 inherent - something that belongs
+4 unalienable - something that cannot be taken away
+Charta - Magna Carta, a document written in the 13th century outlining the rights of the people
+Power - government
+Source
+A historical interpretation, published in 2020, of the colonial reaction to the Coercive Acts passed by the
+British parliament following the Boston Tea Party
+[C]olonists had to await Britain's reaction to the fate of the ships. News of that reaction first arrived
+in mid-May [1774], with further details trickling in over the next few months. Americans learned that
+Parliament had closed the port of Boston until the tea was paid for, then followed up with a series of
+punitive1 laws known as the Coercive Acts.
+During the summer of 1774, Americans everywhere discussed the appropriate response to
+such parliamentary measures, leading to the convening2 of the (First) Continental Congress in
+September. Before adjourning3 in late October, the congressmen adopted resolutions on the
+controversy and, more important, called for the creation of a series of local committees to enforce
+trade boycott of Great Britain. Throughout the rest of the year, the committees worked to establish
+their legitimacy and, in conjunction with newly elected provincial congresses, began to challenge
+the authority of the existing colonial governments.
+Source: MB Norton, 1774: The Long Year of Revolution, Vintage Books, New York, 2020, pp. xvii and xviii
+1 punitive - punishing
+2 convening - calling, gathering
+3 adjourning - taking a break, suspending proceedings
+Sources Book 2025 VCE History: Revolutions
+Source
+A historical interpretation, published in 2013, outlining the treatment of Loyalists during and after the
+War of Independence
+[The Treaty of Paris 1783] made no mention of loyal white Americans outside of a meaningless
+clause in Article V that required the rebel Congress to ""earnestly recommend"" that each state
+legislature ""provide for the restitution1 of all estates, rights, and properties which have been
+confiscated belonging to real British subjects""
+Throughout the war, colonial governments had enacted laws confiscating the property of prominent
+loyalists. Because the states and not the Congress had seized the property, Congress had no
+power to deal with the question of loyalist reparations2. It could not enforce the restoration of seized
+loyalist property or compel liberal treatment3 of returning loyalists. This meant, as both loyalists and
+the victorious rebels understood, that the loyalists would receive no mercy
+Anti-loyalist activity went unpunished in local neighborhoods. Angry residents used every
+means in their power-intimidation, assault, tarring and feathering-to prevent the exiles from
+returning home.
+Source: R Chopra, Choosing Sides: Loyalists in Revolutionary America, Rowman & Littlefield Publishers, Inc., Plymouth, 2013, pp. 44 and 45
+1 restitution - compensation
+2 reparations - repayments
+3 compel liberal treatment - force fair and kind behaviour
+Source
+A painting dated c. 1810, titled Washington & Liberty, by an anonymous artist
+Source: Unknown artist, Washington & Liberty, painting, c. 1810
+Photographic reproduction: Album/Alamy Stock Photo
+Sources Book 2025 VCE History: Revolutions
+The French Revolution
+Sources 5-8 relate to Question 2.
+Source
+An extract from the pamphlet titled What is the Third Estate?, written by Emmanuel Joseph Sieyès and
+published at the beginning of 1789
+This document is set out quite simply. We have three questions to ask ourselves.
+1.	What is the Third Estate?-everything.
+2.	What has it been until now in the political order?-nothing.
+3.	What is it asking?-to be something.
+Who would thus dare to say that the Third Estate does not contain everything that is needed to
+make up a complete nation? ... If the privileged orders were removed, the nation would not be
+worse off for it, but better. So, what is the Third [Estate]? Everything, but a fettered1 and oppressed
+everything. What would it be without the privileged order? ... Nothing can happen without it;
+everything would be infinitely better without the others.
+Source: EJ Sieyès, 'What is the Third Estate?' (pamphlet), in PG Dwyer and P McPhee (eds),
+The French Revolution and Napoleon: A Sourcebook, Routledge, London, 2002, p.
+1 fettered - restrained, restricted
+Source
+A historical interpretation, published in 2003, outlining some of the events occurring at the
+Estates-General, including the Tennis Court Oath in 1789
+On the 17th [June] ... the Third [Estate] took the title National Assembly by a vote of 491 to 90
+there had been rumours that the Estates would be dismissed and the financial crisis resolved by
+new loans ... The lawyers in the Third Estate had become revolutionaries.
+Necker finally persuaded Louis XVI to try to take the matter in hand1 by holding a royal session
+of all three orders
+The bungling2 of the preparations for the royal session only reinforced the National Assembly's
+resolution to stand firm ... When the deputies arrived on the morning of the 20th to find placards3
+closing the assembly hall ... many immediately concluded that a formal dissolution was imminent4.
+Angered at the contempt5 for their rights ... they went to a nearby enclosed tennis court and there
+took an oath not to separate from the National Assembly ... until they had established a constitution
+for the kingdom. The Tennis Court Oath was one of the great days of the Revolution ... The oath
+was a symbol of national unity ... and it reaffirmed the assumption of sovereignty the National
+Assembly took on ... the 17th.
+Equally important, the oath undermined the King's solution even before it was offered.
+Source: DMG Sutherland, The French Revolution and Empire: The Quest for a Civic Order, Blackwell Publishing, Oxford, UK, 2003, pp. 38 and 39
+1 take the matter in hand - take control
+4 imminent - about to happen
+2 bungling - carrying out a task incompetently
+5 contempt - disrespect
+3 placards - signs, posters
+Source
+A historical interpretation, published in 1975, outlining the new regime's economic challenges in 1793
+Revolutionary France had scarcely1 declared war on the monarchies of Europe when ... she was
+faced with a foreign coalition and military defeat, with aristocratic counter-revolution and civil war,
+with an economic crisis and a popular upsurge2
+The financial crisis was made worse by the continual issuing of new assignats3 which led to a rapid
+rise in the cost of living
+The decline in the value of the currency continued unchecked, made worse by the impact of the
+King's execution and by the effects of a European war
+As a result of this the food crisis could only grow worse. Wage-earners were paid on average
+20 sous4 per day in the country areas and 40 in Paris. In certain areas bread cost as much as
+8 sous per pound5, and all other goods ... were undergoing similar price increases. Not only was
+bread expensive; it was also scarce.
+Source: A Soboul, The French Revolution 1787-1799: From the Storming of the Bastille to Napoleon, Vintage Books, New York, 1975, pp. 291-293
+1 scarcely - only just
+2 upsurge - uprising
+3 assignats - paper bills issued in France as currency
+4 sous - French coins that were of low value
+5 pound - a unit of weight
+Sources Book 2025 VCE History: Revolutions
+Source
+This engraving, which includes the title Massacre of the prisoners of the Abbey of St Germain, depicts
+the massacre of prisoners in September 1792. Some of those who committed this massacre were
+members of the sans culottes.
+Source: Unknown artist, Massacre of the prisoners of the Abbey of St Germain, engraving, Révolutions de Paris, no. 165, 1792, p. 422
+Photographic reproduction: PWB Images/Alamy Stock Photo
+The Russian Revolution
+Sources 9-12 relate to Question 3.
+Source
+Selected Articles from the Fundamental Laws issued by Tsar Nicholas II in April 1906
+1.	The Russian state is unified and indivisible.
+3.	The Russian language is the official state language and its use is obligatory1 in the Army, the
+Fleet, and in all state and public institutions
+4.	The All-Russian Emperor2 possesses the supreme autocratic power3. Not only fear and
+conscience, but God himself, commands obedience to his authority.
+7.	The Sovereign Emperor exercises the legislative authority jointly with the State Council and the
+State Duma.
+8.	The Sovereign Emperor enjoys the legislative initiative in all legislative matters. The State
+Council and the State Duma may examine the Fundamental State Laws only on his initiative.
+9.	The Sovereign Emperor approves laws; and without his approval no legislative measure can
+become law.
+Source: B Dmytryshyn (ed.), Imperial Russia: A Source Book, 1700-1917, 2nd edition, The Dryden Press, Hinsdale, Illinois, 1974, p. 387
+1 obligatory - compulsory
+Emperor - Tsar
+3 supreme autocratic power - absolute authority to make laws and control territory
+Sources Book 2025 VCE History: Revolutions
+Source 10
+A historical interpretation, published in 2022, outlining some decisions made by Alexander Kerensky in
+the months leading up to October 1917
+Kerensky was well aware of the Bolsheviks' preparations, but even they could not shake his
+complacency1. He told the British ambassador, Sir George Buchanan, 'I only wish that they
+would come out, and I will then put them down.' On 20 October, he boasted ... that he welcomed
+Bolshevik revolt, because they would be utterly defeated. The same day the minister for war,
+General Aleksandr Verkhovsky, warned Kerensky that the army was incapable of fighting, so the
+best policy would be to open negotiations with the Germans and steal the Bolsheviks' thunder2.
+Kerensky angrily rejected the idea and sacked3 him
+On the basis of faulty information ... the government prepared for an uprising, first on 17 October,
+then on 20 October, and once more two days later. 'Rumours are more and more persistently
+being spread,' wrote Gorky4 on 18 October, 'that some ""action by the Bolsheviks"" will take place
+on 20 October; in other words, the disgusting scenes of 3-5 July may be repeated.' ... Kerensky
+preferred to think that the Bolsheviks' nerve would again fail as it had in July.
+Source: A Beevor, Russia: Revolution and Civil War, 1917-1921, Weidenfeld & Nicolson, London, 2022, p.
+1 shake his complacency - motivate him to act
+2 steal the Bolsheviks' thunder - undermine the Bolsheviks by acting first
+3 sacked - dismissed
+Gorky - Maxim Gorky, a famous Russian writer and active member of the Bolshevik Party during the early days of the
+Russian Revolution
+Source 11
+A historical interpretation, published in 1986, about the purpose of the policy of War Communism
+after June 1918
+In speech after speech Lenin first urged, then announced, the sending of detachments of
+'thousands and thousands' of 'politically advanced' workers from the two capitals to the
+countryside, to head the food requisitioning detachments
+This attitude to the products of the peasantry is often spoken of as 'War Communism', the
+implication being that it was an emergency policy dictated by the exigencies1 of the Civil War. This
+is quite untrue. Not only had the Civil War not really started at the time of the original decrees, but
+Lenin in June 1918 already defined the grain monopoly2 from a quite different point of view
+That is to say, far from being a 'war' measure the 'War Communism' policy was a conscious
+attempt to create a new social order, to effect the immediate transformation of the country into
+full socialism.
+Source: R Conquest, The Harvest of Sorrow: Soviet Collectivization and the Terror-Famine, Oxford University Press, New York, 1986, pp. 47 and 48
+1 exigencies - needs, demands
+2 grain monopoly - complete control of grain production
+Source 12
+A poster issued by the Bolshevik Government in January 1925, which includes the title Light and
+knowledge to the people
+Source: Unknown artist, Light and knowledge to the people, poster, Otdel Narodnogo Prosveshcheniia, 1925
+The small text on the building at the top right translates to 'RSFSR', which stands for Russian Soviet
+Federative Socialist Republic.
+The large text on the same building translates to
+Photographic reproduction: Heritage Image Partnership Ltd/Alamy Stock Photo
+Sources Book 2025 VCE History: Revolutions
+The Chinese Revolution
+Sources 13-16 relate to Question 4.
+Source 13
+A historical interpretation, published in 2009, of the difficulties implementing the New Life Movement
+that was launched in 1934
+It soon became clear that individual moral regeneration1 was not going to be embraced by the
+inhabitants of a country that desperately needed large-scale political reform. In spite of May-ling's2
+statement that the New Life Movement was ""welcomed by our people as water is craved by the
+famishing3,"" the Chinese were either too poor to pay attention or too rich to want to change
+It was not until the Second World War, when the New Life Movement developed offshoots such as
+the Wounded Soldiers League, that it began to make any significant contribution to the country.
+Meanwhile, as the American minister, Nelson T. Johnson, noted, ""It is doubtful whether the
+personalities interested in the movement are sufficiently pure themselves to give the movement
+much prestige.""
+Source: H Pakula, The Last Empress: Madame Chiang Kai-shek and the Birth of Modern China, Simon & Schuster, New York, 2009, pp. 234 and 235
+1 moral regeneration - improvement in beliefs, values and behaviour
+May-ling - Meiling, the wife of Jiang Jieshi (Chiang Kai-shek)
+3 famishing - hungry, thirsty
+Source 14
+This extract is from a political report by Chairman Mao Zedong (Mao Tse-tung) to the Seventh
+National Congress of the Chinese Communist Party (CCP) on 24 April 1945. In his report, he makes
+comparison between the strategies of the Guomindang (Kuomintang) forces and the Red Army during
+the Sino-Japanese War.
+[T]here exist in China two different guiding lines: one of which helps to defeat the Japanese
+aggressors, but the other ... in some respects actually helps them to undermine the
+anti-Japanese war.
+The passive policy adopted by the KMT1 government towards the war with Japan and its
+reactionary2 policy of oppression towards the people have resulted in military defeats, the loss of
+large parts of territory, a financial and economic crisis, the oppression of the people, hardships in
+the people's livelihood, and the undermining of national unity
+In the liberated areas [areas taken by the Communists], all anti-Japanese people in labour,
+peasant, youth, women's cultural, and other organizations, under the leadership of a democratic
+government, are engaging themselves heartily3 in various work to help the army, such as
+mobilizing people to join the army, transporting supplies for the troops, giving preferential treatment
+to the families of soldiers, and solving material difficulties for the troops.
+Source: Mao Tse-tung, 'On Coalition Government', report to the Seventh National Congress of the CCP on 24 April 1945, in C Brandt, B Schwartz and
+JK Fairbank, A Documentary History of Chinese Communism, George Allen & Unwin Ltd, London, 1959, pp. 297 and 298
+1 KMT - Guomindang (Kuomintang)
+2 reactionary - opposing change
+3 heartily - with enthusiasm
+Source 15
+A historical interpretation, published in 2003, by two economists outlining the directions taken in the
+Second Five-Year Plan, also known as the Great Leap Forward
+Starting from the summer of 1958, China was to experience in the next few years one of the most
+radical revolutionary changes in the history of mankind-the Great Leap Forward ... the Leap was
+an unorthodox1 development strategy conceived to hasten the pace of transforming the Chinese
+economy from its predominantly agrarian2 nature into a powerful industrial state ... a specific
+objective of the Leap was to increase both agricultural and industrial output by manifolds3, the
+former by expanding the acreage4 covered by irrigation and the latter via increasing the capacity
+of steel and iron production. As China was severely constrained with capital5 and backward
+in technology, achieving rapid growth via technical change was an unlikely option. An obvious
+alternative, given China's abundant surplus rural workers, was to make greater use of these
+resources by mobilizing them to engage in a variety of industrial and public projects through the
+restructuring of work and other aspects of social organization
+Source: JK Kung and JY Lin, 'The Causes of China's Great Leap Famine, 1959-1961',
+in Economic Development and Cultural Change, vol. 52, no. 1, 2003, p.
+1 unorthodox - different, irregular
+2 agrarian - agricultural
+3 manifolds - many times
+4 acreage - land area
+5 capital - money, investment
+Sources Book 2025 VCE History: Revolutions
+Source 16
+A 1967 poster featuring Jiang Qing (Chiang Ch'ing), which includes the title Let the new socialist
+performing arts occupy every stage
+Source: Unknown artist, Let the new socialist performing arts occupy every stage, poster,
+Central Academy of Fine Arts, Revolution Alliance, Red Brigade, 1967
+The text on the book translates to 'Quotations of Chairman Maoʼ.
+End of Sources Book
+Photographic reproduction: GRANGER - Historical Picture Archive/Alamy Stock Photo
+Victorian Curriculum and Assessment Authority 2025
+Victorian Cur iculum and Assessment Authority 2025 .",,7
