@@ -1,50 +1,50 @@
 SubjectArea,Subject,SubjectStreamCode,SubjectStreamName,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,UnitASCode,ExamReportCode,EQCode,SectionCode,SectionName,QuestionNumber,QuestionLabel,Marks,ContentType,Content,StimulusSource,Sequence
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA1,A,Short-answer questions,1,Q1,25,Question,"Egypt
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA1,A,Short-answer questions,1,Q1,25,Question,"Egypt
 Refer to pages 2-3 in the Sources Book when responding to this question.",,4
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA1,A,Short-answer questions,1a,Q1a,3,SubQuestion,"Using Source 1, outline how Thutmosis Ill contributed to the power of Egypt.",,5
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA1,A,Short-answer questions,1b,Q1b,5,SubQuestion,"Using Source 2 and your own knowledge, explain how funerary customs and religious
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA1,A,Short-answer questions,1a,Q1a,3,SubQuestion,"Using Source 1, outline how Thutmosis Ill contributed to the power of Egypt.",,5
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA1,A,Short-answer questions,1b,Q1b,5,SubQuestion,"Using Source 2 and your own knowledge, explain how funerary customs and religious
 practices changed in New Kingdom Egypt.",,6
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA1,A,Short-answer questions,1c,Q1c,4,SubQuestion,"Using your own knowledge, describe how Rameses Il contributed to commerce, trade
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA1,A,Short-answer questions,1c,Q1c,4,SubQuestion,"Using your own knowledge, describe how Rameses Il contributed to commerce, trade
 and tribute in the Near East and East Africa.",,7
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA1,A,Short-answer questions,1d,Q1d,5,SubQuestion,"Using Source 3 and your own knowledge, explain the status of women in
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA1,A,Short-answer questions,1d,Q1d,5,SubQuestion,"Using Source 3 and your own knowledge, explain the status of women in
 New Kingdom Egypt.",,8
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA1,A,Short-answer questions,1e,Q1e,8,SubQuestion,"Analyse how Amenhotep Il and Akhenaten used building projects for political and
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA1,A,Short-answer questions,1e,Q1e,8,SubQuestion,"Analyse how Amenhotep Il and Akhenaten used building projects for political and
 social purposes. Use evidence to support your response.",,9
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA2,A,Short-answer questions,2,Q2,25,Question,"Greece
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA2,A,Short-answer questions,2,Q2,25,Question,"Greece
 Refer to pages 4-5 in the Sources Book when responding to this question.",,10
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA2,A,Short-answer questions,2a,Q2a,3,SubQuestion,"Using Source 4, outline the features of tyranny in Ancient Greece.",,11
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA2,A,Short-answer questions,2b,Q2b,5,SubQuestion,"Using Source 5 and your own knowledge, explain the role and status of women in
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA2,A,Short-answer questions,2a,Q2a,3,SubQuestion,"Using Source 4, outline the features of tyranny in Ancient Greece.",,11
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA2,A,Short-answer questions,2b,Q2b,5,SubQuestion,"Using Source 5 and your own knowledge, explain the role and status of women in
 Ancient Greece.",,12
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA2,A,Short-answer questions,2c,Q2c,4,SubQuestion,"Using your own knowledge, describe how Solon changed the political structure
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA2,A,Short-answer questions,2c,Q2c,4,SubQuestion,"Using your own knowledge, describe how Solon changed the political structure
 of Athens.",,13
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA2,A,Short-answer questions,2d,Q2d,5,SubQuestion,"Using Source 6 and your own knowledge, explain how Cleon's political leadership
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA2,A,Short-answer questions,2d,Q2d,5,SubQuestion,"Using Source 6 and your own knowledge, explain how Cleon's political leadership
 influenced Athenian involvement in the Archidamian War (431-421 BCE).",,14
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA2,A,Short-answer questions,2e,Q2e,8,SubQuestion,"Evaluate how beneficial it was for a Greek city-state to be a member of the Delian
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA2,A,Short-answer questions,2e,Q2e,8,SubQuestion,"Evaluate how beneficial it was for a Greek city-state to be a member of the Delian
 League after 460 BCE. Use evidence to support your response.",,15
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA3,A,Short-answer questions,3,Q3,25,Question,"Rome
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA3,A,Short-answer questions,3,Q3,25,Question,"Rome
 Refer to pages 6-7 in the Sources Book when responding to this question.",,16
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA3,A,Short-answer questions,3a,Q3a,3,SubQuestion,"Using Source 7, outline the military powers of the magistracy of consul.",,17
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA3,A,Short-answer questions,3b,Q3b,5,SubQuestion,"Using Source 8 and your own knowledge, explain how the Revolution of 509 BCE
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA3,A,Short-answer questions,3a,Q3a,3,SubQuestion,"Using Source 7, outline the military powers of the magistracy of consul.",,17
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA3,A,Short-answer questions,3b,Q3b,5,SubQuestion,"Using Source 8 and your own knowledge, explain how the Revolution of 509 BCE
 caused political change in Ancient Rome.",,18
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA3,A,Short-answer questions,3c,Q3c,5,SubQuestion,"Using Source 9 and your own knowledge, explain the role of women in ancient
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA3,A,Short-answer questions,3c,Q3c,5,SubQuestion,"Using Source 9 and your own knowledge, explain the role of women in ancient
 Roman society.",,19
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA3,A,Short-answer questions,3d,Q3d,4,SubQuestion,"Using your own knowledge, describe how Gaius Marius contributed to the demise of
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA3,A,Short-answer questions,3d,Q3d,4,SubQuestion,"Using your own knowledge, describe how Gaius Marius contributed to the demise of
 the Roman Republic.",,20
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERA,VCEHA24EQA3,A,Short-answer questions,3e,Q3e,8,SubQuestion,"Evaluate the extent to which the Battle of Actium was the most significant event in the
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERA,VCEHAN24EQA3,A,Short-answer questions,3e,Q3e,8,SubQuestion,"Evaluate the extent to which the Battle of Actium was the most significant event in the
 rivalry between Octavian and Mark Antony. Use evidence to support your response.",,21
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERB,,B,Extended responses,,,20,Header,Section B: Extended responses,,1
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERB,,B,Extended responses,,,,SubHeader,Instructions,,2
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERB,,B,Extended responses,,,,Instruction,Write your response in English.,,3
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERB,VCEHA24EQB1,B,Extended responses,1,Q1,20,Question,"Egypt
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERB,,B,Extended responses,,,20,Header,Section B: Extended responses,,1
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERB,,B,Extended responses,,,,SubHeader,Instructions,,2
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERB,,B,Extended responses,,,,Instruction,Write your response in English.,,3
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERB,VCEHAN24EQB1,B,Extended responses,1,Q1,20,Question,"Egypt
 'Nefertiti was the main cause of the crisis in the Amarna Period.'
 To what extent do you agree? Justify your response.",,4
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERB,VCEHA24EQB2,B,Extended responses,2,Q2,20,Question,"Greece
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERB,VCEHAN24EQB2,B,Extended responses,2,Q2,20,Question,"Greece
 'The actions of Alcibiades had a significant impact on the outcome of the Decelean (lonian) War.""
 To what extent do you agree? Justify your response.",,5
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2024,"VCEHAU3AS1,VCEHAU3AS2",VCEHA24ERB,VCEHA24EQB3,B,Extended responses,3,Q3,20,Question,"Rome
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2024,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN24ERB,VCEHAN24EQB3,B,Extended responses,3,Q3,20,Question,"Rome
 'The actions of Sulla led to the downfall of the Roman Republic.'
 To what extent do you agree? Justify your response.
 Select a question by placing a tick (v) in one of the boxes below:
@@ -214,54 +214,54 @@ Source: Ara Pacis Augustae: detail, sacrificial procession from long right wall,
 University of Michigan Library Digital Collections, <www.quod.lib.umich.edu/a/aict/x-rm011>
 End of Sources Book
 Victorian Cur iculum and Assessment Authority 2024 .",,6
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA1,A,Short-answer questions,1,Q1,25,Question,"Egypt
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA1,A,Short-answer questions,1,Q1,25,Question,"Egypt
 Refer to pages 2-3 in the Sources Book when responding to this question.",,4
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA1,A,Short-answer questions,1a,Q1a,3,SubQuestion,"Using Source 1, outline the economic benefits of military activity for the Amen-Ra cult.",,5
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA1,A,Short-answer questions,1b,Q1b,4,SubQuestion,"Using Source 2 and your own knowledge, describe how New Kingdom kings
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA1,A,Short-answer questions,1a,Q1a,3,SubQuestion,"Using Source 1, outline the economic benefits of military activity for the Amen-Ra cult.",,5
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA1,A,Short-answer questions,1b,Q1b,4,SubQuestion,"Using Source 2 and your own knowledge, describe how New Kingdom kings
 expressed their power as warriors.",,6
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA1,A,Short-answer questions,1c,Q1c,5,SubQuestion,"Using Source 3 and your own knowledge, explain Hatshepsut's key motivations for
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA1,A,Short-answer questions,1c,Q1c,5,SubQuestion,"Using Source 3 and your own knowledge, explain Hatshepsut's key motivations for
 implementing her building programs.",,7
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA1,A,Short-answer questions,1d,Q1d,5,SubQuestion,"Using Source 4 and your own knowledge, explain why Akhenaten moved the royal
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA1,A,Short-answer questions,1d,Q1d,5,SubQuestion,"Using Source 4 and your own knowledge, explain why Akhenaten moved the royal
 capital from Thebes to Akhetaten.",,8
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA1,A,Short-answer questions,1e,Q1e,8,SubQuestion,"Analyse how the relationship between the priests of the Amen-Ra cult and the king
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA1,A,Short-answer questions,1e,Q1e,8,SubQuestion,"Analyse how the relationship between the priests of the Amen-Ra cult and the king
 contributed to the crisis of the Amarna Period. Use evidence to support your response.",,9
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA2,A,Short-answer questions,2,Q2,25,Question,"Greece
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA2,A,Short-answer questions,2,Q2,25,Question,"Greece
 Refer to pages 4-5 in the Sources Book when responding to this question.",,10
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA2,A,Short-answer questions,2a,Q2a,4,SubQuestion,"Using Source 5 and your own knowledge, describe the civic obligations of a metic in
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA2,A,Short-answer questions,2a,Q2a,4,SubQuestion,"Using Source 5 and your own knowledge, describe the civic obligations of a metic in
 Ancient Athens.",,11
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA2,A,Short-answer questions,2b,Q2b,8,SubQuestion,"Analyse how the reforms of Ephialtes contributed to the development of democracy in
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA2,A,Short-answer questions,2b,Q2b,8,SubQuestion,"Analyse how the reforms of Ephialtes contributed to the development of democracy in
 Ancient Athens. Use evidence to support your response.",,12
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA2,A,Short-answer questions,2c,Q2c,3,SubQuestion,"Using Source 6, outline why the Spartans were confident of success in war against
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA2,A,Short-answer questions,2c,Q2c,3,SubQuestion,"Using Source 6, outline why the Spartans were confident of success in war against
 Athens.",,13
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA2,A,Short-answer questions,2d,Q2d,5,SubQuestion,"Using Source 7 and your own knowledge, explain how the Megarian Decree
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA2,A,Short-answer questions,2d,Q2d,5,SubQuestion,"Using Source 7 and your own knowledge, explain how the Megarian Decree
 contributed to the outbreak of the Archidamian War.",,14
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA2,A,Short-answer questions,2e,Q2e,5,SubQuestion,"Using Source 8 and your own knowledge, explain Lysander's role in ending the
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA2,A,Short-answer questions,2e,Q2e,5,SubQuestion,"Using Source 8 and your own knowledge, explain Lysander's role in ending the
 Decelean (Ionian) War.",,15
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA3,A,Short-answer questions,3,Q3,25,Question,"Rome
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA3,A,Short-answer questions,3,Q3,25,Question,"Rome
 Refer to pages 6-7 in the Sources Book when responding to this question.",,16
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA3,A,Short-answer questions,3a,Q3a,3,SubQuestion,"Using Source 9, outline how Romulus became the founder of Rome in 753 BCE.",,17
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA3,A,Short-answer questions,3b,Q3b,4,SubQuestion,"Using Source 10 and your own knowledge, describe the cultural expressions that
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA3,A,Short-answer questions,3a,Q3a,3,SubQuestion,"Using Source 9, outline how Romulus became the founder of Rome in 753 BCE.",,17
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA3,A,Short-answer questions,3b,Q3b,4,SubQuestion,"Using Source 10 and your own knowledge, describe the cultural expressions that
 defined Roman life during the early Roman Republic.",,18
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA3,A,Short-answer questions,3c,Q3c,5,SubQuestion,"Using Source 11 and your own knowledge, explain the limitations of the Roman
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA3,A,Short-answer questions,3c,Q3c,5,SubQuestion,"Using Source 11 and your own knowledge, explain the limitations of the Roman
 Republic's political institutions.",,19
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA3,A,Short-answer questions,3d,Q3d,5,SubQuestion,"Using Source 12 and your own knowledge, explain why Pompey's early military
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA3,A,Short-answer questions,3d,Q3d,5,SubQuestion,"Using Source 12 and your own knowledge, explain why Pompey's early military
 success and popularity caused concern among Roman politicians.",,20
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERA,VCEHA25EQA3,A,Short-answer questions,3e,Q3e,8,SubQuestion,"Analyse how key military battles determined the outcome of the civil war between
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERA,VCEHAN25EQA3,A,Short-answer questions,3e,Q3e,8,SubQuestion,"Analyse how key military battles determined the outcome of the civil war between
 Caesar and Pompey. Use evidence to support your response.",,21
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERB,,B,Extended responses,,,20,Header,Section B: Extended responses,,1
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERB,,B,Extended responses,,,,SubHeader,Instructions,,2
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERB,,B,Extended responses,,,,Instruction,Write your response in English.,,3
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERB,VCEHA25EQB1,B,Extended responses,1,Q1,20,Question,"Egypt
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERB,,B,Extended responses,,,20,Header,Section B: Extended responses,,1
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERB,,B,Extended responses,,,,SubHeader,Instructions,,2
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERB,,B,Extended responses,,,,Instruction,Write your response in English.,,3
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERB,VCEHAN25EQB1,B,Extended responses,1,Q1,20,Question,"Egypt
 'Despite his unconventional reign, Akhenaten fulfilled the Egyptian role of the god-king.'
 To what extent do you agree? Justify your response.",,4
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERB,VCEHA25EQB2,B,Extended responses,2,Q2,20,Question,"Greece
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERB,VCEHAN25EQB2,B,Extended responses,2,Q2,20,Question,"Greece
 Sparta blamed Athens, actually Sparta played a key role in causing the outbreak of the
 Archidamian War.'
 To what extent do you agree? Justify your response.",,5
-Humanities,Ancient History,,,Year 12,Final Exam,Exam Questions,2025,"VCEHAU3AS1,VCEHAU3AS2",VCEHA25ERB,VCEHA25EQB3,B,Extended responses,3,Q3,20,Question,"Rome
+Humanities,History,VCEHAN,Ancient History,Year 12,Final Exam,Exam Questions,2025,"VCEHAN34AS1,VCEHAN34AS2",VCEHAN25ERB,VCEHAN25EQB3,B,Extended responses,3,Q3,20,Question,"Rome
 'The erosion of Roman morals and values led to the demise of the Roman Republic.'
 To what extent do you agree? Justify your response.
 Select a question by placing a tick (✓) in one of the boxes below:

@@ -1,72 +1,72 @@
 SubjectArea,Subject,SubjectStreamCode,SubjectStreamName,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,UnitASCode,ExamReportCode,EQCode,SectionCode,SectionName,QuestionNumber,QuestionLabel,Marks,ContentType,Content,StimulusSource,Sequence
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA1,A,Short-answer questions,1,Q1,25,Question,"The American Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA1,A,Short-answer questions,1,Q1,25,Question,"The American Revolution
 Refer to pages 2-4 in the Sources Book when responding to this question.",,4
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA1,A,Short-answer questions,1a,Q1a,2,SubQuestion,"ldentify two visual features of Source 1 that show that Samuel Adams was
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA1,A,Short-answer questions,1a,Q1a,2,SubQuestion,"ldentify two visual features of Source 1 that show that Samuel Adams was
 significant individual.",,5
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA1,A,Short-answer questions,1b,Q1b,2,SubQuestion,Identify two written features of Source 1 that show the key revolutionary idea of liberty.,,6
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA1,A,Short-answer questions,1c,Q1c,5,SubQuestion,"Using Source 2 and your own knowledge, explain how the ideas of Thomas Paine
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA1,A,Short-answer questions,1b,Q1b,2,SubQuestion,Identify two written features of Source 1 that show the key revolutionary idea of liberty.,,6
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA1,A,Short-answer questions,1c,Q1c,5,SubQuestion,"Using Source 2 and your own knowledge, explain how the ideas of Thomas Paine
 challenged the existing order.",,7
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA1,A,Short-answer questions,1d,Q1d,6,SubQuestion,"Using Source 3 and your own knowledge, analyse how the conditions experienced by
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA1,A,Short-answer questions,1d,Q1d,6,SubQuestion,"Using Source 3 and your own knowledge, analyse how the conditions experienced by
 Native Americans were changed by the revolution, up to 1789.",,8
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA1,A,Short-answer questions,1e,Q1e,10,SubQuestion,"Evaluate the extent to which the Bill of Rights enabled revolutionary leaders to
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA1,A,Short-answer questions,1e,Q1e,10,SubQuestion,"Evaluate the extent to which the Bill of Rights enabled revolutionary leaders to
 achieve their ideals. Use Source 4 and other evidence to support your response.",,9
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA2,A,Short-answer questions,2,Q2,25,Question,"The French Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA2,A,Short-answer questions,2,Q2,25,Question,"The French Revolution
 Refer to pages 5-7 in the Sources Book when responding to this question.",,10
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA2,A,Short-answer questions,2a,Q2a,2,SubQuestion,"Identify two visual features of Source 5 that show the inequality between the Three
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA2,A,Short-answer questions,2a,Q2a,2,SubQuestion,"Identify two visual features of Source 5 that show the inequality between the Three
 Estates.",,11
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA2,A,Short-answer questions,2b,Q2b,2,SubQuestion,"Identify two written features of Source 5 that show hardships experienced by
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA2,A,Short-answer questions,2b,Q2b,2,SubQuestion,"Identify two written features of Source 5 that show hardships experienced by
 members of the Third Estate.",,12
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA2,A,Short-answer questions,2c,Q2c,5,SubQuestion,"Using Source 6 and your own knowledge, explain how the actions of Marie Antoinette
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA2,A,Short-answer questions,2c,Q2c,5,SubQuestion,"Using Source 6 and your own knowledge, explain how the actions of Marie Antoinette
 weakened support for the monarchy before 1789.",,13
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA2,A,Short-answer questions,2d,Q2d,6,SubQuestion,"Using Source 7 and your own knowledge, analyse how the power of the monarchy
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA2,A,Short-answer questions,2d,Q2d,6,SubQuestion,"Using Source 7 and your own knowledge, analyse how the power of the monarchy
 changed between 1789 and 1791.",,14
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA2,A,Short-answer questions,2e,Q2e,10,SubQuestion,"Evaluate the extent to which Federalist and counter-revolutionary revolts challenged
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA2,A,Short-answer questions,2e,Q2e,10,SubQuestion,"Evaluate the extent to which Federalist and counter-revolutionary revolts challenged
 the survival of the new regime. Use Source 8 and other evidence to support your
 response.",,15
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA3,A,Short-answer questions,3,Q3,25,Question,"The Russian Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA3,A,Short-answer questions,3,Q3,25,Question,"The Russian Revolution
 Refer to pages 8-10 in the Sources Book when responding to this question.",,16
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA3,A,Short-answer questions,3a,Q3a,2,SubQuestion,"Identify two visual features of Source 9 that show that Tsar Nicholas Il feared
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA3,A,Short-answer questions,3a,Q3a,2,SubQuestion,"Identify two visual features of Source 9 that show that Tsar Nicholas Il feared
 opposition to his government.",,17
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA3,A,Short-answer questions,3b,Q3b,2,SubQuestion,"Identify two written features of Source 9 that show criticism of the government of Tsar
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA3,A,Short-answer questions,3b,Q3b,2,SubQuestion,"Identify two written features of Source 9 that show criticism of the government of Tsar
 Nicholas II.",,18
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA3,A,Short-answer questions,3c,Q3c,5,SubQuestion,"Using Source 10 and your own knowledge, explain how Tsarina Alexandra contributed
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA3,A,Short-answer questions,3c,Q3c,5,SubQuestion,"Using Source 10 and your own knowledge, explain how Tsarina Alexandra contributed
 to the outbreak of the February Revolution.",,19
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA3,A,Short-answer questions,3d,Q3d,6,SubQuestion,"Using Source 11 and your own knowledge, analyse how the lives of women were
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA3,A,Short-answer questions,3d,Q3d,6,SubQuestion,"Using Source 11 and your own knowledge, analyse how the lives of women were
 changed by the October Revolution, up to 1927.",,20
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA3,A,Short-answer questions,3e,Q3e,10,SubQuestion,"Evaluate the extent to which Lenin's leadership enabled the survival of the new
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA3,A,Short-answer questions,3e,Q3e,10,SubQuestion,"Evaluate the extent to which Lenin's leadership enabled the survival of the new
 regime, from 26 October 1917 to January 1924. Use Source 12 and other evidence to
 support your response.",,21
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA4,A,Short-answer questions,4,Q4,25,Question,"The Chinese Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA4,A,Short-answer questions,4,Q4,25,Question,"The Chinese Revolution
 Refer to pages 11-13 in the Sources Book when responding to this question.",,22
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA4,A,Short-answer questions,4a,Q4a,2,SubQuestion,"l|dentify two written features of Source 13 that demonstrate how Red Army soldiers
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA4,A,Short-answer questions,4a,Q4a,2,SubQuestion,"l|dentify two written features of Source 13 that demonstrate how Red Army soldiers
 were instructed to treat the people.",,23
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA4,A,Short-answer questions,4b,Q4b,2,SubQuestion,"Identify two visual features of Source 13 that show how Red Army soldiers could
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA4,A,Short-answer questions,4b,Q4b,2,SubQuestion,"Identify two visual features of Source 13 that show how Red Army soldiers could
 strengthen their connection with the people.",,24
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA4,A,Short-answer questions,4c,Q4c,5,SubQuestion,"Using Source 14 and your own knowledge, explain why the Guomindang
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA4,A,Short-answer questions,4c,Q4c,5,SubQuestion,"Using Source 14 and your own knowledge, explain why the Guomindang
 (Kuomintang) lost the Civil War.",,25
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA4,A,Short-answer questions,4d,Q4d,6,SubQuestion,"Using Source 15 and your own knowledge, analyse how the lives of peasants were
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA4,A,Short-answer questions,4d,Q4d,6,SubQuestion,"Using Source 15 and your own knowledge, analyse how the lives of peasants were
 changed by the revolution, up to 1957.",,26
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERA,VCEHR24EQA4,A,Short-answer questions,4e,Q4e,10,SubQuestion,"Evaluate the consequences of the Great Proletarian Cultural Revolution on Chinese
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERA,VCEHRV24EQA4,A,Short-answer questions,4e,Q4e,10,SubQuestion,"Evaluate the consequences of the Great Proletarian Cultural Revolution on Chinese
 society. Use Source 16 and other evidence to support your response.",,27
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,,B,Essay,,,20,Header,Section B: Essay,,1
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,,B,Essay,,,,SubHeader,Instructions,,2
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,,B,Essay,,,,Instruction,Write your response in English.,,3
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,VCEHR24EQB1,B,Essay,1,Q1,20,Question,"The American Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERB,,B,Essay,,,20,Header,Section B: Essay,,1
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERB,,B,Essay,,,,SubHeader,Instructions,,2
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERB,,B,Essay,,,,Instruction,Write your response in English.,,3
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERB,VCEHRV24EQB1,B,Essay,1,Q1,20,Question,"The American Revolution
 'It was the contribution of popular movements that made the outbreak of revolution
 certain to happen.'
 To what extent do you agree? Use evidence to support your response.",,4
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,VCEHR24EQB2,B,Essay,2,Q2,20,Question,"The French Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERB,VCEHRV24EQB2,B,Essay,2,Q2,20,Question,"The French Revolution
 'The spread of Enlightenment ideas made the outbreak of revolution certain to happen.'
 To what extent do you agree? Use evidence to support your response.",,5
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,VCEHR24EQB3,B,Essay,3,Q3,20,Question,"b
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERB,VCEHRV24EQB3,B,Essay,3,Q3,20,Question,"b
 The Russian Revolution
 'The influence of liberal ideas and reforms in Tsarist Russia made the outbreak of
 revolution certain to happen.'
 To what extent do you agree? Use evidence to support your response.",,6
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2024,"VCEHRU3AS1,VCEHRU3AS2",VCEHR24ERB,VCEHR24EQB4,B,Essay,4,Q4,20,Question,"The Chinese Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2024,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV24ERB,VCEHRV24EQB4,B,Essay,4,Q4,20,Question,"The Chinese Revolution
 'The influence of Mao Zedong Thought (Maoism) made the outbreak of revolution
 certain to happen.'
 To what extent do you agree? Use evidence to support your response.
@@ -413,65 +413,65 @@ Penguin Books, London, 2013, pp. 451 and 457
 ""donned - wore
 End of Sources Book
 Victorian Curriculum and Assessment Authority 2024 .",,7
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA1,A,Short-answer questions,1,Q1,25,Question,"The American Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,,A,Short-answer questions,,,50,Header,Section A: Short-answer questions,,1
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,,A,Short-answer questions,,,,SubHeader,Instructions,,2
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,,A,Short-answer questions,,,,Instruction,Write your responses in English.,,3
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA1,A,Short-answer questions,1,Q1,25,Question,"The American Revolution
 Refer to pages 2-4 in the Sources Book when responding to this question.",,4
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA1,A,Short-answer questions,1a,Q1a,4,SubQuestion,"Using Source 1, outline the ideas about Natural Rights expressed by the members of
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA1,A,Short-answer questions,1a,Q1a,4,SubQuestion,"Using Source 1, outline the ideas about Natural Rights expressed by the members of
 the Massachusetts Assembly. ",,5
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA1,A,Short-answer questions,1b,Q1b,10,SubQuestion,"Evaluate the contribution of the Coercive Acts to the outbreak of revolution by 1776.
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA1,A,Short-answer questions,1b,Q1b,10,SubQuestion,"Evaluate the contribution of the Coercive Acts to the outbreak of revolution by 1776.
 Use Source 2 and other evidence to support your response. ",,6
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA1,A,Short-answer questions,1c,Q1c,6,SubQuestion,"Using Source 3 and your own knowledge, analyse the challenges faced by Loyalists
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA1,A,Short-answer questions,1c,Q1c,6,SubQuestion,"Using Source 3 and your own knowledge, analyse the challenges faced by Loyalists
 during and after the War of Independence. ",,7
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA1,A,Short-answer questions,1d,Q1d,5,SubQuestion,"Using Source 4 and your own knowledge, explain the influence George Washington
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA1,A,Short-answer questions,1d,Q1d,5,SubQuestion,"Using Source 4 and your own knowledge, explain the influence George Washington
 had on society from 1776 to 1789.",,8
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA2,A,Short-answer questions,2,Q2,25,Question,"The French Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA2,A,Short-answer questions,2,Q2,25,Question,"The French Revolution
 Refer to pages 5-7 in the Sources Book when responding to this question.",,9
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA2,A,Short-answer questions,2a,Q2a,4,SubQuestion,"Using Source 5, outline Emmanuel Joseph Sieyès's ideas about the Third Estate.",,10
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA2,A,Short-answer questions,2b,Q2b,10,SubQuestion,"Evaluate the extent to which the events of the Estates-General contributed to the
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA2,A,Short-answer questions,2a,Q2a,4,SubQuestion,"Using Source 5, outline Emmanuel Joseph Sieyès's ideas about the Third Estate.",,10
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA2,A,Short-answer questions,2b,Q2b,10,SubQuestion,"Evaluate the extent to which the events of the Estates-General contributed to the
 outbreak of the revolution. Use Source 6 and other evidence to support your response.",,11
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA2,A,Short-answer questions,2c,Q2c,6,SubQuestion,"Using Source 7 and your own knowledge, analyse how economic challenges had an
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA2,A,Short-answer questions,2c,Q2c,6,SubQuestion,"Using Source 7 and your own knowledge, analyse how economic challenges had an
 impact on the consolidation of the new regime.",,12
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA2,A,Short-answer questions,2d,Q2d,5,SubQuestion,"Using Source 8 and your own knowledge, explain how the rise of the sans culottes led
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA2,A,Short-answer questions,2d,Q2d,5,SubQuestion,"Using Source 8 and your own knowledge, explain how the rise of the sans culottes led
 to challenges in France up to 1793. ",,13
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA3,A,Short-answer questions,3,Q3,25,Question,"The Russian Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA3,A,Short-answer questions,3,Q3,25,Question,"The Russian Revolution
 Refer to pages 8-10 in the Sources Book when responding to this question.",,14
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA3,A,Short-answer questions,3a,Q3a,4,SubQuestion,"Using Source 9, outline how the Fundamental Laws aimed to retain the powers and
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA3,A,Short-answer questions,3a,Q3a,4,SubQuestion,"Using Source 9, outline how the Fundamental Laws aimed to retain the powers and
 authority of Tsar Nicholas II.",,15
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA3,A,Short-answer questions,3b,Q3b,10,SubQuestion,"Evaluate the role played by Alexander Kerensky in the Bolshevik seizure of power in
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA3,A,Short-answer questions,3b,Q3b,10,SubQuestion,"Evaluate the role played by Alexander Kerensky in the Bolshevik seizure of power in
 October 1917. Use Source 10 and other evidence to support your response.",,16
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA3,A,Short-answer questions,3c,Q3c,6,SubQuestion,"Using Source 11 and your own knowledge, analyse why the policy of War
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA3,A,Short-answer questions,3c,Q3c,6,SubQuestion,"Using Source 11 and your own knowledge, analyse why the policy of War
 Communism was introduced by the Bolsheviks in 1918.",,17
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA3,A,Short-answer questions,3d,Q3d,5,SubQuestion,"Using Source 12 and your own knowledge, explain how changes in education
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA3,A,Short-answer questions,3d,Q3d,5,SubQuestion,"Using Source 12 and your own knowledge, explain how changes in education
 introduced by the Bolsheviks altered the nature of Russian society.",,18
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA4,A,Short-answer questions,4,Q4,25,Question,"The Chinese Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA4,A,Short-answer questions,4,Q4,25,Question,"The Chinese Revolution
 Refer to pages 11-13 in the Sources Book when responding to this question.",,19
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA4,A,Short-answer questions,4a,Q4a,4,SubQuestion,"Using Source 13, outline the reasons given for the limited success of the New Life
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA4,A,Short-answer questions,4a,Q4a,4,SubQuestion,"Using Source 13, outline the reasons given for the limited success of the New Life
 Movement.",,20
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA4,A,Short-answer questions,4b,Q4b,10,SubQuestion,"Evaluate how the Chinese Communists used the Sino-Japanese War to strengthen
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA4,A,Short-answer questions,4b,Q4b,10,SubQuestion,"Evaluate how the Chinese Communists used the Sino-Japanese War to strengthen
 their position against the Guomindang (Kuomintang). Use Source 14 and other
 evidence to support your response.",,21
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA4,A,Short-answer questions,4c,Q4c,6,SubQuestion,"Using Source 15 and your own knowledge, analyse why a new approach was taken
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA4,A,Short-answer questions,4c,Q4c,6,SubQuestion,"Using Source 15 and your own knowledge, analyse why a new approach was taken
 with the Great Leap Forward in 1958.",,22
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERA,VCEHR25EQA4,A,Short-answer questions,4d,Q4d,5,SubQuestion,"Using Source 16 and your own knowledge, explain the role played by Jiang Qing
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERA,VCEHRV25EQA4,A,Short-answer questions,4d,Q4d,5,SubQuestion,"Using Source 16 and your own knowledge, explain the role played by Jiang Qing
 (Chiang Ch'ing) in helping shape the Great Proletarian Cultural Revolution.",,23
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,,B,Essay,,,20,Header,Section B: Essay,,1
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,,B,Essay,,,,SubHeader,Instructions,,2
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,,B,Essay,,,,Instruction,Write your response in English.,,3
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,VCEHR25EQB1,B,Essay,1,Q1,20,Question,"The American Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERB,,B,Essay,,,20,Header,Section B: Essay,,1
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERB,,B,Essay,,,,SubHeader,Instructions,,2
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERB,,B,Essay,,,,Instruction,Write your response in English.,,3
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERB,VCEHRV25EQB1,B,Essay,1,Q1,20,Question,"The American Revolution
 'The wide-reaching political changes made between 1776 and 1789 meant revolutionary ideals
 were significantly compromised.'
 To what extent do you agree? Use evidence to support your response.",,4
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,VCEHR25EQB2,B,Essay,2,Q2,20,Question,"The French Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERB,VCEHRV25EQB2,B,Essay,2,Q2,20,Question,"The French Revolution
 'The new regime consolidated power by enacting change that mostly reflected the original
 ideals of 1789.'
 To what extent do you agree? Use evidence to support your response.",,5
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,VCEHR25EQB3,B,Essay,3,Q3,20,Question,"The Russian Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERB,VCEHRV25EQB3,B,Essay,3,Q3,20,Question,"The Russian Revolution
 'When faced with challenges to their authority after October 1917, the Bolsheviks always
 responded with ruthless violence.'
 To what extent do you agree? Use evidence to support your response.",,6
-Humanities,Revolutions,,,Year 12,Final Exam,Exam Questions,2025,"VCEHRU3AS1,VCEHRU3AS2",VCEHR25ERB,VCEHR25EQB4,B,Essay,4,Q4,20,Question,"The Chinese Revolution
+Humanities,History,VCEHRV,Revolutions,Year 12,Final Exam,Exam Questions,2025,"VCEHRV34AS1,VCEHRV34AS2",VCEHRV25ERB,VCEHRV25EQB4,B,Essay,4,Q4,20,Question,"The Chinese Revolution
 1949 until his death in 1976, the policies and actions of Mao Zedong (Mao Tse-tung)
 were simply a means of keeping himself in power.'
 To what extent do you agree? Use evidence to support your response.
