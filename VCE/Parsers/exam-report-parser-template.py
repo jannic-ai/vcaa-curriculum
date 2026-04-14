@@ -401,11 +401,30 @@ def _strategy_base(cfg: Dict, section_key: str, year: str) -> Dict:
     }
 
 
+def _parent_question_num(label: str) -> str:
+    """Strip subpart letters/roman numerals from a question label.
+
+    '1a' -> '1', '2bii' -> '2', '10' -> '10'. EQCode is keyed by parent
+    question across both exam-report-strategies and exam-questions so the
+    Neo4j strategy-links Cypher can join them.
+    """
+    m = re.match(r'^(\d+)', str(label))
+    return m.group(1) if m else str(label)
+
+
+def _eq_code(subject_code: str, year: str, section_key: str, q_label: str) -> str:
+    """Mirror Accounting's format: VCE{code}{yy}EQ{section}{parent_qnum}."""
+    yy = year[-2:] if year and len(year) >= 2 else ''
+    parent = _parent_question_num(q_label)
+    return f"VCE{subject_code}{yy}EQ{section_key}{parent}"
+
+
 def build_strategy_rows(doc, cfg: Dict, section_key: str, section_name: str,
                         start_idx: int, end_idx: int, year: str) -> List[Dict]:
     sec_cfg = cfg.get('exam_sections', {}).get(section_key, {})
     section_type = sec_cfg.get('section_type', 'written')
     er_code = sec_cfg.get('exam_report_code', '')
+    subject_code = cfg.get('subject_code', '')
     base = _strategy_base(cfg, section_key, year)
     rows: List[Dict] = []
 
@@ -419,7 +438,7 @@ def build_strategy_rows(doc, cfg: Dict, section_key: str, section_name: str,
             seq_counter += 1
             row = dict(base)
             row.update({
-                'EQCode': f"{er_code}Q{mc['q']}",
+                'EQCode': _eq_code(subject_code, year, section_key, mc['q']),
                 'SectionCode': er_code,
                 'StrategyType': 'ExaminerCommentary',
                 'ExamQuestion': f"Question {mc['q']}",
@@ -470,7 +489,7 @@ def build_strategy_rows(doc, cfg: Dict, section_key: str, section_name: str,
             joined = '\n'.join(paras_chunk)
             row = dict(base)
             row.update({
-                'EQCode': f"{er_code}Q{q_label}",
+                'EQCode': _eq_code(subject_code, year, section_key, q_label),
                 'SectionCode': er_code,
                 'StrategyType': label,
                 'ExamQuestion': f"Question {q_label}",
