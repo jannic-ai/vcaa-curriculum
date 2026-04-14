@@ -102,16 +102,27 @@ def load_config(config_path: str) -> Dict:
     exam_pdfs = config.get('documents', {}).get('exam_pdfs', {})
     exam_schedule = []  # list of (year, stream_code_or_None, pdf_path)
 
+    def _filename_from(value: str) -> str:
+        """Accept either a bare filename or a GitHub URL; return just the basename.
+
+        The pipeline worker downloads URL-valued entries into docs_dir before
+        invoking us, so we only ever need the filename relative to that dir.
+        """
+        from urllib.parse import unquote
+        if value.startswith(("http://", "https://")):
+            return unquote(value.rsplit("/", 1)[-1])
+        return value
+
     if exam_pdfs:
         for year in sorted(exam_pdfs.keys()):
             value = exam_pdfs[year]
             if isinstance(value, str):
-                # Single-stream: value is a filename
-                exam_schedule.append((year, None, str(docs_dir / value)))
+                # Single-stream: value is a filename or URL
+                exam_schedule.append((year, None, str(docs_dir / _filename_from(value))))
             elif isinstance(value, dict):
-                # Multi-stream: value is { stream_code: filename }
+                # Multi-stream: value is { stream_code: filename|url }
                 for stream_code in sorted(value.keys()):
-                    exam_schedule.append((year, stream_code, str(docs_dir / value[stream_code])))
+                    exam_schedule.append((year, stream_code, str(docs_dir / _filename_from(value[stream_code]))))
     else:
         # Tier 3: Auto-detect *-exam.pdf in documentation folder
         streams_config = config.get('streams', {})
