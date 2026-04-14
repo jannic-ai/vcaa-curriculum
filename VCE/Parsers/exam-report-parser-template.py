@@ -482,6 +482,14 @@ def build_strategy_rows(doc, cfg: Dict, section_key: str, section_name: str,
 # CSV WRITE
 # ============================================================================
 
+FRAMEWORK_FIELDNAMES = [
+    'SubjectArea', 'Subject', 'SubjectStreamCode', 'SubjectStreamName',
+    'Band', 'AssessmentType', 'AssessmentInformationDetails', 'AssessmentYears',
+    'UnitASCode', 'EQCode', 'EQCriteriaCode', 'Section',
+    'EQCriteriaSectionHeader', 'EQCriteriaType', 'EQCriteriaDescription', 'Sequence',
+]
+
+
 OVERVIEW_FIELDNAMES = [
     'SubjectArea', 'Subject', 'SubjectStreamCode', 'SubjectStreamName',
     'Band', 'AssessmentType', 'AssessmentInformationDetails', 'AssessmentYears',
@@ -591,14 +599,42 @@ def main():
             print(f"    Section {section_key} ({section_name}): "
                   f"{len(strat_rows)} strategy rows")
 
+    # Section framework — one row per configured exam section. Downstream
+    # Neo4j patterns create ExamSection nodes from this CSV and link every
+    # other exam CSV against them, so the file must exist even though we
+    # don't (yet) extract EQ-criteria details per section.
+    framework_rows: List[Dict] = []
+    for seq, (section_key, section_cfg) in enumerate(configured_sections.items(), start=1):
+        framework_rows.append({
+            'SubjectArea': cfg.get('subject_area', ''),
+            'Subject': cfg.get('subject', ''),
+            'SubjectStreamCode': '',
+            'SubjectStreamName': '',
+            'Band': 'Year 12',
+            'AssessmentType': 'Final Exam',
+            'AssessmentInformationDetails': '',
+            'AssessmentYears': '',
+            'UnitASCode': section_cfg.get('unit_as_code', ''),
+            'EQCode': '',
+            'EQCriteriaCode': '',
+            'Section': section_key,
+            'EQCriteriaSectionHeader': section_cfg.get('name', section_key),
+            'EQCriteriaType': '',
+            'EQCriteriaDescription': '',
+            'Sequence': seq,
+        })
+
     overview_path = output_dir / f'vcaa_vce_sd_{subject_slug}_exam_report_overview.csv'
     strategies_path = output_dir / f'vcaa_vce_sd_{subject_slug}_exam_report_strategies.csv'
+    framework_path = output_dir / f'vcaa_vce_sd_{subject_slug}_final-exam-section_framework.csv'
 
     write_rows(overview_path, OVERVIEW_FIELDNAMES, all_overview)
     write_rows(strategies_path, STRATEGY_FIELDNAMES, all_strategies)
+    write_rows(framework_path, FRAMEWORK_FIELDNAMES, framework_rows)
 
     print(f"\n  Wrote {overview_path} ({len(all_overview)} rows)")
     print(f"  Wrote {strategies_path} ({len(all_strategies)} rows)")
+    print(f"  Wrote {framework_path} ({len(framework_rows)} rows)")
     print('\n' + '=' * 70)
     print('COMPLETE')
     print('=' * 70)
