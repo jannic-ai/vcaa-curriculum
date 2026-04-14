@@ -125,25 +125,34 @@ def clean(text: str) -> str:
 # ============================================================================
 
 # First match wins. Ordered from most-specific to most-generic.
+# Patterns tuned against VCAA PE + Accounting exam reports. Covers the most
+# common intro phrasings examiners use to signal enhanced/limited commentary.
 _STRATEGY_RULES: List[Tuple[re.Pattern, str]] = [
-    (re.compile(r'\bhigher[- ]?scoring\b', re.I), 'EnhancedStrategies'),
-    (re.compile(r'\bstronger response', re.I), 'EnhancedStrategies'),
-    (re.compile(r'\bbetter response', re.I), 'EnhancedStrategies'),
-    (re.compile(r'\bsuccessful response', re.I), 'EnhancedStrategies'),
-    (re.compile(r'\bstudents who (scored|did) well', re.I), 'EnhancedStrategies'),
-    (re.compile(r'\bhigh[- ]?scoring students', re.I), 'EnhancedStrategies'),
-
-    (re.compile(r'\bcommon errors?\b', re.I), 'LimitedStrategies'),
-    (re.compile(r'\blower[- ]?scoring\b', re.I), 'LimitedStrategies'),
-    (re.compile(r'\bweaker response', re.I), 'LimitedStrategies'),
-    (re.compile(r'\bcommon mistakes?\b', re.I), 'LimitedStrategies'),
-    (re.compile(r'\bstudents (?:struggled|found .* difficult|often|incorrectly|did not)', re.I), 'LimitedStrategies'),
-    (re.compile(r'\blimited response', re.I), 'LimitedStrategies'),
-
-    (re.compile(r'\bfollowing is an example\b', re.I), 'StudentResponse'),
-    (re.compile(r'\bsample (student )?response\b', re.I), 'StudentResponse'),
+    # StudentResponse markers — check FIRST so "example of a high-scoring
+    # response" goes to StudentResponse, not EnhancedStrategies.
+    (re.compile(r'\bfollowing is (?:an |a )?(?:example|sample)', re.I), 'StudentResponse'),
+    (re.compile(r'\bsample (?:student )?response\b', re.I), 'StudentResponse'),
     (re.compile(r'\bexample response\b', re.I), 'StudentResponse'),
-    (re.compile(r'\bexample of a \w+ response', re.I), 'StudentResponse'),
+    (re.compile(r'\bexample of (?:an? |the )?\w+(?:\s+\w+)?\s+response', re.I), 'StudentResponse'),
+
+    # EnhancedStrategies
+    (re.compile(r'\bresponses? that scored (?:highly|well)', re.I), 'EnhancedStrategies'),
+    (re.compile(r'\bhigher?[- ]?scoring\b', re.I), 'EnhancedStrategies'),
+    (re.compile(r'\bhigh[- ]?scoring (?:responses?|students?)', re.I), 'EnhancedStrategies'),
+    (re.compile(r'\bstronger responses?\b', re.I), 'EnhancedStrategies'),
+    (re.compile(r'\bbetter responses?\b', re.I), 'EnhancedStrategies'),
+    (re.compile(r'\bsuccessful responses?\b', re.I), 'EnhancedStrategies'),
+    (re.compile(r'\bstudents who (?:scored|did) well', re.I), 'EnhancedStrategies'),
+    (re.compile(r'\bto be awarded full marks?\b', re.I), 'EnhancedStrategies'),
+
+    # LimitedStrategies
+    (re.compile(r'\bcommon (?:errors?|issues?|mistakes?|problems?)\b', re.I), 'LimitedStrategies'),
+    (re.compile(r'\blower[- ]?scoring\b', re.I), 'LimitedStrategies'),
+    (re.compile(r'\bweaker responses?\b', re.I), 'LimitedStrategies'),
+    (re.compile(r'\blimited responses?\b', re.I), 'LimitedStrategies'),
+    (re.compile(r'\bmany (?:responses|students) (?:incorrectly|failed|did not)', re.I), 'LimitedStrategies'),
+    (re.compile(r'\bstudents (?:struggled|often|incorrectly|did not|failed to)\b', re.I), 'LimitedStrategies'),
+    (re.compile(r'\bstudents found .{0,40}difficult\b', re.I), 'LimitedStrategies'),
 ]
 
 
@@ -329,11 +338,19 @@ def _is_question_heading(text: str, level: int) -> Optional[str]:
     return re.sub(r'\s+', '', m.group(1)).lower()
 
 
-def _extract_written_questions(doc, start_idx: int, end_idx: int) -> List[Tuple[str, List[str]]]:
+def _is_bullet_style(style_name: Optional[str]) -> bool:
+    if not style_name:
+        return False
+    s = style_name.lower()
+    return 'bullet' in s or 'list' in s
+
+
+def _extract_written_questions(doc, start_idx: int, end_idx: int) -> List[Tuple[str, List[Tuple[str, bool]]]]:
+    """Return [(question_label, [(text, is_bullet), ...])] for the range."""
     paras = doc.paragraphs
-    result: List[Tuple[str, List[str]]] = []
+    result: List[Tuple[str, List[Tuple[str, bool]]]] = []
     current_label: Optional[str] = None
-    current_body: List[str] = []
+    current_body: List[Tuple[str, bool]] = []
 
     def _flush():
         if current_label is not None:
@@ -359,7 +376,7 @@ def _extract_written_questions(doc, start_idx: int, end_idx: int) -> List[Tuple[
             current_body = []
             continue
         if is_body_style(p.style.name) or level >= 3:
-            current_body.append(text)
+            current_body.append((text, _is_bullet_style(p.style.name)))
     _flush()
     return result
 
@@ -409,11 +426,26 @@ def build_strategy_rows(doc, cfg: Dict, section_key: str, section_name: str,
         return rows
 
     for q_label, body in _extract_written_questions(doc, start_idx, end_idx):
-        # Group consecutive paragraphs with the same classification into one
-        # row so we emit logical chunks rather than one row per sentence.
+        # Classify each paragraph, then group consecutive same-label chunks.
+        # Special rule: when a colon-terminated paragraph ("Common issues
+        # included:") is followed by bullets, the bullets inherit the intro's
+        # classification until a non-bullet paragraph breaks the run.
+        labelled: List[Tuple[str, str]] = []
+        inherited: Optional[str] = None
+        for text, is_bullet in body:
+            own_label = classify(text)
+            if own_label != 'ExaminerCommentary':
+                labelled.append((own_label, text))
+                inherited = own_label if text.rstrip().endswith(':') else None
+            elif inherited and is_bullet:
+                labelled.append((inherited, text))
+            else:
+                labelled.append((own_label, text))
+                if not is_bullet:
+                    inherited = None
+
         grouped: List[Tuple[str, List[str]]] = []
-        for para in body:
-            label = classify(para)
+        for label, para in labelled:
             if grouped and grouped[-1][0] == label:
                 grouped[-1][1].append(para)
             else:
