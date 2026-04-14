@@ -88,9 +88,15 @@ def load_config(config_path: str) -> Dict:
     subject_dir = vce_dir / config['parent_folder']
     docs_dir = subject_dir / "Documentation"
 
+    # ETL_OUTPUT_DIR env var (set by the pipeline worker) routes CSVs to the
+    # shared <root>/<parent_folder>/CSV/ folder so they sit alongside the
+    # curriculum CSVs instead of a separate Assessment subtree.
+    etl_output_override = os.environ.get('ETL_OUTPUT_DIR', '')
+    _default_output = etl_output_override or str(subject_dir / "CSV")
+
     # Tier 0: Pre-set exam_schedule bypasses all path resolution (used by parser_runner)
     if 'exam_schedule' in config:
-        config.setdefault('output_dir', str(subject_dir / "graphRAG_csv" / "Assessment" / "Final Exam" / "Exam"))
+        config.setdefault('output_dir', _default_output)
         config.setdefault('name', config.get('subject', 'UNKNOWN'))
         config.setdefault('subject_slug', config.get('subject', '').lower().replace(' ', '_'))
         return config
@@ -157,7 +163,7 @@ def load_config(config_path: str) -> Dict:
                 print(f"  Auto-detected exam PDFs: {[(y, sc) for y, sc, _ in exam_schedule]}")
 
     config['exam_schedule'] = exam_schedule
-    config['output_dir'] = str(subject_dir / "graphRAG_csv" / "Assessment" / "Final Exam" / "Exam")
+    config['output_dir'] = _default_output
 
     config.setdefault('name', config.get('subject', 'UNKNOWN'))
     config.setdefault('subject_slug', config.get('subject', '').lower().replace(' ', '_'))
