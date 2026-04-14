@@ -1,0 +1,360 @@
+SubjectArea,Subject,SubjectStreamCode,SubjectStreamName,Band,AssessmentType,AssessmentInformationDetails,AssessmentYears,UnitASCode,ExamReportCode,EQCode,SectionCode,SectionName,QuestionNumber,QuestionLabel,Marks,ContentType,Content,StimulusSource,Sequence
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,,A,Multiple-choice questions,,,20,Header,Section A: Multiple-choice questions,,1
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,,A,Multiple-choice questions,,,,SubHeader,Instructions,,2
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,,A,Multiple-choice questions,,,,Instruction,Answer all questions in pencil on your Multiple-Choice Answer Sheet.,,3
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,,A,Multiple-choice questions,,,,Instruction,Choose the response that is correct or that best answers the question.,,4
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,,A,Multiple-choice questions,,,,Instruction,A correct answer scores 1; an incorrect answer scores 0.,,5
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,,A,Multiple-choice questions,,,,Instruction,Marks will not be deducted for incorrect answers.,,6
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,,A,Multiple-choice questions,,,,Instruction,No marks will be given if more than one answer is completed for any question.,,7
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA1,A,Multiple-choice questions,1,Q1,1,MultipleChoice,"In the formula Q = SV × HR, Q represents
+A. stroke volume. | B. heart rate. | C. blood pressure.
+cardiac output.",,8
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA2,A,Multiple-choice questions,2,Q2,1,MultipleChoice,"A coach who plays recorded crowd noises during practice to improve performance is implementing
+A. a task constraint and simulation. | B. a task constraint and stress inoculation training. | C. an environmental constraint and stress inoculation training.
+an environmental constraint and simulation.",,9
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA3,A,Multiple-choice questions,3,Q3,1,MultipleChoice,"During exercise, the percentage of fats being used as an energy source
+A. decreases as the exercise intensity increases. | B. decreases as the exercise intensity decreases. | C. remains constant as the exercise intensity decreases.
+increases as the exercise intensity increases.",,10
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA4,A,Multiple-choice questions,4,Q4,1,MultipleChoice,"Ten days before an artistic gymnastics championship, a gymnast tapers their training program for
+their events.
+What is the most effective way for them to do this?
+A. reducing training volume while increasing intensity | B. reducing training volume and maintaining intensity | C. increasing training volume while reducing intensity
+increasing training volume and maintaining intensity",,11
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA5,A,Multiple-choice questions,5,Q5,1,MultipleChoice,"The purpose of a pre-participation health screening is to
+A. identify the strengths and weaknesses of an athlete. | B. provide motivation for an athlete. | C. identify any health risks for an athlete.
+provide information to an athlete about how the test is performed.",,12
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA6,A,Multiple-choice questions,6,Q6,1,MultipleChoice,"The table below shows a typical set of results from a fitness test completed by world-ranked swimmers.
+Swim number
+200 m (min:sec)
+Lactate (mM)
+Source: Adapted from D Pyne, H Lee and K Swanwick, 'Monitoring the lactate threshold in
+world-ranked swimmers', Medicine & Science in Sports & Exercise, 33(2), February 2001,
+p. 293, <https://doi.org/10.1097/00005768-200102000-00019>
+The best explanation for the increase in swimming speed and increase in lactate levels during swim
+number 7 is
+A. a delayed lactate inflection point (LIP). | B. an increased contribution of the anaerobic glycolysis system to overall ATP production. | C. an increased contribution of the aerobic system to overall ATP production.
+an increased VO2 max.",,13
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA7,A,Multiple-choice questions,7,Q7,1,MultipleChoice,"Which of the following chronic adaptations would most likely lead to a delayed LIP?
+A. increased lactate tolerance | B. increased stroke volume | C. increased size and number of mitochondria
+increased myoglobin",,14
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA8,A,Multiple-choice questions,8,Q8,1,MultipleChoice,"During an ice hockey match, recorded data revealed that a player covered a total distance
+of 7.6 km. This included playing 25% of their game time at intensities above 90% max HR
+between rest intervals such as sitting on the bench and game stoppages.
+Based on this data, which training method would be most effective in improving the
+player's ice hockey performance?
+A. resistance training | B. long-interval training | C. continuous training
+high-intensity interval training",,15
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA9,A,Multiple-choice questions,9,Q9,1,MultipleChoice,"Which one of the following sporting contexts is the best example of knowledge of
+performance feedback?
+A. a soccer player seeing the ball go into the goal | B. a cricket player hearing the ball connect with their bat | C. a coach telling a football player to fully extend their leg when kicking for goal
+a tennis player feeling the vibration made by the racquet in their hand when they strike the ball",,16
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA10,A,Multiple-choice questions,10,Q10,1,MultipleChoice,"A netball team completed a fitness testing battery before and after an eight-week pre-season training
+program. The team completed the pre- and post-testing in the same order, at the same time of day and
+with the same warm-up.
+This ensures the tests are
+A. valid. | B. accurate. | C. reliable.
+physiologically appropriate.",,17
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA11,A,Multiple-choice questions,11,Q11,1,MultipleChoice,"Which one of the following is a sign of overtraining?
+A. decreased resting heart rate | B. persistent fatigue and reduced performance | C. increased appetite
+reduced rate of perceived exertion (RPE) during training",,18
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA12,A,Multiple-choice questions,12,Q12,1,MultipleChoice,"A tennis player is practising the ball toss separately to other components of the serving skill.
+Which type of practice is this an example of?
+A. whole | B. part | C. distributed
+massed",,19
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA13,A,Multiple-choice questions,13,Q13,1,MultipleChoice,"In a physical education lesson, the teacher reduces the playing area for a game of European handball.
+This is an example of
+A. task constraint. | B. individual constraint. | C. environmental constraint.
+direct coaching.",,20
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA14,A,Multiple-choice questions,14,Q14,1,MultipleChoice,"Oxygen consumption during and after exercise
+VO2 (L/min)
+time (minutes)
+Which of the labelled sections in the graph above indicate oxygen deficit and aerobic energy
+production?
+Oxygen deficit
+Aerobic energy production",,21
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA15,A,Multiple-choice questions,15,Q15,1,MultipleChoice,"level of fitness
+training program duration
+Fitness level over duration of the training program
+Which one of the following training principles does the area marked 'X' on the graph above most likely
+represent?
+A. progression | B. detraining | C. overtraining
+diminishing returns",,22
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA16,A,Multiple-choice questions,16,Q16,1,MultipleChoice,"Which one of the following fuels produces the smallest yield for ATP resynthesis?
+A. creatine phosphate (CP) | B. carbohydrates | C. fats
+protein",,23
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA17,A,Multiple-choice questions,17,Q17,1,MultipleChoice,"When sprinters are in their starting positions, they lean forward to improve their performance by
+A. lowering their centre of gravity. | B. increasing the size of their base of support. | C. shifting their line of gravity to the front of their base of support.
+increasing their stability.
+End of Section",,24
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA18,A,Multiple-choice questions,18,Q18,1,MultipleChoice,"Likely performance outcomes associated with two different practice variabilities
+good
+poor
+acquisition
+practice variabilities
+retention
+performance
+Line
+Line
+Source: Adapted from WF Battig, 'The Flexibility of Human Memory', in LS Cermak & FIM Craik (eds.),
+Levels of Processing in Human Memory, Hillsdale, NJ: Lawrence Erlbaum Associates, 1979, pp 23-44,
+<https://firstprinciplesofmovement.com/motor-learning-skill-acquisition/>
+Which practice variability is associated with performance outcomes best represented by line A?
+A. blocked | B. random | C. massed
+distributed",,25
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA19,A,Multiple-choice questions,19,Q19,1,MultipleChoice,"From a physiological perspective, which fitness test is most appropriate to measure the anaerobic
+capacity of a track sprint cyclist?
+A. SEMO Agility Test | B. VO2 max test | C. 30-second Wingate test
+vertical jump test",,26
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERA,VCEPE25EQA20,A,Multiple-choice questions,20,Q20,1,MultipleChoice,"To successfully complete a pass over a tall defender, a netball player will
+A. decrease the angle of release and increase the height of release of the ball. | B. decrease the angle of release and decrease the height of release of the ball. | C. increase the angle of release and increase the height of release of the ball.
+increase the angle of release and decrease the height of release of the ball.",,27
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,,B,Written responses,,,90,Header,Section B: Written responses,,1
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,,B,Written responses,,,,SubHeader,Instructions,,2
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,,B,Written responses,,,,Instruction,Answer all questions in the spaces provided.,,3
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,,B,Written responses,,,,Instruction,Write your responses in English.,,4
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB1,B,Written responses,1,Q1,12,Question,"Curtis McGrath, an Australian paracanoeist, participated in the men's kayak single
+200 m KL2 event at the Paris 2024 Summer Paralympic Games. He placed first with
+time of 41.708 seconds.",,5
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB1,B,Written responses,1a,Q1a,1,SubQuestion,"At the end of the event, Curtis's heart rate and oxygen consumption would have
+remained elevated as part of the process of returning the body to pre-exercise level.
+Name the term used to describe this process.",,6
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB1,B,Written responses,1b,Q1b,1,SubQuestion,"Outline one activity that could be part of an appropriate cool-down for Curtis after his
+qualifying heat.",,7
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB1,B,Written responses,1c,Q1c,3,SubQuestion,"Predict whether Curtis's oxygen consumption would have reached a steady state
+during his kayak event. Justify your response. ",,8
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB1,B,Written responses,1d,Q1d,3,SubQuestion,"Upper-body exercises as part of a resistance training program could help improve
+Curtis's muscular power.
+Complete the following table by including resistance training protocols
+1RM) for one suitable exercise to improve Curtis's muscular power.",,9
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB1,B,Written responses,1,Q1,,MidQuestionContext,"Exercise name
+Sets
+Repetitions
+% 1RM
+Speed of
+contraction
+fast",,10
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB1,B,Written responses,1e,Q1e,4,SubQuestion,"An intermediate-interval training program undertaken in the lead up to the
+Paralympics could have improved Curtis's lactate tolerance.
+Explain how an improvement in lactate tolerance could have contributed to Curtis's
+performance in his kayak event.",,11
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB2,B,Written responses,2,Q2,12,Question,"Mick Marshall, an adaptive athlete, recently broke the world record for the fastest marathon
+on crutches with a time of 6:30.46 (hr:min.sec) at the 2024 Melbourne Marathon. After
+being a successful non-disabled ultramarathon runner, Mick transitioned to running with
+crutches after experiencing major trauma to both legs in a workplace accident.
+'Sometimes you need a big goal to keep you chipping away when things get tough,'
+Mick said in an Instagram post after breaking the world record.
+Due to copyright restrictions,
+this material is not supplied.",,12
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB2,B,Written responses,2,Q2,,QuestionHeader,Photo: Mick Marshall/Instagram,,13
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB2,B,Written responses,2a,Q2a,2,SubQuestion,"i. 	Identify the stage of learning that Mick was in when he first learnt the skill of using
+crutches to run. ",,14
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB2,B,Written responses,2b,Q2b,4,SubQuestion,"Evaluate the most appropriate practice distribution for Mick when he first learnt the
+skill of running with crutches. Refer to the stage of learning and the skill classification
+from part a.i and part a.ii in your response.",,15
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB2,B,Written responses,2c,Q2c,4,SubQuestion,"Goal setting is a psychological strategy Mick could have used when learning to run
+with crutches.
+Explain how the use of goal setting could have improved Mick's participation, skill
+development and performance in the marathon. ",,16
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB2,B,Written responses,2d,Q2d,2,SubQuestion,"Describe a nutritional strategy that Mick could have used during the marathon to delay
+fatigue for this event.",,17
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB3,B,Written responses,3,Q3,20,Question,"Fifteen male lacrosse players competing in a national championship were monitored
+during an 80-minute match (played in quarters) using global positioning system (GPS)
+monitors. The table below shows the movement patterns and average playing time
+by position.",,18
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB3,B,Written responses,3,Q3,,QuestionHeader,"Activity analysis data
+Midfield
+Attack
+Defence",,19
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB3,B,Written responses,3,Q3,,Question,"playing time (min)
+walk
+jog
+run
+sprint
+Data: Adapted from C Polley, S Cormack, T Gabbett and T Polglaze, 'Activity profile of high-level Australian lacrosse players',
+The Journal of Strength and Conditioning Research,<www.researchgate.net>",,20
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB3,B,Written responses,3a,Q3a,2,SubQuestion,Explain the purpose of an activity analysis for a coach. ,,21
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB3,B,Written responses,3b,Q3b,2,SubQuestion,"Identify an additional type of data, apart from that provided in the table on page 12,
+and outline how this could be used as part of a coach's activity analysis.",,22
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB3,B,Written responses,3c,Q3c,6,SubQuestion,"With reference to the data in the table on page 12, analyse the relationship between
+the energy systems used during activity and recovery for lacrosse midfielders
+and defenders. ",,23
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB3,B,Written responses,3d,Q3d,4,SubQuestion,"A lacrosse coach wanted to test the players' aerobic power and considered using
+either the Cooper 12-minute run test or the Yo-Yo intermittent recovery test.
+Cooper 12-minute run test
+Yo-Yo intermittent recovery test
+Continuously run as far as possible
+around a track for 12 minutes.
+20 m run repeated
+recovery
+Sources: Adapted from (from left) KH Cooper,
+'A means of assessing maximal oxygen intake: Correlation between field and treadmill testing',
+Jama, 203(3), 1968, pp. 201-204; J Bangsbo, FM Iaia and P Krustrup,
+Yo-Yo intermittent recovery test: A useful tool for evaluation of physical performance in intermittent sports',
+Sports Medicine, 38(1), 2008, pp. 37-51
+Evaluate the most appropriate test for the lacrosse players from a physiological
+perspective.",,24
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB3,B,Written responses,3e,Q3e,3,SubQuestion,"Based on the results of the fitness test, the coach identified a need to increase the
+VO2 max of the lacrosse players.
+Explain how an increased VO2 max would improve performance of the lacrosse players. ",,25
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB3,B,Written responses,3f,Q3f,3,SubQuestion,Explain how one respiratory adaptation could contribute to an increased VO2 max. ,,26
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB4,B,Written responses,4,Q4,16,Question,Aryna Sabalenka has one of the fastest forehand speeds in tennis.,,27
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB4,B,Written responses,4,Q4,,QuestionHeader,Source: Leonard Zhukovsky/Shutterstock.com,,28
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB4,B,Written responses,4a,Q4a,2,SubQuestion,"Aryna can use resistance training to improve her muscular strength. As a result,
+Aryna's motor unit recruitment could be enhanced.
+Explain how increased motor unit recruitment could improve Aryna's performance. ",,29
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB4,B,Written responses,4b,Q4b,2,SubQuestion,Explain how an increase in her muscular strength could increase Aryna's muscular power.,,30
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB4,B,Written responses,4c,Q4c,2,SubQuestion,"Explain how the type of muscle fibre influences the production of speed as
+fitness component. ",,31
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB4,B,Written responses,4d,Q4d,2,SubQuestion,"During the Australian Open in January 2025, Aryna is likely to have used a training
+diary to monitor and record training data.
+Name one psychological factor that Aryna could have included in her training diary
+and explain how it might have benefited her during the competition. ",,32
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB4,B,Written responses,4e,Q4e,1,SubQuestion,"Coaches should frequently adjust training programs to prevent boredom and keep the
+training enjoyable.
+State the training principle a coach is applying when they adjust a training program.",,33
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB4,B,Written responses,4f,Q4f,0,SubQuestion,"The following is an excerpt of the conditioning phase of a short-interval training
+program designed to improve Aryna's speed across the court.
+Note: Intensity is measured by rate of perceived exertion (RPE).
+Activity
+Sets
+Repetitions
+Work time and
+intensity
+Rest
+period
+Work-to-rest
+ratio
+running
+3 seconds
+RPE
+15 seconds
+running
+5 seconds
+RPE
+15 seconds",,34
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB4,B,Written responses,4i,Q4i,7,SubQuestion,Critique the effectiveness of this conditioning phase for improving Aryna's speed. ,,35
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB5,B,Written responses,5,Q5,7,Question,"A ramp shot is an innovative cricket shot where a player uses the momentum of the ball to
+deflect the ball over the top of the fielders behind them.",,36
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB5,B,Written responses,5,Q5,,QuestionHeader,"Keep head still,",,37
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB5,B,Written responses,5,Q5,,Question,"watch ball closely.
+How to play a ramp shot
+Go up with ball,
+moving from
+squatting position
+to upright.",,38
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB5,B,Written responses,5,Q5,,QuestionHeader,Present full face,,39
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB5,B,Written responses,5,Q5,,Question,of bat to bowler.,,40
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB5,B,Written responses,5,Q5,,QuestionHeader,"Angle bat,",,41
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB5,B,Written responses,5,Q5,,Question,"glance ball upwards.
+Keep arms straight.
+Source: Adapted from G Grant, 'How to play the ramp shot at home (Hot tip: Wear a helmet)',
+The Age, 27 December 2024; photo Quinn Rooney/© Getty Images Sport, reproduced with permission",,42
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB5,B,Written responses,5a,Q5a,4,SubQuestion,"i. 	The diagram above shows the characteristics of a ramp shot in cricket.
+List the stage of a qualitative movement analysis (QMA) at which a coach should
+identify the characteristics of a skill. ",,43
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB5,B,Written responses,5b,Q5b,3,SubQuestion,"Explain why the ramp shot could be more successfully performed against faster
+bowlers by referring to one relevant biomechanical principle.",,44
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB6,B,Written responses,6,Q6,6,Question,"The table below shows the women's marathon race times for different locations with
+different average temperatures.",,45
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB6,B,Written responses,6,Q6,,QuestionHeader,"Year
+Date
+Start time
+Location
+Winner
+Time",,46
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB6,B,Written responses,6,Q6,,Question,"(hr:min.
+sec)",,47
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB6,B,Written responses,6,Q6,,QuestionHeader,Average,,48
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB6,B,Written responses,6,Q6,,Question,"temperature
+during the race
+18 July",,49
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB6,B,Written responses,6,Q6,,QuestionHeader,"Eugene,
+USA
+Gotytom
+Gebreslase
+September",,50
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB6,B,Written responses,6,Q6,,Question,midnight,,51
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB6,B,Written responses,6,Q6,,QuestionHeader,"Doha,
+Qatar
+Ruth
+Chepng'etich",,52
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB6,B,Written responses,6,Q6,,Question,Data: World Athletics <https://worldathletics.org/>,,53
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB6,B,Written responses,6a,Q6a,2,SubQuestion,"In the spaces below, state whether the acute response for blood volume and body
+temperature will increase, decrease or stay the same during the Doha marathon. ",,54
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB6,B,Written responses,6b,Q6b,4,SubQuestion,"Explain the most likely reason for the difference in the marathon race time of the
+winners of the Eugene and Doha marathons by referring to the relationship of this
+reason to the related fatigue mechanisms.",,55
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB7,B,Written responses,7,Q7,7,Question,"The diagrams below show the side angles of two lawn bowlers, holding a bowl, at the start
+of the arm swing.",,56
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB7,B,Written responses,7,Q7,,QuestionHeader,"Bowler
+Bowler",,57
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB7,B,Written responses,7,Q7,,Question,"Source: Adapted from R Judson, Biomechanics of the lawn bowl delivery movement,
+2002, downloaded from <https://clearwaterlawnbowlingclub.org>
+A lawn bowler can vary the length of their arm swing to enable them to vary the distance
+travelled by the bowl while applying the same amount of force.",,58
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB7,B,Written responses,7a,Q7a,4,SubQuestion,"Compare how bowler A and bowler B use the biomechanical principle of impulse to
+vary the distance their bowl travels.",,59
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB7,B,Written responses,7b,Q7b,3,SubQuestion,"Bowler B decides to change to a lighter set of bowls. However, on using the same arm
+swing, bowler B finds that their bowl is travelling too far.
+Use Newton's second law of motion to explain why this is occurring.",,60
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,10,Question,"The modern pentathlon is a one-day event consisting of five disciplines: fencing,
+200 m freestyle swim, equestrian showjumping, shooting and running. The shooting and
+running disciplines are combined to create the laser run event.
+At senior level, the laser run alternates between five high-intensity 600 m runs and four
+precise shooting rounds, requiring athletes to manage both physical exertion and mental
+focus under fatigue. Unlike a single-event athlete, such as a 3000 m running specialist,
+modern pentathlon athletes must compete in multiple events across a single day, including
+the final event, the laser run.
+Example of elite athlete times for each run and shooting round during the laser run",,61
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,,QuestionHeader,"Segment
+Activity
+Time",,62
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,,Question,"(min:sec)
+running
+shoot
+shooting
+running
+shoot
+shooting
+running
+shoot
+shooting
+running
+shoot
+shooting
+running",,63
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,,QuestionHeader,Total,,64
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,,Question,"run
+time of laser run
+bpm
+shoot
+run
+shoot
+run
+shoot
+run
+shoot
+run
+Typical heart rate data (bpm) of an elite athlete during the laser run
+Discuss how the following concepts interrelate to produce a successful performance in the laser run for
+an elite athlete:",,65
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,,QuestionOption,"•	 psychological strategies during the race
+•	 energy system requirements
+•	 acute responses to exercise and oxygen consumption
+•	 training methods and principles",,66
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,,Question,"Extra space for responses
+Clearly number all responses in this space.
+If you use any additional Question and Answer Books to complete your responses, write your student
+number on the front cover. At the end of the examination, place the additional Question and Answer
+Books inside the front cover of the first Question and Answer Book.
+Assessment criteria for Section
+The 10-mark extended-response question in Section B will assess the interdisciplinary approach
+featured within Unit 4 Area of Study 3. For this question, students will be expected to show their
+understanding of key knowledge from across Units 3 and 4, and will be assessed based on the
+following criteria:",,67
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,,QuestionOption,"•	 analyse relevant interrelationships between skill acquisition, biomechanics, energy production and/",,68
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,,Question,or training,,69
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,,QuestionOption,"•	 analyse the impact on performance of relevant interrelationships between skill acquisition,",,70
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,,Question,"biomechanics, energy production and/or training",,71
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,,QuestionOption,"•	 synthesise, analyse and interpret relevant sources/data to draw conclusions",,72
+Health and Physical Education,PE,,,Year 12,Final Exam,Exam Questions,2025,"VCEPEU3AS1,VCEPEU3AS2,VCEPEU4AS1,VCEPEU4AS2,VCEPEU4AS3",VCEPE25ERB,VCEPE25EQB8,B,Written responses,8,Q8,,Question,Victorian Curriculum and Assessment Authority 2025,,73
