@@ -409,18 +409,24 @@ def build_strategy_rows(doc, cfg: Dict, section_key: str, section_name: str,
     base = _strategy_base(cfg, section_key, year)
     rows: List[Dict] = []
 
+    # Sequence must be unique per (section, sectionCode, subject) — the Neo4j
+    # exam_strategies MERGE key uses it to deduplicate. Increment globally
+    # across every row this section emits (not per question).
+    seq_counter = 0
+
     if section_type == 'multiple_choice':
         for mc in _extract_mc_table(doc):
+            seq_counter += 1
             row = dict(base)
             row.update({
                 'EQCode': f"{er_code}Q{mc['q']}",
                 'SectionCode': er_code,
                 'StrategyType': 'ExaminerCommentary',
-                'ExamQuestion': mc['q'],
+                'ExamQuestion': f"Question {mc['q']}",
                 'ResponseSource': f"Correct answer: {mc['correct']}" if mc['correct'] else '',
                 'Content': mc['comment'],
                 'Example': '',
-                'Sequence': 1,
+                'Sequence': seq_counter,
             })
             rows.append(row)
         return rows
@@ -459,20 +465,19 @@ def build_strategy_rows(doc, cfg: Dict, section_key: str, section_name: str,
             else:
                 grouped.append((label, [para]))
 
-        seq = 0
         for label, paras_chunk in grouped:
-            seq += 1
+            seq_counter += 1
             joined = '\n'.join(paras_chunk)
             row = dict(base)
             row.update({
                 'EQCode': f"{er_code}Q{q_label}",
                 'SectionCode': er_code,
                 'StrategyType': label,
-                'ExamQuestion': q_label,
+                'ExamQuestion': f"Question {q_label}",
                 'ResponseSource': '',
                 'Content': joined if label != 'StudentResponse' else '',
                 'Example': joined if label == 'StudentResponse' else '',
-                'Sequence': seq,
+                'Sequence': seq_counter,
             })
             rows.append(row)
     return rows
