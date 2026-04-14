@@ -430,19 +430,27 @@ def build_strategy_rows(doc, cfg: Dict, section_key: str, section_name: str,
         # Special rule: when a colon-terminated paragraph ("Common issues
         # included:") is followed by bullets, the bullets inherit the intro's
         # classification until a non-bullet paragraph breaks the run.
+        # Classification with inheritance:
+        # - A paragraph with its own strong signal (Enhanced / Limited /
+        #   StudentResponse) claims its label.
+        # - If that paragraph ends with ":" it arms inheritance — subsequent
+        #   paragraphs that don't carry their own strong signal (i.e. fall
+        #   back to ExaminerCommentary) adopt the inherited label. This keeps
+        #   "Common issues included:" + its bullets together, and the
+        #   "The following is an example of..." intro together with the
+        #   indented student-response body that follows.
         labelled: List[Tuple[str, str]] = []
         inherited: Optional[str] = None
-        for text, is_bullet in body:
+        for text, _is_bullet in body:
             own_label = classify(text)
             if own_label != 'ExaminerCommentary':
                 labelled.append((own_label, text))
                 inherited = own_label if text.rstrip().endswith(':') else None
-            elif inherited and is_bullet:
+            elif inherited:
                 labelled.append((inherited, text))
+                # Inheritance stays armed until a new strong signal fires.
             else:
                 labelled.append((own_label, text))
-                if not is_bullet:
-                    inherited = None
 
         grouped: List[Tuple[str, List[str]]] = []
         for label, para in labelled:
