@@ -301,7 +301,7 @@ def make_unit_as_code(subject_code: str, unit_num: int, outcome_num: Optional[in
 def build_unit_outcomes(outcomes_data: List[Dict]) -> Dict[str, List[tuple]]:
     """Build ordered outcome sequence per unit from the curriculum outcomes CSV.
 
-    Returns: {"Unit 1": [(UnitASCode, AreaofStudy, OutcomeLabel), ...], ...}
+    Returns: {"Unit 1": [(UnitASCode, AreaofStudy, OutcomeLabel, UnitDescription), ...], ...}
     The list is in the order outcomes appear in the CSV (AoS 1 first, etc.).
     """
     unit_outcomes = {}
@@ -310,14 +310,24 @@ def build_unit_outcomes(outcomes_data: List[Dict]) -> Dict[str, List[tuple]]:
         code = row.get('UnitASCode', '')
         aos = row.get('AreaofStudy', '')
         outcome = row.get('Outcome', '')
+        unit_description = row.get('UnitDescription', '')
         if not unit or not code:
             continue
         if unit not in unit_outcomes:
             unit_outcomes[unit] = []
         # Only add first occurrence per UnitASCode (avoid duplicates from KK/KS rows)
         if not any(entry[0] == code for entry in unit_outcomes[unit]):
-            unit_outcomes[unit].append((code, aos, outcome))
+            unit_outcomes[unit].append((code, aos, outcome, unit_description))
     return unit_outcomes
+
+
+def _unit_description_for(unit_outcomes: Dict[str, List[tuple]], unit_label: str) -> str:
+    """Return the UnitDescription for a Unit label (e.g. 'Unit 1')."""
+    entries = unit_outcomes.get(unit_label) or []
+    for entry in entries:
+        if len(entry) >= 4 and entry[3]:
+            return entry[3]
+    return ''
 
 
 def parse_outcome_examples(doc: Document, config: Dict, unit_outcomes: Dict[str, List[tuple]]) -> List[Dict]:
@@ -340,6 +350,7 @@ def parse_outcome_examples(doc: Document, config: Dict, unit_outcomes: Dict[str,
     current_unit_as_code = None
     current_outcome_label = None
     current_aos = ''
+    current_unit_description = ''
     outcome_list = []           # Ordered outcomes for current unit
     outcome_index = 0           # Position in outcome_list
     in_detailed_example = False
@@ -361,6 +372,7 @@ def parse_outcome_examples(doc: Document, config: Dict, unit_outcomes: Dict[str,
             'SubjectStreamName': subject_stream_name,
             'Band': band,
             'Unit': unit_label,
+            'UnitDescription': current_unit_description,
             'UnitASCode': current_unit_as_code or '',
             'AreaofStudy': current_aos,
             'Outcome': current_outcome_label or '',
@@ -391,6 +403,7 @@ def parse_outcome_examples(doc: Document, config: Dict, unit_outcomes: Dict[str,
             current_unit_as_code = make_unit_as_code(subject_code, current_unit_num, None)
             current_outcome_label = None
             current_aos = ''
+            current_unit_description = _unit_description_for(unit_outcomes, unit_label)
             in_detailed_example = False
             found_detailed_title = False
             expecting_outcome_desc = False
@@ -407,7 +420,10 @@ def parse_outcome_examples(doc: Document, config: Dict, unit_outcomes: Dict[str,
         if outcome_match and ('Heading 4' in style or style in ('Normal', 'Body Text')):
             if current_unit_num is not None:
                 if outcome_index < len(outcome_list):
-                    code, aos, label = outcome_list[outcome_index]
+                    # unit_outcomes entries are 4-tuples (code, aos, label,
+                    # unit_description); older configs may still emit 3-tuples.
+                    entry = outcome_list[outcome_index]
+                    code, aos, label = entry[0], entry[1], entry[2]
                     current_unit_as_code = code
                     current_aos = aos
                     current_outcome_label = label
@@ -487,6 +503,7 @@ def parse_outcome_examples(doc: Document, config: Dict, unit_outcomes: Dict[str,
             'SubjectStreamName': subject_stream_name,
             'Band': band,
             'Unit': unit_label,
+            'UnitDescription': current_unit_description,
             'UnitASCode': current_unit_as_code,
             'AreaofStudy': current_aos,
             'Outcome': current_outcome_label or '',
@@ -515,7 +532,7 @@ def write_csv(examples_data: List[Dict], config: Dict, doc_url: str = ''):
 
     fieldnames = [
         'SubjectArea', 'Subject', 'SubjectStreamCode', 'SubjectStreamName',
-        'Band', 'Unit', 'UnitASCode', 'AreaofStudy',
+        'Band', 'Unit', 'UnitDescription', 'UnitASCode', 'AreaofStudy',
         'Outcome', 'OutcomeCode', 'ExampleType', 'ContentType', 'ExampleText',
         'ParentText', 'URLTitle', 'URL', 'Sequence'
     ]
@@ -537,6 +554,7 @@ def write_csv(examples_data: List[Dict], config: Dict, doc_url: str = ''):
         'SubjectStreamName': config.get('subject_stream_name', ''),
         'Band': '',
         'Unit': '',
+        'UnitDescription': '',
         'UnitASCode': config.get('all_unit_as_codes', ''),
         'AreaofStudy': '',
         'Outcome': '',
